@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 210
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ollo"
+		dynasty = "Hayford"
+		birth_date = 950.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Wat"
+		monarch_name = "Wat"
+		dynasty = "Hayford"
+		birth_date = 995.1.1
+		death_date = 1022.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Garrett"
+		dynasty = "Hayford"
+		birth_date = 943.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Harghaz"
+		monarch_name = "Harghaz"
+		dynasty = "Hayford"
+		birth_date = 1007.1.1
+		death_date = 1087.1.1
+		claim = 90
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1057.1.1 = {
+
+	monarch = {
+		name = "Hop-Robin"
+		dynasty = "Hayford"
+		birth_date = 986.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Alyx"
+		monarch_name = "Alyx"
+		dynasty = "Hayford"
+		birth_date = 1034.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Gendry"
+		dynasty = "Hayford"
+		birth_date = 1055.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Hobber"
+		monarch_name = "Hobber"
+		dynasty = "Hayford"
+		birth_date = 1138.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Orton"
+		dynasty = "Hayford"
+		birth_date = 1086.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Kennos"
+		monarch_name = "Kennos"
+		dynasty = "Hayford"
+		birth_date = 1151.1.1
+		death_date = 1192.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Dennet"
+		dynasty = "Hayford"
+		birth_date = 1120.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Torren"
+		monarch_name = "Torren"
+		dynasty = "Hayford"
+		birth_date = 1182.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Archibald"
+		dynasty = "Hayford"
+		birth_date = 1176.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Symon"
+		monarch_name = "Symon"
+		dynasty = "Hayford"
+		birth_date = 1205.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1294.1.1 = {
+
+	monarch = {
+		name = "Lucimore"
+		dynasty = "Hayford"
+		birth_date = 1220.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Lyman"
+		monarch_name = "Lyman"
+		dynasty = "Hayford"
+		birth_date = 1270.1.1
+		death_date = 1383.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Tothmure"
+		dynasty = "Hayford"
+		birth_date = 1213.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Luthor"
+		monarch_name = "Luthor"
+		dynasty = "Hayford"
+		birth_date = 1292.1.1
+		death_date = 1381.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Rossart"
+		dynasty = "Hayford"
+		birth_date = 1324.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jonos"
+		monarch_name = "Jonos"
+		dynasty = "Hayford"
+		birth_date = 1338.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+

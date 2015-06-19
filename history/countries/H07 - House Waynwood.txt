@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 142
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Stiv"
+		dynasty = "Waynwood"
+		birth_date = 941.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Harry"
+		monarch_name = "Harry"
+		dynasty = "Waynwood"
+		birth_date = 987.1.1
+		death_date = 1064.1.1
+		claim = 32
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1012.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Waynwood"
+		birth_date = 976.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jeffory"
+		monarch_name = "Jeffory"
+		dynasty = "Waynwood"
+		birth_date = 988.1.1
+		death_date = 1048.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Waynwood"
+		birth_date = 1043.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Creighton"
+		monarch_name = "Creighton"
+		dynasty = "Waynwood"
+		birth_date = 1051.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Amarei"
+		dynasty = "Waynwood"
+		birth_date = 1085.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Andar"
+		monarch_name = "Andar"
+		dynasty = "Waynwood"
+		birth_date = 1122.1.1
+		death_date = 1169.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Jafer"
+		dynasty = "Waynwood"
+		birth_date = 1104.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Myrielle"
+		monarch_name = "Myrielle"
+		dynasty = "Waynwood"
+		female = yes
+		birth_date = 1176.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Forley"
+		dynasty = "Waynwood"
+		birth_date = 1138.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Rolland"
+		monarch_name = "Rolland"
+		dynasty = "Waynwood"
+		birth_date = 1164.1.1
+		death_date = 1234.1.1
+		claim = 69
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Egon"
+		dynasty = "Waynwood"
+		birth_date = 1168.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Helya"
+		monarch_name = "Helya"
+		dynasty = "Waynwood"
+		female = yes
+		birth_date = 1182.1.1
+		death_date = 1294.1.1
+		claim = 91
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Pree"
+		dynasty = "Waynwood"
+		birth_date = 1214.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Waynwood"
+		birth_date = 1216.1.1
+		death_date = 1291.1.1
+		claim = 38
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Bradamar"
+		dynasty = "Waynwood"
+		birth_date = 1243.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Mortimer"
+		monarch_name = "Mortimer"
+		dynasty = "Waynwood"
+		birth_date = 1262.1.1
+		death_date = 1351.1.1
+		claim = 20
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1352.1.1 = {
+
+	monarch = {
+		name = "Lewis"
+		dynasty = "Waynwood"
+		birth_date = 1336.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Pyke"
+		monarch_name = "Pyke"
+		dynasty = "Waynwood"
+		birth_date = 1330.1.1
+		death_date = 1379.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+

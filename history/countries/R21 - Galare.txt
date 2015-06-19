@@ -1,0 +1,162 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = meereen
+religion = asoiaf_graces
+
+capital = 608
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Pearse"
+		dynasty = "Galare"
+		birth_date = 938.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Gilbert"
+		monarch_name = "Gilbert"
+		dynasty = "Galare"
+		birth_date = 970.1.1
+		death_date = 1053.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Lamprey"
+		dynasty = "Galare"
+		birth_date = 1032.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Bradamar"
+		monarch_name = "Bradamar"
+		dynasty = "Galare"
+		birth_date = 1061.1.1
+		death_date = 1127.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1158.1.1 = {
+	monarch = {
+		name = "Meg"
+		dynasty = "Galare"
+		female = yes
+		birth_date = 1078.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Areo"
+		monarch_name = "Areo"
+		dynasty = "Galare"
+		birth_date = 1151.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Rymolf"
+		dynasty = "Galare"
+		birth_date = 1195.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Rolph"
+		monarch_name = "Rolph"
+		dynasty = "Galare"
+		birth_date = 1216.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Hoster"
+		dynasty = "Galare"
+		birth_date = 1306.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Alfyn"
+		monarch_name = "Alfyn"
+		dynasty = "Galare"
+		birth_date = 1315.1.1
+		death_date = 1402.1.1
+		claim = 86
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Roger"
+		dynasty = "Galare"
+		birth_date = 1317.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Glendon"
+		monarch_name = "Glendon"
+		dynasty = "Galare"
+		birth_date = 1362.1.1
+		death_date = 1476.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,10 @@
+# Trebuchet
+type = artillery
+
+maneuver = 1
+offensive_morale = 8
+defensive_morale = 8
+offensive_fire = 12
+defensive_fire = 12
+offensive_shock = 8
+defensive_shock = 8

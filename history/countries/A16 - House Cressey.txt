@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 201
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rhaegar"
+		dynasty = "Cressey"
+		birth_date = 943.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ordello"
+		monarch_name = "Ordello"
+		dynasty = "Cressey"
+		birth_date = 978.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Torrek"
+		dynasty = "Cressey"
+		birth_date = 991.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Anvil"
+		monarch_name = "Anvil"
+		dynasty = "Cressey"
+		birth_date = 985.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Herbert"
+		dynasty = "Cressey"
+		birth_date = 980.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Tybero"
+		monarch_name = "Tybero"
+		dynasty = "Cressey"
+		birth_date = 1051.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Armond"
+		dynasty = "Cressey"
+		birth_date = 997.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Beqqo"
+		monarch_name = "Beqqo"
+		dynasty = "Cressey"
+		birth_date = 1059.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Moryn"
+		dynasty = "Cressey"
+		birth_date = 1067.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Mawney"
+		monarch_name = "Mawney"
+		dynasty = "Cressey"
+		birth_date = 1111.1.1
+		death_date = 1204.1.1
+		claim = 4
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Lenyl"
+		dynasty = "Cressey"
+		birth_date = 1108.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Cressey"
+		birth_date = 1150.1.1
+		death_date = 1246.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Cressey"
+		birth_date = 1148.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Cressey"
+		birth_date = 1202.1.1
+		death_date = 1272.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Otter"
+		dynasty = "Cressey"
+		birth_date = 1224.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Garin"
+		monarch_name = "Garin"
+		dynasty = "Cressey"
+		birth_date = 1268.1.1
+		death_date = 1348.1.1
+		claim = 82
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1310.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Cressey"
+		birth_date = 1230.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Cutjack"
+		monarch_name = "Cutjack"
+		dynasty = "Cressey"
+		birth_date = 1293.1.1
+		death_date = 1392.1.1
+		claim = 27
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Cressey"
+		birth_date = 1243.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Beric"
+		monarch_name = "Beric"
+		dynasty = "Cressey"
+		birth_date = 1303.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1393.1.1 = {
+
+	monarch = {
+		name = "Yorkel"
+		dynasty = "Cressey"
+		birth_date = 1341.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Eddard"
+		monarch_name = "Eddard"
+		dynasty = "Cressey"
+		birth_date = 1367.1.1
+		death_date = 1483.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+

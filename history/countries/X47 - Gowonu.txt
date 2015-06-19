@@ -1,0 +1,337 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = gowonu
+religion = asoiaf_summer_gods
+
+capital = 529
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Gowonu"
+		birth_date = 931.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Gylbert"
+		monarch_name = "Gylbert"
+		dynasty = "Gowonu"
+		birth_date = 988.1.1
+		death_date = 1050.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Gowonu"
+		birth_date = 1016.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Gowonu"
+		birth_date = 1054.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Lann"
+		dynasty = "Gowonu"
+		birth_date = 1005.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Emmond"
+		monarch_name = "Emmond"
+		dynasty = "Gowonu"
+		birth_date = 1057.1.1
+		death_date = 1163.1.1
+		claim = 7
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Raymond"
+		dynasty = "Gowonu"
+		birth_date = 1062.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Aegon"
+		monarch_name = "Aegon"
+		dynasty = "Gowonu"
+		birth_date = 1093.1.1
+		death_date = 1198.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Maegelle"
+		dynasty = "Gowonu"
+		birth_date = 1068.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Frenken"
+		monarch_name = "Frenken"
+		dynasty = "Gowonu"
+		birth_date = 1147.1.1
+		death_date = 1202.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Wex"
+		dynasty = "Gowonu"
+		birth_date = 1169.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Andar"
+		monarch_name = "Andar"
+		dynasty = "Gowonu"
+		birth_date = 1166.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Gowonu"
+		birth_date = 1184.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Harmen"
+		monarch_name = "Harmen"
+		dynasty = "Gowonu"
+		birth_date = 1224.1.1
+		death_date = 1244.1.1
+		claim = 88
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Kromm"
+		dynasty = "Gowonu"
+		birth_date = 1173.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Erreg"
+		monarch_name = "Erreg"
+		dynasty = "Gowonu"
+		birth_date = 1230.1.1
+		death_date = 1283.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Frelegg"
+		dynasty = "Gowonu"
+		birth_date = 1186.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Varly"
+		monarch_name = "Varly"
+		dynasty = "Gowonu"
+		birth_date = 1242.1.1
+		death_date = 1278.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Justin"
+		dynasty = "Gowonu"
+		birth_date = 1232.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Munda"
+		monarch_name = "Munda"
+		dynasty = "Gowonu"
+		female = yes
+		birth_date = 1265.1.1
+		death_date = 1351.1.1
+		claim = 75
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Gowonu"
+		birth_date = 1257.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Eyron"
+		monarch_name = "Eyron"
+		dynasty = "Gowonu"
+		birth_date = 1290.1.1
+		death_date = 1345.1.1
+		claim = 59
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Plummer"
+		dynasty = "Gowonu"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Urreg"
+		monarch_name = "Urreg"
+		dynasty = "Gowonu"
+		birth_date = 1329.1.1
+		death_date = 1397.1.1
+		claim = 31
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Lancel"
+		dynasty = "Gowonu"
+		birth_date = 1289.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Bharbo"
+		monarch_name = "Bharbo"
+		dynasty = "Gowonu"
+		birth_date = 1362.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+

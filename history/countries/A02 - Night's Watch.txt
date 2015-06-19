@@ -1,0 +1,114 @@
+
+government_rank = 1
+government = nw_government
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_mixed_worship
+
+capital = 17
+
+historical_friend = A01
+historical_rival = U89
+historical_rival = U90
+historical_rival = U91
+historical_rival = U96
+historical_rival = U92
+historical_rival = U93
+historical_rival = U97
+historical_rival = U99
+historical_rival = U98
+historical_rival = Q04
+historical_rival = Q05
+historical_rival = U94
+historical_rival = U95
+historical_rival = Q06
+
+1000.1.1 = {
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Hoare"
+		birth_date = 950.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Petyr"
+		dynasty = "Arryn"
+		birth_date = 1010.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Marq"
+		dynasty = "Rankenfell"
+		birth_date = 1091.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+}
+
+# The Conquest of Dorne
+1157.1.1 = {
+	monarch = {
+		name = "Tristan"
+		dynasty = "Mudd"
+		birth_date = 1123.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+# Blackfyre Rebellion
+
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Robin"
+		dynasty = "Reyne"
+		birth_date = 1237.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+}
+
+# Robert's Rebellion
+1281.1.1 = {
+	monarch = {
+		name = "Jantos"
+		dynasty = "Qorgyle"
+		birth_date = 1231.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+# Greyjoy Rebellion
+
+# A Clash of Kings
+1298.1.1 = {
+	monarch = {
+		name = "Jeor"
+		dynasty = "Mormont"
+		birth_date = 1230.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}

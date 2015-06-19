@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 44
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Barba"
+		dynasty = "Tallhart"
+		birth_date = 975.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Meha"
+		monarch_name = "Meha"
+		dynasty = "Tallhart"
+		birth_date = 996.1.1
+		death_date = 1028.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Tallhart"
+		birth_date = 1071.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jothos"
+		monarch_name = "Jothos"
+		dynasty = "Tallhart"
+		birth_date = 1078.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Ronel"
+		dynasty = "Tallhart"
+		birth_date = 1044.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Theodan"
+		monarch_name = "Theodan"
+		dynasty = "Tallhart"
+		birth_date = 1102.1.1
+		death_date = 1192.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Gulian"
+		dynasty = "Tallhart"
+		birth_date = 1174.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Dale"
+		monarch_name = "Dale"
+		dynasty = "Tallhart"
+		birth_date = 1189.1.1
+		death_date = 1235.1.1
+		claim = 27
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Uthor"
+		dynasty = "Tallhart"
+		birth_date = 1245.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Cetheres"
+		monarch_name = "Cetheres"
+		dynasty = "Tallhart"
+		birth_date = 1266.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1354.1.1 = {
+
+	monarch = {
+		name = "Timoth"
+		dynasty = "Tallhart"
+		birth_date = 1318.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Lorren"
+		monarch_name = "Lorren"
+		dynasty = "Tallhart"
+		birth_date = 1354.1.1
+		death_date = 1441.1.1
+		claim = 51
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,32 @@
+name = "Conquest of Dorne"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1157.1.1 = {
+	add_attacker = A10
+	add_attacker = A01
+	add_attacker = A03
+	add_attacker = A04
+	add_attacker = A07
+	add_attacker = E09
+	add_attacker = A06
+	add_attacker = F20
+	
+	add_defender = A09
+}
+
+1196.1.1 = {
+	rem_attacker = A10
+	rem_attacker = A01
+	rem_attacker = A03
+	rem_attacker = A04
+	rem_attacker = A07
+	rem_attacker = E09
+	rem_attacker = A06
+	rem_attacker = F20
+	
+	rem_defender = A09
+}

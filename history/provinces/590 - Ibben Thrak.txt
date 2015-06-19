@@ -1,0 +1,33 @@
+# 590 - Ibben Thrak
+
+add_core = R01
+owner = R01
+controller = R01
+
+base_tax = 8
+base_production = 8
+trade_goods = fish
+base_manpower =  6
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+culture = ibbenese
+religion = asoiaf_gods_of_ibben
+
+
+capital = "Ibben Thrak"

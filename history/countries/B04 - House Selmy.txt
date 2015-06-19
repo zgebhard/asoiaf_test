@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 300
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daeron"
+		dynasty = "Selmy"
+		birth_date = 972.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Sloey"
+		monarch_name = "Sloey"
+		dynasty = "Selmy"
+		birth_date = 998.1.1
+		death_date = 1033.1.1
+		claim = 20
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Elyas"
+		dynasty = "Selmy"
+		birth_date = 1016.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Mord"
+		monarch_name = "Mord"
+		dynasty = "Selmy"
+		birth_date = 1026.1.1
+		death_date = 1077.1.1
+		claim = 63
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1067.1.1 = {
+	monarch = {
+		name = "Shireen"
+		dynasty = "Selmy"
+		female = yes
+		birth_date = 1037.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Selmy"
+		birth_date = 1038.1.1
+		death_date = 1082.1.1
+		claim = 11
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Selmy"
+		birth_date = 996.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Bennet"
+		monarch_name = "Bennet"
+		dynasty = "Selmy"
+		birth_date = 1080.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Perros"
+		dynasty = "Selmy"
+		birth_date = 1034.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Selmy"
+		birth_date = 1088.1.1
+		death_date = 1195.1.1
+		claim = 56
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Selmy"
+		birth_date = 1092.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Oro"
+		monarch_name = "Oro"
+		dynasty = "Selmy"
+		birth_date = 1135.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Sargon"
+		dynasty = "Selmy"
+		birth_date = 1154.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Oro"
+		monarch_name = "Oro"
+		dynasty = "Selmy"
+		birth_date = 1187.1.1
+		death_date = 1234.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1227.1.1 = {
+
+	monarch = {
+		name = "Sawane"
+		dynasty = "Selmy"
+		birth_date = 1185.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Donyse"
+		monarch_name = "Donyse"
+		dynasty = "Selmy"
+		birth_date = 1226.1.1
+		death_date = 1253.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Stannis"
+		dynasty = "Selmy"
+		birth_date = 1261.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Wendamyr"
+		monarch_name = "Wendamyr"
+		dynasty = "Selmy"
+		birth_date = 1271.1.1
+		death_date = 1340.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Selmy"
+		birth_date = 1324.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Tagganaro"
+		monarch_name = "Tagganaro"
+		dynasty = "Selmy"
+		birth_date = 1353.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+

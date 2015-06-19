@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = farosi
+religion = asoiaf_stone_cow_of_faros
+
+capital = 719
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Morosh"
+		dynasty = "Faruud"
+		birth_date = 954.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Faruud"
+		birth_date = 976.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Faruud"
+		birth_date = 1000.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Humfrey"
+		monarch_name = "Humfrey"
+		dynasty = "Faruud"
+		birth_date = 1008.1.1
+		death_date = 1116.1.1
+		claim = 99
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Faruud"
+		birth_date = 1024.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Cressen"
+		monarch_name = "Cressen"
+		dynasty = "Faruud"
+		birth_date = 1058.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Grigg"
+		dynasty = "Faruud"
+		birth_date = 1077.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Ossifer"
+		monarch_name = "Ossifer"
+		dynasty = "Faruud"
+		birth_date = 1086.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Kedry"
+		dynasty = "Faruud"
+		birth_date = 1085.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Ragnor"
+		monarch_name = "Ragnor"
+		dynasty = "Faruud"
+		birth_date = 1158.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Anguy"
+		dynasty = "Faruud"
+		birth_date = 1189.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Edric"
+		monarch_name = "Edric"
+		dynasty = "Faruud"
+		birth_date = 1231.1.1
+		death_date = 1314.1.1
+		claim = 1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1282.1.1 = {
+
+	monarch = {
+		name = "Gwayne"
+		dynasty = "Faruud"
+		birth_date = 1247.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Doran"
+		monarch_name = "Doran"
+		dynasty = "Faruud"
+		birth_date = 1267.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Nymos"
+		dynasty = "Faruud"
+		birth_date = 1325.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Orton"
+		monarch_name = "Orton"
+		dynasty = "Faruud"
+		birth_date = 1355.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+

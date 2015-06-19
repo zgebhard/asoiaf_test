@@ -1,0 +1,47 @@
+# 506 - Naked Forest
+
+add_core = X23
+add_core = X25
+owner = X23
+controller = X23
+
+culture = mo
+religion = asoiaf_summer_gods
+
+
+base_tax = 2
+base_production = 2
+trade_goods = fish
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Naked Forest"
+
+1000.2.1 = {
+	remove_core = X23
+	owner = X25
+	controller = X25
+}
+
+1000.2.2 = {
+	owner = X23
+	add_core = X23
+	controller = X23
+}

@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 319
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gillam"
+		dynasty = "Tudburg"
+		birth_date = 974.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Timoth"
+		monarch_name = "Timoth"
+		dynasty = "Tudburg"
+		birth_date = 992.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1004.1.1 = {
+
+	monarch = {
+		name = "Perriane"
+		dynasty = "Tudburg"
+		birth_date = 957.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Edmyn"
+		monarch_name = "Edmyn"
+		dynasty = "Tudburg"
+		birth_date = 987.1.1
+		death_date = 1039.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Tommard"
+		dynasty = "Tudburg"
+		birth_date = 1047.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Randyll"
+		monarch_name = "Randyll"
+		dynasty = "Tudburg"
+		birth_date = 1048.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Del"
+		dynasty = "Tudburg"
+		birth_date = 1063.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Tyana"
+		monarch_name = "Tyana"
+		dynasty = "Tudburg"
+		female = yes
+		birth_date = 1104.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Alannys"
+		dynasty = "Tudburg"
+		birth_date = 1084.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Quent"
+		monarch_name = "Quent"
+		dynasty = "Tudburg"
+		birth_date = 1137.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Goghor"
+		dynasty = "Tudburg"
+		birth_date = 1123.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Aethan"
+		monarch_name = "Aethan"
+		dynasty = "Tudburg"
+		birth_date = 1182.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Ballabar"
+		dynasty = "Tudburg"
+		birth_date = 1174.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Oro"
+		monarch_name = "Oro"
+		dynasty = "Tudburg"
+		birth_date = 1210.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Visenya"
+		dynasty = "Tudburg"
+		birth_date = 1243.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Tudburg"
+		birth_date = 1248.1.1
+		death_date = 1352.1.1
+		claim = 12
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Varly"
+		dynasty = "Tudburg"
+		birth_date = 1241.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Tudburg"
+		birth_date = 1300.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 240
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Zollo"
+		dynasty = "Stackhouse"
+		birth_date = 953.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Lommy"
+		monarch_name = "Lommy"
+		dynasty = "Stackhouse"
+		birth_date = 990.1.1
+		death_date = 1026.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Barristan"
+		dynasty = "Stackhouse"
+		birth_date = 1058.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Lymond"
+		monarch_name = "Lymond"
+		dynasty = "Stackhouse"
+		birth_date = 1061.1.1
+		death_date = 1128.1.1
+		claim = 65
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Donal"
+		dynasty = "Stackhouse"
+		birth_date = 1125.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Pyke"
+		monarch_name = "Pyke"
+		dynasty = "Stackhouse"
+		birth_date = 1155.1.1
+		death_date = 1205.1.1
+		claim = 75
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Alebelly"
+		dynasty = "Stackhouse"
+		birth_date = 1131.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Jason"
+		monarch_name = "Jason"
+		dynasty = "Stackhouse"
+		birth_date = 1178.1.1
+		death_date = 1262.1.1
+		claim = 12
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Baelor"
+		dynasty = "Stackhouse"
+		birth_date = 1239.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Elron"
+		monarch_name = "Elron"
+		dynasty = "Stackhouse"
+		birth_date = 1248.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Stackhouse"
+		birth_date = 1275.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Stackhouse"
+		birth_date = 1304.1.1
+		death_date = 1351.1.1
+		claim = 44
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+

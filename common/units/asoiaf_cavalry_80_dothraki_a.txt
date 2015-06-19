@@ -1,0 +1,11 @@
+#Cavalry 80 A 
+type = cavalry
+unit_type = dothraki
+
+maneuver = 2 
+offensive_morale = 11 
+defensive_morale = 10 
+offensive_fire = 8 
+defensive_fire = 8 
+offensive_shock = 12 
+defensive_shock = 11 

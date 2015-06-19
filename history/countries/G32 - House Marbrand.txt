@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 173
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Marbrand"
+		birth_date = 916.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lyle"
+		monarch_name = "Lyle"
+		dynasty = "Marbrand"
+		birth_date = 985.1.1
+		death_date = 1059.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1005.1.1 = {
+
+	monarch = {
+		name = "Eglantine"
+		dynasty = "Marbrand"
+		birth_date = 939.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Andrey"
+		monarch_name = "Andrey"
+		dynasty = "Marbrand"
+		birth_date = 983.1.1
+		death_date = 1024.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1018.1.1 = {
+
+	monarch = {
+		name = "Jhogo"
+		dynasty = "Marbrand"
+		birth_date = 936.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Horas"
+		monarch_name = "Horas"
+		dynasty = "Marbrand"
+		birth_date = 993.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1023.1.1 = {
+
+	monarch = {
+		name = "Alester"
+		dynasty = "Marbrand"
+		birth_date = 961.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Coratt"
+		monarch_name = "Coratt"
+		dynasty = "Marbrand"
+		birth_date = 994.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Gage"
+		dynasty = "Marbrand"
+		birth_date = 1008.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Dale"
+		monarch_name = "Dale"
+		dynasty = "Marbrand"
+		birth_date = 1026.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1045.1.1 = {
+
+	monarch = {
+		name = "Togg"
+		dynasty = "Marbrand"
+		birth_date = 989.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Beron"
+		monarch_name = "Beron"
+		dynasty = "Marbrand"
+		birth_date = 1045.1.1
+		death_date = 1085.1.1
+		claim = 77
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Marbrand"
+		birth_date = 1004.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Quaro"
+		monarch_name = "Quaro"
+		dynasty = "Marbrand"
+		birth_date = 1073.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Armond"
+		dynasty = "Marbrand"
+		birth_date = 1074.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Wat"
+		monarch_name = "Wat"
+		dynasty = "Marbrand"
+		birth_date = 1094.1.1
+		death_date = 1118.1.1
+		claim = 41
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Uthor"
+		dynasty = "Marbrand"
+		birth_date = 1107.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Torwold"
+		monarch_name = "Torwold"
+		dynasty = "Marbrand"
+		birth_date = 1130.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Symon"
+		dynasty = "Marbrand"
+		birth_date = 1156.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Egon"
+		monarch_name = "Egon"
+		dynasty = "Marbrand"
+		birth_date = 1183.1.1
+		death_date = 1244.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Ormond"
+		dynasty = "Marbrand"
+		birth_date = 1208.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Wyl"
+		monarch_name = "Wyl"
+		dynasty = "Marbrand"
+		birth_date = 1222.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Marbrand"
+		birth_date = 1179.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Marbrand"
+		birth_date = 1215.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Barsena"
+		dynasty = "Marbrand"
+		birth_date = 1213.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Cassa"
+		monarch_name = "Cassa"
+		dynasty = "Marbrand"
+		birth_date = 1262.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Marbrand"
+		birth_date = 1253.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Norjen"
+		monarch_name = "Norjen"
+		dynasty = "Marbrand"
+		birth_date = 1340.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+

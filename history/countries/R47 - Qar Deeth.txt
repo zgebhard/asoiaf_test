@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 664
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Deeth"
+		birth_date = 966.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Rhea"
+		monarch_name = "Rhea"
+		dynasty = "Deeth"
+		female = yes
+		birth_date = 992.1.1
+		death_date = 1056.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Cadwyn"
+		dynasty = "Deeth"
+		birth_date = 1014.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Jonos"
+		monarch_name = "Jonos"
+		dynasty = "Deeth"
+		birth_date = 1059.1.1
+		death_date = 1138.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Andrey"
+		dynasty = "Deeth"
+		birth_date = 1104.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Baelor"
+		monarch_name = "Baelor"
+		dynasty = "Deeth"
+		birth_date = 1133.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Luthor"
+		dynasty = "Deeth"
+		birth_date = 1212.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Arneld"
+		monarch_name = "Arneld"
+		dynasty = "Deeth"
+		birth_date = 1214.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Amolf"
+		dynasty = "Deeth"
+		birth_date = 1259.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Denestan"
+		monarch_name = "Denestan"
+		dynasty = "Deeth"
+		birth_date = 1285.1.1
+		death_date = 1325.1.1
+		claim = 50
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1303.1.1 = {
+
+	monarch = {
+		name = "Moredo"
+		dynasty = "Deeth"
+		birth_date = 1250.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Euron"
+		monarch_name = "Euron"
+		dynasty = "Deeth"
+		birth_date = 1276.1.1
+		death_date = 1346.1.1
+		claim = 40
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Matthar"
+		dynasty = "Deeth"
+		birth_date = 1290.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Aethan"
+		monarch_name = "Aethan"
+		dynasty = "Deeth"
+		birth_date = 1313.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+

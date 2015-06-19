@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = biabuka
+religion = asoiaf_summer_gods
+
+capital = 533
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Draqaz"
+		dynasty = "Ojokolu"
+		birth_date = 950.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Tion"
+		monarch_name = "Tion"
+		dynasty = "Ojokolu"
+		birth_date = 991.1.1
+		death_date = 1090.1.1
+		claim = 16
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Werlag"
+		dynasty = "Ojokolu"
+		birth_date = 949.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Alaric"
+		monarch_name = "Alaric"
+		dynasty = "Ojokolu"
+		birth_date = 1023.1.1
+		death_date = 1098.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1126.1.1 = {
+
+	monarch = {
+		name = "Preston"
+		dynasty = "Ojokolu"
+		birth_date = 1094.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Meha"
+		monarch_name = "Meha"
+		dynasty = "Ojokolu"
+		birth_date = 1120.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1134.1.1 = {
+
+	monarch = {
+		name = "Sybassion"
+		dynasty = "Ojokolu"
+		birth_date = 1094.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Hoarfrost"
+		monarch_name = "Hoarfrost"
+		dynasty = "Ojokolu"
+		birth_date = 1119.1.1
+		death_date = 1186.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Beck"
+		dynasty = "Ojokolu"
+		birth_date = 1094.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Skittrick"
+		monarch_name = "Skittrick"
+		dynasty = "Ojokolu"
+		birth_date = 1127.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Kirby"
+		dynasty = "Ojokolu"
+		birth_date = 1183.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Matthar"
+		monarch_name = "Matthar"
+		dynasty = "Ojokolu"
+		birth_date = 1208.1.1
+		death_date = 1253.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Ojokolu"
+		birth_date = 1142.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Othor"
+		monarch_name = "Othor"
+		dynasty = "Ojokolu"
+		birth_date = 1213.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Eldred"
+		dynasty = "Ojokolu"
+		birth_date = 1152.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Ojokolu"
+		birth_date = 1227.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Gran"
+		dynasty = "Ojokolu"
+		birth_date = 1182.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Garse"
+		monarch_name = "Garse"
+		dynasty = "Ojokolu"
+		birth_date = 1210.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1256.1.1 = {
+
+	monarch = {
+		name = "Pylos"
+		dynasty = "Ojokolu"
+		birth_date = 1192.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Lann"
+		monarch_name = "Lann"
+		dynasty = "Ojokolu"
+		birth_date = 1245.1.1
+		death_date = 1345.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Chiswyck"
+		dynasty = "Ojokolu"
+		birth_date = 1250.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Duram"
+		monarch_name = "Duram"
+		dynasty = "Ojokolu"
+		birth_date = 1326.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1351.1.1 = {
+	monarch = {
+		name = "Rosamund"
+		dynasty = "Ojokolu"
+		female = yes
+		birth_date = 1306.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Leslyn"
+		monarch_name = "Leslyn"
+		dynasty = "Ojokolu"
+		birth_date = 1334.1.1
+		death_date = 1378.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1353.1.1 = {
+
+	monarch = {
+		name = "Kenned"
+		dynasty = "Ojokolu"
+		birth_date = 1267.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Stevron"
+		monarch_name = "Stevron"
+		dynasty = "Ojokolu"
+		birth_date = 1339.1.1
+		death_date = 1387.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1382.1.1 = {
+
+	monarch = {
+		name = "Garrett"
+		dynasty = "Ojokolu"
+		birth_date = 1365.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Liane"
+		monarch_name = "Liane"
+		dynasty = "Ojokolu"
+		birth_date = 1374.1.1
+		death_date = 1459.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+

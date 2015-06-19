@@ -1,0 +1,55 @@
+# 308 - Harvest Hall
+
+owner = B37
+add_core = B37
+controller = B37
+add_core = B21
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 3
+base_production = 3
+base_manpower =  2
+
+trade_goods = grain
+
+capital = "Harvest Hall"
+
+1000.2.1 = {
+	remove_core = B37
+	owner = B21
+	controller = B21
+}
+
+1000.2.2 = {
+	owner = B37
+	add_core = B37
+	controller = B37
+}
+
+1005.1.1 = {
+    hre = yes
+	
+	controller = A07
+	add_core = A07
+	owner = A07
+}

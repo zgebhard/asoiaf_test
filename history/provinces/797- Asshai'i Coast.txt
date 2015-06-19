@@ -1,0 +1,31 @@
+# 797 - Asshai'i Coast
+
+base_tax = 1
+base_production = 1
+trade_goods = spices
+base_manpower =  1
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Asshai'i Coast"
+
+religion = asoiaf_mixed_worship
+
+is_city = no
+native_size = 40
+native_ferocity = 5
+native_hostileness = 5

@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = skagosi
+religion = asoiaf_the_old_gods
+
+capital = 47
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Crowl"
+		birth_date = 975.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Ryon"
+		monarch_name = "Ryon"
+		dynasty = "Crowl"
+		birth_date = 979.1.1
+		death_date = 1059.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Donnel"
+		dynasty = "Crowl"
+		birth_date = 1002.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Creighton"
+		monarch_name = "Creighton"
+		dynasty = "Crowl"
+		birth_date = 1048.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Syrio"
+		dynasty = "Crowl"
+		birth_date = 1100.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Gylbert"
+		monarch_name = "Gylbert"
+		dynasty = "Crowl"
+		birth_date = 1111.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Eldon"
+		dynasty = "Crowl"
+		birth_date = 1164.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Torrhen"
+		monarch_name = "Torrhen"
+		dynasty = "Crowl"
+		birth_date = 1173.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1202.1.1 = {
+
+	monarch = {
+		name = "Balman"
+		dynasty = "Crowl"
+		birth_date = 1161.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Horas"
+		monarch_name = "Horas"
+		dynasty = "Crowl"
+		birth_date = 1176.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Crowl"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Areo"
+		monarch_name = "Areo"
+		dynasty = "Crowl"
+		birth_date = 1267.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Togg"
+		dynasty = "Crowl"
+		birth_date = 1318.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Crowl"
+		birth_date = 1342.1.1
+		death_date = 1407.1.1
+		claim = 98
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+

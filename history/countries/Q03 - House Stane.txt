@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = skagosi
+religion = asoiaf_the_old_gods
+
+capital = 47
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Stane"
+		birth_date = 970.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Harmune"
+		monarch_name = "Harmune"
+		dynasty = "Stane"
+		birth_date = 985.1.1
+		death_date = 1044.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Roger"
+		dynasty = "Stane"
+		birth_date = 1022.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Quort"
+		monarch_name = "Quort"
+		dynasty = "Stane"
+		birth_date = 1067.1.1
+		death_date = 1139.1.1
+		claim = 64
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Sawane"
+		dynasty = "Stane"
+		birth_date = 1096.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Dunstan"
+		monarch_name = "Dunstan"
+		dynasty = "Stane"
+		birth_date = 1128.1.1
+		death_date = 1202.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Vardis"
+		dynasty = "Stane"
+		birth_date = 1096.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Lyle"
+		monarch_name = "Lyle"
+		dynasty = "Stane"
+		birth_date = 1159.1.1
+		death_date = 1212.1.1
+		claim = 38
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Gilwood"
+		dynasty = "Stane"
+		birth_date = 1091.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Stane"
+		birth_date = 1141.1.1
+		death_date = 1252.1.1
+		claim = 56
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Guyne"
+		dynasty = "Stane"
+		birth_date = 1152.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Perros"
+		monarch_name = "Perros"
+		dynasty = "Stane"
+		birth_date = 1163.1.1
+		death_date = 1240.1.1
+		claim = 92
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1227.1.1 = {
+
+	monarch = {
+		name = "Groleo"
+		dynasty = "Stane"
+		birth_date = 1177.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Lharys"
+		monarch_name = "Lharys"
+		dynasty = "Stane"
+		birth_date = 1207.1.1
+		death_date = 1267.1.1
+		claim = 28
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Gergen"
+		dynasty = "Stane"
+		birth_date = 1211.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Stane"
+		birth_date = 1254.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Bellonara"
+		dynasty = "Stane"
+		female = yes
+		birth_date = 1199.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tobbot"
+		monarch_name = "Tobbot"
+		dynasty = "Stane"
+		birth_date = 1262.1.1
+		death_date = 1315.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Gueren"
+		dynasty = "Stane"
+		birth_date = 1330.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Rodwell"
+		monarch_name = "Rodwell"
+		dynasty = "Stane"
+		birth_date = 1329.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+

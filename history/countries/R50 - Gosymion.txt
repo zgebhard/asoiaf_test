@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 721
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Theobald"
+		dynasty = "Gosymion"
+		birth_date = 949.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Cohollo"
+		monarch_name = "Cohollo"
+		dynasty = "Gosymion"
+		birth_date = 971.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Elbert"
+		dynasty = "Gosymion"
+		birth_date = 1030.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Groleo"
+		monarch_name = "Groleo"
+		dynasty = "Gosymion"
+		birth_date = 1074.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Durran"
+		dynasty = "Gosymion"
+		birth_date = 1106.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Wendel"
+		monarch_name = "Wendel"
+		dynasty = "Gosymion"
+		birth_date = 1134.1.1
+		death_date = 1231.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Gosymion"
+		birth_date = 1142.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Penny"
+		monarch_name = "Penny"
+		dynasty = "Gosymion"
+		birth_date = 1162.1.1
+		death_date = 1201.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Victarion"
+		dynasty = "Gosymion"
+		birth_date = 1185.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Uthor"
+		monarch_name = "Uthor"
+		dynasty = "Gosymion"
+		birth_date = 1232.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1338.1.1 = {
+
+	monarch = {
+		name = "Hubard"
+		dynasty = "Gosymion"
+		birth_date = 1283.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Guyne"
+		monarch_name = "Guyne"
+		dynasty = "Gosymion"
+		birth_date = 1308.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Gosymion"
+		birth_date = 1374.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Camarron"
+		monarch_name = "Camarron"
+		dynasty = "Gosymion"
+		birth_date = 1369.1.1
+		death_date = 1457.1.1
+		claim = 41
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+

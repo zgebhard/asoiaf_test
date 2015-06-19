@@ -1,0 +1,30 @@
+# 1225 - Valyrian Ruins
+owner = R17
+add_core = R17
+controller = R17
+
+culture = tolosi
+religion = asoiaf_mixed_worship
+
+base_tax = 4
+base_production = 4
+base_manpower =  4
+
+trade_goods = dyes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+

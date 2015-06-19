@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 191
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Galladon"
+		dynasty = "Lydden"
+		birth_date = 933.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Lydden"
+		birth_date = 974.1.1
+		death_date = 1047.1.1
+		claim = 81
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Daryn"
+		dynasty = "Lydden"
+		birth_date = 1044.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Ulwyck"
+		monarch_name = "Ulwyck"
+		dynasty = "Lydden"
+		birth_date = 1076.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Wayn"
+		dynasty = "Lydden"
+		birth_date = 1007.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Quent"
+		monarch_name = "Quent"
+		dynasty = "Lydden"
+		birth_date = 1082.1.1
+		death_date = 1106.1.1
+		claim = 96
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Lydden"
+		birth_date = 1104.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Andros"
+		monarch_name = "Andros"
+		dynasty = "Lydden"
+		birth_date = 1150.1.1
+		death_date = 1174.1.1
+		claim = 66
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Lydden"
+		birth_date = 1077.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Jorah"
+		monarch_name = "Jorah"
+		dynasty = "Lydden"
+		birth_date = 1135.1.1
+		death_date = 1206.1.1
+		claim = 49
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1191.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Lydden"
+		birth_date = 1134.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Gevin"
+		monarch_name = "Gevin"
+		dynasty = "Lydden"
+		birth_date = 1177.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Carrot"
+		dynasty = "Lydden"
+		birth_date = 1227.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Lydden"
+		birth_date = 1241.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1254.1.1 = {
+
+	monarch = {
+		name = "Devyn"
+		dynasty = "Lydden"
+		birth_date = 1215.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Pollitor"
+		monarch_name = "Pollitor"
+		dynasty = "Lydden"
+		birth_date = 1233.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Cottor"
+		dynasty = "Lydden"
+		birth_date = 1236.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Squint"
+		monarch_name = "Squint"
+		dynasty = "Lydden"
+		birth_date = 1288.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Gendry"
+		dynasty = "Lydden"
+		birth_date = 1318.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Lydden"
+		birth_date = 1347.1.1
+		death_date = 1434.1.1
+		claim = 20
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+

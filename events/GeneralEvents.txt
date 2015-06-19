@@ -1,0 +1,1166 @@
+namespace = GENERAL_EVENTS
+
+#t-An envoy falls ill
+#d-One of our envoys has recently contracted a terrible disease, he is asking us to relieve him from his duties until he has recovered.
+#a-Allow the envoy to recover.
+#b-Force him to continue work.
+country_event = {
+	id = GENERAL_EVENTS.1
+	title = "GENERAL_EVENTS.1t"
+	desc = "GENERAL_EVENTS.1d"
+	picture = PLAGUE_eventPicture
+	
+	trigger = {
+		has_global_modifier_value = {
+			which = diplomats
+			value = 1
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.1a"
+		
+		add_dip_power = 25
+		
+		add_country_modifier = {
+			name = absent_diplomat
+			duration = 365
+		}
+		ai_chance = { factor = 50 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.1b"
+		
+		add_dip_power = -25
+		
+		ai_chance = { factor = 50 }
+	}
+}
+
+#t-Insulted by a Maester
+#d-One of the Maesters questioned your rule and thought you were not fitted for the crown, what should we do with him?
+#a-Nail him to the wall! [Execution event line]
+#b-Ignore his squabble.
+country_event = {
+	id = GENERAL_EVENTS.2
+	title = "GENERAL_EVENTS.2t"
+	desc = "GENERAL_EVENTS.2d"
+	picture = COURT_eventPicture
+	
+	trigger = {
+		has_advisor = yes
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.2a"
+		add_prestige = 10
+		kill_advisor = random
+		
+		ai_chance = { factor = 50 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.2b"
+		add_dip_power = 25
+		add_heir_claim = -25
+		
+		ai_chance = { factor = 50 }
+	}
+}
+
+#t-An exotic trader
+#d-A trade caravan with exotic goods has arrived in the capital, they are inviting you to look at their wares
+#a-Buy a book about the mysteries of Essos
+#b-Buy a Quality silk dress.
+#c-Buy a miniature warship
+#d-Ignore their shoddy wares
+country_event = {
+	id = GENERAL_EVENTS.3
+	title = "GENERAL_EVENTS.3t"
+	desc = "GENERAL_EVENTS.3d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		has_advisor = yes
+	}
+
+	mean_time_to_happen = {
+		months = 1200
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.3a"
+		
+		add_years_of_income = -1
+		add_country_modifier = {
+			name = essosian_book
+			duration = -1
+		}
+
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.3b"
+		
+		add_years_of_income = -0.5
+		add_country_modifier = {
+			name = toy_soldier
+			duration = -1
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.3c"
+		
+		add_years_of_income = -0.25
+		
+		add_country_modifier = {
+			name = miniature_warship
+			duration = -1
+		}
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.3.option.d"
+		
+		add_years_of_income = 0.25
+		
+		ai_chance = { factor = 25 }
+	}
+}
+
+#t-A grand feast!
+#d-The Maesters suggest that we should hold a grand feast to celebrate the gods!
+#a-There is always time for a good feast!
+#b-The gods should not be celebrated with wine and false tales.
+country_event = {
+	id = GENERAL_EVENTS.4
+	title = "GENERAL_EVENTS.4t"
+	desc = "GENERAL_EVENTS.4d"
+	picture = FEAST_eventPicture
+	
+	trigger = {
+		has_advisor = yes
+		NOT = { stability = 0 }
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.4a"
+		
+		add_legitimacy = -5
+		add_prestige = 10
+		
+		add_country_modifier = {
+			name = dishonored_gods
+			duration = 365
+		}
+		ai_chance = { factor = 50 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.4b"
+		
+		add_legitimacy = 5
+		add_prestige = -10
+		
+		add_country_modifier = {
+			name = honored_gods
+			duration = 365
+		}
+		ai_chance = { factor = 50 }
+	}
+}
+
+#t-Tales from beyond the wall
+#d-There have been interesting tales spreading about creatures beyond the wall.
+#a-These common folk and their tales..
+country_event = {
+	id = GENERAL_EVENTS.5
+	title = "GENERAL_EVENTS.5t"
+	desc = "GENERAL_EVENTS.5d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	trigger = {
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.5a"
+		add_stability = -1
+		
+		ai_chance = { factor = 100 }
+	}
+}
+
+#t: Infighting
+#d:	There have been reports of infighting amoungst our men during their training routines. It would be best if this sort of behaviour is surpressed as soon as possible.
+#1: Let them fight
+#2: Split them up
+country_event = {
+	id = GENERAL_EVENTS.6
+	title = "GENERAL_EVENTS.6t"
+	desc = "GENERAL_EVENTS.6d"
+	picture = BATTLE_eventPicture
+	
+	trigger = {
+		army_size_percentage = 0.25
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.6b"
+		
+		add_country_modifier = {
+			name = disorganised_men 
+			duration = 1200
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.6a"
+		
+		add_mil_power = -50
+		
+		ai_chance = { factor = 75 }
+	}
+}
+
+#t: Essosian Traders
+#d: Our merchants have been cavorting amoungst Essosian traders whilst conducting their business, and they're implementing new and foreign techniques in our local markets.
+#1: Allow such techniques
+#2: Ban these techniques
+country_event = {
+	id = GENERAL_EVENTS.7
+	title = "GENERAL_EVENTS.7t"
+	desc = "GENERAL_EVENTS.7d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		technology_group = western
+		any_known_country = {  
+			NOT = { technology_group = western }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.7a"
+		
+		add_mercantilism = 0.025
+		
+		ai_chance = { factor = 50 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.7b"
+		
+		add_mercantilism = -0.025
+		add_adm_power = 25
+		
+		ai_chance = { factor = 50 }
+	}
+}
+
+#t: Westerosi Traders
+#d: Our merchants have been cavorting amoungst Westerosi traders whilst conducting their business, and they're implementing new and foreign practices in our local markets.
+#1: Allow such practices
+#2: Ban these practices
+country_event = {
+	id = GENERAL_EVENTS.8
+	title = "GENERAL_EVENTS.8t"
+	desc = "GENERAL_EVENTS.8d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		NOT = { technology_group = western }
+		any_known_country = {  
+			technology_group = western
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.8a"
+		
+		add_mercantilism = 0.025
+		
+		ai_chance = { factor = 50 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.8b"
+		
+		add_mercantilism = -0.025
+		add_adm_power = 25
+		
+		ai_chance = { factor = 50 }
+	}
+}
+
+#t: Noble of the [Root.Owner.Culture.GetName] family killed!
+#d: Whilst riding around the family estate in $PROVINCENAME$, a noble of the [Root.Owner.Culture.GetName] family was attacked by a gang of peasants and killed. The family is demanding repurcussions for the peasants, and compensation for their loss.
+#1: Offer to execute the peasants, and gift the family a large sum
+#2: Offer to execute the peasants, but offer no compensation
+#3: Offer only compensation
+#4: Ignore the family
+province_event = {
+	id = GENERAL_EVENTS.9
+	title = "GENERAL_EVENTS.9t"
+	desc = "GENERAL_EVENTS.9d"
+	picture = DEATH_OF_HEIR_eventPicture
+
+	trigger = {
+		owner = {
+			OR = {
+				government = royal_house
+				government = great_house
+				government = noble_house
+				government = knightly_house
+			}
+		}
+		NOT = { culture = owner }
+	}
+	
+	mean_time_to_happen = {
+		months = 12000
+		
+		modifier = {
+			factor = 0.9
+			owner = { is_at_war = yes }
+		}
+		modifier = {
+			factor = 0.9
+			owner = { NOT = { stability = 0 } }
+		}
+		modifier = {
+			factor = 0.9
+			owner = { NOT = { stability = -1 } }
+		}
+		modifier = {
+			factor = 0.9
+			owner = { NOT = { stability = -2 } }
+		}
+		modifier = {
+			factor = 0.9
+			unrest = 2
+		}
+		modifier = {
+			factor = 0.9
+			unrest = 4
+		}
+		modifier = {
+			factor = 0.9
+			unrest = 6
+		}
+		modifier = {
+			factor = 0.9
+			unrest = 8
+		}
+		modifier = {
+			factor = 0.9
+			unrest = 10
+		}
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.9a"
+		
+		owner = { 
+			add_years_of_income = -1 
+			add_stability = -1
+			add_prestige = 25
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.9b"
+		
+		owner = {
+			add_stability = -1
+			add_prestige = 10
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.9c"
+		
+		owner = { 
+			add_years_of_income = -1 
+			add_prestige = 10
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.9.option.d"
+		
+		nationalist_rebels = 1
+		add_prestige = -25
+		
+		ai_chance = { factor = 25 }
+	}
+}
+
+#t: Barrow of the First Men
+#d: Our men have found a previously undiscovered barrow, and have come to you directly to ask on what they may do with it. Rumours have it such barrows are protected by ancient magic, but rumours cannot always be trusted.
+#1: Open the barrow yourself
+#2: Let the men open the barrow
+#3: Tell the men to leave the barrow alone.
+country_event = {
+	id = GENERAL_EVENTS.10
+	title = "GENERAL_EVENTS.10t"
+	desc = "GENERAL_EVENTS.10d"
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		any_owned_province = {
+			OR = {
+				region = region_the_reach
+				region = region_the_westerlands
+				region = region_the_riverlands
+				region = region_crownlands
+				region = region_the_north
+			}
+		}	
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.10a"
+		
+		random_list = {
+			25 = {
+				add_ruler_modifier = {
+					name = ruler_maimed
+					duration = -1
+				}
+			}
+			25 = {
+				add_ruler_modifier = {
+					name = ruler_enlightened
+					duration = -1
+				}	
+			}
+			25 = {
+				add_ruler_modifier = {
+					name = ruler_mad
+					duration = -1
+				}	
+			}
+			25 = {
+					
+			}
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.10b"
+		
+		random_list = {
+			50 = {
+				add_mil_power = 50
+			}
+			50 = {
+				add_mil_power = -50
+			}
+		}
+		
+		ai_chance = { factor = 25 }
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.10c"
+		
+		add_prestige = -5
+		
+		ai_chance = { factor = 25 }
+	}
+}
+
+#title: Visit from a Spice Trader
+#desc: A spice trader has entered your court, and has brought along numerous spices for you to sample. He proclaims each spice has an unique attribute, and by consuming it you will be inbued with said attribute.
+#1: Try the yellow spice.
+#2: Try the red spice.
+#3: Try the blue spice.
+#4: Throw him out.
+
+country_event = {
+	id = GENERAL_EVENTS.11
+	title = "GENERAL_EVENTS.11t"
+	desc = "GENERAL_EVENTS.11d"
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		any_owned_province = {
+			trade_goods = spices
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.11a"
+
+		add_adm_power = 50
+		hidden_effect = {
+			random = {
+				chance = 1
+				kill_ruler = yes
+			}
+		}
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.11b"
+
+		add_dip_power = 50
+		
+		hidden_effect = {
+			random = {
+				chance = 1
+				kill_ruler = yes
+			}
+		}
+	}
+	option = {
+		name = "GENERAL_EVENTS.11c"
+
+		add_mil_power = 50
+		hidden_effect = {
+			random = {
+				chance = 1
+				kill_ruler = yes
+			}
+		}
+	}
+	option = {
+		name = "GENERAL_EVENTS.11x"
+
+		add_legitimacy = -10
+		add_republican_tradition = -0.10
+	}
+}
+
+#title: Repair the Titan
+#desc: Years of seawater and wind has eroded the Titan of Braavos, and he is going to need serious investment to restore him to his former glory.
+#1: Restore the Titan
+#2: Let him rot.
+
+country_event = {
+	id = GENERAL_EVENTS.12
+	title = "GENERAL_EVENTS.12t"
+	desc = "GENERAL_EVENTS.12d"
+	picture = IMPORTANT_STATUE_eventPicture
+	
+	trigger = {
+		owns = 470
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.12a"
+
+		add_years_of_income = -2
+		add_stability = 1
+		add_prestige = 50
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.12b"
+
+		add_prestige = -25
+		add_legitimacy = -10
+		add_republican_tradition = -0.10
+	}
+}
+
+
+# Commoner wants access to our maester's skills
+#	A commoner has come begging at the entrance to our keep, pleaing for us to fetch the maester and help him cure his wife. What should we tell him? $MONARCHTITLE$
+#	Option A: Let our maester visit this commoner
+#	Option B: Tell him to visit a hedge wizard
+#	Option C: Punish him for his insolence
+
+country_event = {
+	id = GENERAL_EVENTS.13
+	title = "GENERAL_EVENTS.13t"
+	desc = "GENERAL_EVENTS.13d"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		has_advisor = yes
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.13a"
+	
+		add_legitimacy = 5
+		add_adm_power = -25
+	}
+	option = {
+		name = "GENERAL_EVENTS.13b"
+	
+		add_adm_power = 50
+		add_dip_power = -25
+	}
+	option = {
+		name = "GENERAL_EVENTS.13c"
+	
+		add_legitimacy = -10
+		add_adm_power = 25
+		add_dip_power = 25
+	}
+}
+
+# Local hedge wizard has an audience
+#	Our maester has reported a disreputable hedge wizard has wandered into one of our towns and is practising bad medicine. He recommends we put a stop to him. What should we do to him?
+#	Option A: Arrest him.
+#	Option B: Leave him be.
+
+country_event = {
+	id = GENERAL_EVENTS.14
+	title = "GENERAL_EVENTS.14t"
+	desc = "GENERAL_EVENTS.14d"
+	picture = FEAST_eventPicture
+	
+	trigger = {
+		technology_group = western
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.14a"
+	
+		add_mil_power = 50
+		add_dip_power = -50
+	}
+	option = {
+		name = "GENERAL_EVENTS.14b"
+	
+		add_dip_power = 50
+		add_legitimacy = -10
+	}
+}
+
+# Stocks of Myrish fire are low
+#	Our maester is reporting that our stocks of myrish fire have run low. If we run out, then we will have to resort to boiling wind to treat wounds."
+#	Option A: Send a merchant to acquire more
+#	Option B: Boiling wine is good enough
+
+country_event = {
+	id = GENERAL_EVENTS.15
+	title = "GENERAL_EVENTS.15t"
+	desc = "GENERAL_EVENTS.15d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.15a"
+	
+		add_country_modifier = {
+			name = merchant_travelling
+			duration = 365
+		}
+		add_mil_power = 50
+	}
+	option = {
+		name = "GENERAL_EVENTS.15b"
+	
+		add_mil_power = -50
+	}
+}
+
+# Bloody flux has appeared in PROVINCE
+#	A severe case of bloody flux has appeared in PROVINCE. Our maester recommends we quarantine the town until it has burnt itself out."
+#	Option A: Stop all travel to and from PROVINCE
+#	Option B: Bloody flux can't be that bad 
+
+province_event = {
+	id = GENERAL_EVENTS.16
+	title = "GENERAL_EVENTS.16t"
+	desc = "GENERAL_EVENTS.16d"
+	picture = PLAGUE_eventPicture
+	
+	trigger = {
+		NOT = { stability = 2 }
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.16a"
+	
+		add_province_modifier = {
+			name = bloody_flux_quar
+			duration = 365
+		}
+		
+	}
+	option = {
+		name = "GENERAL_EVENTS.16b"
+	
+		add_province_modifier = {
+			name = bloody_flux_not_quar
+			duration = 365
+		}
+		random = {
+			chance = 50
+			random_owned_province = {
+				province_event = { id = GENERAL_EVENTS.16 days = 1 }
+			}
+		}
+	}
+}
+
+# Our child is a lizard!
+#	As you look upon your child, you realise something is not quite right. $HEIR$ has turned a light grey, and his skin is rough. It appears he has contracted Greyscale, and will be disfigured for life.
+#	Trigger: heir is under 8
+#	Option A: Send my best maester to treat $HEIRNAME$
+#	Option B: Do nothing
+#	Option C: Arrange an accident for the beast.
+
+country_event = {
+	id = GENERAL_EVENTS.17
+	title = "GENERAL_EVENTS.17t"
+	desc = "GENERAL_EVENTS.17d"
+	picture = PLAGUE_eventPicture
+	
+	trigger = {
+		has_heir = yes
+		NOT = { heir_age = 10 }
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.17a"
+	
+		add_years_of_income = -0.5
+		add_adm_power = 50
+		add_dip_power = 50
+		
+		random = {
+			chance = 10
+			kill_heir = yes
+		}
+	}
+	option = {
+		name = "GENERAL_EVENTS.17b"
+	
+		add_adm_power = -25
+		add_dip_power = -25
+		
+		random = {
+			chance = 50
+			kill_heir = yes
+		}
+	}
+	option = {
+		name = "GENERAL_EVENTS.17c"
+	
+		add_stability = -1
+		add_legitimacy = -25
+		kill_heir = yes
+	}
+}
+
+# Shaking in court
+#	A member of your court has turned up with severe shaking and a furious fever. He is incoherent and starts babbling about frogs."
+#	Option A: Send this man to your maester
+#	Option B: Cast him from your court
+
+country_event = {
+	id = GENERAL_EVENTS.18
+	title = "GENERAL_EVENTS.18t"
+	desc = "GENERAL_EVENTS.18d"
+	picture = PLAGUE_eventPicture
+	
+	trigger = {
+		has_advisor = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.18a"
+	
+		add_legitimacy = 10
+		add_years_of_income = -0.1
+	}
+	option = {
+		name = "GENERAL_EVENTS.18b"
+	
+		kill_advisor = random
+		add_dip_power = -25
+	}
+}
+
+
+# A Red Comet
+#	A ominous, red comet has seen sighted crossing over Westeros. The people in your cities and towns have become agitated and uneasy. They look to you, $MONARCHNAME$ for assurance."
+#	Option A: Assure them it is safe.
+#	Option B: Ignore their rumourmongering.
+
+country_event = {
+	id = GENERAL_EVENTS.19
+	title = "GENERAL_EVENTS.19t"
+	desc = "GENERAL_EVENTS.19d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.19a"
+	
+		add_prestige = -25
+	}
+	option = {
+		name = "GENERAL_EVENTS.19b"
+	
+		add_stability = -1
+	}
+}
+
+# Sighting of a Wanderer
+#	Your grand maester has sighted one of the seven wanderer's passing over. He says it signifies good tidings for your realm.
+#		Option A: Great News!
+country_event = {
+	id = GENERAL_EVENTS.20
+	title = "GENERAL_EVENTS.20t"
+	desc = "GENERAL_EVENTS.20d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.20a"
+	
+		add_stability = 1
+	}
+}
+
+# Sighting of the Red Wanderer
+# 	Your grand maester has sighted the red wanderer passing over. He says it signifies bad tidings for your realm.
+#		Option B: Oh dear."
+country_event = {
+	id = GENERAL_EVENTS.21
+	title = "GENERAL_EVENTS.21t"
+	desc = "GENERAL_EVENTS.21d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.21a"
+	
+		add_stability = -1
+	}
+}
+
+country_event = {
+	id = GENERAL_EVENTS.22
+	title = "GENERAL_EVENTS.22t"
+	desc = "GENERAL_EVENTS.22d"
+	picture = ANGRY_MOB_eventPicture
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.22a"
+	
+		add_adm_power = -50
+		add_dip_power = -50
+		add_mil_power = -50
+	}
+	option = {
+		name = "GENERAL_EVENTS.22b"
+	
+		random_owned_province = {
+			nationalist_rebels = 1
+		}
+		random_owned_province = {
+			nationalist_rebels = 1
+		}
+		random_owned_province = {
+			nationalist_rebels = 1
+		}
+	}
+}
+
+
+#title: A Holy Day
+#desc: It is a holy day for our realm, and the people are expecting an speech in the town square today. Will you proclaim the virtues of [Root.Capital.Religion.GetName], or dismiss it as worthless tomfoolery?
+#1: We must abide by the commandments of [Root.Capital.Religion.GetName].
+#2: Today is not a day that we should devote to [Root.Capital.Religion.GetName].
+
+country_event = {
+	id = GENERAL_EVENTS.23
+	title = "GENERAL_EVENTS.23t"
+	desc = "GENERAL_EVENTS.23d"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		NOT = { religion = asoiaf_faith_of_the_seven }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.23a"
+		
+		add_piety = 0.05
+	}
+	option = {
+		name = "GENERAL_EVENTS.23b"
+		
+		add_piety = -0.05
+	}
+}
+
+#title: Religious Festival
+#desc: A rabble of priests have proposed that we host a religious festival, to celebrate [Root.Capital.Religion.GetName] in the capital. If we were to refuse, it would reflect badly upon our realm."
+#1: Celebrate!
+#2: Refuse.
+country_event = {
+	id = GENERAL_EVENTS.24
+	title = "GENERAL_EVENTS.24t"
+	desc = "GENERAL_EVENTS.24d"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		NOT = { religion = asoiaf_faith_of_the_seven }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.24a"
+		
+		add_piety = 0.1
+	}
+	option = {
+		name = "GENERAL_EVENTS.24b"
+		
+		add_piety = -0.1
+	}
+}
+
+#title: Red Priests in $PROVINCENAME$ want to raise a temple
+#desc: The red priests in $PROVINCENAME$ want to raise a temple to our Lord of Light, R'hllor. If we were to refuse, our lord will not look favourable upon us."
+#1: Raise it!
+#2: Refuse.
+province_event = {
+	id = GENERAL_EVENTS.25
+	title = "GENERAL_EVENTS.25t"
+	desc = "GENERAL_EVENTS.25d"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_rhllor
+		owner = { religion = asoiaf_rhllor }
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.25a"
+		
+		owner = { add_piety = 0.1 }
+	}
+	option = {
+		name = "GENERAL_EVENTS.25b"
+		
+		owner = { add_piety = -0.1 }
+	}
+}
+
+# R'hllor spread
+#t: Word of R'hllor Spreads in $PROVINCENAME$
+#d: The heretical worship of R'hllor has spread to $PROVINCENAME$. This fiendish religion must be extinguished before more of our realm falls prey to the false words of R'hllor.
+#a: Crush the R'hllor worshippers.
+#b: Leave them be.
+province_event = {
+	id = GENERAL_EVENTS.26
+	title = "GENERAL_EVENTS.26t"
+	desc = "GENERAL_EVENTS.26d"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		NOT = { religion = asoiaf_rhllor }
+		owner = { religion = asoiaf_faith_of_the_seven }
+		is_capital = no
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+
+	option = {
+		name = "GENERAL_EVENTS.26a"
+		
+		asoiaf_rhllor_rebels = 1
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.26b"
+		
+		add_unrest = 10
+		
+		random = {
+			chance = 50
+			
+			random_owned_province = {
+				province_event = { id = GENERAL_EVENTS.26 }
+			}
+		}
+	}
+}
+
+province_event = {
+	id = GENERAL_EVENTS.27
+	title = "GENERAL_EVENTS.27.title"
+	desc = "GENERAL_EVENTS.27.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		religion_group = owner
+		NOT = { religion = owner }
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.27.option.1"
+		
+		add_province_modifier = {
+			name = added_unrest 
+			duration = 730 
+		}
+		change_religion = owner
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.27.option.2"
+		
+		add_prestige = -5
+	}
+}
+
+province_event = {
+	id = GENERAL_EVENTS.28
+	title = "GENERAL_EVENTS.28.title"
+	desc = "GENERAL_EVENTS.28.desc"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+	
+	trigger = {
+		religion = owner
+		has_province_modifier = added_unrest
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.28.option.1"
+		
+		change_religion = heretic
+		add_province_modifier = {
+			name = reduced_unrest 
+			duration = 730 
+		}
+	}
+	
+	option = {
+		name = "GENERAL_EVENTS.28.option.2"
+		
+		add_province_modifier = {
+			name = even_more_unrest 
+			duration = 730 
+		}
+	}
+}

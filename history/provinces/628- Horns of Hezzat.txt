@@ -1,0 +1,46 @@
+# 628- Horns of Hezzat
+
+owner = R27
+add_core = R27
+add_core = R28
+controller = R27
+
+culture = astapor
+religion = asoiaf_graces
+
+
+base_tax = 4
+base_production = 4
+trade_goods = slaves
+base_manpower =  3
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Horns of Hezzat"
+
+1000.2.1 = {
+	remove_core = R27
+	owner = R28
+	controller = R28
+}
+
+1000.2.2 = {
+	owner = R27
+	add_core = R27
+	controller = R27
+}

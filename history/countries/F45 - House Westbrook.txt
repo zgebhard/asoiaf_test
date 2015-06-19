@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 265
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Allyria"
+		dynasty = "Westbrook"
+		birth_date = 981.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Damon"
+		monarch_name = "Damon"
+		dynasty = "Westbrook"
+		birth_date = 990.1.1
+		death_date = 1023.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Bonifer"
+		dynasty = "Westbrook"
+		birth_date = 1002.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Puddingfoot"
+		monarch_name = "Puddingfoot"
+		dynasty = "Westbrook"
+		birth_date = 1065.1.1
+		death_date = 1133.1.1
+		claim = 44
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1116.1.1 = {
+
+	monarch = {
+		name = "Wendel"
+		dynasty = "Westbrook"
+		birth_date = 1083.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Qyburn"
+		monarch_name = "Qyburn"
+		dynasty = "Westbrook"
+		birth_date = 1097.1.1
+		death_date = 1162.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1182.1.1 = {
+	monarch = {
+		name = "Myrtle"
+		dynasty = "Westbrook"
+		female = yes
+		birth_date = 1124.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Westbrook"
+		birth_date = 1161.1.1
+		death_date = 1263.1.1
+		claim = 48
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Westbrook"
+		birth_date = 1151.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Ulmer"
+		monarch_name = "Ulmer"
+		dynasty = "Westbrook"
+		birth_date = 1221.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Westbrook"
+		birth_date = 1232.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Kella"
+		monarch_name = "Kella"
+		dynasty = "Westbrook"
+		birth_date = 1298.1.1
+		death_date = 1336.1.1
+		claim = 27
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1382.1.1 = {
+
+	monarch = {
+		name = "Delp"
+		dynasty = "Westbrook"
+		birth_date = 1342.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Helman"
+		monarch_name = "Helman"
+		dynasty = "Westbrook"
+		birth_date = 1379.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+

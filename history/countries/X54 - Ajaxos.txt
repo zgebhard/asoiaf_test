@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = moyne
+religion = asoiaf_summer_gods
+
+capital = 516
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Othell"
+		dynasty = "Ajaxos"
+		birth_date = 977.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Ramsey"
+		monarch_name = "Ramsey"
+		dynasty = "Ajaxos"
+		birth_date = 979.1.1
+		death_date = 1031.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1009.1.1 = {
+
+	monarch = {
+		name = "Wallace"
+		dynasty = "Ajaxos"
+		birth_date = 991.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryon"
+		monarch_name = "Bryon"
+		dynasty = "Ajaxos"
+		birth_date = 999.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Jate"
+		dynasty = "Ajaxos"
+		birth_date = 1060.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Ajaxos"
+		birth_date = 1085.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Wyl"
+		dynasty = "Ajaxos"
+		birth_date = 1110.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Harmen"
+		monarch_name = "Harmen"
+		dynasty = "Ajaxos"
+		birth_date = 1123.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Gendry"
+		dynasty = "Ajaxos"
+		birth_date = 1113.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Ajaxos"
+		birth_date = 1161.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1190.1.1 = {
+
+	monarch = {
+		name = "Walys"
+		dynasty = "Ajaxos"
+		birth_date = 1119.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Bandy"
+		monarch_name = "Bandy"
+		dynasty = "Ajaxos"
+		birth_date = 1164.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Matarys"
+		dynasty = "Ajaxos"
+		birth_date = 1183.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Ajaxos"
+		birth_date = 1203.1.1
+		death_date = 1309.1.1
+		claim = 92
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1279.1.1 = {
+
+	monarch = {
+		name = "Conn"
+		dynasty = "Ajaxos"
+		birth_date = 1205.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Murenmure"
+		monarch_name = "Murenmure"
+		dynasty = "Ajaxos"
+		birth_date = 1266.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1294.1.1 = {
+
+	monarch = {
+		name = "Tothmure"
+		dynasty = "Ajaxos"
+		birth_date = 1266.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Gareth"
+		monarch_name = "Gareth"
+		dynasty = "Ajaxos"
+		birth_date = 1273.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1329.1.1 = {
+
+	monarch = {
+		name = "Tycho"
+		dynasty = "Ajaxos"
+		birth_date = 1255.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Azzak"
+		monarch_name = "Azzak"
+		dynasty = "Ajaxos"
+		birth_date = 1311.1.1
+		death_date = 1402.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Ramsey"
+		dynasty = "Ajaxos"
+		birth_date = 1342.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Rolder"
+		monarch_name = "Rolder"
+		dynasty = "Ajaxos"
+		birth_date = 1354.1.1
+		death_date = 1403.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+}
+

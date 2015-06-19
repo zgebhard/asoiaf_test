@@ -1,0 +1,34 @@
+name = "War of the Ninepenny Kings"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1260.1.1 = {
+	add_attacker = AB2
+
+	add_defender = X01
+	add_defender = A01
+	add_defender = A03
+	add_defender = A04
+	add_defender = A09
+	add_defender = A10
+	add_defender = E09
+	add_defender = A06
+	add_defender = F20
+}
+
+1281.1.1 = {
+	rem_attacker = AB2
+
+	rem_defender = X01
+	rem_defender = A01
+	rem_defender = A03
+	rem_defender = A04
+	rem_defender = A09
+	rem_defender = A10
+	rem_defender = E09
+	rem_defender = A06
+	rem_defender = F20
+}

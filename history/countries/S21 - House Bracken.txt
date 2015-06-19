@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Denestan"
+		dynasty = "Bracken"
+		birth_date = 941.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "Bracken"
+		birth_date = 989.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Yorkel"
+		dynasty = "Bracken"
+		birth_date = 995.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Cohollo"
+		monarch_name = "Cohollo"
+		dynasty = "Bracken"
+		birth_date = 1044.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1045.1.1 = {
+
+	monarch = {
+		name = "Pyg"
+		dynasty = "Bracken"
+		birth_date = 990.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Bracken"
+		birth_date = 1017.1.1
+		death_date = 1094.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Victor"
+		dynasty = "Bracken"
+		birth_date = 1064.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Leona"
+		monarch_name = "Leona"
+		dynasty = "Bracken"
+		female = yes
+		birth_date = 1074.1.1
+		death_date = 1108.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Torbert"
+		dynasty = "Bracken"
+		birth_date = 1108.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Duram"
+		monarch_name = "Duram"
+		dynasty = "Bracken"
+		birth_date = 1119.1.1
+		death_date = 1211.1.1
+		claim = 17
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Bernarr"
+		dynasty = "Bracken"
+		birth_date = 1102.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Kemmett"
+		monarch_name = "Kemmett"
+		dynasty = "Bracken"
+		birth_date = 1155.1.1
+		death_date = 1246.1.1
+		claim = 74
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Farlan"
+		dynasty = "Bracken"
+		birth_date = 1128.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Moqorro"
+		monarch_name = "Moqorro"
+		dynasty = "Bracken"
+		birth_date = 1200.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1260.1.1 = {
+
+	monarch = {
+		name = "Kevan"
+		dynasty = "Bracken"
+		birth_date = 1193.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Quaithe"
+		monarch_name = "Quaithe"
+		dynasty = "Bracken"
+		birth_date = 1246.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Bedwyck"
+		dynasty = "Bracken"
+		birth_date = 1303.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Zia"
+		monarch_name = "Zia"
+		dynasty = "Bracken"
+		birth_date = 1302.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Meribold"
+		dynasty = "Bracken"
+		birth_date = 1278.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Wallace"
+		monarch_name = "Wallace"
+		dynasty = "Bracken"
+		birth_date = 1321.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Criston"
+		dynasty = "Bracken"
+		birth_date = 1317.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund"
+		dynasty = "Bracken"
+		birth_date = 1365.1.1
+		death_date = 1423.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+

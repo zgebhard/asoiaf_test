@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 778
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Perros"
+		dynasty = "Naifeh"
+		birth_date = 943.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Utherydes"
+		monarch_name = "Utherydes"
+		dynasty = "Naifeh"
+		birth_date = 989.1.1
+		death_date = 1052.1.1
+		claim = 28
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1004.1.1 = {
+
+	monarch = {
+		name = "Ashford"
+		dynasty = "Naifeh"
+		birth_date = 951.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Briar"
+		monarch_name = "Briar"
+		dynasty = "Naifeh"
+		birth_date = 981.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1040.1.1 = {
+
+	monarch = {
+		name = "Meribold"
+		dynasty = "Naifeh"
+		birth_date = 998.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Cottor"
+		monarch_name = "Cottor"
+		dynasty = "Naifeh"
+		birth_date = 1030.1.1
+		death_date = 1082.1.1
+		claim = 72
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Aegon"
+		dynasty = "Naifeh"
+		birth_date = 1023.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Dontos"
+		monarch_name = "Dontos"
+		dynasty = "Naifeh"
+		birth_date = 1076.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Kirth"
+		dynasty = "Naifeh"
+		birth_date = 1060.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Cersei"
+		monarch_name = "Cersei"
+		dynasty = "Naifeh"
+		female = yes
+		birth_date = 1130.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Tanton"
+		dynasty = "Naifeh"
+		birth_date = 1184.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Aemon"
+		monarch_name = "Aemon"
+		dynasty = "Naifeh"
+		birth_date = 1193.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Sylas"
+		dynasty = "Naifeh"
+		birth_date = 1254.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Ardrian"
+		monarch_name = "Ardrian"
+		dynasty = "Naifeh"
+		birth_date = 1271.1.1
+		death_date = 1325.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Gevin"
+		dynasty = "Naifeh"
+		birth_date = 1203.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Galazza"
+		monarch_name = "Galazza"
+		dynasty = "Naifeh"
+		birth_date = 1285.1.1
+		death_date = 1378.1.1
+		claim = 63
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Valarr"
+		dynasty = "Naifeh"
+		birth_date = 1255.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Naifeh"
+		birth_date = 1316.1.1
+		death_date = 1416.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Sybell"
+		dynasty = "Naifeh"
+		birth_date = 1315.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Shirei"
+		monarch_name = "Shirei"
+		dynasty = "Naifeh"
+		female = yes
+		birth_date = 1354.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,264 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 376
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Blackfyre"
+		birth_date = 929.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Nightingale"
+		monarch_name = "Nightingale"
+		dynasty = "Blackfyre"
+		female = yes
+		birth_date = 989.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Boremund"
+		dynasty = "Blackfyre"
+		birth_date = 974.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Mathos"
+		monarch_name = "Mathos"
+		dynasty = "Blackfyre"
+		birth_date = 1030.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Osbert"
+		dynasty = "Blackfyre"
+		birth_date = 1127.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Bonifer"
+		monarch_name = "Bonifer"
+		dynasty = "Blackfyre"
+		birth_date = 1121.1.1
+		death_date = 1203.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Ragwyle"
+		dynasty = "Blackfyre"
+		birth_date = 1147.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Ellaria"
+		monarch_name = "Ellaria"
+		dynasty = "Blackfyre"
+		female = yes
+		birth_date = 1168.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Bennarion"
+		dynasty = "Blackfyre"
+		birth_date = 1096.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Cassana"
+		monarch_name = "Cassana"
+		dynasty = "Blackfyre"
+		female = yes
+		birth_date = 1155.1.1
+		death_date = 1198.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Blackfyre"
+		birth_date = 1135.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Axell"
+		monarch_name = "Axell"
+		dynasty = "Blackfyre"
+		birth_date = 1213.1.1
+		death_date = 1289.1.1
+		claim = 51
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Argrave"
+		dynasty = "Blackfyre"
+		birth_date = 1248.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Blackfyre"
+		birth_date = 1270.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Quentyn"
+		dynasty = "Blackfyre"
+		birth_date = 1226.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Alyx"
+		monarch_name = "Alyx"
+		dynasty = "Blackfyre"
+		birth_date = 1271.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Sloey"
+		dynasty = "Blackfyre"
+		birth_date = 1214.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Mathis"
+		monarch_name = "Mathis"
+		dynasty = "Blackfyre"
+		birth_date = 1278.1.1
+		death_date = 1364.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Wolmer"
+		dynasty = "Blackfyre"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Hareth"
+		monarch_name = "Hareth"
+		dynasty = "Blackfyre"
+		birth_date = 1341.1.1
+		death_date = 1418.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,129 @@
+﻿V2.12
+-
+
+V2.11
+- Removed the Renly Lannister entry in House Lannister's history.
+- Removed the Isles of Faces from the Riverlands region. Will allow the Proclaim the Kingdom of the Isles and Rivers decision to work now.
+- Added four new trade goods: Ironwood, Candles, Fruit and Silver.
+- Added triggered modifier boosting income for countries in the Shattered World bookmark
+- All non-capital provinces in the Shattered World bookmark start at 100% Local Autonomy
+- Made the Old Gods / Great Shepherd / Lady of the Waves / Mother Rhoyne religions easier to convert
+- Made the Drowned God / R'hllor religions less difficult to convert
+- Added four new events.
+- Fixed Daenerys Targaryen being male.
+- Fixed Daenerys' nation missing the Targaryen flag.
+- Changed Claim Expiration length to 50 from 25
+- Changed Core Expiration length to 100 from 50
+- Cores are now never lost if they're on land within the same culture group as them.
+- Added an Restore the Night's Watch CB
+
+V2.10
+- Extended the time between each tech to 10 years, from 5. This should allow most nations to keep up with technology, preventing rebels from vastly out teching others.
+- Fixed various map/traderoute bugs
+- Added a trade route from Braavos to Winterfell
+- Added Trade Winds
+- Increased the MTTH for the Begging Brother/Noble of the [Root.Owner.Culture.GetName] family killed! event
+- Decreased the starting level for most technology groups to 2 (from 3).
+- Fixed the the Citadel and Alchemist's Guild buildings.
+- Changed the Bleeding Years bookmark to the War of Conquest. Made all of the Great Houses vassals of House Hoare to simulate the chaos that occured in the actual timeline.
+- Added War of Conquest events
+- Fixed the Kingdom of the North decision and added unification decisions for the other regions.
+
+V2.09
+- Increased various province events MTTH, making them 5 times less likely.
+- The Faith of the Seven cardinal event will now only fire once per country.
+- Fixed the Royal House government only giving -0.01 autonomy, it now gives -0.1 autonomy.
+- Added Unification events for the Westeros Houses in the Shattered World bookmark. When a house of the correct culture unifies a region (i.e. The North), they will get an event giving them a temporary modifier, changing their government to Great House, and 100 prestige.
+
+V2.08
+- Reduced the building time for the 5/6 category buildings to 2 years, from 20
+- Added a way to get Cardinals (though an event) and altered the Most Devout setup so the curia controller can actually change. (Just don't try and play as the Most Devout now :P)
+- Fixed a few impossible ports.
+- Added core for House Targaryen in the Shattered World bookmark
+- Added core for House Flaming Heart in the Shattered World bookmark
+- Prevented Westernisation from occuring.
+- Changed the Emperor in Yi Ti to Bu Gai for the A Song of Ice and Fire bookmark
+
+V2.07
+- Changed Nationalist Rebel logic. They will now only get land they have a direct core on, or that they control directly. Before they would get any land which belonged to their 'faction', which caused the AI to release most of their territory to the rebels.
+- Altered the tech modifier for Dothraki and Wildling to be 200%, not 250%
+- Altered the tech modifier for Stepstones to be 125%, not 150%
+- Added sanity check for ruler age. Any ruler over 150 will die immediately.
+
+V2.06
+- Added localisation for technology descriptions
+- Added localisation support for French/German/Spanish (not actually translated, but the English localisation will now appear in those locales)
+- Reduced building time for 10 years to 1 year for all buildings
+- Split up the Wall province into individual wastelands.
+
+V2.05
+- Lengthened time of siege phase.
+- Increased Wildling and Dothraki technology modifier to 150%
+
+V2.04
+- Fixed ideas increasing tech cost
+- Fixed Sunstone province
+- Adjusted starting techs and modifiers
+
+V2.03
+- Allowed religious rebels to convert nations from any religious group
+- Added icons for religious rebels
+
+V2.02
+- Added a flag for House Baelish
+- Fixed the Commission Runestone decision
+- Re-aligned province coastlines with heightmap
+- Removed the colonial regions for now
+- Added proper locations for the exploration missions
+
+V2.01
+- Fixed ship unit bug
+- Added Shattered World bookmark
+- Added religious conversion decisions
+- Tidied up the province borders so they follow the coasts better.
+- Added the ability to declare war in regency for every religion
+- Reduced the modifiers in various idea sets
+
+V2.00
+- Compatability for 1.11
+- Restructured the mod.
+- Removed the Personal Interaction Mechanic
+- Added more religion/changed the technology icons
+- Wildlings and Dothraki are now considered primitives
+- Adjusted the Papacy options for Faith of the Seven nations
+- Adjusted the government modifiers and fixed various bugs.
+- Adjusted the religion modifiers.
+- Removed various religions.
+- Added in the Mixed Religions religion.
+- Added tax boosts for Khalasars. One permanent, another gained by being at war.
+- Added combat modifiers for the Night's Watch, one beneficial and gained by warring against the wildling clans, the other negative and gained by warring anyone who isn't a clan.
+- Redesigned the Slavery mechanic. Various Essosian cities start with Slavery allowed, but others must take a stability drop (-6) and fight pretenders when switch to or from slavery.
+
+
+# Suggestions
+
+
+# Low priority
+#	Flags for all religious rebels
+
+MODPOST
+
+[B]Supported Version:[/b] 1.11.1
+
+This mod brings the world of George RR Martin into Europa Universalis 4! Play as one of the Great Houses during the Bleeding Years, attempt to unite the Seven Kingdoms as the Targaryens, or perhaps dominate Essos as a Dothraki Horde.
+
+[b]Features[/b]
+[LIST]
+[*] 500+ realms from the World of Ice and Fire. 
+[*] 27 religions
+[*] 40+ cultures
+[*] 50+ themed events
+[*] 20+ themed decisions
+[*] Slavery Mechanic
+[/LIST]
+
+[b]Credits[/b]
+Credit to CK2:AGOT Development Team for the original map files and a few images used in this mod. Credit to Knuckey for making the original GOT mod for 1.5.
+
+[b][url=http://www.mediafire.com/download/4zv65b8m4m65qc8/asoiaf_test_12_03_2015.zip]Direct Download[/url][/b]
+[b][url=https://www.mediafire.com/folder/q54w4dnkczohq/A_Song_of_Ice_and_Fire]Old Download[/url][/b]

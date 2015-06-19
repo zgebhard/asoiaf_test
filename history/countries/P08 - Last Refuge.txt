@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 363
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harghaz"
+		dynasty = "Yio"
+		birth_date = 967.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Cottor"
+		monarch_name = "Cottor"
+		dynasty = "Yio"
+		birth_date = 980.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Martyn"
+		dynasty = "Yio"
+		birth_date = 997.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Qhorin"
+		monarch_name = "Qhorin"
+		dynasty = "Yio"
+		birth_date = 1041.1.1
+		death_date = 1090.1.1
+		claim = 83
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Gerrick"
+		dynasty = "Yio"
+		birth_date = 1093.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Henly"
+		monarch_name = "Henly"
+		dynasty = "Yio"
+		birth_date = 1084.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1137.1.1 = {
+
+	monarch = {
+		name = "Canker"
+		dynasty = "Yio"
+		birth_date = 1092.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Cedra"
+		monarch_name = "Cedra"
+		dynasty = "Yio"
+		birth_date = 1128.1.1
+		death_date = 1227.1.1
+		claim = 20
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Yio"
+		birth_date = 1124.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Maelys"
+		monarch_name = "Maelys"
+		dynasty = "Yio"
+		birth_date = 1137.1.1
+		death_date = 1188.1.1
+		claim = 91
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Clement"
+		dynasty = "Yio"
+		birth_date = 1129.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Willum"
+		monarch_name = "Willum"
+		dynasty = "Yio"
+		birth_date = 1180.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1242.1.1 = {
+
+	monarch = {
+		name = "Mark"
+		dynasty = "Yio"
+		birth_date = 1207.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Sefton"
+		monarch_name = "Sefton"
+		dynasty = "Yio"
+		birth_date = 1214.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Tom"
+		dynasty = "Yio"
+		birth_date = 1246.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Murmison"
+		monarch_name = "Murmison"
+		dynasty = "Yio"
+		birth_date = 1262.1.1
+		death_date = 1330.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Bennis"
+		dynasty = "Yio"
+		birth_date = 1254.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Ramsey"
+		monarch_name = "Ramsey"
+		dynasty = "Yio"
+		birth_date = 1310.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Zarabelo"
+		dynasty = "Yio"
+		birth_date = 1356.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Martyn"
+		monarch_name = "Martyn"
+		dynasty = "Yio"
+		birth_date = 1373.1.1
+		death_date = 1456.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+}
+

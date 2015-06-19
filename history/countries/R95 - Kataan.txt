@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 669
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Raymund"
+		dynasty = "Kataan"
+		birth_date = 942.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Brusco"
+		monarch_name = "Brusco"
+		dynasty = "Kataan"
+		birth_date = 973.1.1
+		death_date = 1071.1.1
+		claim = 60
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1006.1.1 = {
+
+	monarch = {
+		name = "Medwick"
+		dynasty = "Kataan"
+		birth_date = 973.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Kataan"
+		birth_date = 1001.1.1
+		death_date = 1022.1.1
+		claim = 42
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1014.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Kataan"
+		birth_date = 957.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Kataan"
+		birth_date = 1006.1.1
+		death_date = 1073.1.1
+		claim = 81
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Tothmure"
+		dynasty = "Kataan"
+		birth_date = 1026.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Larra"
+		monarch_name = "Larra"
+		dynasty = "Kataan"
+		birth_date = 1096.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1111.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Kataan"
+		birth_date = 1037.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Harwood"
+		monarch_name = "Harwood"
+		dynasty = "Kataan"
+		birth_date = 1087.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Egon"
+		dynasty = "Kataan"
+		birth_date = 1104.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Hugh"
+		monarch_name = "Hugh"
+		dynasty = "Kataan"
+		birth_date = 1153.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Danwell"
+		dynasty = "Kataan"
+		birth_date = 1110.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Boros"
+		monarch_name = "Boros"
+		dynasty = "Kataan"
+		birth_date = 1184.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Rolfe"
+		dynasty = "Kataan"
+		birth_date = 1204.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Damion"
+		monarch_name = "Damion"
+		dynasty = "Kataan"
+		birth_date = 1249.1.1
+		death_date = 1305.1.1
+		claim = 69
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Bharbo"
+		dynasty = "Kataan"
+		birth_date = 1206.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Dunstan"
+		monarch_name = "Dunstan"
+		dynasty = "Kataan"
+		birth_date = 1266.1.1
+		death_date = 1325.1.1
+		claim = 68
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1294.1.1 = {
+
+	monarch = {
+		name = "Hubard"
+		dynasty = "Kataan"
+		birth_date = 1225.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Lorren"
+		monarch_name = "Lorren"
+		dynasty = "Kataan"
+		birth_date = 1277.1.1
+		death_date = 1367.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Bodger"
+		dynasty = "Kataan"
+		birth_date = 1313.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Poxy"
+		monarch_name = "Poxy"
+		dynasty = "Kataan"
+		birth_date = 1342.1.1
+		death_date = 1406.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Donnel"
+		dynasty = "Kataan"
+		birth_date = 1290.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Amolf"
+		monarch_name = "Amolf"
+		dynasty = "Kataan"
+		birth_date = 1360.1.1
+		death_date = 1392.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Regenard"
+		dynasty = "Toyne"
+		birth_date = 945.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Galazza"
+		monarch_name = "Galazza"
+		dynasty = "Toyne"
+		birth_date = 982.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1001.1.1 = {
+
+	monarch = {
+		name = "Brusco"
+		dynasty = "Toyne"
+		birth_date = 937.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Pono"
+		monarch_name = "Pono"
+		dynasty = "Toyne"
+		birth_date = 993.1.1
+		death_date = 1065.1.1
+		claim = 74
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1059.1.1 = {
+
+	monarch = {
+		name = "Nage"
+		dynasty = "Toyne"
+		birth_date = 1002.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Wynafryd"
+		monarch_name = "Wynafryd"
+		dynasty = "Toyne"
+		female = yes
+		birth_date = 1040.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1144.1.1 = {
+
+	monarch = {
+		name = "Harys"
+		dynasty = "Toyne"
+		birth_date = 1112.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Artos"
+		monarch_name = "Artos"
+		dynasty = "Toyne"
+		birth_date = 1121.1.1
+		death_date = 1218.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Toyne"
+		birth_date = 1190.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Oswell"
+		monarch_name = "Oswell"
+		dynasty = "Toyne"
+		birth_date = 1195.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Draqaz"
+		dynasty = "Toyne"
+		birth_date = 1258.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Gerald"
+		monarch_name = "Gerald"
+		dynasty = "Toyne"
+		birth_date = 1248.1.1
+		death_date = 1300.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Sarra"
+		dynasty = "Toyne"
+		female = yes
+		birth_date = 1267.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Orell"
+		monarch_name = "Orell"
+		dynasty = "Toyne"
+		birth_date = 1302.1.1
+		death_date = 1369.1.1
+		claim = 48
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Galyeon"
+		dynasty = "Toyne"
+		birth_date = 1330.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Loren"
+		monarch_name = "Loren"
+		dynasty = "Toyne"
+		birth_date = 1374.1.1
+		death_date = 1457.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+}
+

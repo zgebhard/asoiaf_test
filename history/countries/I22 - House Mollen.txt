@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 54
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Mollen"
+		birth_date = 979.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Ellaria"
+		monarch_name = "Ellaria"
+		dynasty = "Mollen"
+		female = yes
+		birth_date = 1000.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1005.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Mollen"
+		birth_date = 915.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Jojen"
+		monarch_name = "Jojen"
+		dynasty = "Mollen"
+		birth_date = 976.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1090.1.1 = {
+	monarch = {
+		name = "Cortnay"
+		dynasty = "Mollen"
+		female = yes
+		birth_date = 1039.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Orys"
+		monarch_name = "Orys"
+		dynasty = "Mollen"
+		birth_date = 1085.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Mollen"
+		birth_date = 1094.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Vardis"
+		monarch_name = "Vardis"
+		dynasty = "Mollen"
+		birth_date = 1130.1.1
+		death_date = 1210.1.1
+		claim = 97
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Tygett"
+		dynasty = "Mollen"
+		birth_date = 1119.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Yoren"
+		monarch_name = "Yoren"
+		dynasty = "Mollen"
+		birth_date = 1174.1.1
+		death_date = 1248.1.1
+		claim = 92
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Mollen"
+		birth_date = 1182.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Pycelle"
+		monarch_name = "Pycelle"
+		dynasty = "Mollen"
+		birth_date = 1227.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Zekko"
+		dynasty = "Mollen"
+		birth_date = 1239.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Dancy"
+		monarch_name = "Dancy"
+		dynasty = "Mollen"
+		female = yes
+		birth_date = 1261.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Wate"
+		dynasty = "Mollen"
+		birth_date = 1276.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Lucamore"
+		monarch_name = "Lucamore"
+		dynasty = "Mollen"
+		birth_date = 1308.1.1
+		death_date = 1369.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,33 @@
+# 719- Faros
+
+owner = R53
+add_core = R53
+controller = R53
+
+culture = farosi
+religion = asoiaf_stone_cow_of_faros
+
+base_tax = 7
+base_production = 7
+trade_goods = cotton
+base_manpower =  4
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Faros"
+

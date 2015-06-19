@@ -1,0 +1,20 @@
+
+government_rank = 1
+government = khas_city
+mercantilism = 0.1
+
+technology_group = dothraki
+primary_culture = dothraki
+religion = asoiaf_the_great_stallion
+
+capital = 709
+
+1000.1.1 = {
+	monarch = {
+		name = "Myranda"
+		dynasty = "Dothraki"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

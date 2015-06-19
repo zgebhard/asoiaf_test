@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = moraqi
+religion = asoiaf_stone_cow_of_faros
+
+capital = 727
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Aegon"
+		dynasty = "Jaffarala"
+		birth_date = 947.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Torbert"
+		monarch_name = "Torbert"
+		dynasty = "Jaffarala"
+		birth_date = 971.1.1
+		death_date = 1038.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1021.1.1 = {
+
+	monarch = {
+		name = "Randyll"
+		dynasty = "Jaffarala"
+		birth_date = 1000.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Morros"
+		monarch_name = "Morros"
+		dynasty = "Jaffarala"
+		birth_date = 1014.1.1
+		death_date = 1096.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Jaffarala"
+		birth_date = 985.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Bryen"
+		monarch_name = "Bryen"
+		dynasty = "Jaffarala"
+		birth_date = 997.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Dirk"
+		dynasty = "Jaffarala"
+		birth_date = 1042.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Jaffarala"
+		birth_date = 1099.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Kurz"
+		dynasty = "Jaffarala"
+		birth_date = 1158.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Jaffarala"
+		birth_date = 1158.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Kurleket"
+		dynasty = "Jaffarala"
+		birth_date = 1153.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Beqqo"
+		monarch_name = "Beqqo"
+		dynasty = "Jaffarala"
+		birth_date = 1189.1.1
+		death_date = 1294.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Jaffarala"
+		birth_date = 1196.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Torwyld"
+		monarch_name = "Torwyld"
+		dynasty = "Jaffarala"
+		birth_date = 1239.1.1
+		death_date = 1312.1.1
+		claim = 92
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1275.1.1 = {
+
+	monarch = {
+		name = "Quill"
+		dynasty = "Jaffarala"
+		birth_date = 1194.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Jaffarala"
+		birth_date = 1254.1.1
+		death_date = 1350.1.1
+		claim = 17
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Jaffarala"
+		birth_date = 1262.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Desmond"
+		monarch_name = "Desmond"
+		dynasty = "Jaffarala"
+		birth_date = 1260.1.1
+		death_date = 1371.1.1
+		claim = 51
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Oswyn"
+		dynasty = "Jaffarala"
+		birth_date = 1311.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Watt"
+		monarch_name = "Watt"
+		dynasty = "Jaffarala"
+		birth_date = 1324.1.1
+		death_date = 1382.1.1
+		claim = 35
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Meribold"
+		dynasty = "Jaffarala"
+		birth_date = 1346.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Jaffarala"
+		birth_date = 1376.1.1
+		death_date = 1441.1.1
+		claim = 3
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Harlon"
+		dynasty = "Jaffarala"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Roland"
+		monarch_name = "Roland"
+		dynasty = "Jaffarala"
+		birth_date = 1375.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Torwyld"
+		dynasty = "Jaffarala"
+		birth_date = 1332.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Robin"
+		monarch_name = "Robin"
+		dynasty = "Jaffarala"
+		birth_date = 1373.1.1
+		death_date = 1447.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+

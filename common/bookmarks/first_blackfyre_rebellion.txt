@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "BLACKFYRE_REBELLION_NAME"
+	desc = "BLACKFYRE_REBELLION_DESC"
+	# New Date: 1196.1.1
+	# Old Date: 2005.1.1
+	date = 1196.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = first_blackfyre_rebellion
+		}
+	}
+}

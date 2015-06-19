@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 187
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Emberlei"
+		dynasty = "Moreland"
+		birth_date = 959.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Timoth"
+		monarch_name = "Timoth"
+		dynasty = "Moreland"
+		birth_date = 983.1.1
+		death_date = 1047.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1073.1.1 = {
+
+	monarch = {
+		name = "Orbelo"
+		dynasty = "Moreland"
+		birth_date = 983.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Rhaegar"
+		monarch_name = "Rhaegar"
+		dynasty = "Moreland"
+		birth_date = 1072.1.1
+		death_date = 1099.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1121.1.1 = {
+
+	monarch = {
+		name = "Ezzelnyo"
+		dynasty = "Moreland"
+		birth_date = 1058.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Philip"
+		monarch_name = "Philip"
+		dynasty = "Moreland"
+		birth_date = 1121.1.1
+		death_date = 1201.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Moreland"
+		birth_date = 1149.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Moreland"
+		birth_date = 1186.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1227.1.1 = {
+	monarch = {
+		name = "Talea"
+		dynasty = "Moreland"
+		female = yes
+		birth_date = 1180.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Unella"
+		monarch_name = "Unella"
+		dynasty = "Moreland"
+		female = yes
+		birth_date = 1208.1.1
+		death_date = 1259.1.1
+		claim = 81
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Jack"
+		dynasty = "Moreland"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Bael"
+		monarch_name = "Bael"
+		dynasty = "Moreland"
+		birth_date = 1226.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1293.1.1 = {
+	monarch = {
+		name = "Ella"
+		dynasty = "Moreland"
+		female = yes
+		birth_date = 1277.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Jeren"
+		monarch_name = "Jeren"
+		dynasty = "Moreland"
+		birth_date = 1282.1.1
+		death_date = 1349.1.1
+		claim = 42
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1369.1.1 = {
+	monarch = {
+		name = "Myrtle"
+		dynasty = "Moreland"
+		female = yes
+		birth_date = 1311.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Ferrego"
+		monarch_name = "Ferrego"
+		dynasty = "Moreland"
+		birth_date = 1355.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1378.1.1 = {
+	monarch = {
+		name = "Falia"
+		dynasty = "Moreland"
+		female = yes
+		birth_date = 1327.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Edwyle"
+		monarch_name = "Edwyle"
+		dynasty = "Moreland"
+		birth_date = 1352.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+

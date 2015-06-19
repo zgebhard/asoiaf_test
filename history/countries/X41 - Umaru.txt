@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = xho
+religion = asoiaf_summer_gods
+
+capital = 524
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ygon"
+		dynasty = "Umaru"
+		birth_date = 956.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Herbert"
+		monarch_name = "Herbert"
+		dynasty = "Umaru"
+		birth_date = 974.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Umaru"
+		birth_date = 1038.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Rollam"
+		monarch_name = "Rollam"
+		dynasty = "Umaru"
+		birth_date = 1070.1.1
+		death_date = 1155.1.1
+		claim = 11
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Umaru"
+		birth_date = 1091.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Otter"
+		monarch_name = "Otter"
+		dynasty = "Umaru"
+		birth_date = 1138.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1254.1.1 = {
+
+	monarch = {
+		name = "Lucas"
+		dynasty = "Umaru"
+		birth_date = 1183.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Qalen"
+		monarch_name = "Qalen"
+		dynasty = "Umaru"
+		birth_date = 1237.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Elmar"
+		dynasty = "Umaru"
+		birth_date = 1246.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Terrence"
+		monarch_name = "Terrence"
+		dynasty = "Umaru"
+		birth_date = 1260.1.1
+		death_date = 1339.1.1
+		claim = 76
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1300.1.1 = {
+	monarch = {
+		name = "Brenett"
+		dynasty = "Umaru"
+		female = yes
+		birth_date = 1232.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Porthor"
+		monarch_name = "Porthor"
+		dynasty = "Umaru"
+		birth_date = 1283.1.1
+		death_date = 1389.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Pylos"
+		dynasty = "Umaru"
+		birth_date = 1300.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Wynton"
+		monarch_name = "Wynton"
+		dynasty = "Umaru"
+		birth_date = 1336.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Lymond"
+		dynasty = "Umaru"
+		birth_date = 1295.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Maekar"
+		monarch_name = "Maekar"
+		dynasty = "Umaru"
+		birth_date = 1363.1.1
+		death_date = 1398.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+

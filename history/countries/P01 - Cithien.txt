@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 1518
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Devan"
+		dynasty = "Cithien"
+		birth_date = 982.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Cithien"
+		birth_date = 972.1.1
+		death_date = 1052.1.1
+		claim = 89
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Qarro"
+		dynasty = "Cithien"
+		birth_date = 965.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Garin"
+		monarch_name = "Garin"
+		dynasty = "Cithien"
+		birth_date = 1021.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Flement"
+		dynasty = "Cithien"
+		birth_date = 956.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Bannen"
+		monarch_name = "Bannen"
+		dynasty = "Cithien"
+		birth_date = 1013.1.1
+		death_date = 1073.1.1
+		claim = 74
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Cithien"
+		birth_date = 996.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Garlan"
+		monarch_name = "Garlan"
+		dynasty = "Cithien"
+		birth_date = 1036.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Thormor"
+		dynasty = "Cithien"
+		birth_date = 1051.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Erena"
+		monarch_name = "Erena"
+		dynasty = "Cithien"
+		birth_date = 1086.1.1
+		death_date = 1187.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Obara"
+		dynasty = "Cithien"
+		female = yes
+		birth_date = 1089.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Todder"
+		monarch_name = "Todder"
+		dynasty = "Cithien"
+		birth_date = 1133.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Garin"
+		dynasty = "Cithien"
+		birth_date = 1154.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Josmyn"
+		monarch_name = "Josmyn"
+		dynasty = "Cithien"
+		birth_date = 1222.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Cithien"
+		birth_date = 1186.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Cithien"
+		birth_date = 1207.1.1
+		death_date = 1265.1.1
+		claim = 13
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1235.1.1 = {
+
+	monarch = {
+		name = "Tarber"
+		dynasty = "Cithien"
+		birth_date = 1184.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Harraq"
+		monarch_name = "Harraq"
+		dynasty = "Cithien"
+		birth_date = 1216.1.1
+		death_date = 1294.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Robb"
+		dynasty = "Cithien"
+		birth_date = 1305.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Cithien"
+		birth_date = 1292.1.1
+		death_date = 1358.1.1
+		claim = 76
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Vylarr"
+		dynasty = "Cithien"
+		birth_date = 1326.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Cithien"
+		birth_date = 1384.1.1
+		death_date = 1458.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+

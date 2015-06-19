@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 263
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tobho"
+		dynasty = "Hewett"
+		birth_date = 974.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Wate"
+		monarch_name = "Wate"
+		dynasty = "Hewett"
+		birth_date = 992.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1063.1.1 = {
+
+	monarch = {
+		name = "Dirk"
+		dynasty = "Hewett"
+		birth_date = 1029.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Mollos"
+		monarch_name = "Mollos"
+		dynasty = "Hewett"
+		birth_date = 1061.1.1
+		death_date = 1140.1.1
+		claim = 52
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Bryon"
+		dynasty = "Hewett"
+		birth_date = 1051.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ellery"
+		monarch_name = "Ellery"
+		dynasty = "Hewett"
+		birth_date = 1069.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1162.1.1 = {
+
+	monarch = {
+		name = "Hibald"
+		dynasty = "Hewett"
+		birth_date = 1126.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Yoren"
+		monarch_name = "Yoren"
+		dynasty = "Hewett"
+		birth_date = 1155.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Hewett"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Joss"
+		monarch_name = "Joss"
+		dynasty = "Hewett"
+		birth_date = 1229.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Grenn"
+		dynasty = "Hewett"
+		birth_date = 1195.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Harren"
+		monarch_name = "Harren"
+		dynasty = "Hewett"
+		birth_date = 1236.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Salladhor"
+		dynasty = "Hewett"
+		birth_date = 1243.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Matthar"
+		monarch_name = "Matthar"
+		dynasty = "Hewett"
+		birth_date = 1266.1.1
+		death_date = 1378.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Kedry"
+		dynasty = "Hewett"
+		birth_date = 1281.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Creighton"
+		monarch_name = "Creighton"
+		dynasty = "Hewett"
+		birth_date = 1327.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Grubbs"
+		dynasty = "Hewett"
+		birth_date = 1361.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Guyard"
+		monarch_name = "Guyard"
+		dynasty = "Hewett"
+		birth_date = 1386.1.1
+		death_date = 1472.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+

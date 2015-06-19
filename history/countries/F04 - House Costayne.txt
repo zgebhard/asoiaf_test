@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 289
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cedrik"
+		dynasty = "Costayne"
+		birth_date = 972.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Steffon"
+		monarch_name = "Steffon"
+		dynasty = "Costayne"
+		birth_date = 992.1.1
+		death_date = 1080.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Chella"
+		dynasty = "Costayne"
+		birth_date = 983.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Malwyn"
+		monarch_name = "Malwyn"
+		dynasty = "Costayne"
+		birth_date = 1036.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Costayne"
+		birth_date = 1023.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Costayne"
+		birth_date = 1037.1.1
+		death_date = 1096.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Ossifer"
+		dynasty = "Costayne"
+		birth_date = 1019.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Costayne"
+		birth_date = 1071.1.1
+		death_date = 1150.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1091.1.1 = {
+
+	monarch = {
+		name = "Gran"
+		dynasty = "Costayne"
+		birth_date = 1058.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Rymolf"
+		monarch_name = "Rymolf"
+		dynasty = "Costayne"
+		birth_date = 1079.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Costayne"
+		birth_date = 1030.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Wendell"
+		monarch_name = "Wendell"
+		dynasty = "Costayne"
+		birth_date = 1104.1.1
+		death_date = 1209.1.1
+		claim = 34
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Robert"
+		dynasty = "Costayne"
+		birth_date = 1099.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Jared"
+		monarch_name = "Jared"
+		dynasty = "Costayne"
+		birth_date = 1165.1.1
+		death_date = 1244.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1190.1.1 = {
+
+	monarch = {
+		name = "Alebelly"
+		dynasty = "Costayne"
+		birth_date = 1130.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Tanton"
+		monarch_name = "Tanton"
+		dynasty = "Costayne"
+		birth_date = 1190.1.1
+		death_date = 1240.1.1
+		claim = 97
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Victarion"
+		dynasty = "Costayne"
+		birth_date = 1142.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Tarber"
+		monarch_name = "Tarber"
+		dynasty = "Costayne"
+		birth_date = 1191.1.1
+		death_date = 1288.1.1
+		claim = 54
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Waymar"
+		dynasty = "Costayne"
+		birth_date = 1258.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Costayne"
+		birth_date = 1274.1.1
+		death_date = 1314.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Costayne"
+		birth_date = 1328.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Manfred"
+		monarch_name = "Manfred"
+		dynasty = "Costayne"
+		birth_date = 1354.1.1
+		death_date = 1462.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+

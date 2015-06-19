@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 343
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Eden"
+		dynasty = "Jordayne"
+		birth_date = 933.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Hop-Robin"
+		monarch_name = "Hop-Robin"
+		dynasty = "Jordayne"
+		birth_date = 981.1.1
+		death_date = 1024.1.1
+		claim = 39
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1083.1.1 = {
+
+	monarch = {
+		name = "Gwin"
+		dynasty = "Jordayne"
+		birth_date = 1014.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Hareth"
+		monarch_name = "Hareth"
+		dynasty = "Jordayne"
+		birth_date = 1077.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Roone"
+		dynasty = "Jordayne"
+		birth_date = 1089.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ygitte"
+		monarch_name = "Ygitte"
+		dynasty = "Jordayne"
+		female = yes
+		birth_date = 1155.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Jordayne"
+		birth_date = 1135.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Bryan"
+		monarch_name = "Bryan"
+		dynasty = "Jordayne"
+		birth_date = 1157.1.1
+		death_date = 1258.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Axell"
+		dynasty = "Jordayne"
+		birth_date = 1102.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Meldred"
+		monarch_name = "Meldred"
+		dynasty = "Jordayne"
+		female = yes
+		birth_date = 1173.1.1
+		death_date = 1198.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Jordayne"
+		birth_date = 1138.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Kym"
+		monarch_name = "Kym"
+		dynasty = "Jordayne"
+		birth_date = 1190.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1275.1.1 = {
+
+	monarch = {
+		name = "Parmen"
+		dynasty = "Jordayne"
+		birth_date = 1191.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Jordayne"
+		birth_date = 1268.1.1
+		death_date = 1326.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1311.1.1 = {
+
+	monarch = {
+		name = "Quellon"
+		dynasty = "Jordayne"
+		birth_date = 1279.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Orwyle"
+		monarch_name = "Orwyle"
+		dynasty = "Jordayne"
+		birth_date = 1310.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Gwin"
+		dynasty = "Jordayne"
+		birth_date = 1291.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Tywin"
+		monarch_name = "Tywin"
+		dynasty = "Jordayne"
+		birth_date = 1351.1.1
+		death_date = 1416.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+

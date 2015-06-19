@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 325
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Donnis"
+		dynasty = "Gower"
+		birth_date = 980.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Meliana"
+		monarch_name = "Meliana"
+		dynasty = "Gower"
+		female = yes
+		birth_date = 989.1.1
+		death_date = 1017.1.1
+		claim = 57
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1046.1.1 = {
+
+	monarch = {
+		name = "Godwyn"
+		dynasty = "Gower"
+		birth_date = 992.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Gower"
+		birth_date = 1045.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1092.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Gower"
+		birth_date = 1036.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Gwayne"
+		monarch_name = "Gwayne"
+		dynasty = "Gower"
+		birth_date = 1084.1.1
+		death_date = 1164.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Arwood"
+		dynasty = "Gower"
+		birth_date = 1073.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jommo"
+		monarch_name = "Jommo"
+		dynasty = "Gower"
+		birth_date = 1135.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Ossy"
+		dynasty = "Gower"
+		birth_date = 1107.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Larence"
+		monarch_name = "Larence"
+		dynasty = "Gower"
+		birth_date = 1164.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1261.1.1 = {
+	monarch = {
+		name = "Walda"
+		dynasty = "Gower"
+		female = yes
+		birth_date = 1171.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Gower"
+		birth_date = 1252.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Gower"
+		birth_date = 1269.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Gower"
+		birth_date = 1292.1.1
+		death_date = 1395.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Gower"
+		birth_date = 1308.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Dilly"
+		monarch_name = "Dilly"
+		dynasty = "Gower"
+		birth_date = 1365.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Khorane"
+		dynasty = "Gower"
+		birth_date = 1380.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Sybell"
+		monarch_name = "Sybell"
+		dynasty = "Gower"
+		birth_date = 1368.1.1
+		death_date = 1472.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+

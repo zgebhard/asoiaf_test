@@ -1,0 +1,910 @@
+government_rank = 1
+government = qohor_city
+mercantilism = 0.1
+
+technology_group = eastern
+primary_culture = qohorik
+religion = asoiaf_black_goat_of_qohor
+
+capital = 481
+
+1000.1.1 = {
+	monarch = {
+		name = "Horas"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1004.1.1 = {
+	monarch = {
+		name = "Morrec"
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}
+
+1008.1.1 = {
+	monarch = {
+		name = "Tobbot"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+1012.1.1 = {
+	monarch = {
+		name = "Uller"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+}
+
+1016.1.1 = {
+	monarch = {
+		name = "Mors"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1020.1.1 = {
+	monarch = {
+		name = "Harbert"
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+}
+
+1024.1.1 = {
+	monarch = {
+		name = "Eroeh"
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+1028.1.1 = {
+	monarch = {
+		name = "Dafyn"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1032.1.1 = {
+	monarch = {
+		name = "Kella"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1036.1.1 = {
+	monarch = {
+		name = "Elwood"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+}
+
+1040.1.1 = {
+	monarch = {
+		name = "Timoth"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1044.1.1 = {
+	monarch = {
+		name = "Dalbridge"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1048.1.1 = {
+	monarch = {
+		name = "Ottomore"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1052.1.1 = {
+	monarch = {
+		name = "Vortimer"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1056.1.1 = {
+	monarch = {
+		name = "Ollo"
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+}
+
+1060.1.1 = {
+	monarch = {
+		name = "Edderion"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+1064.1.1 = {
+	monarch = {
+		name = "Daario"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1068.1.1 = {
+	monarch = {
+		name = "Arthor"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1072.1.1 = {
+	monarch = {
+		name = "Dennis"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+
+1076.1.1 = {
+	monarch = {
+		name = "Hullen"
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Clayton"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1084.1.1 = {
+	monarch = {
+		name = "Porridge"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1088.1.1 = {
+	monarch = {
+		name = "Wex"
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+}
+
+1092.1.1 = {
+	monarch = {
+		name = "Ottomore"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1096.1.1 = {
+	monarch = {
+		name = "Lorren"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+
+1100.1.1 = {
+	monarch = {
+		name = "Marei"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1104.1.1 = {
+	monarch = {
+		name = "Qezza"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1108.1.1 = {
+	monarch = {
+		name = "Sefton"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1112.1.1 = {
+	monarch = {
+		name = "Matarys"
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+}
+
+1116.1.1 = {
+	monarch = {
+		name = "Lyessa"
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1120.1.1 = {
+	monarch = {
+		name = "Toregg"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1124.1.1 = {
+	monarch = {
+		name = "Harrion"
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+1128.1.1 = {
+	monarch = {
+		name = "Carolei"
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+1132.1.1 = {
+	monarch = {
+		name = "Torrek"
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+}
+
+1136.1.1 = {
+	monarch = {
+		name = "Mark"
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+1140.1.1 = {
+	monarch = {
+		name = "Bronn"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1144.1.1 = {
+	monarch = {
+		name = "Jorquen"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1148.1.1 = {
+	monarch = {
+		name = "Calon"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Theo"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1156.1.1 = {
+	monarch = {
+		name = "Jason"
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Gulian"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1164.1.1 = {
+	monarch = {
+		name = "Gormond"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1168.1.1 = {
+	monarch = {
+		name = "Nestor"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1172.1.1 = {
+	monarch = {
+		name = "Merlon"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1176.1.1 = {
+	monarch = {
+		name = "Nymos"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Harlon"
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+}
+
+1184.1.1 = {
+	monarch = {
+		name = "Drogo"
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+1188.1.1 = {
+	monarch = {
+		name = "Lyonel"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+}
+
+1192.1.1 = {
+	monarch = {
+		name = "Symeon"
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+}
+
+1196.1.1 = {
+	monarch = {
+		name = "Colemon"
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Tom"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+}
+
+1204.1.1 = {
+	monarch = {
+		name = "Jorgen"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+1208.1.1 = {
+	monarch = {
+		name = "Harmund"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1212.1.1 = {
+	monarch = {
+		name = "Lysono"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1216.1.1 = {
+	monarch = {
+		name = "Porthor"
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Toregg"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1224.1.1 = {
+	monarch = {
+		name = "Bael"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1228.1.1 = {
+	monarch = {
+		name = "Boremund"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1232.1.1 = {
+	monarch = {
+		name = "Jommy"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1236.1.1 = {
+	monarch = {
+		name = "Tygett"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Daven"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1244.1.1 = {
+	monarch = {
+		name = "Rhaego"
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1248.1.1 = {
+	monarch = {
+		name = "Zekko"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+1252.1.1 = {
+	monarch = {
+		name = "Arlan"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1256.1.1 = {
+	monarch = {
+		name = "Ambrose"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Ottomore"
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1264.1.1 = {
+	monarch = {
+		name = "Merlon"
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+}
+
+1268.1.1 = {
+	monarch = {
+		name = "Oberyn"
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+}
+
+1272.1.1 = {
+	monarch = {
+		name = "Shagwell"
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+}
+
+1276.1.1 = {
+	monarch = {
+		name = "Mikken"
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+}
+
+1280.1.1 = {
+	monarch = {
+		name = "Pyat"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1284.1.1 = {
+	monarch = {
+		name = "Jammos"
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+}
+
+1288.1.1 = {
+	monarch = {
+		name = "Greydon"
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1292.1.1 = {
+	monarch = {
+		name = "Pypar"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1296.1.1 = {
+	monarch = {
+		name = "Norren"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1300.1.1 = {
+	monarch = {
+		name = "Will"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Ashford"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1308.1.1 = {
+	monarch = {
+		name = "Nage"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+1312.1.1 = {
+	monarch = {
+		name = "Bennis"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1316.1.1 = {
+	monarch = {
+		name = "Jon"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1320.1.1 = {
+	monarch = {
+		name = "Kemmett"
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+}
+
+1324.1.1 = {
+	monarch = {
+		name = "Ferret"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Sherrit"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Tyland"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Polliver"
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "Bedwyck"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1344.1.1 = {
+	monarch = {
+		name = "Deziel"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Cregan"
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+}
+
+1352.1.1 = {
+	monarch = {
+		name = "Cottor"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Galazza"
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Hali"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Edmure"
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+1368.1.1 = {
+	monarch = {
+		name = "Doran"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1372.1.1 = {
+	monarch = {
+		name = "Victarion"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1376.1.1 = {
+	monarch = {
+		name = "Raymund"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Royce"
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Clayton"
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Ormond"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Morosh"
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Dagmer"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+

@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 22
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Allyria"
+		dynasty = "Knott"
+		birth_date = 951.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Addison"
+		monarch_name = "Addison"
+		dynasty = "Knott"
+		birth_date = 998.1.1
+		death_date = 1051.1.1
+		claim = 51
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Ezzelnyo"
+		dynasty = "Knott"
+		birth_date = 981.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Prendahl"
+		monarch_name = "Prendahl"
+		dynasty = "Knott"
+		birth_date = 1052.1.1
+		death_date = 1095.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Umar"
+		dynasty = "Knott"
+		birth_date = 1097.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Knott"
+		birth_date = 1130.1.1
+		death_date = 1194.1.1
+		claim = 0
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Eddard"
+		dynasty = "Knott"
+		birth_date = 1151.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Knott"
+		birth_date = 1202.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Kirth"
+		dynasty = "Knott"
+		birth_date = 1223.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Knott"
+		birth_date = 1244.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Tion"
+		dynasty = "Knott"
+		birth_date = 1216.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Mors"
+		monarch_name = "Mors"
+		dynasty = "Knott"
+		birth_date = 1280.1.1
+		death_date = 1364.1.1
+		claim = 61
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Knott"
+		birth_date = 1288.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Myrcella"
+		monarch_name = "Myrcella"
+		dynasty = "Knott"
+		female = yes
+		birth_date = 1322.1.1
+		death_date = 1360.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Knott"
+		birth_date = 1276.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Bertram"
+		monarch_name = "Bertram"
+		dynasty = "Knott"
+		birth_date = 1344.1.1
+		death_date = 1362.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 113
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Barre"
+		dynasty = "Ryger"
+		birth_date = 951.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Willam"
+		monarch_name = "Willam"
+		dynasty = "Ryger"
+		birth_date = 988.1.1
+		death_date = 1065.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1046.1.1 = {
+
+	monarch = {
+		name = "Garlan"
+		dynasty = "Ryger"
+		birth_date = 1024.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Pypar"
+		monarch_name = "Pypar"
+		dynasty = "Ryger"
+		birth_date = 1026.1.1
+		death_date = 1114.1.1
+		claim = 15
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "?Abelar"
+		dynasty = "Ryger"
+		birth_date = 1074.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Stannis"
+		monarch_name = "Stannis"
+		dynasty = "Ryger"
+		birth_date = 1111.1.1
+		death_date = 1150.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Poul"
+		dynasty = "Ryger"
+		birth_date = 1130.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Jon"
+		monarch_name = "Jon"
+		dynasty = "Ryger"
+		birth_date = 1165.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Hal"
+		dynasty = "Ryger"
+		birth_date = 1168.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Reysen"
+		monarch_name = "Reysen"
+		dynasty = "Ryger"
+		birth_date = 1198.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Areo"
+		dynasty = "Ryger"
+		birth_date = 1217.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Ryger"
+		birth_date = 1228.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Ricasso"
+		dynasty = "Ryger"
+		birth_date = 1255.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Ryger"
+		birth_date = 1313.1.1
+		death_date = 1372.1.1
+		claim = 67
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Donel"
+		dynasty = "Ryger"
+		birth_date = 1287.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ketter"
+		monarch_name = "Ketter"
+		dynasty = "Ryger"
+		birth_date = 1310.1.1
+		death_date = 1344.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Ryger"
+		birth_date = 1342.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Bryon"
+		monarch_name = "Bryon"
+		dynasty = "Ryger"
+		birth_date = 1376.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+

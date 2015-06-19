@@ -1,0 +1,191 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = asshai
+religion = asoiaf_shadowbinders
+
+capital = 795
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tumco"
+		dynasty = "Hi'i"
+		birth_date = 936.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Harma"
+		monarch_name = "Harma"
+		dynasty = "Hi'i"
+		birth_date = 970.1.1
+		death_date = 1053.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1045.1.1 = {
+
+	monarch = {
+		name = "Rowan"
+		dynasty = "Hi'i"
+		birth_date = 971.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Lister"
+		monarch_name = "Lister"
+		dynasty = "Hi'i"
+		birth_date = 1020.1.1
+		death_date = 1129.1.1
+		claim = 77
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Sigrin"
+		dynasty = "Hi'i"
+		birth_date = 1028.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Ronald"
+		monarch_name = "Ronald"
+		dynasty = "Hi'i"
+		birth_date = 1070.1.1
+		death_date = 1103.1.1
+		claim = 23
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Eldred"
+		dynasty = "Hi'i"
+		birth_date = 1083.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Hi'i"
+		birth_date = 1119.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Bennarion"
+		dynasty = "Hi'i"
+		birth_date = 1192.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Hi'i"
+		birth_date = 1182.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Gran"
+		dynasty = "Hi'i"
+		birth_date = 1197.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Morton"
+		monarch_name = "Morton"
+		dynasty = "Hi'i"
+		birth_date = 1274.1.1
+		death_date = 1308.1.1
+		claim = 53
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Tobho"
+		dynasty = "Hi'i"
+		birth_date = 1270.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Haggon"
+		monarch_name = "Haggon"
+		dynasty = "Hi'i"
+		birth_date = 1322.1.1
+		death_date = 1370.1.1
+		claim = 11
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+
+
+
+
+

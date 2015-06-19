@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 213
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Kemmett"
+		dynasty = "Hollard"
+		birth_date = 911.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rosamund"
+		monarch_name = "Rosamund"
+		dynasty = "Hollard"
+		female = yes
+		birth_date = 972.1.1
+		death_date = 1039.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Hollard"
+		birth_date = 1034.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Gorghan"
+		monarch_name = "Gorghan"
+		dynasty = "Hollard"
+		birth_date = 1062.1.1
+		death_date = 1099.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Hollard"
+		birth_date = 1015.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Lothar"
+		monarch_name = "Lothar"
+		dynasty = "Hollard"
+		birth_date = 1091.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Denyo"
+		dynasty = "Hollard"
+		birth_date = 1137.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Belwas"
+		monarch_name = "Belwas"
+		dynasty = "Hollard"
+		birth_date = 1180.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1265.1.1 = {
+
+	monarch = {
+		name = "Jhiqui"
+		dynasty = "Hollard"
+		birth_date = 1218.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Oswell"
+		monarch_name = "Oswell"
+		dynasty = "Hollard"
+		birth_date = 1262.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1313.1.1 = {
+
+	monarch = {
+		name = "Jacelyn"
+		dynasty = "Hollard"
+		birth_date = 1224.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Hollard"
+		birth_date = 1312.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Hod"
+		dynasty = "Hollard"
+		birth_date = 1353.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Wendell"
+		monarch_name = "Wendell"
+		dynasty = "Hollard"
+		birth_date = 1381.1.1
+		death_date = 1485.1.1
+		claim = 83
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+

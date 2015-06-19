@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 204
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ryles"
+		dynasty = "Thorne"
+		birth_date = 967.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Aemon"
+		monarch_name = "Aemon"
+		dynasty = "Thorne"
+		birth_date = 993.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Thorne"
+		birth_date = 998.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Wilbert"
+		monarch_name = "Wilbert"
+		dynasty = "Thorne"
+		birth_date = 986.1.1
+		death_date = 1100.1.1
+		claim = 99
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Quort"
+		dynasty = "Thorne"
+		birth_date = 1057.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Thorne"
+		birth_date = 1073.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Bradamar"
+		dynasty = "Thorne"
+		birth_date = 1041.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Mychel"
+		monarch_name = "Mychel"
+		dynasty = "Thorne"
+		birth_date = 1111.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Danwell"
+		dynasty = "Thorne"
+		birth_date = 1188.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Missandei"
+		monarch_name = "Missandei"
+		dynasty = "Thorne"
+		female = yes
+		birth_date = 1186.1.1
+		death_date = 1273.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1298.1.1 = {
+
+	monarch = {
+		name = "Zhoe"
+		dynasty = "Thorne"
+		birth_date = 1239.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Harlan"
+		monarch_name = "Harlan"
+		dynasty = "Thorne"
+		birth_date = 1272.1.1
+		death_date = 1338.1.1
+		claim = 76
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Thorne"
+		birth_date = 1284.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Maric"
+		monarch_name = "Maric"
+		dynasty = "Thorne"
+		birth_date = 1298.1.1
+		death_date = 1413.1.1
+		claim = 8
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1391.1.1 = {
+
+	monarch = {
+		name = "Rolder"
+		dynasty = "Thorne"
+		birth_date = 1312.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rhaego"
+		monarch_name = "Rhaego"
+		dynasty = "Thorne"
+		birth_date = 1374.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+

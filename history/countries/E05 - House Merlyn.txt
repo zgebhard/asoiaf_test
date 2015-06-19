@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 153
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gallard"
+		dynasty = "Mertyns"
+		birth_date = 923.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Regenard"
+		monarch_name = "Regenard"
+		dynasty = "Mertyns"
+		birth_date = 988.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Mebble"
+		dynasty = "Mertyns"
+		birth_date = 1012.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Sybell"
+		monarch_name = "Sybell"
+		dynasty = "Mertyns"
+		birth_date = 998.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Edderion"
+		dynasty = "Mertyns"
+		birth_date = 1087.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Fornio"
+		monarch_name = "Fornio"
+		dynasty = "Mertyns"
+		birth_date = 1078.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Poul"
+		dynasty = "Mertyns"
+		birth_date = 1059.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Guyard"
+		monarch_name = "Guyard"
+		dynasty = "Mertyns"
+		birth_date = 1114.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Brusco"
+		dynasty = "Mertyns"
+		birth_date = 1134.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Rast"
+		monarch_name = "Rast"
+		dynasty = "Mertyns"
+		birth_date = 1190.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Dunaver"
+		dynasty = "Mertyns"
+		birth_date = 1196.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Jommo"
+		monarch_name = "Jommo"
+		dynasty = "Mertyns"
+		birth_date = 1247.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Meizo"
+		dynasty = "Mertyns"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Barth"
+		monarch_name = "Barth"
+		dynasty = "Mertyns"
+		birth_date = 1256.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Ulf"
+		dynasty = "Mertyns"
+		birth_date = 1257.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Amell"
+		monarch_name = "Amell"
+		dynasty = "Mertyns"
+		birth_date = 1317.1.1
+		death_date = 1373.1.1
+		claim = 73
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Theon"
+		dynasty = "Mertyns"
+		birth_date = 1335.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Danny"
+		monarch_name = "Danny"
+		dynasty = "Mertyns"
+		birth_date = 1345.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Quentyn"
+		dynasty = "Mertyns"
+		birth_date = 1356.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Zei"
+		monarch_name = "Zei"
+		dynasty = "Mertyns"
+		birth_date = 1358.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+

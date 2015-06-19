@@ -1,0 +1,86 @@
+country_decisions = {
+
+	# Laws
+	# Monarchy
+	# 	Institute Grain Tax
+	#	Institute Sin Tax
+	#	Draft Young Men
+	#	Draft Everybody
+	#	Legalise Slavery
+	#	Make Slavery Illegal
+	
+	# Westeros Only
+	#	Promote Sept Attendance	/ Promote Weirwood Attendance
+	#	Institute the Law of the First Night
+	#	Revoke the Law of the First Night
+	#	Send criminals to the Wall
+	#	Stop sending criminals to the Wall
+	
+	# Essos Only
+	#	Promote Temple Attendance
+	
+	# Wildling Only
+	#	Gather Spearwives
+
+	# Dothraki Only
+	#	Attempt Sea Travel
+	
+	# Night's Watch Only
+	#	Promote Rangings
+	
+	# Pirate Only
+	#	Promote Raiding
+	
+	institute_grain_tax = {
+		potential = {
+			OR = {
+				AND = {
+					government = monarchy
+					NOT = { government = pirate_haven }
+					check_variable = { which = faction_monarchy_maesters value = 4 }
+					check_variable = { which = faction_monarchy_nobles value = 4 }
+				}
+				AND = {
+					government = republic
+					NOT = { government = nw_government }
+					check_variable = { which = faction_republic_magisters value = 4 }
+					check_variable = { which = faction_republic_nobles value = 4 }
+				}
+				AND = {
+					government = ancient_city
+					check_variable = { which = faction_qarth_pureborn value = 4 }
+				}
+				AND = {
+					government = wildling_clan
+					check_variable = { which = faction_tribal_craftsmen value = 4 }
+				}
+				AND = {
+					government = khas
+					check_variable = { which = faction_khas_dosh_khaleen value = 4 }
+				}
+				AND = {
+					government = nw_government
+					check_variable = { which = faction_nw_stewards value = 4 }
+				}
+				AND = {
+					government = pirate_haven
+					check_variable = { which = faction_nw_stewards value = 4 }
+				}
+			}
+		}
+		allow = {
+			
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+}

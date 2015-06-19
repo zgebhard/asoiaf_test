@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 273
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Dunn"
+		birth_date = 915.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Bass"
+		monarch_name = "Bass"
+		dynasty = "Dunn"
+		birth_date = 1000.1.1
+		death_date = 1035.1.1
+		claim = 2
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1009.1.1 = {
+
+	monarch = {
+		name = "Lymond"
+		dynasty = "Dunn"
+		birth_date = 964.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Amabel"
+		monarch_name = "Amabel"
+		dynasty = "Dunn"
+		birth_date = 990.1.1
+		death_date = 1037.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Ramsey"
+		dynasty = "Dunn"
+		birth_date = 978.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Kaeth"
+		monarch_name = "Kaeth"
+		dynasty = "Dunn"
+		birth_date = 1014.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Harys"
+		dynasty = "Dunn"
+		birth_date = 1078.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Caswell"
+		monarch_name = "Caswell"
+		dynasty = "Dunn"
+		birth_date = 1080.1.1
+		death_date = 1177.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Waymar"
+		dynasty = "Dunn"
+		birth_date = 1108.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Miklaz"
+		monarch_name = "Miklaz"
+		dynasty = "Dunn"
+		birth_date = 1116.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Luco"
+		dynasty = "Dunn"
+		birth_date = 1124.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Theodore"
+		monarch_name = "Theodore"
+		dynasty = "Dunn"
+		birth_date = 1196.1.1
+		death_date = 1283.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1265.1.1 = {
+
+	monarch = {
+		name = "Edwyrn"
+		dynasty = "Dunn"
+		birth_date = 1176.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Lem"
+		monarch_name = "Lem"
+		dynasty = "Dunn"
+		birth_date = 1238.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Dunn"
+		birth_date = 1264.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Dacks"
+		monarch_name = "Dacks"
+		dynasty = "Dunn"
+		birth_date = 1279.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Jory"
+		dynasty = "Dunn"
+		birth_date = 1292.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Meldred"
+		monarch_name = "Meldred"
+		dynasty = "Dunn"
+		female = yes
+		birth_date = 1311.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Collio"
+		dynasty = "Dunn"
+		birth_date = 1317.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Marillion"
+		monarch_name = "Marillion"
+		dynasty = "Dunn"
+		birth_date = 1319.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Durran"
+		dynasty = "Dunn"
+		birth_date = 1368.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Gerrick"
+		monarch_name = "Gerrick"
+		dynasty = "Dunn"
+		birth_date = 1369.1.1
+		death_date = 1440.1.1
+		claim = 37
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 230
+
+1000.1.1 = {
+	monarch = {
+		name = "Bella"
+		dynasty = "Follard"
+		female = yes
+		birth_date = 971.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Chiggen"
+		monarch_name = "Chiggen"
+		dynasty = "Follard"
+		birth_date = 986.1.1
+		death_date = 1073.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1032.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Follard"
+		birth_date = 1005.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Cellador"
+		monarch_name = "Cellador"
+		dynasty = "Follard"
+		birth_date = 1017.1.1
+		death_date = 1076.1.1
+		claim = 77
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Maege"
+		dynasty = "Follard"
+		birth_date = 1011.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Barba"
+		monarch_name = "Barba"
+		dynasty = "Follard"
+		birth_date = 1074.1.1
+		death_date = 1165.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Tristan"
+		dynasty = "Follard"
+		birth_date = 1033.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Galbert"
+		monarch_name = "Galbert"
+		dynasty = "Follard"
+		birth_date = 1092.1.1
+		death_date = 1174.1.1
+		claim = 64
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Rakharo"
+		dynasty = "Follard"
+		birth_date = 1077.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Emphyria"
+		monarch_name = "Emphyria"
+		dynasty = "Follard"
+		birth_date = 1140.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Cohollo"
+		dynasty = "Follard"
+		birth_date = 1202.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Alequo"
+		monarch_name = "Alequo"
+		dynasty = "Follard"
+		birth_date = 1201.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Edwyle"
+		dynasty = "Follard"
+		birth_date = 1166.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Dagmer"
+		monarch_name = "Dagmer"
+		dynasty = "Follard"
+		birth_date = 1208.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Hake"
+		dynasty = "Follard"
+		birth_date = 1247.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Joffery"
+		monarch_name = "Joffery"
+		dynasty = "Follard"
+		birth_date = 1284.1.1
+		death_date = 1389.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1379.1.1 = {
+
+	monarch = {
+		name = "Hazrak"
+		dynasty = "Follard"
+		birth_date = 1299.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Gerris"
+		monarch_name = "Gerris"
+		dynasty = "Follard"
+		birth_date = 1376.1.1
+		death_date = 1446.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,44 @@
+# 1249 - Aladda
+
+owner = R53
+add_core = R53
+add_core = R56
+controller = R53
+is_city = yes
+
+culture = farosi
+religion = asoiaf_stone_cow_of_faros
+
+base_tax = 4
+base_production = 4
+base_manpower =  4
+
+hre = no
+trade_goods = spices
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = R53
+	owner = R56
+	controller = R56
+}
+
+1000.2.2 = {
+	owner = R53
+	add_core = R53
+	controller = R53
+}

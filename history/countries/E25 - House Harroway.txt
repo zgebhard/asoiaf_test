@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 97
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bors"
+		dynasty = "Harroway"
+		birth_date = 984.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Symon"
+		monarch_name = "Symon"
+		dynasty = "Harroway"
+		birth_date = 998.1.1
+		death_date = 1036.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1025.1.1 = {
+
+	monarch = {
+		name = "Galyeon"
+		dynasty = "Harroway"
+		birth_date = 973.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Gladden"
+		monarch_name = "Gladden"
+		dynasty = "Harroway"
+		birth_date = 1003.1.1
+		death_date = 1112.1.1
+		claim = 2
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1046.1.1 = {
+
+	monarch = {
+		name = "Zei"
+		dynasty = "Harroway"
+		birth_date = 976.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Harroway"
+		birth_date = 1038.1.1
+		death_date = 1127.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Willis"
+		dynasty = "Harroway"
+		birth_date = 1005.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Jyck"
+		monarch_name = "Jyck"
+		dynasty = "Harroway"
+		birth_date = 1033.1.1
+		death_date = 1096.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1073.1.1 = {
+
+	monarch = {
+		name = "Kevan"
+		dynasty = "Harroway"
+		birth_date = 991.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Harroway"
+		birth_date = 1068.1.1
+		death_date = 1123.1.1
+		claim = 56
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1143.1.1 = {
+	monarch = {
+		name = "Cyrenna"
+		dynasty = "Harroway"
+		female = yes
+		birth_date = 1121.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan"
+		dynasty = "Harroway"
+		birth_date = 1126.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1189.1.1 = {
+
+	monarch = {
+		name = "Ulmer"
+		dynasty = "Harroway"
+		birth_date = 1135.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "Harroway"
+		birth_date = 1161.1.1
+		death_date = 1220.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Crawn"
+		dynasty = "Harroway"
+		birth_date = 1177.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Fornio"
+		monarch_name = "Fornio"
+		dynasty = "Harroway"
+		birth_date = 1209.1.1
+		death_date = 1300.1.1
+		claim = 55
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1329.1.1 = {
+
+	monarch = {
+		name = "Trebor"
+		dynasty = "Harroway"
+		birth_date = 1314.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Rafford"
+		monarch_name = "Rafford"
+		dynasty = "Harroway"
+		birth_date = 1307.1.1
+		death_date = 1377.1.1
+		claim = 99
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+

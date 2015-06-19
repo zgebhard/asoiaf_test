@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 35
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Oswell"
+		dynasty = "Glover"
+		birth_date = 938.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Turquin"
+		monarch_name = "Turquin"
+		dynasty = "Glover"
+		birth_date = 995.1.1
+		death_date = 1076.1.1
+		claim = 73
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Hod"
+		dynasty = "Glover"
+		birth_date = 1033.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Oreo"
+		monarch_name = "Oreo"
+		dynasty = "Glover"
+		birth_date = 1069.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Oswell"
+		dynasty = "Glover"
+		birth_date = 1092.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Tarle"
+		monarch_name = "Tarle"
+		dynasty = "Glover"
+		birth_date = 1172.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1189.1.1 = {
+	monarch = {
+		name = "Walda"
+		dynasty = "Glover"
+		female = yes
+		birth_date = 1122.1.1
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Gwayne"
+		monarch_name = "Gwayne"
+		dynasty = "Glover"
+		birth_date = 1165.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Glover"
+		birth_date = 1203.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Henk"
+		monarch_name = "Henk"
+		dynasty = "Glover"
+		birth_date = 1248.1.1
+		death_date = 1285.1.1
+		claim = 62
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1275.1.1 = {
+
+	monarch = {
+		name = "Merrit"
+		dynasty = "Glover"
+		birth_date = 1253.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Wendel"
+		monarch_name = "Wendel"
+		dynasty = "Glover"
+		birth_date = 1255.1.1
+		death_date = 1329.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1279.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Glover"
+		birth_date = 1257.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Wendel"
+		monarch_name = "Wendel"
+		dynasty = "Glover"
+		birth_date = 1270.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Ned"
+		dynasty = "Glover"
+		birth_date = 1229.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Ashford"
+		monarch_name = "Ashford"
+		dynasty = "Glover"
+		birth_date = 1288.1.1
+		death_date = 1329.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Aurane"
+		dynasty = "Glover"
+		birth_date = 1310.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Jared"
+		monarch_name = "Jared"
+		dynasty = "Glover"
+		birth_date = 1333.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Cottor"
+		dynasty = "Glover"
+		birth_date = 1315.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Cressen"
+		monarch_name = "Cressen"
+		dynasty = "Glover"
+		birth_date = 1374.1.1
+		death_date = 1443.1.1
+		claim = 49
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+

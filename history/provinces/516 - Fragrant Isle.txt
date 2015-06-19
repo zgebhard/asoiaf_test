@@ -1,0 +1,46 @@
+# 516 - Fragrant Isle
+
+add_core = X53
+add_core = X54
+owner = X53
+controller = X53
+
+culture = moyne
+religion = asoiaf_summer_gods
+
+base_tax = 2
+base_production = 2
+trade_goods = spices
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Fragrant Isle"
+
+1000.2.1 = {
+	remove_core = X53
+	owner = X54
+	controller = X54
+}
+
+1000.2.2 = {
+	owner = X53
+	add_core = X53
+	controller = X53
+}

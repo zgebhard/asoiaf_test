@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Eroeh"
+		dynasty = "Maath"
+		birth_date = 928.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Urras"
+		monarch_name = "Urras"
+		dynasty = "Maath"
+		birth_date = 997.1.1
+		death_date = 1017.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Dermot"
+		dynasty = "Maath"
+		birth_date = 973.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Beron"
+		monarch_name = "Beron"
+		dynasty = "Maath"
+		birth_date = 1050.1.1
+		death_date = 1125.1.1
+		claim = 40
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Narbo"
+		dynasty = "Maath"
+		birth_date = 1003.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Duram"
+		monarch_name = "Duram"
+		dynasty = "Maath"
+		birth_date = 1058.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Shagwell"
+		dynasty = "Maath"
+		birth_date = 1076.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Carolei"
+		monarch_name = "Carolei"
+		dynasty = "Maath"
+		birth_date = 1141.1.1
+		death_date = 1202.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Urrathon"
+		dynasty = "Maath"
+		birth_date = 1158.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Arneld"
+		monarch_name = "Arneld"
+		dynasty = "Maath"
+		birth_date = 1230.1.1
+		death_date = 1332.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Hilmar"
+		dynasty = "Maath"
+		birth_date = 1220.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Wynton"
+		monarch_name = "Wynton"
+		dynasty = "Maath"
+		birth_date = 1274.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Grunt"
+		dynasty = "Maath"
+		birth_date = 1320.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Maath"
+		birth_date = 1365.1.1
+		death_date = 1399.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+

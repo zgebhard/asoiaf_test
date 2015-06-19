@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Danwell"
+		dynasty = "Stout"
+		birth_date = 942.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Haldon"
+		monarch_name = "Haldon"
+		dynasty = "Stout"
+		birth_date = 972.1.1
+		death_date = 1090.1.1
+		claim = 8
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1018.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Stout"
+		birth_date = 987.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Jommo"
+		monarch_name = "Jommo"
+		dynasty = "Stout"
+		birth_date = 997.1.1
+		death_date = 1035.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Heward"
+		dynasty = "Stout"
+		birth_date = 1011.1.1
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Ketter"
+		monarch_name = "Ketter"
+		dynasty = "Stout"
+		birth_date = 1050.1.1
+		death_date = 1091.1.1
+		claim = 24
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Gysella"
+		dynasty = "Stout"
+		birth_date = 1054.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Iggo"
+		monarch_name = "Iggo"
+		dynasty = "Stout"
+		birth_date = 1078.1.1
+		death_date = 1151.1.1
+		claim = 97
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1121.1.1 = {
+
+	monarch = {
+		name = "Syrio"
+		dynasty = "Stout"
+		birth_date = 1050.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Bors"
+		monarch_name = "Bors"
+		dynasty = "Stout"
+		birth_date = 1102.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1202.1.1 = {
+
+	monarch = {
+		name = "Lharys"
+		dynasty = "Stout"
+		birth_date = 1156.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Luco"
+		monarch_name = "Luco"
+		dynasty = "Stout"
+		birth_date = 1177.1.1
+		death_date = 1231.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Larence"
+		dynasty = "Stout"
+		birth_date = 1255.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Tybolt"
+		monarch_name = "Tybolt"
+		dynasty = "Stout"
+		birth_date = 1276.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Walder"
+		dynasty = "Stout"
+		birth_date = 1294.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Philip"
+		monarch_name = "Philip"
+		dynasty = "Stout"
+		birth_date = 1322.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1371.1.1 = {
+
+	monarch = {
+		name = "Xhondo"
+		dynasty = "Stout"
+		birth_date = 1328.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Hareth"
+		monarch_name = "Hareth"
+		dynasty = "Stout"
+		birth_date = 1352.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+

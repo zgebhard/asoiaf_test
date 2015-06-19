@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 198
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Elron"
+		dynasty = "Falwell"
+		birth_date = 932.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Cuger"
+		monarch_name = "Cuger"
+		dynasty = "Falwell"
+		birth_date = 999.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Igon"
+		dynasty = "Falwell"
+		birth_date = 1052.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Eustace"
+		monarch_name = "Eustace"
+		dynasty = "Falwell"
+		birth_date = 1085.1.1
+		death_date = 1132.1.1
+		claim = 20
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1122.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Falwell"
+		birth_date = 1059.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Alekyne"
+		monarch_name = "Alekyne"
+		dynasty = "Falwell"
+		birth_date = 1118.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Moribold"
+		dynasty = "Falwell"
+		birth_date = 1105.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Jafer"
+		monarch_name = "Jafer"
+		dynasty = "Falwell"
+		birth_date = 1155.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Guyne"
+		dynasty = "Falwell"
+		birth_date = 1224.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Denyo"
+		monarch_name = "Denyo"
+		dynasty = "Falwell"
+		birth_date = 1247.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1267.1.1 = {
+
+	monarch = {
+		name = "Harmen"
+		dynasty = "Falwell"
+		birth_date = 1227.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Wyman"
+		monarch_name = "Wyman"
+		dynasty = "Falwell"
+		birth_date = 1252.1.1
+		death_date = 1341.1.1
+		claim = 29
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Creighton"
+		dynasty = "Falwell"
+		birth_date = 1240.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Falwell"
+		birth_date = 1257.1.1
+		death_date = 1334.1.1
+		claim = 19
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Torwold"
+		dynasty = "Falwell"
+		birth_date = 1284.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Sebaston"
+		monarch_name = "Sebaston"
+		dynasty = "Falwell"
+		birth_date = 1326.1.1
+		death_date = 1415.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1346.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Falwell"
+		birth_date = 1270.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Harmond"
+		monarch_name = "Harmond"
+		dynasty = "Falwell"
+		birth_date = 1334.1.1
+		death_date = 1417.1.1
+		claim = 17
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+

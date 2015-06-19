@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 252
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harma"
+		dynasty = "Cordwayner"
+		birth_date = 922.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Haegon"
+		monarch_name = "Haegon"
+		dynasty = "Cordwayner"
+		birth_date = 982.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Cordwayner"
+		birth_date = 954.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Hyle"
+		monarch_name = "Hyle"
+		dynasty = "Cordwayner"
+		birth_date = 993.1.1
+		death_date = 1062.1.1
+		claim = 17
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1020.1.1 = {
+
+	monarch = {
+		name = "Harrion"
+		dynasty = "Cordwayner"
+		birth_date = 983.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Hoster"
+		monarch_name = "Hoster"
+		dynasty = "Cordwayner"
+		birth_date = 1002.1.1
+		death_date = 1109.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Cordwayner"
+		birth_date = 1050.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Hyle"
+		monarch_name = "Hyle"
+		dynasty = "Cordwayner"
+		birth_date = 1087.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Cordwayner"
+		birth_date = 1049.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Wyman"
+		monarch_name = "Wyman"
+		dynasty = "Cordwayner"
+		birth_date = 1110.1.1
+		death_date = 1161.1.1
+		claim = 10
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Cordwayner"
+		birth_date = 1121.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Dywen"
+		monarch_name = "Dywen"
+		dynasty = "Cordwayner"
+		birth_date = 1182.1.1
+		death_date = 1266.1.1
+		claim = 56
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Dake"
+		dynasty = "Cordwayner"
+		birth_date = 1168.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Tanselle"
+		monarch_name = "Tanselle"
+		dynasty = "Cordwayner"
+		birth_date = 1232.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Cordwayner"
+		birth_date = 1270.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Jhiqui"
+		monarch_name = "Jhiqui"
+		dynasty = "Cordwayner"
+		birth_date = 1320.1.1
+		death_date = 1403.1.1
+		claim = 85
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Bodger"
+		dynasty = "Cordwayner"
+		birth_date = 1249.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Baelor"
+		monarch_name = "Baelor"
+		dynasty = "Cordwayner"
+		birth_date = 1315.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 154
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Poxy"
+		dynasty = "Drumm"
+		birth_date = 963.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Murch"
+		monarch_name = "Murch"
+		dynasty = "Drumm"
+		birth_date = 976.1.1
+		death_date = 1037.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Drumm"
+		birth_date = 990.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Wilbert"
+		monarch_name = "Wilbert"
+		dynasty = "Drumm"
+		birth_date = 1026.1.1
+		death_date = 1084.1.1
+		claim = 52
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Murenmure"
+		dynasty = "Drumm"
+		birth_date = 1017.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Parmen"
+		monarch_name = "Parmen"
+		dynasty = "Drumm"
+		birth_date = 1054.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1092.1.1 = {
+
+	monarch = {
+		name = "Torrek"
+		dynasty = "Drumm"
+		birth_date = 1037.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Roose"
+		monarch_name = "Roose"
+		dynasty = "Drumm"
+		birth_date = 1070.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Doran"
+		dynasty = "Drumm"
+		birth_date = 1067.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Stannis"
+		monarch_name = "Stannis"
+		dynasty = "Drumm"
+		birth_date = 1136.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Varly"
+		dynasty = "Drumm"
+		birth_date = 1107.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Tristimun"
+		monarch_name = "Tristimun"
+		dynasty = "Drumm"
+		birth_date = 1169.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Gueren"
+		dynasty = "Drumm"
+		birth_date = 1190.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Cohollo"
+		monarch_name = "Cohollo"
+		dynasty = "Drumm"
+		birth_date = 1246.1.1
+		death_date = 1339.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Dale"
+		dynasty = "Drumm"
+		birth_date = 1225.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Edderion"
+		monarch_name = "Edderion"
+		dynasty = "Drumm"
+		birth_date = 1272.1.1
+		death_date = 1375.1.1
+		claim = 29
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Lucos"
+		dynasty = "Drumm"
+		birth_date = 1298.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Dunsen"
+		monarch_name = "Dunsen"
+		dynasty = "Drumm"
+		birth_date = 1328.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 61
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Andar"
+		dynasty = "Waterman"
+		birth_date = 969.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Elyas"
+		monarch_name = "Elyas"
+		dynasty = "Waterman"
+		birth_date = 982.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Cayn"
+		dynasty = "Waterman"
+		birth_date = 1035.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Devyn"
+		monarch_name = "Devyn"
+		dynasty = "Waterman"
+		birth_date = 1035.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1106.1.1 = {
+
+	monarch = {
+		name = "Guyne"
+		dynasty = "Waterman"
+		birth_date = 1074.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Balon"
+		monarch_name = "Balon"
+		dynasty = "Waterman"
+		birth_date = 1100.1.1
+		death_date = 1160.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Waterman"
+		birth_date = 1115.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Gran"
+		monarch_name = "Gran"
+		dynasty = "Waterman"
+		birth_date = 1192.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Bharbo"
+		dynasty = "Waterman"
+		birth_date = 1202.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Castos"
+		monarch_name = "Castos"
+		dynasty = "Waterman"
+		birth_date = 1248.1.1
+		death_date = 1295.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Harmund"
+		dynasty = "Waterman"
+		birth_date = 1213.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Waterman"
+		birth_date = 1262.1.1
+		death_date = 1290.1.1
+		claim = 16
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Waterman"
+		birth_date = 1253.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Pate"
+		monarch_name = "Pate"
+		dynasty = "Waterman"
+		birth_date = 1309.1.1
+		death_date = 1406.1.1
+		claim = 51
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Tristan"
+		dynasty = "Waterman"
+		birth_date = 1312.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Waterman"
+		birth_date = 1345.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Deziel"
+		dynasty = "Waterman"
+		birth_date = 1321.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Pearse"
+		monarch_name = "Pearse"
+		dynasty = "Waterman"
+		birth_date = 1397.1.1
+		death_date = 1453.1.1
+		claim = 93
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+

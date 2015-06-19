@@ -1,0 +1,60 @@
+# 370 - Disputed Peninsula
+
+add_core = X01
+add_core = X04
+owner = X01
+controller = X01
+
+is_city = yes
+hre = no
+
+culture = tyroshi
+religion = asoiaf_trios
+
+base_tax = 3
+base_production = 3
+base_manpower =  2
+
+trade_goods = wine
+
+capital = "Disputed Peninsula"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = X01
+	owner = X04
+	controller = X04
+}
+
+1000.2.2 = {
+	owner = X01
+	add_core = X01
+	controller = X01
+}
+
+1260.1.1 = {
+	controller = AB2
+	add_core = AB2
+	owner = AB2
+}
+
+1281.1.1 = {
+	remove_core = AB2
+	controller = X01
+	add_core = X01
+	owner = X01
+}

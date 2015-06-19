@@ -1,0 +1,46 @@
+# 391 - Fareyes
+
+add_core = U18
+add_core = U12
+owner = U12
+controller = U12
+
+
+culture = pentoshi
+religion = asoiaf_rhllor
+
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Fareyes"
+
+1000.2.1 = {
+	remove_core = U12
+	owner = U18
+	controller = U18
+}
+
+1000.2.2 = {
+	owner = U12
+	add_core = U12
+	controller = U12
+}

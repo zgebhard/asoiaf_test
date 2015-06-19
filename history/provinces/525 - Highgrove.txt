@@ -1,0 +1,46 @@
+# 525 - Highgrove
+
+add_core = X40
+add_core = X42
+owner = X40
+controller = X40
+
+culture = xho
+religion = asoiaf_summer_gods
+
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Highgrove"
+
+1000.2.1 = {
+	remove_core = X40
+	owner = X42
+	controller = X42
+}
+
+1000.2.2 = {
+	owner = X40
+	add_core = X40
+	controller = X40
+}

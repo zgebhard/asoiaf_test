@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = qo
+religion = asoiaf_summer_gods
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Elwood"
+		dynasty = "Dako"
+		birth_date = 984.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Varamyr"
+		monarch_name = "Varamyr"
+		dynasty = "Dako"
+		birth_date = 979.1.1
+		death_date = 1032.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Tybero"
+		dynasty = "Dako"
+		birth_date = 1028.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Dako"
+		birth_date = 1035.1.1
+		death_date = 1108.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Gueren"
+		dynasty = "Dako"
+		birth_date = 1024.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Beardless"
+		monarch_name = "Beardless"
+		dynasty = "Dako"
+		birth_date = 1055.1.1
+		death_date = 1110.1.1
+		claim = 78
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Walton"
+		dynasty = "Dako"
+		birth_date = 1068.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Geraradys"
+		monarch_name = "Geraradys"
+		dynasty = "Dako"
+		birth_date = 1139.1.1
+		death_date = 1239.1.1
+		claim = 98
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Rawney"
+		dynasty = "Dako"
+		birth_date = 1141.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Dako"
+		birth_date = 1187.1.1
+		death_date = 1270.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Dako"
+		birth_date = 1166.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Belgrave"
+		monarch_name = "Belgrave"
+		dynasty = "Dako"
+		birth_date = 1190.1.1
+		death_date = 1241.1.1
+		claim = 18
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1235.1.1 = {
+
+	monarch = {
+		name = "Azzak"
+		dynasty = "Dako"
+		birth_date = 1152.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Norjen"
+		monarch_name = "Norjen"
+		dynasty = "Dako"
+		birth_date = 1233.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Puddingfoot"
+		dynasty = "Dako"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Emmond"
+		monarch_name = "Emmond"
+		dynasty = "Dako"
+		birth_date = 1319.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Beqqo"
+		dynasty = "Dako"
+		birth_date = 1310.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Romny"
+		monarch_name = "Romny"
+		dynasty = "Dako"
+		birth_date = 1351.1.1
+		death_date = 1425.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+

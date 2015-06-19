@@ -1,0 +1,308 @@
+namespace = QARTH_EVENTS
+
+#t: The Thirteen demand more control over the harbours
+#d:	The Thirteen, a prominent group of traders in Qarth, have demanded more control of our harbours to furthur their interests. If we concede to their demands, other factions in Qarth may become upset.
+#1: Allow them more control of the harbours.
+#2: Refuse their requests.
+country_event = {
+	id = QARTH_EVENTS.1
+	title = "QARTH_EVENTS.1.title"
+	desc = "QARTH_EVENTS.1.desc"
+	picture = HARBOUR_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		any_owned_province = {
+			has_port = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.1.option.1"
+		
+		add_mercantilism = 0.05
+		add_adm_power = -25
+		add_mil_power = -25
+		add_dip_power = -25
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.1.option.2"
+		
+		add_mercantilism = -0.05
+		add_dip_power = 25
+		add_adm_power = 25
+		add_mil_power = 25
+	}
+}
+
+#t: The Tourmaline Brotherhood wish to to expand their cut
+#d:	The Tourmaline Brotherhood, a powerful merchant guild in Qarth, has demanded that we give them a larger amount of trade. If we concede to their demands, other factions in Qarth may become upset.
+#1: Give them more trade contracts
+#2: Refuse their requests.
+
+country_event = {
+	id = QARTH_EVENTS.2
+	title = "QARTH_EVENTS.2.title"
+	desc = "QARTH_EVENTS.2.desc"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		any_active_trade_node = {  }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.2.option.1"
+		
+		add_mercantilism = 0.05
+		add_adm_power = -25
+		add_mil_power = -25
+		add_dip_power = -25
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.2.option.2"
+		
+		add_mercantilism = -0.05
+		add_dip_power = 25
+		add_adm_power = 25
+		add_mil_power = 25
+	}
+}
+
+#t: The Guild of Spicers wants total control of all spice trade
+#d:	The Guild of Spicers is an ancient and powerful merchant organisation. They have demanded that we route all spice trader through their merchants. If we concede to their demands, other factions in Qarth may become upset.
+#1: Give them the spice contracts.
+#2: Refuse their requests.
+
+country_event = {
+	id = QARTH_EVENTS.3
+	title = "QARTH_EVENTS.3.title"
+	desc = "QARTH_EVENTS.3.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		any_owned_province = {
+			trade_goods = spices
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.3.option.1"
+		
+		add_mercantilism = 0.05
+		add_adm_power = -25
+		add_mil_power = -25
+		add_dip_power = -25
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.3.option.2"
+		
+		add_mercantilism = -0.05
+		add_dip_power = 25
+		add_adm_power = 25
+		add_mil_power = 25
+	}
+}
+
+#t: The Pureborn wish to expand the Civic Guard
+#d:	The Pureborn are descendants of ancient Qartheen kings and queens. They have requested permission to expand the Civic Guard, under the pretense that the city is poorly defended. If we allow this, other factions in Qarth may become upset.
+#1: Give them permission.
+#2: Refuse their requests.
+
+country_event = {
+	id = QARTH_EVENTS.4
+	title = "QARTH_EVENTS.4.title"
+	desc = "QARTH_EVENTS.4.desc"
+	picture = LAND_MILITARY_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		NOT = { army_size_percentage = 0.75 }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.4.option.1"
+		
+		add_mil_power = 100
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.4.option.2"
+		
+		add_stability = 1
+	}
+}
+
+#t: Pureborn fleets in shambles!
+#d:	A terrible storm has swept through our harbours, and most of the Pureborn fleets have been damaged. It will take considerable investment to repair the damage.
+#1: Repair them.
+#2: Let them sink.
+
+country_event = {
+	id = QARTH_EVENTS.5
+	title = "QARTH_EVENTS.5.title"
+	desc = "QARTH_EVENTS.5.desc"
+	picture = NAVAL_MILITARY_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		navy_size_percentage = 0.33
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.5.option.1"
+		
+		add_treasury = -200
+	}
+	option = {
+		name = "QARTH_EVENTS.5.option.2"
+		
+		add_mil_power = -33
+		add_dip_power = -33
+	}
+}
+
+#t: The House of the Undying
+#d: The House of the Undying lays in the center of Qarth, and is said to be the center of power for the Undying Ones, the elite warlocks of Qarth. Many enter, but few return.
+#1: [Root.Monarch.GetName] will enter.
+#2: [Root.Monarch.GetName] will not enter.
+
+#t: A Stroll through the Hall of a Thousand Thrones
+#d: The Hall of a Thousand Thrones is constructed mainly with marble, with it covering the floor and the domed ceiling. The ceiling dipicts the exotic and magestic history of Qarth. Furthur in, multiple thrones are present, carved and gilded with goldwork, lapis, onyx, jade and amber. [Root.Monarch.GetTitle] [Root.GetName] sits upon one of the thrones and considers what lays in the future of Qarth.
+#1: A trade empire.
+#2: A guarded realm.
+#3: A bastion of knowledge.
+
+country_event = {
+	id = QARTH_EVENTS.7
+	title = "QARTH_EVENTS.7.title"
+	desc = "QARTH_EVENTS.7.desc"
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		NOT = { has_ruler_flag = contemplation_tt }
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+	
+	immediate = {
+		set_ruler_flag = contemplation_tt
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.7.option.1"
+		
+		add_ruler_modifier = {
+			name = trade_empire
+			duration = -1
+		}
+	}
+	option = {
+		name = "QARTH_EVENTS.7.option.2"
+		
+		add_ruler_modifier = {
+			name = guarded_realm
+			duration = -1
+		}
+	}
+	option = {
+		name = "QARTH_EVENTS.7.option.3"
+		
+		add_ruler_modifier = {
+			name = bastion_of_knowledge
+			duration = -1
+		}
+	}
+}
+
+#t: Tension in the Slave Quarters
+#d: There have been vicious rumours of a slave rebellion brewing in our lower city. It would be wise to squash such thoughts before they can be fully realised.
+#1: Order flogging for every slave.
+#2: Rumours are rumours.
+country_event = {
+	id = QARTH_EVENTS.8
+	title = "QARTH_EVENTS.8.title"
+	desc = "QARTH_EVENTS.8.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		
+		#has_country_modifier = permits_slavery
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.8.option.1"
+		
+		add_mil_power = -25
+		every_owned_province = {
+			add_province_modifier = {
+				name = slaves_punished
+				duration = 3650
+			}
+		}
+	}
+	option = {
+		name = "QARTH_EVENTS.8.option.2"
+		
+		add_stability = -1
+	}
+}
+
+#t: Corruption in the City
+#d: [Root.Monarch.GetTitle] [Root.Monarch.GetName] was in bed and almost sleep when [Root.Monarch.GetSheHe] sleeply spots a shadowy figure in the doorway. In an instant, a onyx dagger was plunged deep into [Root.Monarch.GetHerHis] chest, and all life left [Root.Monarch.GetHerHim]
+#1 Death is the only absolute
+
+country_event = {
+	id = QARTH_EVENTS.9
+	title = "QARTH_EVENTS.9.title"
+	desc = "QARTH_EVENTS.9.desc"
+	picture = ASSASSINATION_eventPicture
+	
+	trigger = {
+		primary_culture = qartheen
+		NOT = { stability = -1 }
+		months_of_ruling = 120
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "QARTH_EVENTS.9.option.1"
+		
+		kill_ruler = yes
+	}
+}

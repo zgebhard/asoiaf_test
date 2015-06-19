@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 39
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cressen"
+		dynasty = "Woods"
+		birth_date = 982.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Tomard"
+		monarch_name = "Tomard"
+		dynasty = "Woods"
+		birth_date = 991.1.1
+		death_date = 1021.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1017.1.1 = {
+
+	monarch = {
+		name = "Dennet"
+		dynasty = "Woods"
+		birth_date = 936.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Watt"
+		monarch_name = "Watt"
+		dynasty = "Woods"
+		birth_date = 990.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Tommard"
+		dynasty = "Woods"
+		birth_date = 1037.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Woods"
+		birth_date = 1068.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Denyo"
+		dynasty = "Woods"
+		birth_date = 1051.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Harghaz"
+		monarch_name = "Harghaz"
+		dynasty = "Woods"
+		birth_date = 1095.1.1
+		death_date = 1163.1.1
+		claim = 8
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1116.1.1 = {
+
+	monarch = {
+		name = "Jhaqo"
+		dynasty = "Woods"
+		birth_date = 1026.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Cortnay"
+		monarch_name = "Cortnay"
+		dynasty = "Woods"
+		female = yes
+		birth_date = 1094.1.1
+		death_date = 1150.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Woods"
+		birth_date = 1074.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Norjen"
+		monarch_name = "Norjen"
+		dynasty = "Woods"
+		birth_date = 1125.1.1
+		death_date = 1230.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Daven"
+		dynasty = "Woods"
+		birth_date = 1138.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Tagganaro"
+		monarch_name = "Tagganaro"
+		dynasty = "Woods"
+		birth_date = 1205.1.1
+		death_date = 1267.1.1
+		claim = 44
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Eyron"
+		dynasty = "Woods"
+		birth_date = 1138.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Woods"
+		birth_date = 1220.1.1
+		death_date = 1241.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Rufus"
+		dynasty = "Woods"
+		birth_date = 1221.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Myles"
+		monarch_name = "Myles"
+		dynasty = "Woods"
+		birth_date = 1279.1.1
+		death_date = 1305.1.1
+		claim = 51
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Betharious"
+		dynasty = "Woods"
+		birth_date = 1286.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Tybolt"
+		monarch_name = "Tybolt"
+		dynasty = "Woods"
+		birth_date = 1321.1.1
+		death_date = 1414.1.1
+		claim = 54
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+

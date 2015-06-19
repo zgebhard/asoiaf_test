@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 299
+
+1000.1.1 = {
+	monarch = {
+		name = "Caleotte"
+		dynasty = "Penrose"
+		female = yes
+		birth_date = 976.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Tommard"
+		monarch_name = "Tommard"
+		dynasty = "Penrose"
+		birth_date = 970.1.1
+		death_date = 1068.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Penrose"
+		birth_date = 940.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Myrielle"
+		monarch_name = "Myrielle"
+		dynasty = "Penrose"
+		female = yes
+		birth_date = 989.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1031.1.1 = {
+
+	monarch = {
+		name = "Randyll"
+		dynasty = "Penrose"
+		birth_date = 955.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Penrose"
+		birth_date = 1001.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1049.1.1 = {
+
+	monarch = {
+		name = "Barba"
+		dynasty = "Penrose"
+		birth_date = 993.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Penrose"
+		birth_date = 1023.1.1
+		death_date = 1109.1.1
+		claim = 70
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Woth"
+		dynasty = "Penrose"
+		birth_date = 1003.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Dake"
+		monarch_name = "Dake"
+		dynasty = "Penrose"
+		birth_date = 1073.1.1
+		death_date = 1136.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Reysen"
+		dynasty = "Penrose"
+		birth_date = 1129.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Groleo"
+		monarch_name = "Groleo"
+		dynasty = "Penrose"
+		birth_date = 1146.1.1
+		death_date = 1183.1.1
+		claim = 10
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1154.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Penrose"
+		birth_date = 1083.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Lyn"
+		monarch_name = "Lyn"
+		dynasty = "Penrose"
+		birth_date = 1127.1.1
+		death_date = 1171.1.1
+		claim = 99
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Styr"
+		dynasty = "Penrose"
+		birth_date = 1195.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Kyra"
+		monarch_name = "Kyra"
+		dynasty = "Penrose"
+		female = yes
+		birth_date = 1217.1.1
+		death_date = 1298.1.1
+		claim = 48
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Khrazz"
+		dynasty = "Penrose"
+		birth_date = 1278.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Penrose"
+		birth_date = 1301.1.1
+		death_date = 1343.1.1
+		claim = 14
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Wallace"
+		dynasty = "Penrose"
+		birth_date = 1346.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Alliser"
+		monarch_name = "Alliser"
+		dynasty = "Penrose"
+		birth_date = 1363.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+

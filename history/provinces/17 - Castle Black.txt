@@ -1,0 +1,35 @@
+# 17 - Castle Black
+
+owner = A02
+add_core = A02
+controller = A02
+is_city = yes
+hre = no
+
+stone_walls = yes
+
+religion = asoiaf_mixed_worship
+culture = men_of_the_north
+
+base_tax = 8
+base_production = 8
+base_manpower =  8
+
+trade_goods = grain
+capital = "Castle Black"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+

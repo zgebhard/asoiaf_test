@@ -1,0 +1,87 @@
+# TODO
+#	Implement Slavery event path
+#		Player starts events
+#		Player must reach a certain amount of stability to keep slavery benefits
+#		Player can remove slavery
+#		Player must reach a certain amount of stability to remove slavery benefits
+
+country_decisions = {
+
+	permit_slavery = {
+		major = yes
+		potential = {
+			always = no
+			NOT = { has_country_flag = attempting_to_legalise_slavery }
+			NOT = { has_country_flag = legalised_slavery }
+		}
+		allow = {
+			NOT = { has_country_flag = attempting_to_legalise_slavery }
+			NOT = { has_country_flag = legalised_slavery }
+		}
+		effect = {
+			set_country_flag = attempting_to_legalise_slavery
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	given_up_on_slavery = {
+		major = yes
+		potential = {
+			always = no
+			has_country_flag = attempting_to_legalise_slavery
+		}
+		allow = {
+			has_country_flag = attempting_to_legalise_slavery
+		}
+		effect = {
+			clr_country_flag = attempting_to_legalise_slavery
+			add_stability = -1
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	rescind_slavery = {
+		major = yes
+		potential = {
+			always = no
+			NOT = { has_country_flag = attempting_to_forbid_slavery }
+			has_country_flag = legalised_slavery
+		}
+		allow = {
+			NOT = { has_country_flag = attempting_to_forbid_slavery }
+			has_country_flag = legalised_slavery
+		}
+		effect = {	
+			set_country_flag = attempting_to_forbid_slavery
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	given_up_on_freemen = {
+		major = yes
+		potential = {
+			always = no
+			has_country_flag = attempting_to_forbid_slavery
+		}
+		allow = {
+			has_country_flag = attempting_to_forbid_slavery
+		}
+		effect = {
+			clr_country_flag = attempting_to_forbid_slavery
+			add_stability = -1
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

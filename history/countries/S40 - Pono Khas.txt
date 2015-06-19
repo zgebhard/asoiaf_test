@@ -1,0 +1,289 @@
+
+government_rank = 1
+government = khas
+mercantilism = 0.1
+
+technology_group = dothraki
+primary_culture = dothraki
+religion = asoiaf_the_great_stallion
+
+capital = 564
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Rufus"
+		dynasty = "Pono"
+		birth_date = 910.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Pono"
+		birth_date = 976.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Edric"
+		dynasty = "Pono"
+		birth_date = 951.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Gyleno"
+		monarch_name = "Gyleno"
+		dynasty = "Pono"
+		birth_date = 1024.1.1
+		death_date = 1044.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Lancel"
+		dynasty = "Pono"
+		birth_date = 958.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Titus"
+		monarch_name = "Titus"
+		dynasty = "Pono"
+		birth_date = 1031.1.1
+		death_date = 1094.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Zia"
+		dynasty = "Pono"
+		birth_date = 1011.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Pono"
+		birth_date = 1061.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1110.1.1 = {
+
+	monarch = {
+		name = "Canker"
+		dynasty = "Pono"
+		birth_date = 1027.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jaggot"
+		monarch_name = "Jaggot"
+		dynasty = "Pono"
+		birth_date = 1086.1.1
+		death_date = 1152.1.1
+		claim = 11
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Orbert"
+		dynasty = "Pono"
+		birth_date = 1138.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Lysono"
+		monarch_name = "Lysono"
+		dynasty = "Pono"
+		birth_date = 1170.1.1
+		death_date = 1231.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Gerris"
+		dynasty = "Pono"
+		birth_date = 1236.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Bowen"
+		monarch_name = "Bowen"
+		dynasty = "Pono"
+		birth_date = 1235.1.1
+		death_date = 1340.1.1
+		claim = 10
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Theo"
+		dynasty = "Pono"
+		birth_date = 1242.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Oznak"
+		monarch_name = "Oznak"
+		dynasty = "Pono"
+		birth_date = 1291.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Pono"
+		birth_date = 1280.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Bayard"
+		monarch_name = "Bayard"
+		dynasty = "Pono"
+		birth_date = 1326.1.1
+		death_date = 1369.1.1
+		claim = 34
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Harys"
+		dynasty = "Pono"
+		birth_date = 1352.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Eldon"
+		monarch_name = "Eldon"
+		dynasty = "Pono"
+		birth_date = 1368.1.1
+		death_date = 1415.1.1
+		claim = 70
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Pono"
+		birth_date = 1381.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Morosh"
+		monarch_name = "Morosh"
+		dynasty = "Pono"
+		birth_date = 1386.1.1
+		death_date = 1441.1.1
+		claim = 24
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+

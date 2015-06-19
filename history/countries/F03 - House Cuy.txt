@@ -1,0 +1,260 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 290
+1000.1.1 = {
+
+	monarch = {
+		name = "Emberlei"
+		dynasty = "Cuy"
+		birth_date = 977.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Cuy"
+		birth_date = 971.1.1
+		death_date = 1068.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Cuy"
+		birth_date = 1003.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Cellador"
+		monarch_name = "Cellador"
+		dynasty = "Cuy"
+		birth_date = 1001.1.1
+		death_date = 1079.1.1
+		claim = 24
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1037.1.1 = {
+
+	monarch = {
+		name = "Bronn"
+		dynasty = "Cuy"
+		birth_date = 961.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Meizo"
+		monarch_name = "Meizo"
+		dynasty = "Cuy"
+		birth_date = 1030.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1116.1.1 = {
+
+	monarch = {
+		name = "Aerys"
+		dynasty = "Cuy"
+		birth_date = 1084.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Jason"
+		monarch_name = "Jason"
+		dynasty = "Cuy"
+		birth_date = 1109.1.1
+		death_date = 1172.1.1
+		claim = 64
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1189.1.1 = {
+
+	monarch = {
+		name = "Symond"
+		dynasty = "Cuy"
+		birth_date = 1158.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Damon"
+		monarch_name = "Damon"
+		dynasty = "Cuy"
+		birth_date = 1181.1.1
+		death_date = 1211.1.1
+		claim = 80
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Soren"
+		dynasty = "Cuy"
+		birth_date = 1179.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Orwyle"
+		monarch_name = "Orwyle"
+		dynasty = "Cuy"
+		birth_date = 1210.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Cuy"
+		birth_date = 1186.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Camarron"
+		monarch_name = "Camarron"
+		dynasty = "Cuy"
+		birth_date = 1251.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Theo"
+		dynasty = "Cuy"
+		birth_date = 1246.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Manfrey"
+		monarch_name = "Manfrey"
+		dynasty = "Cuy"
+		birth_date = 1326.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Hugh"
+		dynasty = "Cuy"
+		birth_date = 1313.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Ayrmidon"
+		monarch_name = "Ayrmidon"
+		dynasty = "Cuy"
+		birth_date = 1327.1.1
+		death_date = 1429.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Cuy"
+		birth_date = 1349.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Umar"
+		monarch_name = "Umar"
+		dynasty = "Cuy"
+		birth_date = 1341.1.1
+		death_date = 1392.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+

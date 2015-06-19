@@ -1,0 +1,47 @@
+# 534 - Xon
+
+add_core = X47
+add_core = X48
+owner = X47
+controller = X47
+
+culture = gowonu
+religion = asoiaf_summer_gods
+
+
+base_tax = 3
+base_production = 3
+trade_goods = spices
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Xon"
+
+1000.2.1 = {
+	remove_core = X47
+	owner = X48
+	controller = X48
+}
+
+1000.2.2 = {
+	owner = X47
+	add_core = X47
+	controller = X47
+}

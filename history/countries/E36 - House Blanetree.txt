@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 104
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Blanetree"
+		birth_date = 973.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Mern"
+		monarch_name = "Mern"
+		dynasty = "Blanetree"
+		birth_date = 993.1.1
+		death_date = 1025.1.1
+		claim = 19
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1014.1.1 = {
+
+	monarch = {
+		name = "Amell"
+		dynasty = "Blanetree"
+		birth_date = 958.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Rollam"
+		monarch_name = "Rollam"
+		dynasty = "Blanetree"
+		birth_date = 1002.1.1
+		death_date = 1067.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Yorko"
+		dynasty = "Blanetree"
+		birth_date = 1084.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Eroeh"
+		monarch_name = "Eroeh"
+		dynasty = "Blanetree"
+		birth_date = 1073.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1128.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Blanetree"
+		birth_date = 1056.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Arnory"
+		monarch_name = "Arnory"
+		dynasty = "Blanetree"
+		birth_date = 1117.1.1
+		death_date = 1174.1.1
+		claim = 81
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Blanetree"
+		birth_date = 1164.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Malleon"
+		monarch_name = "Malleon"
+		dynasty = "Blanetree"
+		birth_date = 1190.1.1
+		death_date = 1283.1.1
+		claim = 30
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Gormond"
+		dynasty = "Blanetree"
+		birth_date = 1141.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Ryk"
+		monarch_name = "Ryk"
+		dynasty = "Blanetree"
+		birth_date = 1213.1.1
+		death_date = 1267.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Elys"
+		dynasty = "Blanetree"
+		birth_date = 1207.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Cadwyn"
+		monarch_name = "Cadwyn"
+		dynasty = "Blanetree"
+		birth_date = 1256.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Ashford"
+		dynasty = "Blanetree"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Rennifer"
+		monarch_name = "Rennifer"
+		dynasty = "Blanetree"
+		birth_date = 1341.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+

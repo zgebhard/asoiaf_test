@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 257
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Eggon"
+		dynasty = "Graceford"
+		birth_date = 936.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Graceford"
+		birth_date = 973.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1011.1.1 = {
+
+	monarch = {
+		name = "Arnory"
+		dynasty = "Graceford"
+		birth_date = 924.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Ulwyck"
+		monarch_name = "Ulwyck"
+		dynasty = "Graceford"
+		birth_date = 987.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Lysono"
+		dynasty = "Graceford"
+		birth_date = 1016.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Doran"
+		monarch_name = "Doran"
+		dynasty = "Graceford"
+		birth_date = 1071.1.1
+		death_date = 1105.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Meizo"
+		dynasty = "Graceford"
+		birth_date = 1076.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Graceford"
+		birth_date = 1081.1.1
+		death_date = 1143.1.1
+		claim = 73
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1137.1.1 = {
+
+	monarch = {
+		name = "Theobald"
+		dynasty = "Graceford"
+		birth_date = 1059.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Graceford"
+		birth_date = 1124.1.1
+		death_date = 1165.1.1
+		claim = 65
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Umar"
+		dynasty = "Graceford"
+		birth_date = 1194.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Ashford"
+		monarch_name = "Ashford"
+		dynasty = "Graceford"
+		birth_date = 1209.1.1
+		death_date = 1251.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Roryn"
+		dynasty = "Graceford"
+		birth_date = 1152.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Harle"
+		monarch_name = "Harle"
+		dynasty = "Graceford"
+		birth_date = 1209.1.1
+		death_date = 1305.1.1
+		claim = 23
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1253.1.1 = {
+	monarch = {
+		name = "Myrcella"
+		dynasty = "Graceford"
+		female = yes
+		birth_date = 1235.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund"
+		dynasty = "Graceford"
+		birth_date = 1241.1.1
+		death_date = 1268.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Graceford"
+		birth_date = 1252.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Haldon"
+		monarch_name = "Haldon"
+		dynasty = "Graceford"
+		birth_date = 1313.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Harmen"
+		dynasty = "Graceford"
+		birth_date = 1297.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Beric"
+		monarch_name = "Beric"
+		dynasty = "Graceford"
+		birth_date = 1370.1.1
+		death_date = 1467.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+

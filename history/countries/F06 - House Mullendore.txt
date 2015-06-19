@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 287
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Karlon"
+		dynasty = "Mullendore"
+		birth_date = 973.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Alekyne"
+		monarch_name = "Alekyne"
+		dynasty = "Mullendore"
+		birth_date = 991.1.1
+		death_date = 1024.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Luke"
+		dynasty = "Mullendore"
+		birth_date = 1000.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Mullendore"
+		birth_date = 1016.1.1
+		death_date = 1094.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Mullendore"
+		birth_date = 987.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Megga"
+		monarch_name = "Megga"
+		dynasty = "Mullendore"
+		female = yes
+		birth_date = 1042.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Merrett"
+		dynasty = "Mullendore"
+		birth_date = 1060.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Androw"
+		monarch_name = "Androw"
+		dynasty = "Mullendore"
+		birth_date = 1064.1.1
+		death_date = 1114.1.1
+		claim = 16
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1142.1.1 = {
+
+	monarch = {
+		name = "Vickon"
+		dynasty = "Mullendore"
+		birth_date = 1122.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryon"
+		monarch_name = "Bryon"
+		dynasty = "Mullendore"
+		birth_date = 1140.1.1
+		death_date = 1169.1.1
+		claim = 62
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Lyle"
+		dynasty = "Mullendore"
+		birth_date = 1138.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Wynafryd"
+		monarch_name = "Wynafryd"
+		dynasty = "Mullendore"
+		female = yes
+		birth_date = 1168.1.1
+		death_date = 1213.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Howd"
+		dynasty = "Mullendore"
+		birth_date = 1147.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Mullendore"
+		birth_date = 1159.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1254.1.1 = {
+
+	monarch = {
+		name = "Emberlei"
+		dynasty = "Mullendore"
+		birth_date = 1166.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Bennis"
+		monarch_name = "Bennis"
+		dynasty = "Mullendore"
+		birth_date = 1231.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1339.1.1 = {
+
+	monarch = {
+		name = "Erena"
+		dynasty = "Mullendore"
+		birth_date = 1300.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Mullendore"
+		birth_date = 1338.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Mullendore"
+		birth_date = 1325.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Elron"
+		monarch_name = "Elron"
+		dynasty = "Mullendore"
+		birth_date = 1326.1.1
+		death_date = 1413.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+

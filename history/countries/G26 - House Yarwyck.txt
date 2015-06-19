@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 176
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Kyle"
+		dynasty = "Yarwyck"
+		birth_date = 942.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ryk"
+		monarch_name = "Ryk"
+		dynasty = "Yarwyck"
+		birth_date = 996.1.1
+		death_date = 1086.1.1
+		claim = 76
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Duram"
+		dynasty = "Yarwyck"
+		birth_date = 1030.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Lew"
+		monarch_name = "Lew"
+		dynasty = "Yarwyck"
+		birth_date = 1072.1.1
+		death_date = 1121.1.1
+		claim = 41
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Xhondo"
+		dynasty = "Yarwyck"
+		birth_date = 1081.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Symond"
+		monarch_name = "Symond"
+		dynasty = "Yarwyck"
+		birth_date = 1117.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Luco"
+		dynasty = "Yarwyck"
+		birth_date = 1079.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Yarwyck"
+		birth_date = 1113.1.1
+		death_date = 1217.1.1
+		claim = 68
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1172.1.1 = {
+
+	monarch = {
+		name = "Torwold"
+		dynasty = "Yarwyck"
+		birth_date = 1131.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Hugor"
+		monarch_name = "Hugor"
+		dynasty = "Yarwyck"
+		birth_date = 1171.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Pypar"
+		dynasty = "Yarwyck"
+		birth_date = 1163.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Devyn"
+		monarch_name = "Devyn"
+		dynasty = "Yarwyck"
+		birth_date = 1220.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Dagon"
+		dynasty = "Yarwyck"
+		birth_date = 1274.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Tion"
+		monarch_name = "Tion"
+		dynasty = "Yarwyck"
+		birth_date = 1267.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Yarwyck"
+		birth_date = 1304.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Jhaqo"
+		monarch_name = "Jhaqo"
+		dynasty = "Yarwyck"
+		birth_date = 1364.1.1
+		death_date = 1385.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+}
+

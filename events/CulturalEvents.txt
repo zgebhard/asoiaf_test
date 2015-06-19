@@ -1,0 +1,158 @@
+namespace = CULTURAL_EVENTS
+
+# Deserters from the Wall
+# Several runaways from the Wall have been captured by a local patrol. Deserters of the Night's Watch deserve only death, and it is said that the man who passes the sentence should swing the sword.
+#1: I will swing the sword.
+#2: Imprison them instead.
+country_event = {
+	id = CULTURAL_EVENTS.1
+	title = CULTURAL_EVENTS.1.title
+	desc = CULTURAL_EVENTS.1.desc
+	picture = ACCUSATION_eventPicture
+	
+	trigger = {
+		capital_scope = {
+			region = region_the_north
+		}
+		primary_culture = men_of_the_north
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.1.option.a
+		
+		add_prestige = 10
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.1.option.b
+		
+		add_prestige = -10
+		add_dip_power = 25
+	}
+}
+
+# Mountain Clan Turmoil
+# A dispute within a mountain clan has led to a leadership dispute. They look to their liege lord, the [Root.Monarch.GetName] for arbitration.
+#1: Support the builder
+#2: Support the hunter
+#3: Support the barbarian
+#4: Ignore them
+country_event = {
+	id = CULTURAL_EVENTS.2
+	title = CULTURAL_EVENTS.2.title
+	desc = CULTURAL_EVENTS.2.desc
+	picture = CONQUEST_eventPicture
+	
+	trigger = {
+		capital_scope = {
+			region = region_the_north
+		}
+		primary_culture = men_of_the_north
+	}
+	
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.2.option.a
+		
+		add_adm_power = 25
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.2.option.b
+		
+		add_dip_power = 25
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.2.option.c
+		
+		add_mil_power = 25
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.2.option.d
+		
+		add_legitimacy = 5
+	}
+}
+
+# The Old Way
+# The Old Way is still highly regarded on the Iron Islands. The Old Way embodies the remembered values of a culture based on raiding. A man's worth was judged primarily on his skill as a raider, as evidenced in the disdain jewellery and ornament bought with coin. Men on the Iron Islands wear no tokens unless they have paid the iron price.
+# A raider's stash...
+country_event = {
+	id = CULTURAL_EVENTS.3
+	title = CULTURAL_EVENTS.3.title
+	desc = CULTURAL_EVENTS.3.desc
+	picture = NAVAL_MILITARY_eventPicture
+	
+	trigger = {
+		primary_culture = ironborn
+		stability = 0
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.3.option.a
+		
+		add_years_of_income = 1
+	}
+}
+
+# A Silken Lover...
+# She giggles. - 'My [Root.Monarch.GetTitle]...', she says. You look towards your lover, smitten by the beauty that befalls you. You say nothing. Life is short in Westeros, and you are taken in with the intoxicating scent of your lover, when a thought crosses your mind...
+# Cute...
+# Naive...
+country_event = {
+	id = CULTURAL_EVENTS.4
+	title = CULTURAL_EVENTS.4.title
+	desc = CULTURAL_EVENTS.4.desc
+	picture = CULTURE_eventPicture
+	
+	trigger = {
+		culture_group = culture_westeros
+		any_known_country = {
+			has_opinion = {
+				who = ROOT
+				value = 0
+			}
+		}
+		has_heir = no
+		has_regency = no
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.4.option.a
+		
+		define_heir = {
+			claim = 30
+		}
+	}
+	
+	option = {
+		name = CULTURAL_EVENTS.4.option.b
+		
+		random_known_country = {
+			limit = {
+				has_opinion = {
+					who = ROOT
+					value = 0
+				}
+			}
+			create_marriage = ROOT
+		}
+	}
+}

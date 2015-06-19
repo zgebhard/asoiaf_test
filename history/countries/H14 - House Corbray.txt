@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 137
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Donel"
+		dynasty = "Corbray"
+		birth_date = 928.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Chella"
+		monarch_name = "Chella"
+		dynasty = "Corbray"
+		birth_date = 979.1.1
+		death_date = 1052.1.1
+		claim = 31
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1021.1.1 = {
+
+	monarch = {
+		name = "Illifer"
+		dynasty = "Corbray"
+		birth_date = 972.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jaehaerys"
+		monarch_name = "Jaehaerys"
+		dynasty = "Corbray"
+		birth_date = 995.1.1
+		death_date = 1084.1.1
+		claim = 30
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Wynton"
+		dynasty = "Corbray"
+		birth_date = 1000.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Joss"
+		monarch_name = "Joss"
+		dynasty = "Corbray"
+		birth_date = 1035.1.1
+		death_date = 1102.1.1
+		claim = 43
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Andrey"
+		dynasty = "Corbray"
+		birth_date = 1083.1.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Beron"
+		monarch_name = "Beron"
+		dynasty = "Corbray"
+		birth_date = 1073.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Urrigon"
+		dynasty = "Corbray"
+		birth_date = 1058.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Clayton"
+		monarch_name = "Clayton"
+		dynasty = "Corbray"
+		birth_date = 1090.1.1
+		death_date = 1148.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Larence"
+		dynasty = "Corbray"
+		birth_date = 1097.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Varamyr"
+		monarch_name = "Varamyr"
+		dynasty = "Corbray"
+		birth_date = 1164.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Eddard"
+		dynasty = "Corbray"
+		birth_date = 1167.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Sylva"
+		monarch_name = "Sylva"
+		dynasty = "Corbray"
+		female = yes
+		birth_date = 1174.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Sumner"
+		dynasty = "Corbray"
+		birth_date = 1192.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Cloen"
+		monarch_name = "Cloen"
+		dynasty = "Corbray"
+		birth_date = 1190.1.1
+		death_date = 1297.1.1
+		claim = 8
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Gueren"
+		dynasty = "Corbray"
+		birth_date = 1156.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Mollander"
+		monarch_name = "Mollander"
+		dynasty = "Corbray"
+		birth_date = 1210.1.1
+		death_date = 1251.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Varly"
+		dynasty = "Corbray"
+		birth_date = 1202.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Portifer"
+		monarch_name = "Portifer"
+		dynasty = "Corbray"
+		birth_date = 1237.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Steffon"
+		dynasty = "Corbray"
+		birth_date = 1268.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Corbray"
+		birth_date = 1314.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+

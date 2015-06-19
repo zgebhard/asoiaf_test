@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Seaworth"
+		birth_date = 928.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Renly"
+		monarch_name = "Renly"
+		dynasty = "Seaworth"
+		birth_date = 999.1.1
+		death_date = 1046.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Helly"
+		dynasty = "Seaworth"
+		female = yes
+		birth_date = 1012.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Seaworth"
+		birth_date = 1070.1.1
+		death_date = 1161.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Pree"
+		dynasty = "Seaworth"
+		birth_date = 1092.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Seaworth"
+		birth_date = 1157.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Cuger"
+		dynasty = "Seaworth"
+		birth_date = 1212.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Lancel"
+		monarch_name = "Lancel"
+		dynasty = "Seaworth"
+		birth_date = 1248.1.1
+		death_date = 1308.1.1
+		claim = 74
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1306.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Seaworth"
+		birth_date = 1274.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Daemon"
+		monarch_name = "Daemon"
+		dynasty = "Seaworth"
+		birth_date = 1294.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1367.1.1 = {
+
+	monarch = {
+		name = "Stafford"
+		dynasty = "Seaworth"
+		birth_date = 1297.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Seaworth"
+		birth_date = 1358.1.1
+		death_date = 1406.1.1
+		claim = 47
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Seaworth"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Imry"
+		monarch_name = "Imry"
+		dynasty = "Seaworth"
+		birth_date = 1378.1.1
+		death_date = 1456.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 24
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Willum"
+		dynasty = "Norrey"
+		birth_date = 931.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Norrey"
+		birth_date = 979.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Ocley"
+		dynasty = "Norrey"
+		birth_date = 1007.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ordello"
+		monarch_name = "Ordello"
+		dynasty = "Norrey"
+		birth_date = 1080.1.1
+		death_date = 1099.1.1
+		claim = 29
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Norrey"
+		birth_date = 1083.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Helly"
+		monarch_name = "Helly"
+		dynasty = "Norrey"
+		female = yes
+		birth_date = 1141.1.1
+		death_date = 1224.1.1
+		claim = 61
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Orton"
+		dynasty = "Norrey"
+		birth_date = 1160.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Delp"
+		monarch_name = "Delp"
+		dynasty = "Norrey"
+		birth_date = 1191.1.1
+		death_date = 1287.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1267.1.1 = {
+	monarch = {
+		name = "Jyanna"
+		dynasty = "Norrey"
+		female = yes
+		birth_date = 1209.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Robb"
+		monarch_name = "Robb"
+		dynasty = "Norrey"
+		birth_date = 1245.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Courtenay"
+		dynasty = "Norrey"
+		birth_date = 1280.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Geraradys"
+		monarch_name = "Geraradys"
+		dynasty = "Norrey"
+		birth_date = 1284.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1375.1.1 = {
+
+	monarch = {
+		name = "Tristimun"
+		dynasty = "Norrey"
+		birth_date = 1304.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Norrey"
+		birth_date = 1359.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Wate"
+		dynasty = "Norrey"
+		birth_date = 1373.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Jared"
+		monarch_name = "Jared"
+		dynasty = "Norrey"
+		birth_date = 1376.1.1
+		death_date = 1412.1.1
+		claim = 75
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 175
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gerold"
+		dynasty = "Foote"
+		birth_date = 915.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Justin"
+		monarch_name = "Justin"
+		dynasty = "Foote"
+		birth_date = 995.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Oberyn"
+		dynasty = "Foote"
+		birth_date = 978.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Varys"
+		monarch_name = "Varys"
+		dynasty = "Foote"
+		birth_date = 1025.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1042.1.1 = {
+
+	monarch = {
+		name = "Colmar"
+		dynasty = "Foote"
+		birth_date = 1023.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Goady"
+		monarch_name = "Goady"
+		dynasty = "Foote"
+		birth_date = 1015.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Tarle"
+		dynasty = "Foote"
+		birth_date = 1090.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert"
+		dynasty = "Foote"
+		birth_date = 1123.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Jhogo"
+		dynasty = "Foote"
+		birth_date = 1184.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Foote"
+		birth_date = 1197.1.1
+		death_date = 1225.1.1
+		claim = 55
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Oswyn"
+		dynasty = "Foote"
+		birth_date = 1223.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Varys"
+		monarch_name = "Varys"
+		dynasty = "Foote"
+		birth_date = 1218.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Foote"
+		birth_date = 1293.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Xaro"
+		monarch_name = "Xaro"
+		dynasty = "Foote"
+		birth_date = 1321.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+

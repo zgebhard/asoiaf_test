@@ -1,0 +1,122 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 182
+
+1000.1.1 = {
+	monarch = {
+		name = "Loren VI"
+		dynasty = "Lannister"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 970.1.1
+	}
+
+	heir = {
+		name = "Lyman"
+		monarch_name = "Lyman"
+		dynasty = "Lannister"
+		birth_date = 995.1.1
+		death_date = 1050.1.1
+		claim = 100
+		dip = 4
+		mil = 5
+		adm = 4
+	}
+}
+
+1005.1.1 = {
+	elector = yes
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Lyman"
+		dynasty = "Lannister"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 995.1.1
+	}
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Jason"
+		dynasty = "Lannister"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1097.1.1
+	}
+}
+
+# The Conquest of Dorne
+1157.1.1 = {
+	monarch = {
+		name = "Loreon"
+		dynasty = "Lannister"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1105.1.1
+	}
+}
+
+# Blackfyre Rebellion
+1196.1.1 = {
+	monarch = {
+		name = "Damon"
+		dynasty = "Lannister"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1154.1.1
+	}
+}
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Tytos"
+		dynasty = "Lannister"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1214.1.1
+	}
+}
+
+# Robert's Rebellion
+1281.1.1 = {
+	monarch = {
+		name = "Tywin"
+		dynasty = "Lannister"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1241.1.1
+	}
+}
+
+# A Feast for Crows
+1298.6.1 = {
+	monarch = {
+		name = "Cersei"
+		dynasty = "Lannister"
+		adm = 2
+		dip = 4
+		mil = 0
+		birth_date = 1264.1.1
+		female = yes
+	}
+}

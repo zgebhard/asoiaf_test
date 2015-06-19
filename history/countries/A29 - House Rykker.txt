@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 212
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Talla"
+		dynasty = "Rykker"
+		birth_date = 963.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Jarl"
+		monarch_name = "Jarl"
+		dynasty = "Rykker"
+		birth_date = 988.1.1
+		death_date = 1025.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1001.1.1 = {
+
+	monarch = {
+		name = "Cellador"
+		dynasty = "Rykker"
+		birth_date = 938.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Luceon"
+		monarch_name = "Luceon"
+		dynasty = "Rykker"
+		birth_date = 981.1.1
+		death_date = 1069.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Aenys"
+		dynasty = "Rykker"
+		birth_date = 994.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Eggon"
+		monarch_name = "Eggon"
+		dynasty = "Rykker"
+		birth_date = 1011.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Helman"
+		dynasty = "Rykker"
+		birth_date = 1042.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Cadwyn"
+		monarch_name = "Cadwyn"
+		dynasty = "Rykker"
+		birth_date = 1066.1.1
+		death_date = 1143.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Balman"
+		dynasty = "Rykker"
+		birth_date = 1112.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Rykker"
+		birth_date = 1154.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1163.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Rykker"
+		birth_date = 1098.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ben"
+		monarch_name = "Ben"
+		dynasty = "Rykker"
+		birth_date = 1155.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Rykker"
+		birth_date = 1173.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Poul"
+		monarch_name = "Poul"
+		dynasty = "Rykker"
+		birth_date = 1234.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Myles"
+		dynasty = "Rykker"
+		birth_date = 1295.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Rykker"
+		birth_date = 1292.1.1
+		death_date = 1359.1.1
+		claim = 27
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1373.1.1 = {
+
+	monarch = {
+		name = "Gulian"
+		dynasty = "Rykker"
+		birth_date = 1301.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Jhezene"
+		monarch_name = "Jhezene"
+		dynasty = "Rykker"
+		birth_date = 1354.1.1
+		death_date = 1409.1.1
+		claim = 42
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+

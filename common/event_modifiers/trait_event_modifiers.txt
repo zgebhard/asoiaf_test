@@ -1,0 +1,192 @@
+#############
+# Attributes
+#############
+#	Max: 20
+#	Diplomacy
+#		Affects:
+#			Diplomatic-related Personal Interaction Actions
+#			Prestige
+#	Martial
+#		Affects:
+#			Leader Generation Stats
+#			Discipline
+#	Stewardship
+#		Affects:
+#			Tax Modifier
+#			Manpower Modifier
+#	Intrigue
+#		Affects:
+#			Intrigue-related Personal Interaction Actions
+#		
+#	Learning
+#		Affects:
+#			Technology Cost
+#			Idea Cost
+#	Health
+#		Affects:
+#			Alters death chance
+
+#############
+# Traits
+#############
+
+# Educational Traits
+education_sabotage = {
+}
+education_diplomacy = {
+}
+education_stewardship = {
+}
+education_leadership = {
+}
+education_theology = {
+}
+
+# Health Traits
+health_stressed = {
+}
+health_depressed = {
+}
+health_lunatic = {
+}
+health_possessed = {
+}
+health_ill = {
+}
+health_wounded = {
+}
+health_maimed = {
+}
+health_infirm = {
+}
+health_incapable = {
+}
+health_drunkard = {
+}
+health_scarred = {
+}
+health_sickly = {
+}
+health_pnuemonic = {
+}
+health_syphilitic = {
+}
+health_greyscale = {
+}
+
+# Congential Traits
+congential_attractive = {
+}
+congential_genius = {
+}
+congential_quick = {
+}
+congential_strong = {
+}
+
+congential_clubfooted = {
+}
+congential_harelip = {
+}
+congential_hunchback = {
+}
+congential_lisp = {
+}
+congential_stutter = {
+}
+congential_ugly = {
+}
+congential_dwarf = {
+}
+congential_slow = {
+}
+congential_imbecile = {
+}
+congential_inbred = {
+}
+congential_weak = {
+}
+
+# Lifestyle Traits
+lifestyle_celibate = {
+}
+lifestyle_hedonist = {
+}
+lifestyle_scholar = {
+}
+lifestyle_gardener = {
+}
+lifestyle_mystic = {
+}
+lifestyle_impaler = {
+}
+lifestyle_duelist = {
+}
+lifestyle_hunter = {
+}
+lifestyle_poet = {
+}
+lifestyle_falconer = {
+}
+
+# Personality Traits
+personality_chaste = {
+}
+personality_temperate = {
+}
+personality_charitable = {
+}
+personality_diligent = {
+}
+personality_kind = {
+}
+personality_patient = {
+}
+personality_humble = {
+}
+personality_honest = {
+}
+personality_brave = {
+}
+personality_gregarious = {
+}
+personality_ambitious = {
+}
+personality_just = {
+}
+personality_trusting = {
+}
+personality_zealous = {
+}
+
+personality_lustful = {
+}
+personality_gluttonous = {
+}
+personality_greedy = {
+}
+personality_slothful = {
+}
+personality_envious = {
+}
+personality_wroth = {
+}
+personality_proud = {
+}
+personality_decietful = {
+}
+personality_craven = {
+}
+personality_shy = {
+}
+personality_content = {
+}
+personality_arbitrary = {
+}
+personality_cynical = {
+}
+personality_paranoid = {
+}
+personality_cruel = {
+}
+

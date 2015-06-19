@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 260
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Guyne"
+		dynasty = "Hastwyck"
+		birth_date = 913.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Raymund"
+		monarch_name = "Raymund"
+		dynasty = "Hastwyck"
+		birth_date = 972.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1022.1.1 = {
+
+	monarch = {
+		name = "Gheal"
+		dynasty = "Hastwyck"
+		birth_date = 940.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Hastwyck"
+		birth_date = 1019.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Tumco"
+		dynasty = "Hastwyck"
+		birth_date = 1006.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Cynthea"
+		monarch_name = "Cynthea"
+		dynasty = "Hastwyck"
+		female = yes
+		birth_date = 1049.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1104.1.1 = {
+
+	monarch = {
+		name = "Clarence"
+		dynasty = "Hastwyck"
+		birth_date = 1033.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Hastwyck"
+		birth_date = 1090.1.1
+		death_date = 1138.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1160.1.1 = {
+
+	monarch = {
+		name = "Randyll"
+		dynasty = "Hastwyck"
+		birth_date = 1120.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Elwood"
+		monarch_name = "Elwood"
+		dynasty = "Hastwyck"
+		birth_date = 1160.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Hastwyck"
+		birth_date = 1184.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Dorren"
+		monarch_name = "Dorren"
+		dynasty = "Hastwyck"
+		birth_date = 1216.1.1
+		death_date = 1298.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Hastwyck"
+		birth_date = 1258.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Elwood"
+		monarch_name = "Elwood"
+		dynasty = "Hastwyck"
+		birth_date = 1284.1.1
+		death_date = 1376.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Hastwyck"
+		birth_date = 1274.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Zachery"
+		monarch_name = "Zachery"
+		dynasty = "Hastwyck"
+		birth_date = 1307.1.1
+		death_date = 1345.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Hastwyck"
+		birth_date = 1317.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Assadora"
+		monarch_name = "Assadora"
+		dynasty = "Hastwyck"
+		female = yes
+		birth_date = 1334.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = ghis
+religion = asoiaf_graces
+
+capital = 618
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harwood"
+		dynasty = "Riznahz"
+		birth_date = 958.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Riznahz"
+		birth_date = 991.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Richard"
+		dynasty = "Riznahz"
+		birth_date = 969.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Masha"
+		monarch_name = "Masha"
+		dynasty = "Riznahz"
+		female = yes
+		birth_date = 1034.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1104.1.1 = {
+
+	monarch = {
+		name = "Quincy"
+		dynasty = "Riznahz"
+		birth_date = 1027.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Beldecar"
+		monarch_name = "Beldecar"
+		dynasty = "Riznahz"
+		birth_date = 1074.1.1
+		death_date = 1171.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Turquin"
+		dynasty = "Riznahz"
+		birth_date = 1041.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Ondrew"
+		monarch_name = "Ondrew"
+		dynasty = "Riznahz"
+		birth_date = 1118.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Riznahz"
+		birth_date = 1141.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Sigfryd"
+		monarch_name = "Sigfryd"
+		dynasty = "Riznahz"
+		birth_date = 1140.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Eden"
+		dynasty = "Riznahz"
+		birth_date = 1096.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Riznahz"
+		birth_date = 1159.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Lorren"
+		dynasty = "Riznahz"
+		birth_date = 1165.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Rolly"
+		monarch_name = "Rolly"
+		dynasty = "Riznahz"
+		birth_date = 1180.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1286.1.1 = {
+	monarch = {
+		name = "Cyrenna"
+		dynasty = "Riznahz"
+		female = yes
+		birth_date = 1197.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Shortear"
+		monarch_name = "Shortear"
+		dynasty = "Riznahz"
+		female = yes
+		birth_date = 1279.1.1
+		death_date = 1341.1.1
+		claim = 53
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1310.1.1 = {
+
+	monarch = {
+		name = "Pypar"
+		dynasty = "Riznahz"
+		birth_date = 1246.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Chiggen"
+		monarch_name = "Chiggen"
+		dynasty = "Riznahz"
+		birth_date = 1298.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Gydayn"
+		dynasty = "Riznahz"
+		birth_date = 1345.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Beardless"
+		monarch_name = "Beardless"
+		dynasty = "Riznahz"
+		birth_date = 1368.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+

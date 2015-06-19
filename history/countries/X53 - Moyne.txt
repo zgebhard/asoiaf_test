@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = moyne
+religion = asoiaf_summer_gods
+
+capital = 515
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ottyn"
+		dynasty = "Moyne"
+		birth_date = 954.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Edgerran"
+		monarch_name = "Edgerran"
+		dynasty = "Moyne"
+		birth_date = 989.1.1
+		death_date = 1060.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Moyne"
+		birth_date = 996.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Moyne"
+		birth_date = 1040.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1095.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Moyne"
+		birth_date = 1065.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Edgerran"
+		monarch_name = "Edgerran"
+		dynasty = "Moyne"
+		birth_date = 1073.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Donnel"
+		dynasty = "Moyne"
+		birth_date = 1126.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Vaellyn"
+		monarch_name = "Vaellyn"
+		dynasty = "Moyne"
+		birth_date = 1137.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Moyne"
+		birth_date = 1129.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Areo"
+		monarch_name = "Areo"
+		dynasty = "Moyne"
+		birth_date = 1185.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Ryon"
+		dynasty = "Moyne"
+		birth_date = 1161.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Moyne"
+		birth_date = 1230.1.1
+		death_date = 1320.1.1
+		claim = 56
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1281.1.1 = {
+	monarch = {
+		name = "Ezzara"
+		dynasty = "Moyne"
+		female = yes
+		birth_date = 1196.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Theobald"
+		monarch_name = "Theobald"
+		dynasty = "Moyne"
+		birth_date = 1255.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Mychel"
+		dynasty = "Moyne"
+		birth_date = 1270.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Symon"
+		monarch_name = "Symon"
+		dynasty = "Moyne"
+		birth_date = 1323.1.1
+		death_date = 1425.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Moyne"
+		birth_date = 1352.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter"
+		dynasty = "Moyne"
+		birth_date = 1376.1.1
+		death_date = 1435.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+

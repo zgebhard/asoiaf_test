@@ -1,0 +1,16 @@
+# 799 - Saffron Isle
+
+base_tax = 1
+base_production = 1
+trade_goods = spices
+base_manpower =  1
+hre = no
+
+capital = "Saffron Isle"
+
+religion = asoiaf_mixed_worship
+
+is_city = no
+native_size = 10
+native_ferocity = 5
+native_hostileness = 5

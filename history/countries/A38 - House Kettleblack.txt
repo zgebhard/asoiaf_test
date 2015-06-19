@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Romny"
+		dynasty = "Kettleblack"
+		birth_date = 969.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Daena"
+		monarch_name = "Daena"
+		dynasty = "Kettleblack"
+		birth_date = 974.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Bennard"
+		dynasty = "Kettleblack"
+		birth_date = 1011.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Erreg"
+		monarch_name = "Erreg"
+		dynasty = "Kettleblack"
+		birth_date = 1059.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Arthur"
+		dynasty = "Kettleblack"
+		birth_date = 1061.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Selyse"
+		monarch_name = "Selyse"
+		dynasty = "Kettleblack"
+		female = yes
+		birth_date = 1131.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1195.1.1 = {
+	monarch = {
+		name = "Mordane"
+		dynasty = "Kettleblack"
+		female = yes
+		birth_date = 1170.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Anguy"
+		monarch_name = "Anguy"
+		dynasty = "Kettleblack"
+		birth_date = 1180.1.1
+		death_date = 1240.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Wendamyr"
+		dynasty = "Kettleblack"
+		birth_date = 1193.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Kettleblack"
+		birth_date = 1194.1.1
+		death_date = 1290.1.1
+		claim = 0
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Jafer"
+		dynasty = "Kettleblack"
+		birth_date = 1167.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Ilyn"
+		monarch_name = "Ilyn"
+		dynasty = "Kettleblack"
+		birth_date = 1207.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Violet"
+		dynasty = "Kettleblack"
+		female = yes
+		birth_date = 1224.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Leslyn"
+		monarch_name = "Leslyn"
+		dynasty = "Kettleblack"
+		birth_date = 1248.1.1
+		death_date = 1298.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Joseth"
+		dynasty = "Kettleblack"
+		birth_date = 1208.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jaggot"
+		monarch_name = "Jaggot"
+		dynasty = "Kettleblack"
+		birth_date = 1244.1.1
+		death_date = 1300.1.1
+		claim = 23
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Kettleblack"
+		birth_date = 1222.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Ondrew"
+		monarch_name = "Ondrew"
+		dynasty = "Kettleblack"
+		birth_date = 1284.1.1
+		death_date = 1384.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Jaremy"
+		dynasty = "Kettleblack"
+		birth_date = 1281.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Puckens"
+		monarch_name = "Puckens"
+		dynasty = "Kettleblack"
+		birth_date = 1293.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Kettleblack"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Hoster"
+		monarch_name = "Hoster"
+		dynasty = "Kettleblack"
+		birth_date = 1338.1.1
+		death_date = 1407.1.1
+		claim = 49
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+

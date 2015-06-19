@@ -1,0 +1,292 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 720
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Prendahl"
+		dynasty = "Xarnath"
+		birth_date = 954.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Morgath"
+		monarch_name = "Morgath"
+		dynasty = "Xarnath"
+		birth_date = 972.1.1
+		death_date = 1058.1.1
+		claim = 10
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1057.1.1 = {
+
+	monarch = {
+		name = "Ormond"
+		dynasty = "Xarnath"
+		birth_date = 1009.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Eelinor"
+		monarch_name = "Eelinor"
+		dynasty = "Xarnath"
+		female = yes
+		birth_date = 1052.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Maron"
+		dynasty = "Xarnath"
+		birth_date = 1033.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Archibald"
+		monarch_name = "Archibald"
+		dynasty = "Xarnath"
+		birth_date = 1098.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Dareon"
+		dynasty = "Xarnath"
+		birth_date = 1058.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Xarnath"
+		birth_date = 1146.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Willas"
+		dynasty = "Xarnath"
+		birth_date = 1174.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Lorimer"
+		monarch_name = "Lorimer"
+		dynasty = "Xarnath"
+		birth_date = 1167.1.1
+		death_date = 1260.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Mors"
+		dynasty = "Xarnath"
+		birth_date = 1113.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Miklaz"
+		monarch_name = "Miklaz"
+		dynasty = "Xarnath"
+		birth_date = 1191.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1235.1.1 = {
+
+	monarch = {
+		name = "Ronnel"
+		dynasty = "Xarnath"
+		birth_date = 1179.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Aurane"
+		monarch_name = "Aurane"
+		dynasty = "Xarnath"
+		birth_date = 1217.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Eyron"
+		dynasty = "Xarnath"
+		birth_date = 1216.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Donal"
+		monarch_name = "Donal"
+		dynasty = "Xarnath"
+		birth_date = 1289.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Karlon"
+		dynasty = "Xarnath"
+		birth_date = 1266.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Roger"
+		monarch_name = "Roger"
+		dynasty = "Xarnath"
+		birth_date = 1307.1.1
+		death_date = 1377.1.1
+		claim = 49
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Elbert"
+		dynasty = "Xarnath"
+		birth_date = 1333.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Pollitor"
+		monarch_name = "Pollitor"
+		dynasty = "Xarnath"
+		birth_date = 1364.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Eldon"
+		dynasty = "Xarnath"
+		birth_date = 1284.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Hal"
+		monarch_name = "Hal"
+		dynasty = "Xarnath"
+		birth_date = 1343.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+
+
+
+
+

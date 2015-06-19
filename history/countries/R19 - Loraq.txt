@@ -1,0 +1,240 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = meereen
+religion = asoiaf_graces
+
+capital = 606
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Patrek"
+		dynasty = "Loraq"
+		birth_date = 928.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Jate"
+		monarch_name = "Jate"
+		dynasty = "Loraq"
+		birth_date = 985.1.1
+		death_date = 1067.1.1
+		claim = 2
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Loraq"
+		birth_date = 1007.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Vardis"
+		monarch_name = "Vardis"
+		dynasty = "Loraq"
+		birth_date = 1005.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Tristan"
+		dynasty = "Loraq"
+		birth_date = 963.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Del"
+		monarch_name = "Del"
+		dynasty = "Loraq"
+		birth_date = 1018.1.1
+		death_date = 1066.1.1
+		claim = 71
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Mern"
+		dynasty = "Loraq"
+		birth_date = 1029.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Munciter"
+		monarch_name = "Munciter"
+		dynasty = "Loraq"
+		female = yes
+		birth_date = 1079.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Tregar"
+		dynasty = "Loraq"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Cossomo"
+		monarch_name = "Cossomo"
+		dynasty = "Loraq"
+		birth_date = 1157.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1187.1.1 = {
+
+	monarch = {
+		name = "Ferret"
+		dynasty = "Loraq"
+		birth_date = 1150.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Edric"
+		monarch_name = "Edric"
+		dynasty = "Loraq"
+		birth_date = 1164.1.1
+		death_date = 1252.1.1
+		claim = 82
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Rob"
+		dynasty = "Loraq"
+		birth_date = 1250.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Dareon"
+		monarch_name = "Dareon"
+		dynasty = "Loraq"
+		birth_date = 1264.1.1
+		death_date = 1350.1.1
+		claim = 33
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1311.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Loraq"
+		birth_date = 1271.1.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Valarr"
+		monarch_name = "Valarr"
+		dynasty = "Loraq"
+		birth_date = 1298.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Rolly"
+		dynasty = "Loraq"
+		birth_date = 1321.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Helliweg"
+		monarch_name = "Helliweg"
+		dynasty = "Loraq"
+		birth_date = 1359.1.1
+		death_date = 1404.1.1
+		claim = 37
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+

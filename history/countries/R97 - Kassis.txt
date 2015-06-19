@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 668
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Allar"
+		dynasty = "Kassis"
+		birth_date = 944.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Hosman"
+		monarch_name = "Hosman"
+		dynasty = "Kassis"
+		birth_date = 977.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Will"
+		dynasty = "Kassis"
+		birth_date = 1042.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Harle"
+		monarch_name = "Harle"
+		dynasty = "Kassis"
+		birth_date = 1082.1.1
+		death_date = 1102.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1154.1.1 = {
+
+	monarch = {
+		name = "Uthor"
+		dynasty = "Kassis"
+		birth_date = 1106.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Paxter"
+		monarch_name = "Paxter"
+		dynasty = "Kassis"
+		birth_date = 1150.1.1
+		death_date = 1241.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Baelor"
+		dynasty = "Kassis"
+		birth_date = 1131.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Dobber"
+		monarch_name = "Dobber"
+		dynasty = "Kassis"
+		birth_date = 1174.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Gascoyne"
+		dynasty = "Kassis"
+		birth_date = 1171.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Oberyn"
+		monarch_name = "Oberyn"
+		dynasty = "Kassis"
+		birth_date = 1238.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Nestor"
+		dynasty = "Kassis"
+		birth_date = 1294.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Jyck"
+		monarch_name = "Jyck"
+		dynasty = "Kassis"
+		birth_date = 1313.1.1
+		death_date = 1385.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Galladon"
+		dynasty = "Kassis"
+		birth_date = 1321.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Royce"
+		monarch_name = "Royce"
+		dynasty = "Kassis"
+		birth_date = 1392.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+

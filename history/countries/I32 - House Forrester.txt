@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 37
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Denyo"
+		dynasty = "Forrester"
+		birth_date = 925.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Dudley"
+		monarch_name = "Dudley"
+		dynasty = "Forrester"
+		birth_date = 980.1.1
+		death_date = 1029.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Groleo"
+		dynasty = "Forrester"
+		birth_date = 1040.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Tommen"
+		monarch_name = "Tommen"
+		dynasty = "Forrester"
+		birth_date = 1077.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1160.1.1 = {
+
+	monarch = {
+		name = "Erreg"
+		dynasty = "Forrester"
+		birth_date = 1140.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Albar"
+		monarch_name = "Albar"
+		dynasty = "Forrester"
+		birth_date = 1130.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Gysella"
+		dynasty = "Forrester"
+		birth_date = 1154.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Gorghan"
+		monarch_name = "Gorghan"
+		dynasty = "Forrester"
+		birth_date = 1193.1.1
+		death_date = 1295.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Kevan"
+		dynasty = "Forrester"
+		birth_date = 1200.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ferny"
+		monarch_name = "Ferny"
+		dynasty = "Forrester"
+		birth_date = 1223.1.1
+		death_date = 1315.1.1
+		claim = 83
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Theomar"
+		dynasty = "Forrester"
+		birth_date = 1257.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Bhakaz"
+		monarch_name = "Bhakaz"
+		dynasty = "Forrester"
+		birth_date = 1298.1.1
+		death_date = 1338.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1374.1.1 = {
+
+	monarch = {
+		name = "Willas"
+		dynasty = "Forrester"
+		birth_date = 1336.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Andrik"
+		monarch_name = "Andrik"
+		dynasty = "Forrester"
+		birth_date = 1361.1.1
+		death_date = 1449.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Stygg"
+		dynasty = "Forrester"
+		birth_date = 1291.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Forrester"
+		birth_date = 1350.1.1
+		death_date = 1404.1.1
+		claim = 33
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+

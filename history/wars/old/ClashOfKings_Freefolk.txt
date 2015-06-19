@@ -1,0 +1,16 @@
+name = "Freefolk Attack"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1300.1.1 = {
+	add_attacker = Z01
+	add_defender = A02
+}
+
+1302.1.2 = {
+	rem_attacker = Z01
+	rem_defender = A02
+}

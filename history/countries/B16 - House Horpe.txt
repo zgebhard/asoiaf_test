@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 324
+
+1000.1.1 = {
+	monarch = {
+		name = "Maerie"
+		dynasty = "Horpe"
+		female = yes
+		birth_date = 926.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Horpe"
+		birth_date = 997.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Tymor"
+		dynasty = "Horpe"
+		birth_date = 970.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Janna"
+		monarch_name = "Janna"
+		dynasty = "Horpe"
+		female = yes
+		birth_date = 1008.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Horpe"
+		birth_date = 1052.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ricasso"
+		monarch_name = "Ricasso"
+		dynasty = "Horpe"
+		birth_date = 1065.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Betharious"
+		dynasty = "Horpe"
+		birth_date = 1089.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Alekyne"
+		monarch_name = "Alekyne"
+		dynasty = "Horpe"
+		birth_date = 1160.1.1
+		death_date = 1220.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Cossomo"
+		dynasty = "Horpe"
+		birth_date = 1195.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Oro"
+		monarch_name = "Oro"
+		dynasty = "Horpe"
+		birth_date = 1202.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Lyle"
+		dynasty = "Horpe"
+		birth_date = 1275.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Haggon"
+		monarch_name = "Haggon"
+		dynasty = "Horpe"
+		birth_date = 1290.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Theo"
+		dynasty = "Horpe"
+		birth_date = 1343.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Horpe"
+		birth_date = 1374.1.1
+		death_date = 1396.1.1
+		claim = 5
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,289 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = tolosi
+religion = asoiaf_mixed_worship
+
+capital = 601
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Devan"
+		dynasty = "Azantone"
+		birth_date = 982.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Azantone"
+		birth_date = 972.1.1
+		death_date = 1052.1.1
+		claim = 89
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Qarro"
+		dynasty = "Azantone"
+		birth_date = 965.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Garin"
+		monarch_name = "Garin"
+		dynasty = "Azantone"
+		birth_date = 1021.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Flement"
+		dynasty = "Azantone"
+		birth_date = 956.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Bannen"
+		monarch_name = "Bannen"
+		dynasty = "Azantone"
+		birth_date = 1013.1.1
+		death_date = 1073.1.1
+		claim = 74
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Azantone"
+		birth_date = 996.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Garlan"
+		monarch_name = "Garlan"
+		dynasty = "Azantone"
+		birth_date = 1036.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Thormor"
+		dynasty = "Azantone"
+		birth_date = 1051.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Erena"
+		monarch_name = "Erena"
+		dynasty = "Azantone"
+		birth_date = 1086.1.1
+		death_date = 1187.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Obara"
+		dynasty = "Azantone"
+		female = yes
+		birth_date = 1089.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Todder"
+		monarch_name = "Todder"
+		dynasty = "Azantone"
+		birth_date = 1133.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Garin"
+		dynasty = "Azantone"
+		birth_date = 1154.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Josmyn"
+		monarch_name = "Josmyn"
+		dynasty = "Azantone"
+		birth_date = 1222.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Azantone"
+		birth_date = 1186.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Azantone"
+		birth_date = 1207.1.1
+		death_date = 1265.1.1
+		claim = 13
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1235.1.1 = {
+
+	monarch = {
+		name = "Tarber"
+		dynasty = "Azantone"
+		birth_date = 1184.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Harraq"
+		monarch_name = "Harraq"
+		dynasty = "Azantone"
+		birth_date = 1216.1.1
+		death_date = 1294.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Robb"
+		dynasty = "Azantone"
+		birth_date = 1305.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Azantone"
+		birth_date = 1292.1.1
+		death_date = 1358.1.1
+		claim = 76
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Vylarr"
+		dynasty = "Azantone"
+		birth_date = 1326.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Azantone"
+		birth_date = 1384.1.1
+		death_date = 1458.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+

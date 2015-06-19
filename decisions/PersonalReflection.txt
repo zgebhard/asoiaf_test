@@ -1,0 +1,166 @@
+country_decisions = {
+
+	reflect_on_your_life = {
+		potential = {
+			has_regency = no
+			NOT = { has_country_flag = reflected_on_life }
+		}
+		allow = {
+			NOT = { has_country_flag = reflected_on_life }
+			is_at_war = no
+			adm_power = 25
+			dip_power = 25
+			mil_power = 25
+		}
+		effect = {
+			set_country_flag = reflected_on_life
+			
+			add_adm_power = -25
+			add_dip_power = -25
+			add_mil_power = -25
+			
+			hidden_effect = {
+				random_list = {
+					# Trusting
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_trusting
+							duration = -1
+						}
+					}
+					# Progressive
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_amorous
+							duration = -1
+						}
+					}
+					# Organised
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_organised
+							duration = -1
+						}
+					}
+					# Paranoid
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_paranoid
+							duration = -1
+						}
+					}
+					# Chaste
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_chaste
+							duration = -1
+						}
+					}
+					# Chaotic
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_chaotic
+							duration = -1
+						}
+					}
+					# Attentive
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_attentive
+							duration = -1
+						}
+					}
+					# Story Teller
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_story_teller
+							duration = -1
+						}
+					}
+					# Trade-oriented
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_trade_oriented
+							duration = -1
+						}
+					}
+					# Ignorant
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_ignorant
+							duration = -1
+						}
+					}
+					# Distrusted
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_distrusted
+							duration = -1
+						}
+					}
+					# Naive
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_naive
+							duration = -1
+						}
+					}
+					# Daring
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_daring
+							duration = -1
+						}
+					}
+					# Authorative
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_authorative
+							duration = -1
+						}
+					}
+					# Keen
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_keen
+							duration = -1
+						}
+					}
+					# Cowardly
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_cowardly
+							duration = -1
+						}
+					}
+					# Sheepish
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_sheepish
+							duration = -1
+						}
+					}
+					# Dismissive
+					10 = {
+						add_ruler_modifier = {
+							name = ruler_dismissive
+							duration = -1
+						}
+					}
+				}
+			}
+			custom_tooltip = PR_TOOLTIP
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				NOT = { adm_power = 200 }
+				NOT = { dip_power = 200 }
+				NOT = { mil_power = 200 }
+			}
+		}
+	}
+}

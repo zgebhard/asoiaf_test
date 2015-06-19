@@ -1,0 +1,289 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 312
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Hilmar"
+		dynasty = "Cafferen"
+		birth_date = 939.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Val"
+		monarch_name = "Val"
+		dynasty = "Cafferen"
+		female = yes
+		birth_date = 994.1.1
+		death_date = 1026.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1055.1.1 = {
+
+	monarch = {
+		name = "Dobber"
+		dynasty = "Cafferen"
+		birth_date = 1002.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Cafferen"
+		birth_date = 1037.1.1
+		death_date = 1073.1.1
+		claim = 52
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Clarence"
+		dynasty = "Cafferen"
+		birth_date = 1057.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Ferrego"
+		monarch_name = "Ferrego"
+		dynasty = "Cafferen"
+		birth_date = 1064.1.1
+		death_date = 1125.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Cafferen"
+		birth_date = 1052.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Harwood"
+		monarch_name = "Harwood"
+		dynasty = "Cafferen"
+		birth_date = 1112.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Gallard"
+		dynasty = "Cafferen"
+		birth_date = 1146.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Wylla"
+		monarch_name = "Wylla"
+		dynasty = "Cafferen"
+		female = yes
+		birth_date = 1141.1.1
+		death_date = 1184.1.1
+		claim = 89
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Toregg"
+		dynasty = "Cafferen"
+		birth_date = 1190.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Ezzelnyo"
+		monarch_name = "Ezzelnyo"
+		dynasty = "Cafferen"
+		birth_date = 1194.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Harmund"
+		dynasty = "Cafferen"
+		birth_date = 1191.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Gerion"
+		monarch_name = "Gerion"
+		dynasty = "Cafferen"
+		birth_date = 1241.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1311.1.1 = {
+	monarch = {
+		name = "Corliss"
+		dynasty = "Cafferen"
+		female = yes
+		birth_date = 1291.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Wylla"
+		monarch_name = "Wylla"
+		dynasty = "Cafferen"
+		female = yes
+		birth_date = 1299.1.1
+		death_date = 1356.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Bennis"
+		dynasty = "Cafferen"
+		birth_date = 1313.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Cafferen"
+		birth_date = 1336.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1374.1.1 = {
+
+	monarch = {
+		name = "Dacks"
+		dynasty = "Cafferen"
+		birth_date = 1306.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lorren"
+		monarch_name = "Lorren"
+		dynasty = "Cafferen"
+		birth_date = 1351.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Ronald"
+		dynasty = "Cafferen"
+		birth_date = 1359.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Gerren"
+		monarch_name = "Gerren"
+		dynasty = "Cafferen"
+		birth_date = 1386.1.1
+		death_date = 1448.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "THE_GREYJOY_REBELLION_NAME"
+	desc = "THE_GREYJOY_REBELLION_DESC"
+	# New Date: 1289.1.1
+	# Old Date: 2009.1.1
+	date = 1289.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = the_greyjoy_rebellion
+		}
+	}
+}

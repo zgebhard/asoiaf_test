@@ -1,0 +1,71 @@
+# ADM
+	housing = yes
+		local_tax_modifier = 0.5
+	lumber_camp = yes
+		local_build_cost = 0.25
+	mining_camp = yes
+		local_production_efficiency = 0.5
+	bank = yes
+		local_development_cost = -0.25
+	monastery = yes
+		local_missionary_strength = 0.002
+	
+# DIP
+	dock = yes
+		local_ship_cost = -0.5
+		local_ship_repair = 0.25
+		ship_recruit_speed = -0.5
+	shipyard = yes
+		naval_forcelimit = 2
+		local_ship_repair = 0.25
+	storehouse = yes
+		trade_goods_size_modifier = 0.5
+	market = yes
+		trade_value_modifier = 1
+		province_trade_power_modifier = 0.5
+		
+# MIL
+	training_fields = yes
+		local_regiment_cost = -0.25
+		regiment_recruit_speed = -0.25
+	barracks = yes
+		local_manpower_modifier = 0.5
+	keep = yes
+		local_hostile_attrition = 1
+		local_defensiveness = 0.25
+	palisade_walls = yes
+		fort_level = 1
+		garrison_growth = 0.25
+	stone_walls = yes	
+		fort_level = 1
+		garrison_growth = 0.25
+	fortified_walls = yes
+		fort_level = 1
+		garrison_growth = 0.5
+		
+# Unique
+	grand_market = yes
+		merchants = 1
+		global_trade_income_modifier = 0.5
+		global_trade_power = 0.25
+		
+	grand_temple = yes
+		stability_cost_modifier = -0.25
+		missionaries = 1
+		global_missionary_strength = 0.03
+		monthly_fervor_increase = 1
+		papal_influence = 1
+		church_power_modifier = 0.1
+		devotion = 0.5
+		
+	grand_castle = yes
+		local_defensiveness = 1
+		fort_level = 2
+		prestige = 1
+		legitimacy = 1
+		
+	grand_library = yes
+		technology_cost = -0.1
+		advisor_cost = -0.33
+	
+	

@@ -1,0 +1,817 @@
+###########################################
+# Notes
+##########################################
+# Total Countries: 568
+
+# Special countries..
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+FAT = "countries/ASOIAF - The Faith.txt"
+
+# Primary Countries
+#A01 - Stark
+#I21 - Bolton
+#A03 - Tully
+#A04 - Arryn
+#F01 - Gardener
+#A09 - Martell
+#A10 - Targaryen
+#A07 - Baratheon
+#B37 - Durrandon
+#E01 - Hoare
+#E09 - Greyjoy
+#A06 - Lannister
+#F20 - Tyrell
+
+# Formables
+Z01 = "countries/ASOIAF - King-beyond-the-Wall.txt"
+
+# Wildlings
+U89 = "countries/ASOIAF - Clan Moss.txt"					# Hardhome
+U90 = "countries/ASOIAF - Clan of Haunted Forest.txt"		# The Haunted Forest
+U91 = "countries/ASOIAF - Clan Redbeard.txt"				# Whitetree
+U92 = "countries/ASOIAF - Craster's Keep.txt"				# Craster's Keep
+U93 = "countries/ASOIAF - Clan of Central Frostfangs.txt"	# Shivering Forest
+U94 = "countries/ASOIAF - Clan of Iceguard.txt"				# Ice Bay Shore
+U95 = "countries/ASOIAF - Clan of the Wooden Ear.txt"		# The Frozen Shore
+U96 = "countries/ASOIAF - Clan Abaet.txt"					# Antler Vale
+U97 = "countries/ASOIAF - Clan Dokoran.txt"					# Fist of the First Men
+U98 = "countries/ASOIAF - Clan Grimie.txt"					# Central Frostfangs
+U99 = "countries/ASOIAF - Clan Merdon.txt"					# The Gorge
+
+# Unique
+S23 = "countries/ASOIAF - House Targaryen of Daenerys.txt"
+A02 = "countries/ASOIAF - Night's Watch.txt"
+
+################################
+# Crownlands
+################################
+
+A10 = "countries/ASOIAF - House Targaryen.txt"			# Dragonstone, 
+A11 = "countries/ASOIAF - House Blout.txt" 				# Greensward
+A12 = "countries/ASOIAF - House Buckwell.txt"			# Antlers
+A13 = "countries/ASOIAF - House Bywater.txt" 			# Bywater	
+A14 = "countries/ASOIAF - House Chelsted.txt"			# Bramsfort
+A15 = "countries/ASOIAF - House Chyttering.txt"			# Chyttering Brook
+A16 = "countries/ASOIAF - House Cressey.txt" 			# Mosborough
+A17 = "countries/ASOIAF - House Edgerton.txt"			# Edgerton
+A18 = "countries/ASOIAF - House Farring.txt"			# Farring Cross
+A19 = "countries/ASOIAF - House Follard.txt"			# Woodmere
+A20 = "countries/ASOIAF - House Gaunt.txt"				# Dalston Keep
+A21 = "countries/ASOIAF - House Harte.txt"				# Brindlewood
+A22 = "countries/ASOIAF - House Hayford.txt"			# Hayford
+A23 = "countries/ASOIAF - House Langward.txt"			# Langward Hall
+A24 = "countries/ASOIAF - House Mallery.txt"			# Byford, to Lannister
+A25 = "countries/ASOIAF - House Manning.txt"		
+A26 = "countries/ASOIAF - House Pyle.txt"				# Attadale
+A27 = "countries/ASOIAF - House Rollingford.txt"		# Rollingford
+A28 = "countries/ASOIAF - House Rosby.txt"				# Rosby
+A29 = "countries/ASOIAF - House Rykker.txt"
+A30 = "countries/ASOIAF - House Slynt.txt" 			
+A31 = "countries/ASOIAF - House Staunton.txt"			# Rook's Rest
+A32 = "countries/ASOIAF - House Stokeworth.txt"			# Stokeworth
+A33 = "countries/ASOIAF - House Thorne.txt"				# Rayonet
+A34 = "countries/ASOIAF - House Wendwater.txt"			# Wendwater
+
+A35 = "countries/ASOIAF - House Brune of Brownhollow.txt"
+A36 = "countries/ASOIAF - House Darke.txt" 			
+A37 = "countries/ASOIAF - House Hogg.txt"				# Sow's Horn
+A38 = "countries/ASOIAF - House Kettleblack.txt"
+
+A39 = "countries/ASOIAF - House Baratheon of Dragonstone.txt"
+
+A40 = "countries/ASOIAF - House Bar Emmon.txt"			# Sharp Point
+A41 = "countries/ASOIAF - House Celtigar.txt"			# Claw Isle
+A42 = "countries/ASOIAF - House Massey.txt"				# Stonedance
+A43 = "countries/ASOIAF - House Velaryon.txt"			# Driftmark
+A50 = "countries/ASOIAF - House Sunglass.txt"
+
+A44 = "countries/ASOIAF - House Boggs.txt"				# North Crackclaw Point
+A45 = "countries/ASOIAF - House Brune of Dyre Den.txt"	# Dyre Den
+A46 = "countries/ASOIAF - House Cave.txt" 				# South Crackclaw Point
+A47 = "countries/ASOIAF - House Crabb.txt"				# The Whispers
+A48 = "countries/ASOIAF - House Hardy.txt" 		
+A49 = "countries/ASOIAF - House Pyne.txt" 		
+
+AB2 = "countries/ASOIAF - House Blackfyre.txt"	
+AB3 = "countries/ASOIAF - House Cargyll.txt"	
+AB4 = "countries/ASOIAF - House Darklyn.txt"			# Duskendale
+AB5 = "countries/ASOIAF - House Hollard.txt"			# Hollard Hall
+AB6 = "countries/ASOIAF - House Rambton.txt"	
+AB7 = "countries/ASOIAF - House Byrch.txt"				# Byrch Hall
+
+################################
+# Stormlands
+################################
+
+A07 = "countries/ASOIAF - House Baratheon.txt"
+B01 = "countries/ASOIAF - House Baratheon of Storm's End.txt" 
+B02 = "countries/ASOIAF - House Dondarrion.txt" 		# Blackhaven
+B03 = "countries/ASOIAF - House Foote of Nightsong.txt" 
+B04 = "countries/ASOIAF - House Selmy.txt" 				# Harvest Hall
+B05 = "countries/ASOIAF - House Swann.txt" 				# Stonehelm
+
+B06 = "countries/ASOIAF - House Bolling.txt" 		
+B07 = "countries/ASOIAF - House Buckler.txt" 			# Bronzegate
+B08 = "countries/ASOIAF - House Cafferen.txt" 			# Fawnton
+B09 = "countries/ASOIAF - House Errol.txt" 				# Haystack Hall
+B10 = "countries/ASOIAF - House Estermont.txt" 			# Estermont
+B11 = "countries/ASOIAF - House Fell.txt" 				# Felwood
+B12 = "countries/ASOIAF - House Gower.txt" 				# Wrathrock
+B13 = "countries/ASOIAF - House Grandison.txt" 			# Grandison
+B14 = "countries/ASOIAF - House Hasty.txt" 				# Hadlow Keep
+B15 = "countries/ASOIAF - House Herston.txt" 			# Lockport
+B16 = "countries/ASOIAF - House Horpe.txt" 				# Weeping Tower
+B17 = "countries/ASOIAF - House Kellington.txt" 		# Blue Grove
+B18 = "countries/ASOIAF - House Lonmouth.txt" 			# Lonmouth
+B19 = "countries/ASOIAF - House Mertyns.txt" 			# Mistwood
+B20 = "countries/ASOIAF - House Morrigen.txt" 			# Crow's Nest
+B21 = "countries/ASOIAF - House Musgood.txt" 			# Drakesgrave
+B22 = "countries/ASOIAF - House Peaseburg.txt" 			# Poddingford
+B23 = "countries/ASOIAF - House Penrose.txt" 			# Parchments
+B24 = "countries/ASOIAF - House Rodgers.txt" 			# Amberly
+B25 = "countries/ASOIAF - House Staedmon.txt" 			# Broad Arch
+B26 = "countries/ASOIAF - House Swygert.txt" 			# Galemont
+B27 = "countries/ASOIAF - House Tarth.txt" 				# Tarth
+B28 = "countries/ASOIAF - House Trant.txt" 				# Gallowsgrey
+B29 = "countries/ASOIAF - House Tudburg.txt" 			# Tudbury Hall
+B30 = "countries/ASOIAF - House Wagstaff.txt" 			# Adderdell
+B31 = "countries/ASOIAF - House Wensington.txt" 	
+B32 = "countries/ASOIAF - House Wylde.txt" 				# Rainhouse
+
+B33 = "countries/ASOIAF - House Connington.txt" 		# Griffin's Roost
+B34 = "countries/ASOIAF - House Seaworth.txt" 
+
+B35 = "countries/ASOIAF - House Cole.txt" 			
+
+B36 = "countries/ASOIAF - House Caron.txt" 				# Nightsong
+B37 = "countries/ASOIAF - House Durrandon.txt" 			# Rainwood, Storm's End
+B38 = "countries/ASOIAF - House Toyne.txt" 				# Summerhall
+
+################################
+# Dorne
+################################
+A09 = "countries/ASOIAF - House Martell.txt"			# Sunspear, Ghaston Grey
+Y01 = "countries/ASOIAF - House Allyrion.txt" 			# Godsgrace
+Y02 = "countries/ASOIAF - House Blackmont.txt" 			# Blackmont
+Y03 = "countries/ASOIAF - House Dayne of Starfall.txt" 	# High Hermitage, Starfall, The Elbow
+Y04 = "countries/ASOIAF - House Fowler.txt" 			# Skyreach, Prince's Pass
+Y05 = "countries/ASOIAF - House Gargalen.txt" 			# Salt Shore
+Y06 = "countries/ASOIAF - House Jordayne.txt" 			# The Scourge, The Tor
+Y07 = "countries/ASOIAF - House Ladybright.txt" 		# Scorched Rock
+Y08 = "countries/ASOIAF - House Manwoody.txt"			# Kingsgrave
+Y09 = "countries/ASOIAF - House Qorgyle.txt"			# Sandstone
+Y10 = "countries/ASOIAF - House Toland.txt"				# Ghost Hill
+Y11 = "countries/ASOIAF - House Uller.txt"				# Hellholt, Great Desert
+Y12 = "countries/ASOIAF - House Vaith.txt"				# The Red Dunes
+Y13 = "countries/ASOIAF - House Wyl.txt"				# Wyl
+Y14 = "countries/ASOIAF - House Yronwood.txt"			# Yronwood
+Y15 = "countries/ASOIAF - House Wells.txt"				# Nymerwell
+
+Y19 = "countries/ASOIAF - House Dalt.txt"				# Lemonwood
+Y16 = "countries/ASOIAF - House Dayne of High Hermitage.txt"
+Y17 = "countries/ASOIAF - House Drinkwater.txt"			# Vulture's Roost
+Y18 = "countries/ASOIAF - House Santagar.txt"			# Spottswood
+
+################################
+# Iron Islands 
+################################
+
+E01 = "countries/ASOIAF - House Hoare.txt" 			# Orkmont, Harrenhal
+E02 = "countries/ASOIAF - House Farwynd.txt"			# Sealskin Point, Lonely Light
+E03 = "countries/ASOIAF - House Goodbrother.txt"		# Hammerhorn 
+E04 = "countries/ASOIAF - House Saltcliffe.txt" 		# Saltcliffe
+E05 = "countries/ASOIAF - House Merlyn.txt" 			# Pebbleton
+E06 = "countries/ASOIAF - House Drumm.txt" 			# Old Wyk
+E07 = "countries/ASOIAF - House Blacktyde.txt" 		# Blacktyde
+E08 = "countries/ASOIAF - House Botley.txt" 			# Lordsport
+E09 = "countries/ASOIAF - House Greyjoy.txt" 		# Pyke
+E10 = "countries/ASOIAF - House Volmark.txt" 		# Volmark
+E11 = "countries/ASOIAF - House Harlaw.txt" 			# Harlaw
+E12 = "countries/ASOIAF - House Stonetree.txt" 		# Stonetree
+
+# Riverlands
+E13 = "countries/ASOIAF - House Haigh.txt" 			# Cape of Eagles
+E14 = "countries/ASOIAF - House Charlton.txt" 		# Mistlewood
+E15 = "countries/ASOIAF - House Frey.txt" 			# The Twins, Freylands
+E16 = "countries/ASOIAF - House Mallister.txt" 		# Seagard
+E17 = "countries/ASOIAF - House Rushmoor.txt" 		# Rushmoor
+E18 = "countries/ASOIAF - House Grell.txt" 			# Martlet Bay
+E19 = "countries/ASOIAF - House Deddings.txt" 		# Gravesham
+E20 = "countries/ASOIAF - House Kanet.txt" 			# Kanet
+E21 = "countries/ASOIAF - House Erenford.txt" 		# Erenford
+E22 = "countries/ASOIAF - House Terrick.txt" 		# Wycombe
+E23 = "countries/ASOIAF - House Keath.txt" 			# Green Fork
+E24 = "countries/ASOIAF - House Cox.txt" 			# Saltpans
+E25 = "countries/ASOIAF - House Harroway.txt" 		# Lord Harroway's Town
+E26 = "countries/ASOIAF - House Darry.txt" 			# Darry
+E27 = "countries/ASOIAF - House Mooton.txt" 			# Maindenpool
+E28 = "countries/ASOIAF - House Wode.txt" 			# Shoreham
+E29 = "countries/ASOIAF - House Butterwell.txt" 		# Esgaroth, Atranta
+E30 = "countries/ASOIAF - House Ryger.txt" 			# Willow Wood
+E31 = "countries/ASOIAF - House Lychester.txt" 		# Lychester
+E32 = "countries/ASOIAF - House Goodbrook.txt" 		# Goodbrook
+E33 = "countries/ASOIAF - House Piper.txt" 			# Stoney Sept, Pinkmaiden
+E34 = "countries/ASOIAF - House Smallwood.txt" 		# Acorn Hall
+E35 = "countries/ASOIAF - House Harlton.txt" 		# Castlewood
+E36 = "countries/ASOIAF - House Blanetree.txt" 		# High Heart
+E37 = "countries/ASOIAF - House Vance.txt" 			# Wayfarer's Rest, Branstone
+E38 = "countries/ASOIAF - House Lolliston.txt" 		# Lolliston
+A03 = "countries/ASOIAF - House Tully.txt"				# Riverrun, Turnbridge
+E40 = "countries/ASOIAF - House Stackspear.txt" 		# Maidstone
+E41 = "countries/ASOIAF - House Blackwood.txt" 		# Blackwood Vale
+E42 = "countries/ASOIAF - House Shawney.txt" 		# Blackrush
+E43 = "countries/ASOIAF - House Paege.txt" 			# Fairmarket
+E44 = "countries/ASOIAF - House Mandrake.txt" 		# Red Fork, Blue Fork
+E45 = "countries/ASOIAF - House Vypren.txt" 			# Stillfen
+
+
+# Oldstones, Chiltern, Isle of Faces empty
+
+################################
+# The Reach
+################################
+F01 = "countries/ASOIAF - House Gardener.txt" 		# Great House, Highgarden
+F02 = "countries/ASOIAF - House Redwyne.txt" 			# The Arbor
+F03 = "countries/ASOIAF - House Cuy.txt"				# Sunhouse
+F04 = "countries/ASOIAF - House Costayne.txt"			# Three Towers
+F05 = "countries/ASOIAF - House Torrentpeak.txt"		# Ambrose	?
+F06 = "countries/ASOIAF - House Mullendore.txt"		# Uplands
+F07 = "countries/ASOIAF - House Hightower.txt"		# Oldtown
+F08 = "countries/ASOIAF - House Bulwer.txt"			# Blackcrown
+F09 = "countries/ASOIAF - House Blackbar.txt"			# Bandallon
+F10 = "countries/ASOIAF - House Beesburg.txt"			# Honeyholt
+F11 = "countries/ASOIAF - House Hunt.txt"				# Hunt Hills
+F12 = "countries/ASOIAF - House Sloane.txt"			# Fawn Crag
+F13 = "countries/ASOIAF - House Oldflowers.txt"		# Sommerset
+F14 = "countries/ASOIAF - House Vyrwel.txt"			# Darkdell
+F15 = "countries/ASOIAF - House Florent.txt"			# Brightwater Keep
+F16 = "countries/ASOIAF - House Norcross.txt"			# Norcross
+F17 = "countries/ASOIAF - House Dunn.txt"				# Dunnsbridge
+F18 = "countries/ASOIAF - House Tarly.txt"			# Horn Hill
+F19 = "countries/ASOIAF - House Middlebury.txt"		# Middlebury
+F20 = "countries/ASOIAF - House Tyrell.txt"			# Manderford
+F21 = "countries/ASOIAF - House Hewett.txt"			# Oakenshield
+F22 = "countries/ASOIAF - House Serry.txt"			# Southshield
+F23 = "countries/ASOIAF - House Grimm.txt"			# Greyshield
+F24 = "countries/ASOIAF - House Chester.txt"			# Greenshield
+F25 = "countries/ASOIAF - House Peake.txt"			# Yelshire, Starpike, New Barrel
+F26 = "countries/ASOIAF - House Cockshaw.txt"			# Bardshome
+F27 = "countries/ASOIAF - House Fossoway.txt"			# Cider Hall
+F28 = "countries/ASOIAF - House Ashford.txt"			# Ashford
+F29 = "countries/ASOIAF - House Hastwyck.txt"			# Hastwyck
+F30 = "countries/ASOIAF - House Graceford.txt"		# Holyhall
+F31 = "countries/ASOIAF - House Meadows.txt"			# Grassy Vale
+F32 = "countries/ASOIAF - House Appleton.txt"			# Appleton
+F33 = "countries/ASOIAF - House Merryweather.txt"		# Longtable, Inchfield
+F34 = "countries/ASOIAF - House Caswell.txt"			# Bitterbridge
+F35 = "countries/ASOIAF - House Varner.txt"			# Roseford
+F36 = "countries/ASOIAF - House Strickland.txt"		# Tumbleton
+F37 = "countries/ASOIAF - House Cordwayner.txt"		# Hammerhal
+F38 = "countries/ASOIAF - House Orme.txt"				# Harpshire
+F39 = "countries/ASOIAF - House Bushy.txt"			# Alden Keep
+F40 = "countries/ASOIAF - House Roxton.txt"			# The Ring
+F41 = "countries/ASOIAF - House Leygood.txt"			# Leygood Keep
+F42 = "countries/ASOIAF - House Wythers.txt"			# Wythers
+F43 = "countries/ASOIAF - House Shermer.txt"			# Smithyton
+F44 = "countries/ASOIAF - House Kidwell.txt"			# Ivy Hall
+F45 = "countries/ASOIAF - House Westbrook.txt"		# Westbrook
+F46 = "countries/ASOIAF - House Willum.txt"			# Smallwood
+F47 = "countries/ASOIAF - House Osgrey.txt"			# Derring Downs, Standfast, Dosk, Coldmoat
+F48 = "countries/ASOIAF - House Stackhouse.txt"		# Catswold
+F49 = "countries/ASOIAF - House Rowan.txt"			# Goldengrove
+F50 = "countries/ASOIAF - House Redding.txt"			# Redding
+F51 = "countries/ASOIAF - House Crane.txt"			# Redwater Keep
+F52 = "countries/ASOIAF - House Oldheart.txt"			# Old Oak
+
+################################
+# Westerlands
+################################
+
+A06 = "countries/ASOIAF - House Lannister.txt"			# Lannisport, Casterly Rock
+G01 = "countries/ASOIAF - House Crakehall.txt"		# Crakehall
+G02 = "countries/ASOIAF - House Falwell.txt"			# Falwell
+G03 = "countries/ASOIAF - House Hawthorne.txt"		# Hawthorne
+G04 = "countries/ASOIAF - House Yew.txt"				# Greenmount
+G05 = "countries/ASOIAF - House Swyft.txt"			# Cornfield
+G06 = "countries/ASOIAF - House Jast.txt"				# Lonmont
+G07 = "countries/ASOIAF - House Greenfield.txt"		# Greenfield
+G08 = "countries/ASOIAF - House Myatt.txt"			# Myatt
+G09 = "countries/ASOIAF - House Parren.txt"			# Fang Tower
+G10 = "countries/ASOIAF - House Serrett.txt"			# Silverhall
+G11 = "countries/ASOIAF - House Turnberry.txt"		# Redbramble
+G12 = "countries/ASOIAF - House Payne.txt"			# Payne Hall
+G13 = "countries/ASOIAF - House Peckledon.txt"		# Peckledon
+G14 = "countries/ASOIAF - House Sarwyck.txt"			# Riverspring
+G15 = "countries/ASOIAF - House Drox.txt"				# Drox Castle
+G16 = "countries/ASOIAF - House Lydden.txt"			# Deep Den
+G17 = "countries/ASOIAF - House Moreland.txt"			# Moreland
+G18 = "countries/ASOIAF - House Broom.txt"			# Tendring
+G19 = "countries/ASOIAF - House Kenning.txt"			# Kayce
+G20 = "countries/ASOIAF - House Prester.txt"			# Feastfires
+G21 = "countries/ASOIAF - House Brax.txt"				# Hornvale
+G22 = "countries/ASOIAF - House Vikary.txt"			# Brentbrook
+G23 = "countries/ASOIAF - House Garner.txt"			# Goldshire
+G24 = "countries/ASOIAF - House Sarsfield.txt"		# Sarsfield
+G25 = "countries/ASOIAF - House Maunhill.txt"			# Plumm
+G26 = "countries/ASOIAF - House Yarwyck.txt"			# Oxcross
+G27 = "countries/ASOIAF - House Bettley.txt"			# Pendric Hall
+G28 = "countries/ASOIAF - House Foote.txt"			# Nunn's Deep
+G29 = "countries/ASOIAF - House Lefford.txt"			# Golden Tooth
+G30 = "countries/ASOIAF - House Tarbeck.txt"			# Tarbeck Hall
+G31 = "countries/ASOIAF - House Farman.txt"			# Fair Isle
+G32 = "countries/ASOIAF - House Marbrand.txt"			# Ashemark
+G33 = "countries/ASOIAF - House Ferren.txt"			# Thurrock
+G34 = "countries/ASOIAF - House Lorch.txt"			# Glitterdell
+G35 = "countries/ASOIAF - House Estren.txt"			# Wyndhall
+G36 = "countries/ASOIAF - House Reyne.txt"			# Castamere
+G37 = "countries/ASOIAF - House Westerling.txt"		# The Crag
+G38 = "countries/ASOIAF - House Banefort.txt"			# Banefort
+
+
+################################
+# The Vale
+################################
+A04 = "countries/ASOIAF - House Arryn.txt"				# The Eyrie, Bloody Gate, Crown Crag, Midlor Point
+
+H01 = "countries/ASOIAF - House Waxley.txt"			# Crab's Shore, Wickenden
+H02 = "countries/ASOIAF - House Templeton.txt"		# Ninestars
+H03 = "countries/ASOIAF - House Ruthermont.txt"		# Ruthermont
+H04 = "countries/ASOIAF - House Redfort.txt"			# Redfort
+H05 = "countries/ASOIAF - House Grafton.txt"			# Gulltown
+H06 = "countries/ASOIAF - House Royce.txt"			# Runestone
+H07 = "countries/ASOIAF - House Waynwood.txt"			# Ironoaks
+H08 = "countries/ASOIAF - House Melcolm.txt"			# Old Anchor
+H09 = "countries/ASOIAF - House Hunter.txt"			# Longbow Hall
+H10 = "countries/ASOIAF - House Upcliff.txt"			# Upcliff
+H11 = "countries/ASOIAF - House Tollett.txt"			# Grey Glen
+H12 = "countries/ASOIAF - House Moore.txt"			# Darkmoor	
+H13 = "countries/ASOIAF - House Belmore.txt"			# Strongsong, Moonsgrey
+H14 = "countries/ASOIAF - House Corbray.txt"			# Heart's Home
+H15 = "countries/ASOIAF - House Hersy.txt"			# Newkeep	
+H16 = "countries/ASOIAF - House Lynderly.txt"			# Snakewood
+H17 = "countries/ASOIAF - House Donniger.txt"			# Sunrise Keep
+H18 = "countries/ASOIAF - House Coldwater.txt"		# Coldwater Burn
+H19 = "countries/ASOIAF - House Elesham.txt"			# The Paps
+H20 = "countries/ASOIAF - House Wydman.txt"			# Wycliffe
+H21 = "countries/ASOIAF - House Pryor.txt"			# Pebble
+H22 = "countries/ASOIAF - House Hardyng.txt"			# Bite Coast
+H23 = "countries/ASOIAF - House Torrent.txt"			# Littlesister
+H24 = "countries/ASOIAF - House Borrell.txt"			# Sweetsister
+H25 = "countries/ASOIAF - House Longthorpe.txt"		# Longsister
+U88 = "countries/ASOIAF - House Baelish.txt"				# Midlor Point
+
+# Crow's Barren and Scorched Vale are not occupied
+
+################################
+# The North
+################################
+A01 = "countries/ASOIAF - House Stark.txt"				# Moat Cailin, Winterfell, New Gift
+
+I01 = "countries/ASOIAF - House Reed.txt"				# Greywater Watch, Crow's Edge
+I02 = "countries/ASOIAF - House Fenn.txt"				# Silvereed
+I03 = "countries/ASOIAF - House Dustin.txt"				# Fever, Barrowton
+I04 = "countries/ASOIAF - House Marsh.txt"				# Churwell
+I05 = "countries/ASOIAF - House Blackmyre.txt"			# Greycrann
+I06 = "countries/ASOIAF - House Flint.txt"				# Flint's Finger, Flint Cliffs, Widow's Watch, Flint Keep
+I07 = "countries/ASOIAF - House Hayes.txt"				# Cape Kraken
+I08 = "countries/ASOIAF - House Waterman.txt"			# Whitford
+I09 = "countries/ASOIAF - House Stout.txt"				# Spearmouth ?
+I10 = "countries/ASOIAF - House Ryswell.txt"			# Blazewater Coast, The Rills
+I11 = "countries/ASOIAF - House Garrew.txt"				# Stony Shore
+I12 = "countries/ASOIAF - House Tallhart.txt"			# Torrhen's Square	
+I13 = "countries/ASOIAF - House Cassel.txt"				# King's Course
+I14 = "countries/ASOIAF - House Whitehill.txt"			# White Knife
+I15 = "countries/ASOIAF - House Manderly.txt"			# White Harbor
+I16 = "countries/ASOIAF - House Locke.txt"				# Oldcastle
+I17 = "countries/ASOIAF - House Ramsgate.txt"			# Woolfield
+I18 = "countries/ASOIAF - House Hornwood.txt"			# Hornwood
+I19 = "countries/ASOIAF - House Wells.txt"				# Ethering
+I20 = "countries/ASOIAF - House Overton.txt"			# Overton
+I21 = "countries/ASOIAF - House Bolton.txt"				# Sheepshead Hills, The Dreadfort
+I22 = "countries/ASOIAF - House Mollen.txt"				# Dawnforest
+I23 = "countries/ASOIAF - House Cerwyn.txt"				# Castle Cerwyn
+I24 = "countries/ASOIAF - House Lightfoot.txt"			# Weeping Bay
+I25 = "countries/ASOIAF - House Karstark.txt"			# Eastmelt, Karhold
+I26 = "countries/ASOIAF - House Burley.txt"				# Lonely Hill	
+I27 = "countries/ASOIAF - House Branch.txt"				# Acorn Grove
+I28 = "countries/ASOIAF - House Woods.txt"				# Wolfswood
+I29 = "countries/ASOIAF - House Ironsmith.txt"			# Withered Heath
+I30 = "countries/ASOIAF - House Slate.txt"				# Blue Hills
+I31 = "countries/ASOIAF - House Condon.txt"				# Sea Dragon Point
+I32 = "countries/ASOIAF - House Forrester.txt"			# Blackgrove
+I33 = "countries/ASOIAF - House Glover.txt"				# Deepwood
+I34 = "countries/ASOIAF - House Bole.txt"				# King's Grove	
+I35 = "countries/ASOIAF - House Lake.txt"				# Aylesvale	
+I36 = "countries/ASOIAF - House Umber.txt"				# Last River, Seal Shore, Last Hearth
+I37 = "countries/ASOIAF - House Norrey.txt"				# Shadowmoor
+I38 = "countries/ASOIAF - House Knott.txt"				# Arrendell
+I39 = "countries/ASOIAF - House Liddle.txt"				# Pinesend
+
+S20 = "countries/ASOIAF - House Lothston.txt"
+S21 = "countries/ASOIAF - House Bracken.txt"
+S22 = "countries/ASOIAF - House Mormont.txt"
+
+################################
+# Beyond Time and Space
+################################
+Q01 = "countries/ASOIAF - House Magnar.txt"				# Vassal to Stark, Kingshouse
+Q02 = "countries/ASOIAF - House Crowl.txt"				# Vassal to Stark, Deepdown
+Q03 = "countries/ASOIAF - House Stane.txt"				# Vassal to Stark, Driftwood Hall
+Q04 = "countries/ASOIAF - Clan Crowhunter.txt"			# Wildling, Skirling Pass
+Q05 = "countries/ASOIAF - Clan Thanskull.txt"			# Wildling, Northern Frostfangs
+Q06 = "countries/ASOIAF - Clan Thenn.txt"				# Wildling, Thenn
+
+
+################################
+# Pirates
+################################
+# Bloodstone, Wreckstone, The Skulls, Eastern Stepstones, Last Refuge, Grey Gallows, Shame Isle - Wasteland
+
+P01 = "countries/ASOIAF - House Cithien.txt"	# Sunstone, Lysene, Pirate
+P02 = "countries/ASOIAF - House Saan.txt"	#Dark Den, Lysene, Pirate
+
+P03 = "countries/ASOIAF - Bloodstone.txt"	
+P04 = "countries/ASOIAF - Skulls.txt"	
+P05 = "countries/ASOIAF - Wreckstone.txt"	
+P06 = "countries/ASOIAF - Torturer.txt"	
+P07 = "countries/ASOIAF - Grey Gallow.txt"	
+P08 = "countries/ASOIAF - Yio.txt"	
+P09 = "countries/ASOIAF - Shame.txt"	
+
+################################
+# Narrow Sea City States
+################################
+# Magister
+# Archon
+
+# Tyroshi, Trios
+X01 = "countries/ASOIAF - Zokan.txt"	# Kylos + Vysos Plains + Tyroshi Landing + Tyrosh + Little Tyrosh + The Disputed Penisula
+X02 = "countries/ASOIAF - Adarys.txt"	# Vassal to Zokan, Vysos Plains
+X03 = "countries/ASOIAF - Uhoris.txt"	# Vassal to Zokan, Tyroshi Landing
+X04 = "countries/ASOIAF - Lectris.txt"	# Vassal to Zokan, The Disputed Penisula
+X05 = "countries/ASOIAF - Tumitis.txt"	# Vassal to Zokan, Little Tyrosh
+
+# Lys, R'hllor, Lysene
+X06 = "countries/ASOIAF - Sathmantes.txt"	# Lysene Forest + Dyreno Hill + Disputed Forest + Mesylosh + Silkhead + Lys
+X07 = "countries/ASOIAF - Ormollen.txt"		# Vassal to Sathmantes, Lysene Forest
+X08 = "countries/ASOIAF - Galeros.txt"		# Vassal to Sathmantes, Disputed Forest
+X09 = "countries/ASOIAF - Lohar.txt"		# Vassal to Sathmantes, Mesylosh
+X10 = "countries/ASOIAF - Erosenes.txt"		# Vassal to Sathmantes, Silkhead
+
+# Myr, R'hllor, Myrman
+U01 = "countries/ASOIAF - Lornel.txt"		# Myr + Forest of Myr + Myrwater + Drelyia + Latnyr + Plains of Myr + Byloth + Vymolys + Bay of Myr + Lortyr Bay + Ny Myrelor + Longlake + Greenlace
+U02 = "countries/ASOIAF - Trellos.txt"		# Vassal to Lornel, Forest of Myr
+U03 = "countries/ASOIAF - Mercor.txt"		# Vassal to Lornel, Myrwater
+U04 = "countries/ASOIAF - Sordios.txt"		# Vassal to Lornel, Drelyia
+U05 = "countries/ASOIAF - Lavelos.txt"		# Vassal to Lornel, Latnyr
+U06 = "countries/ASOIAF - Uteuran.txt"		# Vassal to Lornel, Plains of Myr
+U07 = "countries/ASOIAF - Varghan.txt"		# Vassal to Lornel, Byloth
+U08 = "countries/ASOIAF - Allegel.txt"		# Vassal to Lornel, Ny Myrelor
+U09 = "countries/ASOIAF - Rhegan.txt"		# Vassal to Lornel, Lortyr Bay
+U10 = "countries/ASOIAF - Saldorys.txt"		# Vassal to Lornel, Longlake
+U11 = "countries/ASOIAF - Albersan.txt"		# Vassal to Lornel, Greenlace
+
+#
+# Pentos, R'hllor, Pentoshi
+U12 = "countries/ASOIAF - Arsenys.txt"	# Ar Kon + Amenos + Lake of Myrth + Samal + Mylonos + Nontelos + The Great Arm + Fareyes + Velvet March + Velvetpeak + Sunrise Road + Pentos + Berylos + Little Rhoyne + Prince's Shore
+U13 = "countries/ASOIAF - Mylonos.txt"	# Vassal to Arsenys, Mylonos
+U14 = "countries/ASOIAF - Myrakis.txt"	# Vassal to Arsenys, Nontelos
+U15 = "countries/ASOIAF - Myrenolys.txt"	# Vassal to Arsenys, Samal
+U16 = "countries/ASOIAF - Denorys.txt"	# Vassal to Arsenys, Lake of Myrth
+U17 = "countries/ASOIAF - Estatis.txt"	# Vassal to Arsenys, Amenos
+U85 = "countries/ASOIAF - Dhan.txt"		# Vassal to Arsenys, The Great Arm
+U18 = "countries/ASOIAF - Lumitits.txt"	# Vassal to Arsenys, Fareyes
+U19 = "countries/ASOIAF - Obizos.txt"		# Vassal to Arsenys, Velvet March
+U20 = "countries/ASOIAF - Virginion.txt"	# Vassal to Arsenys, Velvetpeak
+U21 = "countries/ASOIAF - Torgodorio.txt"	# Vassal to Arsenys, Sunrise Road
+U22 = "countries/ASOIAF - Kaporys.txt"	# Vassal to Arsenys, Berylos
+U23 = "countries/ASOIAF - Thelis.txt"		# Vassal to Arsenys, Prince's Shore
+U24 = "countries/ASOIAF - Lysandys.txt"	# Vassal to Arsenys, Little Rhoyne
+
+# Braavos, Moonsingers, Braavosi
+U25 = "countries/ASOIAF - Tendyris.txt"		# Andal Coast + Malaqovos + Freneros + Braavosian Hills + Prestaynos + Moroggos + Antaryonos + Braavosian Fields + Braavosi Shore + The Marshes + Braavos
+U26 = "countries/ASOIAF - Ferys.txt"			# Vassal to Tendyris, Andal Coast
+U27 = "countries/ASOIAF - Lostayn.txt"		# Vassal to Tendyris, Malaqovos
+U28 = "countries/ASOIAF - Gasparyon.txt"		# Vassal to Tendyris, Braavosian Hills
+U29 = "countries/ASOIAF - Dimittis.txt"		# Vassal to Tendyris, Prestaynos
+U30 = "countries/ASOIAF - Prestayn.txt"		# Vassal to Tendyris, Moroggos
+U31 = "countries/ASOIAF - Volentin.txt"		# Vassal to Tendyris, Antaryonos
+U32 = "countries/ASOIAF - Fregar.txt"			# Vassal to Tendyris, Braavosian Fields
+U33 = "countries/ASOIAF - Antaryon.txt"		# Vassal to Tendyris, The Marches
+
+# Faith of the Seven, Andal
+U34 = "countries/ASOIAF - Hill.txt"			# Father's Hill
+U35 = "countries/ASOIAF - Greatwood.txt"		# Seven Stars
+U36 = "countries/ASOIAF - Willow.txt"			# East Andalos
+U37 = "countries/ASOIAF - Sevenwaters.txt"	# Mother's Valley
+
+# Lorath, Gods of Lorath, Lorathi
+U38 = "countries/ASOIAF - Vazollen.txt"		# Willowsreach + Shalorath + Lorathi Shore + Lorath + Elbateros + White Cliffs + The Axe + Axe Mountains
+U39 = "countries/ASOIAF - Dalthor.txt"		# Vassal to Vazollen, Willowsreach
+U40 = "countries/ASOIAF - Naylan.txt"			# Vassal to Vazollen, Shalorath
+U41 = "countries/ASOIAF - Lathtis.txt"		# Vassal to Vazollen, Lorathi Shore
+U42 = "countries/ASOIAF - Oloryon.txt"		# Vassal to Vazollen, Elbateros
+U43 = "countries/ASOIAF - Nghan.txt"			# Vassal to Vazollen, The Axe
+U86 = "countries/ASOIAF - Delyios.txt"		# Vassal to Vazollen, Axe Mountains
+U70 = "countries/ASOIAF - Hghai.txt"			# Vassal to Vazollen, Protosh
+U71 = "countries/ASOIAF - Kaldorys.txt"		# Vassal to Vazollen, Morosh
+
+# Norvos, Bearded Priests, Norvoshi
+U44 = "countries/ASOIAF - Morvdys.txt"		# Dolronhor + Dark Hills + Mount Norvo + Narros + Bear Hills + Palhorvos + Noomgate + Norvos + Ghoyan Pass + Hugorvale + Noyne + Nyelos + Ny Rhon Valley
+U45 = "countries/ASOIAF - Andredyos.txt"		# Vassal to Morvdys, Mount Norvo
+U46 = "countries/ASOIAF - Mortosh.txt"		# Vassal to Morvdys, Dark Hills
+U47 = "countries/ASOIAF - Bartyr.txt"			# Vassal to Morvdys, Dolronhor
+U48 = "countries/ASOIAF - Nyelossos.txt"		# Vassal to Morvdys, Narros
+U49 = "countries/ASOIAF - Hortyr.txt"			# Vassal to Morvdys, Palhorvos
+U50 = "countries/ASOIAF - Vortar.txt"			# Vassal to Morvdys, Noomgate
+U51 = "countries/ASOIAF - Daryth.txt"			# Vassal to Morvdys, Nyelos
+U52 = "countries/ASOIAF - Narlan.txt"			# Vassal to Morvdys, Ghoyan Pass
+U53 = "countries/ASOIAF - Bertrand.txt"		# Vassal to Morvdys, Hugorvale
+U54 = "countries/ASOIAF - Notarys.txt"		# Vassal to Morvdys, Ny Rhon Valley
+
+# New Valyria, East Valyrian, Valyrian
+U55 = "countries/ASOIAF - Qhaedar.txt"		# Ar Mynar + Laboros + Valon Sar + Mavlys + Dreos + Anyria + Selhorys + Valysar + Plains of Maegys + Orange Plains + The Orange Islands + Volon Therys + Sar Mell + Old Volantis + Volantis + Tyvis + The Oranage Shore + Volantene Coast + Little Valyria + Vasyugys
+U56 = "countries/ASOIAF - Isanrdo.txt"		# Vassal to Qhaedar, Ar Mynar
+U57 = "countries/ASOIAF - Nefatis.txt"		# Vassal to Qhaedar, Valon Sar
+U58 = "countries/ASOIAF - Olivirana.txt"		# Vassal to Qhaedar, Laboros
+U59 = "countries/ASOIAF - Marsiglio.txt"		# Vassal to Qhaedar, Anyria
+U60 = "countries/ASOIAF - Lomberys.txt"		# Vassal to Qhaedar, Plains of Maegys
+U61 = "countries/ASOIAF - Rannovar.txt"		# Vassal to Qhaedar, Dreos
+U62 = "countries/ASOIAF - Dhoru.txt"			# Vassal to Qhaedar, Orange Plains
+U63 = "countries/ASOIAF - Rulloros.txt"		# Vassal to Qhaedar, Valysar
+U64 = "countries/ASOIAF - Vhassar.txt"		# Vassal to Qhaedar, The Orange Islands
+U65 = "countries/ASOIAF - Vaelaros.txt"		# Vassal to Qhaedar, The Orange Shore
+U66 = "countries/ASOIAF - Kirines.txt"		# Vassal to Qhaedar, Volon Therys
+U67 = "countries/ASOIAF - Volnyros.txt"		# Vassal to Qhaedar, Selhorys
+U68 = "countries/ASOIAF - Paenymion.txt"		# Vassal to Qhaedar, Volantene Coast
+U69 = "countries/ASOIAF - Maegyr.txt"			# Vassal to Qhaedar, Little Valyria
+
+U87 = "countries/ASOIAF - Volantis.txt"		# Qhaedar, but not Qhaedar
+
+
+# Qohor, Black Goat of Qohor, Qohorik
+U72 = "countries/ASOIAF - Qarit.txt"			# Sungrove + Deep Forest + Qovosar + Qohor + Qhoyne + Goatwood + Malhor + Darkbridge + Watersmeet + Qohorik Coast + Satholik
+U73 = "countries/ASOIAF - Rolgott.txt"		# Vassal to Qarit, Sungrove
+U74 = "countries/ASOIAF - Reymnos.txt"		# Vassal to Qarit, Deep Forest
+U75 = "countries/ASOIAF - Taladorys.txt"		# Vassal to Qarit, Qovosar
+U76 = "countries/ASOIAF - Zhander.txt"		# Vassal to Qarit, Qhoyne
+U77 = "countries/ASOIAF - Nartos.txt"			# Vassal to Qarit, Darkbridge
+U78 = "countries/ASOIAF - Voatar.txt"			# Vassal to Qarit, Malhor
+U79 = "countries/ASOIAF - Togott.txt"			# Vassal to Qarit, Goatwood
+U80 = "countries/ASOIAF - Malavott.txt"		# Vassal to Qarit, Watersmeet
+U81 = "countries/ASOIAF - Ragat.txt"			# Vassal to Qarit, Satholik
+
+# Saath, Gods of Sarnor, Sarnori
+U82 = "countries/ASOIAF - Dholakia.txt"		# High Athosh + Saath + Mikath
+U83 = "countries/ASOIAF - Kamdar.txt"			# Vassal to Dholakia, High Athosh
+U84 = "countries/ASOIAF - Kotak.txt"			# Vassal to Dholakia, Mikath
+
+################################
+# Eastern Essos
+################################
+
+# Ibben, Gods of Ibben
+
+R01 = "countries/ASOIAF - Moth.txt"			# Ib Lok + Herse + Port of Ibben + Spearhold + Ib Ess + Tuskbay + Ib Nor + Geysert + Ib Sar + Far Ib
+R02 = "countries/ASOIAF - Bartogg.txt"		# Vassal of Moth, Ib Nor + Geysert
+R03 = "countries/ASOIAF - Joth.txt"			# Vassal of Moth, Ib Sar + Far Ib
+
+R04 = "countries/ASOIAF - Sluggolsh.txt"	# New Ibbish
+
+# Dothraki, The Great Stallion
+R05 = "countries/ASOIAF - Dosh Khaleen.txt"	# Vaes Dothrak
+R06 = "countries/ASOIAF - Temmo Khas.txt"		# Rhaesh Tehin
+R07 = "countries/ASOIAF - Jhaquo Khas.txt"	# Rhaesh Jano
+
+S40 = "countries/ASOIAF - Pono Khas.txt"
+S41 = "countries/ASOIAF - Moro Khas.txt"
+S42 = "countries/ASOIAF - Ogo Khas.txt"
+S43 = "countries/ASOIAF - Jommo Khas.txt"
+S44 = "countries/ASOIAF - Fogo Khas.txt"
+S45 = "countries/ASOIAF - Zekko Khas.txt"
+S46 = "countries/ASOIAF - Motho Khas.txt"
+
+# Ghiscari, The Harpy
+R08 = "countries/ASOIAF - Hazdahn.txt"		# Ghonazdhan + Khydhan + Hazdahn No + Yanghis + Vazenkria
+R09 = "countries/ASOIAF - Tazraaq.txt"		# Vassal of Hazdahn, Ghonazdhan
+R10 = "countries/ASOIAF - Hiznhak.txt"		# Vassal of Hazdahn,Vezenkria
+R11 = "countries/ASOIAF - Larghaz.txt"		# Vassal of Hazdahn,Yanghis
+R12 = "countries/ASOIAF - Bahraz.txt"		# Vassal of Hazdahn,Khydhan
+
+# Mantaryan, Valyrian
+R13 = "countries/ASOIAF - Zobridar.txt"		# The Painted Valleys + The Demon Pass + Mantarys
+R14 = "countries/ASOIAF - Rebagyr.txt"		# Vassal of Zobridar, The Demon Pass, The Black Cliffs
+R15 = "countries/ASOIAF - Lodaorys.txt"		# Vassal of Zobridar,The Painted Valleys
+
+# Elyrian, Valyrian (Mantarys)
+R16 = "countries/ASOIAF - Ilvar.txt"		# Elyria
+
+# Tolosi, Valyrian (Tolos)
+R17 = "countries/ASOIAF - Azantone.txt"		# Tolos + The Black Cliffs
+
+# Meereenese, The Harpy (Meereen)
+R19 = "countries/ASOIAF - Loraq.txt"		# Meereen + The Demon Road + No Man's Land + Khyzai Pass + Malkai + Bhorash
+R20 = "countries/ASOIAF - Pahl.txt"			# Vassal of Loraq, The Demon Road
+R21 = "countries/ASOIAF - Galare.txt"		# Vassal of Loraq, No Man's Land
+R22 = "countries/ASOIAF - Reznak.txt"		# Vassal of Loraq, Khyzai Pass
+
+# Yunkai'i, The Harpy (Yunkai)
+R23 = "countries/ASOIAF - Qaggaz.txt"		# Maelk + Kaldeen + Vadhadhan + Yunkai + Yaros
+R24 = "countries/ASOIAF - Eraz.txt"			# Vassal of Qaggaz, Maelk
+R25 = "countries/ASOIAF - Rhaezn.txt"		# Vassal of Qaggaz, Yaros
+R26 = "countries/ASOIAF - Yunzak.txt"		# Vassal of Qaggaz, Vadhadhan
+
+# Astapori, The Harpy (Astapor)
+R27 = "countries/ASOIAF - Gradzdhan.txt"	# Horns of Hezzat + Slaver's Road + Astapor + Dhozai + Gadhis + Ghiscar Point
+R28 = "countries/ASOIAF - Nakloz.txt"		# Vassal of Gradzdhan, Slaver's Road
+R29 = "countries/ASOIAF - Grazlar.txt"		# Vassal of Gradzdhan, Horns of Hezzat 
+R30 = "countries/ASOIAF - Ullhor.txt"		# Vassal of Gradzdhan, Dhozai
+
+# Ghiscari, The Harpy (New Ghis)
+R31 = "countries/ASOIAF - Grazdan.txt"		# Baked Shore + Sumbyar + Atruskai + Jagor + Puki + Bone Coast + Kalot + Qimbreen + Ghaen + New Ghis + Ghis
+R32 = "countries/ASOIAF - Jaghaz.txt"		# Vassal of Grazdan, Baked Shore
+R33 = "countries/ASOIAF - Riznahz.txt"		# Vassal of Grazdan,Atruskai
+R34 = "countries/ASOIAF - Larhak.txt"		# Vassal of Grazdan,Jagor
+R35 = "countries/ASOIAF - Marlaq.txt"		# Vassal of Grazdan,Puki
+R36 = "countries/ASOIAF - Bezzlar.txt"		# Vassal of Grazdan,Bone Coast
+R37 = "countries/ASOIAF - Zarghaz.txt"		# Vassal of Grazdan,Kalot
+R38 = "countries/ASOIAF - Taraq.txt"		# Vassal of Grazdan,Qimbreen
+R39 = "countries/ASOIAF - Qarghiz.txt"		# Vassal of Grazdan,Ghaen
+
+# Lhazareen, Great Shepherd
+S17 = "countries/ASOIAF - Izven.txt"		# Hoshorak + Olta Drogaki + Selchar + Lhazosh
+S18 = "countries/ASOIAF - Drogikh.txt"		# Virzosh + Kosrak
+S19 = "countries/ASOIAF - Shiqethi.txt"		# Hesh + Atakosh
+
+# Qartheen, Warlocks (Qarth)
+R41 = "countries/ASOIAF - Mallarawan.txt"	# Port Yhos + Qarkash + Cape of Skulls + Lehqron + Qarth + Matsar + Jade Point + Qal + Saaleq + Jade Gate + Bawrashar
+R42 = "countries/ASOIAF - Emeros.txt"		# Vassal of Mallarawan, Lehqron
+R43 = "countries/ASOIAF - Eleglos.txt"		# Vassal of Mallarawan,Cape of Skulls
+R44 = "countries/ASOIAF - Urrathon.txt"		# Vassal of Mallarawan,Qarkash
+R45 = "countries/ASOIAF - Qar Maath.txt"	# Vassal of Mallarawan,Port Yhos
+R46 = "countries/ASOIAF - Telcontis.txt"	# Vassal of Mallarawan,Southern Sand Road
+R47 = "countries/ASOIAF - Qar Deeth.txt"	# Vassal of Mallarawan,Matsar
+R48 = "countries/ASOIAF - Qar Repos.txt"	# Vassal of Mallarawan,Jade Point
+R49 = "countries/ASOIAF - Verelin.txt"		# Vassal of Mallarawan,Qal
+R50 = "countries/ASOIAF - Gosymion.txt"		# Vassal of Mallarawan,Bawrashar
+R51 = "countries/ASOIAF - Qar Xarnath.txt"	# Vassal of Mallarawan,Jade Gate
+
+# Naathi, God of Harmony
+R52 = "countries/ASOIAF - Kizwe.txt"		# Naath
+
+# Farosi, Stone Cow of Faros
+R53 = "countries/ASOIAF - Faruud.txt"		# Nahos + Hekkon + Sielekar + Faros
+R54 = "countries/ASOIAF - Malhallador.txt"	# Vassal of Faruud, Sielekar
+R55 = "countries/ASOIAF - Jabbour.txt"		# Vassal of Faruud, Hekkon
+R56 = "countries/ASOIAF - Aladda.txt"		# Vassal of Faruud, Nahos
+
+# Vahari, Stone Cow of Faros
+R57 = "countries/ASOIAF - Hallafa.txt"		# Pongar + Draccar + Vahar
+R58 = "countries/ASOIAF - Dajani.txt"		# Vassal of Hallafa, Pongar
+R59 = "countries/ASOIAF - Kamali.txt"		# Vassal of Hallafa, Draccar
+
+# Moraqi, Stone Cow of Faros
+R60 = "countries/ASOIAF - Jaffarala.txt"	# Zaffalor + Nur-Anji + Port Moraq
+R61 = "countries/ASOIAF - Masih.txt"		# Vassal of Jaffarala, Nur-Anji
+R62 = "countries/ASOIAF - Kazemi.txt"		# Vassal of Jaffarala, Zaffalor
+
+# Zabhadi, Stone Cow of Faros
+R63 = "countries/ASOIAF - Mahabhar.txt"		# Zabhad + Cinnamon Isles
+R64 = "countries/ASOIAF - Dallal.txt"		# Vassal of Mahabhar, Cinnamon Isles
+
+# Leng, Lion of the Night
+R65 = "countries/ASOIAF - Narula.txt"		# Turrani + Leng Ma + Leng Yi
+R66 = "countries/ASOIAF - Ramesh.txt"		# Vassal of Narula, Leng Yi
+R67 = "countries/ASOIAF - Chandesh.txt" 	# Vassal of Narula, Turrani
+
+# Yi Ti, Lion of the Night
+R68 = "countries/ASOIAF - Mahanajan.txt" 	# Yin + Cape of Yin + Coast of Yin + Hidden City + Southern Jungle of Yi Ti + Bay of Leng + The Jade Road + The Jade Jungle + The Yi Ti Wetlands + Hidden Jungles + The Yi Ti Delta + Gayanyalla + Jungle of Vines + Linqi + Jinqi + Sarahai + Darakesh + Xin + Kolverikh + Northern Jungle of Yi Ti + Central Jungle of Yi Ti + Oholat + Hrazeffer + Western Jungle of Yi Ti + Hills of Tiqui + Telahai + Road of Tiqui + Fatilat + Qeso + Ramasar + Piqui + Zanisshi + Tiqui
+R69 = "countries/ASOIAF - Boutrous.txt" 	# Vassal of Mahanajan, Bay of Leng
+R70 = "countries/ASOIAF - Wahab.txt" 		# Vassal of Mahanajan, Southern Jungle of Yi Ti
+R71 = "countries/ASOIAF - Sabbag.txt" 		# Vassal of Mahanajan, Hidden City
+R72 = "countries/ASOIAF - Jhalab.txt" 		# Vassal of Mahanajan, The Yi Ti Wetlands
+R73 = "countries/ASOIAF - Zambarra.txt" 	# Vassal of Mahanajan, The Jade Jungle
+R74 = "countries/ASOIAF - Nahjeem.txt" 		# Vassal of Mahanajan, Gayanayalla
+R75 = "countries/ASOIAF - Totah.txt" 		# Vassal of Mahanajan, The Yi Ti Delta
+R76 = "countries/ASOIAF - Jayaraman.txt" 	# Vassal of Mahanajan, Jinqi
+R77 = "countries/ASOIAF - Zamesh.txt" 		# Vassal of Mahanajan, Jungle of Vines
+R78 = "countries/ASOIAF - Kassab.txt" 		# Vassal of Mahanajan, Kolverikh
+R79 = "countries/ASOIAF - Hajjar.txt" 		# Vassal of Mahanajan, Xin
+R80 = "countries/ASOIAF - Shadid.txt" 		# Vassal of Mahanajan, Northern Jungle of Yi Ti
+R81 = "countries/ASOIAF - Hanania.txt" 		# Vassal of Mahanajan, Linqi
+R82 = "countries/ASOIAF - Rambaresh.txt" 	# Vassal of Mahanajan, Hidden Jungles
+R83 = "countries/ASOIAF - Naifeh.txt" 		# Vassal of Mahanajan, Central Jungle of Yi Ti
+R84 = "countries/ASOIAF - Maharra.txt" 		# Vassal of Mahanajan, Fatilat
+R85 = "countries/ASOIAF - Fakhury.txt" 		# Vassal of Mahanajan, Oholat
+R86 = "countries/ASOIAF - Ajhab.txt" 		# Vassal of Mahanajan, Hrazeffer
+R87 = "countries/ASOIAF - Khoury.txt" 		# Vassal of Mahanajan, Western Jungle of Yi Ti
+R88 = "countries/ASOIAF - Asker.txt" 		# Vassal of Mahanajan, Hills of Tiqui
+R89 = "countries/ASOIAF - Wassam.txt" 		# Vassal of Mahanajan, Road of Tiqui
+R90 = "countries/ASOIAF - Pandya.txt" 		# Vassal of Mahanajan, Tiqui
+R91 = "countries/ASOIAF - Antoun.txt" 		# Vassal of Mahanajan, Zanisshi
+R92 = "countries/ASOIAF - Sahjhab.txt" 		# Vassal of Mahanajan, Ramasar
+R93 = "countries/ASOIAF - Ashasha.txt" 		# Vassal of Mahanajan, Qeso
+R94 = "countries/ASOIAF - Chadresh.txt" 	# Vassal of Mahanajan, Piqui
+
+# Asabhadi, Gods of Hyrkoon
+R95 = "countries/ASOIAF - Kataan.txt" 		# Abaj + Asabhad + Karavana + Hyrnaya
+R96 = "countries/ASOIAF - Issa.txt" 		# Vassal of Kataan, Abaj
+R97 = "countries/ASOIAF - Kassis.txt" 		# Vassal of Kataan, Asabhadi Fields
+R98 = "countries/ASOIAF - Kalzarria.txt" 	# Vassal of Kataan, Asabhadi Hills
+
+# Bayasabhadi, Gods of Hyrkoon
+S01 = "countries/ASOIAF - Tahan.txt"		# Bayasabhad + Sand Road + Tashbhad
+S02 = "countries/ASOIAF - Asghar.txt"		# Vassal of Tahan, Sand Road
+S03 = "countries/ASOIAF - Sharmoun.txt"		# Vassal of Tahan, Bayasabhadi Fields
+
+# Trader Town
+S04 = "countries/ASOIAF - Malshara.txt"		# South Trader Road + Trader Town + Melikh + North Trader Road
+S05 = "countries/ASOIAF - Mallaha.txt"		# Vassal of Malshara, South Trader Road
+S06 = "countries/ASOIAF - Kashmoun.txt"		# Vassal of Malshara, Melikh
+S07 = "countries/ASOIAF - Tessarra.txt"		# Vassal of Malshara, North Trader Road
+
+# Samyrianan, Gods of Hyrkoon
+S08 = "countries/ASOIAF - Bishara.txt"		# Samyriana + Stone Road + Zarafana
+S09 = "countries/ASOIAF - Tannous.txt"		# Vassal of Bishara, Stone Road
+S10 = "countries/ASOIAF - Atiyeh.txt"		# Vassal of Bishara, Zarafana
+
+# Kayakayanyan, Gods of Hyrkoon
+S11 = "countries/ASOIAF - Qureshi.txt"		# Kayakayanya + Matakur + Steel Road
+S12 = "countries/ASOIAF - Mifsud.txt"		# Vassal of Qureshi, Steel Road
+S13 = "countries/ASOIAF - Maroun.txt"		# Vassal of Qureshi, Matakur
+
+# Nefer
+S14 = "countries/ASOIAF - Owyang.txt"		# Fields of Nefer + Nefer + Bay of Nefer
+S15 = "countries/ASOIAF - Jeung.txt"		# Vassal of Owyang, Fields of Nefer 
+S16 = "countries/ASOIAF - Hawang.txt"		# Vassal of Owyang, Bay of Nefer
+
+################################
+# Summer Islands
+################################
+# Religion: Summer Gods: asoiaf_summer_gods
+
+X15 = "countries/ASOIAF - Qho.txt"				#	Last Lament + Stone Head + Mantisleaf + Lotus Valley
+X16 = "countries/ASOIAF - Karomo.txt"			#	Vassal to Qho, Stone Head
+X50 = "countries/ASOIAF - Alukho.txt"			#	Vassal to Qho, Lotus Valley
+
+X17 = "countries/ASOIAF - Xhaxos.txt"			# 	Ambershore, Lotus Port, Jalabuxon, Isle of Women
+X18 = "countries/ASOIAF - Bado.txt"				# 	Vassal to Xhaxos, Isle of Women
+
+X19 = "countries/ASOIAF - Xhorulu.txt"			# 	Koj
+
+X20 = "countries/ASOIAF - Tomburu.txt"			# 	Isle of Birds
+
+X21 = "countries/ASOIAF - Onuxho.txt"			# 	Tall Trees Town + Kone Forest + The Citris Coves
+X22 = "countries/ASOIAF - Kano.txt"				# 	Vassal to Onuxho, Kone Forest
+
+X23 = "countries/ASOIAF - Mo.txt"				# 	Heartvale + Qetzalu + Naked Forest + Xhala + Smiling Clifs + Cape Omburu
+X24 = "countries/ASOIAF - Solaju.txt"			# 	Vassal to Mo, Qetzalu
+X25 = "countries/ASOIAF - Jallone.txt"			# 	Vassal to Mo, Naked Forest
+X26 = "countries/ASOIAF - Turalu.txt"			# 	Vassal to Mo, Xhala
+X27 = "countries/ASOIAF - Agbelu.txt"			#	Vassal to Mo, Smiling Cliffs
+X28 = "countries/ASOIAF - Xhanu.txt"			# 	Vassal to Mo, Cape Omburu
+
+X29 = "countries/ASOIAF - Luxho.txt"			# 	Golden Exile + Orange Exile + Little Exile + The Singing Stones + 
+X30 = "countries/ASOIAF - Jho.txt"				# 	Vassal to Luxho, The Singing Stones
+X31 = "countries/ASOIAF - Uxo.txt"				# 	Vassal to Luxho, Little Exile
+X32 = "countries/ASOIAF - Nyrolu.txt"			# 	Vassal to Luxho, Orange Exile
+
+X33 = "countries/ASOIAF - Jaluru.txt"			# 	Bloodwood + Golden Mountains
+X34 = "countries/ASOIAF - Ekwensu.txt"		# 	Vassel to Jaluru, Golden Mountains
+
+X35 = "countries/ASOIAF - Qo.txt"				# 	Ebonhead + Sweetwater + Lotus Hills
+X36 = "countries/ASOIAF - Iroxho.txt"			#  	Vassal to Qo, Lotus Hills
+X51 = "countries/ASOIAF - Dako.txt"			#  	Vassal to Qo, Lotus Doquu
+
+X37 = "countries/ASOIAF - Enyaxho.txt"		# 	Indigoshore + Kalalula + Scarlethead 
+X38 = "countries/ASOIAF - Ubo.txt"			# 	Vassal to Enyaxho, Kalalula
+X39 = "countries/ASOIAF - Xhurabo.txt"		# 	Vassal to Enyaxho, Scarlethead
+
+X40 = "countries/ASOIAF - Xho.txt"			#	Red Flower Bay + Highgrove + Jhalavale
+X41 = "countries/ASOIAF - Umaru.txt"			#	Vassal to Xho, Jhalavale
+X42 = "countries/ASOIAF - Banho.txt"			#	Vassal to Xho, Highgrove 
+X43 = "countries/ASOIAF - Rotumu.txt"			#	Vassal to Xho, Rotu Forest
+
+X44 = "countries/ASOIAF - Biabuka.txt"		#	Goldenheart + Tamarinu + Lizard Head
+X45 = "countries/ASOIAF - Ebaharo.txt"		# 	Vassal to Biabuka, Tamarinu
+X46 = "countries/ASOIAF - Ojokolu.txt"		# 	Vassal to Biabuka, Lizard Head
+
+X47 = "countries/ASOIAF - Gowonu.txt"			# 	Parrot Shore + Ebonhill + Xon + The Bones
+X48 = "countries/ASOIAF - Xhone.txt"			# 	Vassal to Gowonu, Xon
+X49 = "countries/ASOIAF - Bone.txt"			# 	Vassal to Gowonu, Bones
+
+X53 = "countries/ASOIAF - Moyne.txt"		# Moluu + Fragrant Isle + Isle of Love
+X54 = "countries/ASOIAF - Ajaxos.txt"		# Vassal of Moyne, Fragrant Isle
+X55 = "countries/ASOIAF - Xhoan.txt"		# Vassal of Moyne, Isle of Love
+
+# 1.9 Additions
+J01 = "countries/ASOIAF - Bloodless Men.txt" 	# Land of the Shrykes + K'dath + The Dry Deep + Cities of the Bloodless Men
+J02 = "countries/ASOIAF - Asshai.txt"	  		# Asshai
+J03 = "countries/ASOIAF - Jogos Nhai.txt"		# Jogos Nhai
+J04 = "countries/ASOIAF - Omber.txt"			# Omber
+J05 = "countries/ASOIAF - Andals.txt"			# Papacy tag, not playable
+J06 = "countries/ASOIAF - Ifeqevron.txt"
+

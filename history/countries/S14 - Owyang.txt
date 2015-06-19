@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = nefer
+primary_culture = nefer
+religion = asoiaf_gods_of_nghai
+
+capital = 835
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jhiqui"
+		dynasty = "Owyang"
+		birth_date = 982.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Owyang"
+		birth_date = 981.1.1
+		death_date = 1058.1.1
+		claim = 53
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Hobber"
+		dynasty = "Owyang"
+		birth_date = 991.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Vickon"
+		monarch_name = "Vickon"
+		dynasty = "Owyang"
+		birth_date = 1075.1.1
+		death_date = 1138.1.1
+		claim = 59
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "Moredo"
+		dynasty = "Owyang"
+		birth_date = 1140.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Kella"
+		monarch_name = "Kella"
+		dynasty = "Owyang"
+		birth_date = 1141.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Aenys"
+		dynasty = "Owyang"
+		birth_date = 1194.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Bass"
+		monarch_name = "Bass"
+		dynasty = "Owyang"
+		birth_date = 1224.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Frenken"
+		dynasty = "Owyang"
+		birth_date = 1287.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Woth"
+		monarch_name = "Woth"
+		dynasty = "Owyang"
+		birth_date = 1296.1.1
+		death_date = 1352.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Tyrion"
+		dynasty = "Owyang"
+		birth_date = 1300.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Larence"
+		monarch_name = "Larence"
+		dynasty = "Owyang"
+		birth_date = 1370.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 112
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Pudding"
+		dynasty = "Piper"
+		birth_date = 964.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Grazdan"
+		monarch_name = "Grazdan"
+		dynasty = "Piper"
+		birth_date = 973.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Addison"
+		dynasty = "Piper"
+		birth_date = 1044.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Alerie"
+		monarch_name = "Alerie"
+		dynasty = "Piper"
+		birth_date = 1054.1.1
+		death_date = 1094.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Borcas"
+		dynasty = "Piper"
+		birth_date = 1081.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Utt"
+		monarch_name = "Utt"
+		dynasty = "Piper"
+		birth_date = 1129.1.1
+		death_date = 1174.1.1
+		claim = 65
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Piper"
+		birth_date = 1174.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jojen"
+		monarch_name = "Jojen"
+		dynasty = "Piper"
+		birth_date = 1202.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Malliard"
+		dynasty = "Piper"
+		birth_date = 1184.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Piper"
+		birth_date = 1269.1.1
+		death_date = 1342.1.1
+		claim = 5
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Cetheres"
+		dynasty = "Piper"
+		birth_date = 1262.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Dontos"
+		monarch_name = "Dontos"
+		dynasty = "Piper"
+		birth_date = 1312.1.1
+		death_date = 1378.1.1
+		claim = 10
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Boros"
+		dynasty = "Piper"
+		birth_date = 1298.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Gregor"
+		monarch_name = "Gregor"
+		dynasty = "Piper"
+		birth_date = 1333.1.1
+		death_date = 1384.1.1
+		claim = 61
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+

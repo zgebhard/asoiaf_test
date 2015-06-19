@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 42
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ketter"
+		dynasty = "Ironsmith"
+		birth_date = 944.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Morros"
+		monarch_name = "Morros"
+		dynasty = "Ironsmith"
+		birth_date = 977.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Haldon"
+		dynasty = "Ironsmith"
+		birth_date = 975.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Dagmer"
+		monarch_name = "Dagmer"
+		dynasty = "Ironsmith"
+		birth_date = 1001.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1052.1.1 = {
+
+	monarch = {
+		name = "Hallis"
+		dynasty = "Ironsmith"
+		birth_date = 986.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Caswell"
+		monarch_name = "Caswell"
+		dynasty = "Ironsmith"
+		birth_date = 1047.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1088.1.1 = {
+	monarch = {
+		name = "Sylwa"
+		dynasty = "Ironsmith"
+		female = yes
+		birth_date = 1067.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Andrik"
+		monarch_name = "Andrik"
+		dynasty = "Ironsmith"
+		birth_date = 1066.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Garrett"
+		dynasty = "Ironsmith"
+		birth_date = 1094.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Cayn"
+		monarch_name = "Cayn"
+		dynasty = "Ironsmith"
+		birth_date = 1122.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Joseran"
+		dynasty = "Ironsmith"
+		birth_date = 1161.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Rugen"
+		monarch_name = "Rugen"
+		dynasty = "Ironsmith"
+		birth_date = 1218.1.1
+		death_date = 1302.1.1
+		claim = 6
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Larraq"
+		dynasty = "Ironsmith"
+		birth_date = 1255.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Morton"
+		monarch_name = "Morton"
+		dynasty = "Ironsmith"
+		birth_date = 1275.1.1
+		death_date = 1323.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1379.1.1 = {
+
+	monarch = {
+		name = "Ottomore"
+		dynasty = "Ironsmith"
+		birth_date = 1335.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lum"
+		monarch_name = "Lum"
+		dynasty = "Ironsmith"
+		birth_date = 1379.1.1
+		death_date = 1462.1.1
+		claim = 53
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1391.1.1 = {
+
+	monarch = {
+		name = "Tarle"
+		dynasty = "Ironsmith"
+		birth_date = 1334.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Sumner"
+		monarch_name = "Sumner"
+		dynasty = "Ironsmith"
+		birth_date = 1362.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Galladon"
+		dynasty = "Ironsmith"
+		birth_date = 1360.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Esgred"
+		monarch_name = "Esgred"
+		dynasty = "Ironsmith"
+		female = yes
+		birth_date = 1377.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1399.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Ironsmith"
+		birth_date = 1324.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Damion"
+		monarch_name = "Damion"
+		dynasty = "Ironsmith"
+		birth_date = 1389.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+

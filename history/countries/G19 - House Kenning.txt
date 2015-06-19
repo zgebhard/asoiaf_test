@@ -1,0 +1,364 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 169
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mors"
+		dynasty = "Kenning"
+		birth_date = 919.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Kenning"
+		birth_date = 999.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Ogo"
+		dynasty = "Kenning"
+		birth_date = 937.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Kenning"
+		birth_date = 1007.1.1
+		death_date = 1040.1.1
+		claim = 82
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Runcel"
+		dynasty = "Kenning"
+		birth_date = 1038.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Kenning"
+		birth_date = 1046.1.1
+		death_date = 1123.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Tim"
+		dynasty = "Kenning"
+		birth_date = 1070.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Harrion"
+		monarch_name = "Harrion"
+		dynasty = "Kenning"
+		birth_date = 1122.1.1
+		death_date = 1177.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Bellena"
+		dynasty = "Kenning"
+		female = yes
+		birth_date = 1133.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Galladon"
+		monarch_name = "Galladon"
+		dynasty = "Kenning"
+		birth_date = 1155.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Parmen"
+		dynasty = "Kenning"
+		birth_date = 1107.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Rolfe"
+		monarch_name = "Rolfe"
+		dynasty = "Kenning"
+		birth_date = 1143.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1177.1.1 = {
+
+	monarch = {
+		name = "Dagon"
+		dynasty = "Kenning"
+		birth_date = 1106.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Petyr"
+		monarch_name = "Petyr"
+		dynasty = "Kenning"
+		birth_date = 1147.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Kenning"
+		birth_date = 1166.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Uthor"
+		monarch_name = "Uthor"
+		dynasty = "Kenning"
+		birth_date = 1180.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Dykk"
+		dynasty = "Kenning"
+		birth_date = 1195.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Cyrenna"
+		monarch_name = "Cyrenna"
+		dynasty = "Kenning"
+		female = yes
+		birth_date = 1263.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Raymund"
+		dynasty = "Kenning"
+		birth_date = 1254.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Ryk"
+		monarch_name = "Ryk"
+		dynasty = "Kenning"
+		birth_date = 1269.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Ondrew"
+		dynasty = "Kenning"
+		birth_date = 1217.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Lester"
+		monarch_name = "Lester"
+		dynasty = "Kenning"
+		birth_date = 1273.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Walton"
+		dynasty = "Kenning"
+		birth_date = 1258.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Berena"
+		monarch_name = "Berena"
+		dynasty = "Kenning"
+		female = yes
+		birth_date = 1283.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1349.1.1 = {
+
+	monarch = {
+		name = "Mathis"
+		dynasty = "Kenning"
+		birth_date = 1303.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Delena"
+		monarch_name = "Delena"
+		dynasty = "Kenning"
+		female = yes
+		birth_date = 1347.1.1
+		death_date = 1438.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Morros"
+		dynasty = "Kenning"
+		birth_date = 1342.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Bass"
+		monarch_name = "Bass"
+		dynasty = "Kenning"
+		birth_date = 1371.1.1
+		death_date = 1434.1.1
+		claim = 59
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+

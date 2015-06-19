@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = qho
+religion = asoiaf_summer_gods
+
+capital = 491
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Karomo"
+		birth_date = 920.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Karomo"
+		birth_date = 996.1.1
+		death_date = 1086.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Brandon"
+		dynasty = "Karomo"
+		birth_date = 989.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Carellen"
+		monarch_name = "Carellen"
+		dynasty = "Karomo"
+		female = yes
+		birth_date = 987.1.1
+		death_date = 1056.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1037.1.1 = {
+
+	monarch = {
+		name = "Gormon"
+		dynasty = "Karomo"
+		birth_date = 1012.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Ketter"
+		monarch_name = "Ketter"
+		dynasty = "Karomo"
+		birth_date = 1027.1.1
+		death_date = 1108.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Uthor"
+		dynasty = "Karomo"
+		birth_date = 1052.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Rhogoro"
+		monarch_name = "Rhogoro"
+		dynasty = "Karomo"
+		birth_date = 1070.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1110.1.1 = {
+	monarch = {
+		name = "Margot"
+		dynasty = "Karomo"
+		female = yes
+		birth_date = 1094.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Garlan"
+		monarch_name = "Garlan"
+		dynasty = "Karomo"
+		birth_date = 1102.1.1
+		death_date = 1151.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Karomo"
+		birth_date = 1132.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Harmund"
+		monarch_name = "Harmund"
+		dynasty = "Karomo"
+		birth_date = 1131.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Bonifer"
+		dynasty = "Karomo"
+		birth_date = 1191.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Willum"
+		monarch_name = "Willum"
+		dynasty = "Karomo"
+		birth_date = 1206.1.1
+		death_date = 1286.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Blane"
+		dynasty = "Karomo"
+		birth_date = 1287.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Karomo"
+		birth_date = 1287.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Ned"
+		dynasty = "Karomo"
+		birth_date = 1286.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lyn"
+		monarch_name = "Lyn"
+		dynasty = "Karomo"
+		birth_date = 1312.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Cadwyn"
+		dynasty = "Karomo"
+		birth_date = 1306.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Davos"
+		monarch_name = "Davos"
+		dynasty = "Karomo"
+		birth_date = 1381.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+

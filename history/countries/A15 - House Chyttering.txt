@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 203
+
+1000.1.1 = {
+	monarch = {
+		name = "Perra"
+		dynasty = "Chyttering"
+		female = yes
+		birth_date = 916.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Ottomore"
+		monarch_name = "Ottomore"
+		dynasty = "Chyttering"
+		birth_date = 995.1.1
+		death_date = 1041.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1023.1.1 = {
+
+	monarch = {
+		name = "Harle"
+		dynasty = "Chyttering"
+		birth_date = 999.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Dake"
+		monarch_name = "Dake"
+		dynasty = "Chyttering"
+		birth_date = 1012.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Kyle"
+		dynasty = "Chyttering"
+		birth_date = 1038.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Melisandre"
+		monarch_name = "Melisandre"
+		dynasty = "Chyttering"
+		female = yes
+		birth_date = 1068.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Lucan"
+		dynasty = "Chyttering"
+		birth_date = 1129.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Gowan"
+		monarch_name = "Gowan"
+		dynasty = "Chyttering"
+		birth_date = 1165.1.1
+		death_date = 1198.1.1
+		claim = 20
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1253.1.1 = {
+
+	monarch = {
+		name = "Danos"
+		dynasty = "Chyttering"
+		birth_date = 1169.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Lucos"
+		monarch_name = "Lucos"
+		dynasty = "Chyttering"
+		birth_date = 1253.1.1
+		death_date = 1314.1.1
+		claim = 64
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Goodwin"
+		dynasty = "Chyttering"
+		birth_date = 1253.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Quenten"
+		monarch_name = "Quenten"
+		dynasty = "Chyttering"
+		birth_date = 1297.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Miklaz"
+		dynasty = "Chyttering"
+		birth_date = 1267.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Varys"
+		monarch_name = "Varys"
+		dynasty = "Chyttering"
+		birth_date = 1330.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Edderion"
+		dynasty = "Chyttering"
+		birth_date = 1352.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Deziel"
+		monarch_name = "Deziel"
+		dynasty = "Chyttering"
+		birth_date = 1395.1.1
+		death_date = 1467.1.1
+		claim = 62
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+

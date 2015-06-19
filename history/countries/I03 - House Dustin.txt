@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 46
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Dustin"
+		birth_date = 970.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Hobb"
+		monarch_name = "Hobb"
+		dynasty = "Dustin"
+		birth_date = 972.1.1
+		death_date = 1034.1.1
+		claim = 10
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Edwyle"
+		dynasty = "Dustin"
+		birth_date = 959.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Donnor"
+		monarch_name = "Donnor"
+		dynasty = "Dustin"
+		birth_date = 1025.1.1
+		death_date = 1112.1.1
+		claim = 38
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1039.1.1 = {
+	monarch = {
+		name = "Eleyna"
+		dynasty = "Dustin"
+		female = yes
+		birth_date = 992.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lenyl"
+		monarch_name = "Lenyl"
+		dynasty = "Dustin"
+		birth_date = 1016.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Ocley"
+		dynasty = "Dustin"
+		birth_date = 1033.1.1
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucimore"
+		monarch_name = "Lucimore"
+		dynasty = "Dustin"
+		birth_date = 1057.1.1
+		death_date = 1104.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1110.1.1 = {
+
+	monarch = {
+		name = "Wyman"
+		dynasty = "Dustin"
+		birth_date = 1081.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Alyx"
+		monarch_name = "Alyx"
+		dynasty = "Dustin"
+		birth_date = 1089.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Cellador"
+		dynasty = "Dustin"
+		birth_date = 1042.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Brusco"
+		monarch_name = "Brusco"
+		dynasty = "Dustin"
+		birth_date = 1132.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1142.1.1 = {
+
+	monarch = {
+		name = "Jared"
+		dynasty = "Dustin"
+		birth_date = 1090.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Chella"
+		monarch_name = "Chella"
+		dynasty = "Dustin"
+		birth_date = 1138.1.1
+		death_date = 1167.1.1
+		claim = 46
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Weese"
+		dynasty = "Dustin"
+		birth_date = 1119.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Rugen"
+		monarch_name = "Rugen"
+		dynasty = "Dustin"
+		birth_date = 1132.1.1
+		death_date = 1186.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Kedry"
+		dynasty = "Dustin"
+		birth_date = 1128.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Tumberjon"
+		monarch_name = "Tumberjon"
+		dynasty = "Dustin"
+		birth_date = 1176.1.1
+		death_date = 1221.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Ardrian"
+		dynasty = "Dustin"
+		birth_date = 1131.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Koss"
+		monarch_name = "Koss"
+		dynasty = "Dustin"
+		birth_date = 1203.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Andrik"
+		dynasty = "Dustin"
+		birth_date = 1201.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Rodrik"
+		monarch_name = "Rodrik"
+		dynasty = "Dustin"
+		birth_date = 1232.1.1
+		death_date = 1273.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Marlon"
+		dynasty = "Dustin"
+		birth_date = 1202.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Sherrit"
+		monarch_name = "Sherrit"
+		dynasty = "Dustin"
+		birth_date = 1269.1.1
+		death_date = 1294.1.1
+		claim = 58
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Dustin"
+		birth_date = 1338.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Dykk"
+		monarch_name = "Dykk"
+		dynasty = "Dustin"
+		birth_date = 1335.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+

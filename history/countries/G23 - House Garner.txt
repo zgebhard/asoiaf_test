@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 179
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Maric"
+		dynasty = "Garner"
+		birth_date = 932.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Garner"
+		birth_date = 976.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Devyn"
+		dynasty = "Garner"
+		birth_date = 937.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "Garner"
+		birth_date = 990.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Lewys"
+		dynasty = "Garner"
+		birth_date = 974.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Aerys"
+		monarch_name = "Aerys"
+		dynasty = "Garner"
+		birth_date = 1026.1.1
+		death_date = 1103.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1040.1.1 = {
+
+	monarch = {
+		name = "Zekko"
+		dynasty = "Garner"
+		birth_date = 1004.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Gerold"
+		monarch_name = "Gerold"
+		dynasty = "Garner"
+		birth_date = 1027.1.1
+		death_date = 1105.1.1
+		claim = 55
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1113.1.1 = {
+
+	monarch = {
+		name = "Ryam"
+		dynasty = "Garner"
+		birth_date = 1077.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Rolland"
+		monarch_name = "Rolland"
+		dynasty = "Garner"
+		birth_date = 1084.1.1
+		death_date = 1192.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Benjen"
+		dynasty = "Garner"
+		birth_date = 1161.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Merrett"
+		monarch_name = "Merrett"
+		dynasty = "Garner"
+		birth_date = 1171.1.1
+		death_date = 1204.1.1
+		claim = 6
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1231.1.1 = {
+
+	monarch = {
+		name = "Tomard"
+		dynasty = "Garner"
+		birth_date = 1175.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Loren"
+		monarch_name = "Loren"
+		dynasty = "Garner"
+		birth_date = 1211.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Richard"
+		dynasty = "Garner"
+		birth_date = 1259.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Marwyn"
+		monarch_name = "Marwyn"
+		dynasty = "Garner"
+		birth_date = 1248.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Rolly"
+		dynasty = "Garner"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rowan"
+		monarch_name = "Rowan"
+		dynasty = "Garner"
+		birth_date = 1266.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Denys"
+		dynasty = "Garner"
+		birth_date = 1275.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Jayde"
+		monarch_name = "Jayde"
+		dynasty = "Garner"
+		birth_date = 1301.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+

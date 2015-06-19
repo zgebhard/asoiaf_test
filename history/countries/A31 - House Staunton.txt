@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 214
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cerrick"
+		dynasty = "Staunton"
+		birth_date = 926.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Kella"
+		monarch_name = "Kella"
+		dynasty = "Staunton"
+		birth_date = 993.1.1
+		death_date = 1066.1.1
+		claim = 92
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Hullen"
+		dynasty = "Staunton"
+		birth_date = 1008.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Symon"
+		monarch_name = "Symon"
+		dynasty = "Staunton"
+		birth_date = 1066.1.1
+		death_date = 1104.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1128.1.1 = {
+
+	monarch = {
+		name = "Igon"
+		dynasty = "Staunton"
+		birth_date = 1059.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Raymund"
+		monarch_name = "Raymund"
+		dynasty = "Staunton"
+		birth_date = 1113.1.1
+		death_date = 1182.1.1
+		claim = 56
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Harlan"
+		dynasty = "Staunton"
+		birth_date = 1096.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Narbo"
+		monarch_name = "Narbo"
+		dynasty = "Staunton"
+		birth_date = 1152.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1176.1.1 = {
+	monarch = {
+		name = "Melwyn"
+		dynasty = "Staunton"
+		female = yes
+		birth_date = 1140.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Qotho"
+		monarch_name = "Qotho"
+		dynasty = "Staunton"
+		birth_date = 1176.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Maegor"
+		dynasty = "Staunton"
+		birth_date = 1162.1.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Jon"
+		monarch_name = "Jon"
+		dynasty = "Staunton"
+		birth_date = 1206.1.1
+		death_date = 1295.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Sandor"
+		dynasty = "Staunton"
+		birth_date = 1276.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Mero"
+		monarch_name = "Mero"
+		dynasty = "Staunton"
+		birth_date = 1294.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1353.1.1 = {
+
+	monarch = {
+		name = "Benfrey"
+		dynasty = "Staunton"
+		birth_date = 1263.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Meryn"
+		monarch_name = "Meryn"
+		dynasty = "Staunton"
+		birth_date = 1347.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1375.1.1 = {
+
+	monarch = {
+		name = "Dalbridge"
+		dynasty = "Staunton"
+		birth_date = 1340.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Narbo"
+		monarch_name = "Narbo"
+		dynasty = "Staunton"
+		birth_date = 1349.1.1
+		death_date = 1439.1.1
+		claim = 19
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+

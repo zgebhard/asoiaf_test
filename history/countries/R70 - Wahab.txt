@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 776
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Titus"
+		dynasty = "Wahab"
+		birth_date = 928.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Wahab"
+		birth_date = 983.1.1
+		death_date = 1016.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1007.1.1 = {
+
+	monarch = {
+		name = "Morgil"
+		dynasty = "Wahab"
+		birth_date = 943.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Zollo"
+		monarch_name = "Zollo"
+		dynasty = "Wahab"
+		birth_date = 1000.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Vyman"
+		dynasty = "Wahab"
+		birth_date = 934.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Alliser"
+		monarch_name = "Alliser"
+		dynasty = "Wahab"
+		birth_date = 1001.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Medwick"
+		dynasty = "Wahab"
+		birth_date = 1016.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Wahab"
+		birth_date = 1073.1.1
+		death_date = 1171.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1126.1.1 = {
+
+	monarch = {
+		name = "Colin"
+		dynasty = "Wahab"
+		birth_date = 1073.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Tobho"
+		monarch_name = "Tobho"
+		dynasty = "Wahab"
+		birth_date = 1122.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Harbert"
+		dynasty = "Wahab"
+		birth_date = 1151.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Harlen"
+		monarch_name = "Harlen"
+		dynasty = "Wahab"
+		birth_date = 1187.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Matthar"
+		dynasty = "Wahab"
+		birth_date = 1163.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Larence"
+		monarch_name = "Larence"
+		dynasty = "Wahab"
+		birth_date = 1196.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Halder"
+		dynasty = "Wahab"
+		birth_date = 1193.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Ben"
+		monarch_name = "Ben"
+		dynasty = "Wahab"
+		birth_date = 1242.1.1
+		death_date = 1325.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Imry"
+		dynasty = "Wahab"
+		birth_date = 1285.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Morgath"
+		monarch_name = "Morgath"
+		dynasty = "Wahab"
+		birth_date = 1318.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Beldecar"
+		dynasty = "Wahab"
+		birth_date = 1307.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Addam"
+		monarch_name = "Addam"
+		dynasty = "Wahab"
+		birth_date = 1336.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+

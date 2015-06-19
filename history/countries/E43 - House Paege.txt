@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 89
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Paege"
+		birth_date = 957.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Danwell"
+		monarch_name = "Danwell"
+		dynasty = "Paege"
+		birth_date = 984.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1045.1.1 = {
+
+	monarch = {
+		name = "Lewis"
+		dynasty = "Paege"
+		birth_date = 980.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Roger"
+		monarch_name = "Roger"
+		dynasty = "Paege"
+		birth_date = 1035.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Paege"
+		birth_date = 1067.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Paege"
+		birth_date = 1073.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Royce"
+		dynasty = "Paege"
+		birth_date = 1039.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Cleyton"
+		monarch_name = "Cleyton"
+		dynasty = "Paege"
+		birth_date = 1107.1.1
+		death_date = 1174.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Oznak"
+		dynasty = "Paege"
+		birth_date = 1126.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Gerald"
+		monarch_name = "Gerald"
+		dynasty = "Paege"
+		birth_date = 1149.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Notch"
+		dynasty = "Paege"
+		birth_date = 1127.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Galladon"
+		monarch_name = "Galladon"
+		dynasty = "Paege"
+		birth_date = 1162.1.1
+		death_date = 1226.1.1
+		claim = 50
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Jeor"
+		dynasty = "Paege"
+		birth_date = 1191.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Sawane"
+		monarch_name = "Sawane"
+		dynasty = "Paege"
+		birth_date = 1198.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Paege"
+		birth_date = 1241.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Endrew"
+		monarch_name = "Endrew"
+		dynasty = "Paege"
+		birth_date = 1248.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1280.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Paege"
+		birth_date = 1242.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Gydayn"
+		monarch_name = "Gydayn"
+		dynasty = "Paege"
+		birth_date = 1280.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Tytos"
+		dynasty = "Paege"
+		birth_date = 1252.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Arlan"
+		monarch_name = "Arlan"
+		dynasty = "Paege"
+		birth_date = 1263.1.1
+		death_date = 1314.1.1
+		claim = 94
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Paege"
+		birth_date = 1221.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Gerion"
+		monarch_name = "Gerion"
+		dynasty = "Paege"
+		birth_date = 1291.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Paege"
+		birth_date = 1346.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Camarron"
+		monarch_name = "Camarron"
+		dynasty = "Paege"
+		birth_date = 1390.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+

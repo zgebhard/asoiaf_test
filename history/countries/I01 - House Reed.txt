@@ -1,0 +1,21 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+historical_friend = A01
+
+capital = 71
+
+1000.1.1 = {
+	monarch = {
+		name = "Pate"
+		dynasty = "Reed"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

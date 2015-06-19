@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 276
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Elys"
+		dynasty = "Middlebury"
+		birth_date = 979.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Haggo"
+		monarch_name = "Haggo"
+		dynasty = "Middlebury"
+		birth_date = 996.1.1
+		death_date = 1022.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Middlebury"
+		birth_date = 1015.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Gevin"
+		monarch_name = "Gevin"
+		dynasty = "Middlebury"
+		birth_date = 1037.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Dacks"
+		dynasty = "Middlebury"
+		birth_date = 1002.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Cerrick"
+		monarch_name = "Cerrick"
+		dynasty = "Middlebury"
+		birth_date = 1024.1.1
+		death_date = 1132.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Middlebury"
+		birth_date = 1050.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Tristimun"
+		monarch_name = "Tristimun"
+		dynasty = "Middlebury"
+		birth_date = 1058.1.1
+		death_date = 1110.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Theomor"
+		dynasty = "Middlebury"
+		birth_date = 1088.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Harwin"
+		monarch_name = "Harwin"
+		dynasty = "Middlebury"
+		birth_date = 1102.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Ottomore"
+		dynasty = "Middlebury"
+		birth_date = 1147.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Willam"
+		monarch_name = "Willam"
+		dynasty = "Middlebury"
+		birth_date = 1164.1.1
+		death_date = 1230.1.1
+		claim = 11
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Quent"
+		dynasty = "Middlebury"
+		birth_date = 1145.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Gavin"
+		monarch_name = "Gavin"
+		dynasty = "Middlebury"
+		birth_date = 1169.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Bessa"
+		dynasty = "Middlebury"
+		female = yes
+		birth_date = 1129.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Draqaz"
+		monarch_name = "Draqaz"
+		dynasty = "Middlebury"
+		birth_date = 1180.1.1
+		death_date = 1284.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Wallace"
+		dynasty = "Middlebury"
+		birth_date = 1201.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Tyrion"
+		monarch_name = "Tyrion"
+		dynasty = "Middlebury"
+		birth_date = 1218.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Hugh"
+		dynasty = "Middlebury"
+		birth_date = 1234.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Joseth"
+		monarch_name = "Joseth"
+		dynasty = "Middlebury"
+		birth_date = 1266.1.1
+		death_date = 1381.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Jate"
+		dynasty = "Middlebury"
+		birth_date = 1292.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Renly"
+		monarch_name = "Renly"
+		dynasty = "Middlebury"
+		birth_date = 1330.1.1
+		death_date = 1378.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+

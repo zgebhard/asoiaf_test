@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 259
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Meadows"
+		birth_date = 956.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Addison"
+		monarch_name = "Addison"
+		dynasty = "Meadows"
+		birth_date = 970.1.1
+		death_date = 1024.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Dermot"
+		dynasty = "Meadows"
+		birth_date = 975.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Bhakaz"
+		monarch_name = "Bhakaz"
+		dynasty = "Meadows"
+		birth_date = 1044.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Meadows"
+		birth_date = 1031.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Ocley"
+		monarch_name = "Ocley"
+		dynasty = "Meadows"
+		birth_date = 1057.1.1
+		death_date = 1169.1.1
+		claim = 64
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "William"
+		dynasty = "Meadows"
+		birth_date = 1136.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Argilac"
+		monarch_name = "Argilac"
+		dynasty = "Meadows"
+		birth_date = 1164.1.1
+		death_date = 1246.1.1
+		claim = 2
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Meadows"
+		birth_date = 1168.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Cetheres"
+		monarch_name = "Cetheres"
+		dynasty = "Meadows"
+		birth_date = 1234.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Todder"
+		dynasty = "Meadows"
+		birth_date = 1199.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Elwood"
+		monarch_name = "Elwood"
+		dynasty = "Meadows"
+		birth_date = 1262.1.1
+		death_date = 1352.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Amolf"
+		dynasty = "Meadows"
+		birth_date = 1216.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Meadows"
+		birth_date = 1261.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Sawane"
+		dynasty = "Meadows"
+		birth_date = 1272.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Meadows"
+		birth_date = 1325.1.1
+		death_date = 1399.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Harma"
+		dynasty = "Meadows"
+		birth_date = 1263.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Meadows"
+		birth_date = 1345.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+

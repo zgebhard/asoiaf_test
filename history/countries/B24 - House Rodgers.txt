@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 293
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mawney"
+		dynasty = "Rodgers"
+		birth_date = 946.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Tybero"
+		monarch_name = "Tybero"
+		dynasty = "Rodgers"
+		birth_date = 985.1.1
+		death_date = 1022.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1040.1.1 = {
+
+	monarch = {
+		name = "Enger"
+		dynasty = "Rodgers"
+		birth_date = 1016.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Ben"
+		monarch_name = "Ben"
+		dynasty = "Rodgers"
+		birth_date = 1030.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Delp"
+		dynasty = "Rodgers"
+		birth_date = 1012.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Narbert"
+		monarch_name = "Narbert"
+		dynasty = "Rodgers"
+		birth_date = 1064.1.1
+		death_date = 1131.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Rodgers"
+		birth_date = 1055.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Merrit"
+		monarch_name = "Merrit"
+		dynasty = "Rodgers"
+		birth_date = 1112.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Visenya"
+		dynasty = "Rodgers"
+		birth_date = 1062.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Argilac"
+		monarch_name = "Argilac"
+		dynasty = "Rodgers"
+		birth_date = 1142.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Larraq"
+		dynasty = "Rodgers"
+		birth_date = 1137.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Briar"
+		monarch_name = "Briar"
+		dynasty = "Rodgers"
+		birth_date = 1145.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Rennifer"
+		dynasty = "Rodgers"
+		birth_date = 1122.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Ronald"
+		monarch_name = "Ronald"
+		dynasty = "Rodgers"
+		birth_date = 1185.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1218.1.1 = {
+
+	monarch = {
+		name = "Galladon"
+		dynasty = "Rodgers"
+		birth_date = 1150.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Halys"
+		monarch_name = "Halys"
+		dynasty = "Rodgers"
+		birth_date = 1212.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1280.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Rodgers"
+		birth_date = 1258.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Sigfry"
+		monarch_name = "Sigfry"
+		dynasty = "Rodgers"
+		birth_date = 1276.1.1
+		death_date = 1301.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Timett"
+		dynasty = "Rodgers"
+		birth_date = 1234.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Werlag"
+		monarch_name = "Werlag"
+		dynasty = "Rodgers"
+		birth_date = 1306.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1349.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Rodgers"
+		birth_date = 1329.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Rodgers"
+		birth_date = 1322.1.1
+		death_date = 1432.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1382.1.1 = {
+
+	monarch = {
+		name = "Quaro"
+		dynasty = "Rodgers"
+		birth_date = 1319.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Garrett"
+		monarch_name = "Garrett"
+		dynasty = "Rodgers"
+		birth_date = 1352.1.1
+		death_date = 1472.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_the_old_gods
+
+capital = 59
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jonnel"
+		dynasty = "Wells"
+		birth_date = 968.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Lucias"
+		monarch_name = "Lucias"
+		dynasty = "Wells"
+		birth_date = 986.1.1
+		death_date = 1067.1.1
+		claim = 94
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Harraq"
+		dynasty = "Wells"
+		birth_date = 1028.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Wells"
+		birth_date = 1058.1.1
+		death_date = 1151.1.1
+		claim = 50
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Wells"
+		birth_date = 1095.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Blane"
+		monarch_name = "Blane"
+		dynasty = "Wells"
+		birth_date = 1147.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Raymund"
+		dynasty = "Wells"
+		birth_date = 1110.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Wells"
+		birth_date = 1173.1.1
+		death_date = 1277.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1244.1.1 = {
+
+	monarch = {
+		name = "Weese"
+		dynasty = "Wells"
+		birth_date = 1197.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Merlon"
+		monarch_name = "Merlon"
+		dynasty = "Wells"
+		birth_date = 1214.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1334.1.1 = {
+
+	monarch = {
+		name = "Quort"
+		dynasty = "Wells"
+		birth_date = 1303.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Wells"
+		birth_date = 1309.1.1
+		death_date = 1403.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+

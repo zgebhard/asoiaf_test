@@ -1,0 +1,176 @@
+namespace = DAENERYS_EVENTS
+
+# The Long Journey Ahead...
+# Daenerys has been sold to Khal Drogo by her brother Viserys, and is accompanying them throughout the long journey to Vaes Dothrak.
+# Dire circumstances...
+country_event = {
+	id = DAENERYS_EVENTS.1
+	title = DAENERYS_EVENTS.1.title
+	desc = DAENERYS_EVENTS.1.desc
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		tag = S23
+		always = no
+	}
+	
+	option = {
+		name = DAENERYS_EVENTS.1.option.a
+		
+		# Prevent Daenerys from dying
+		set_country_flag = daenerys_death_check
+		set_country_flag = daenerys_stage_1
+	}
+}
+
+# Viserys's Foil
+# Viserys has grown tired of the savage lifestyle of the Dothraki, and in his haste threatens the life of Daenerys' newborn, demanding that Khal Drogo needs to deliver his crown immediately. Drogo, offended by Viserys blatant disregard for the ancient taboos of the Dothraki, cunningly sidesteps the prohibition against spilling blood in the sacred city by announcing that Viserys will have the crown of gold he deserves, then upends a pot of molten gold over his head, killing him. 
+# Truly a king of all men...
+country_event = {
+	id = DAENERYS_EVENTS.2
+	title = DAENERYS_EVENTS.2.title
+	desc = DAENERYS_EVENTS.2.desc
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		tag = S23
+		had_country_flag = {
+			flag = daenerys_stage_1
+			days = 365
+		}
+		capital_scope = {
+			region = region_dothraki_sea
+		}
+	}
+	
+	option = {
+		name = DAENERYS_EVENTS.2.option.a
+		
+		add_adm_power = 50
+		add_dip_power = 50
+		add_mil_power = 50
+		set_country_flag = daenerys_stage_2
+	}
+}
+
+# Drogo's Love
+# 
+country_event = {
+	id = DAENERYS_EVENTS.3
+	title = DAENERYS_EVENTS.3.title
+	desc = DAENERYS_EVENTS.3.desc
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		tag = S23
+		had_country_flag = {
+			flag = daenerys_stage_2
+			days = 365
+		}
+		any_neighbor_country = {  
+			government = khas
+		}
+	}
+	
+	option = {
+		name = DAENERYS_EVENTS.3.option.a
+		
+		add_legitimacy = -5
+		add_dip_power = 25
+		
+		hidden_effect = {
+			country_event = { id = DAENERYS_EVENTS.4 random = 90 }
+		}
+	}
+}
+
+# Drogo's Downfall
+# 
+country_event = {
+	id = DAENERYS_EVENTS.4
+	title = DAENERYS_EVENTS.4.title
+	desc = DAENERYS_EVENTS.4.desc
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		tag = S23
+		had_country_flag = {
+			flag = daenerys_stage_2
+			days = 365
+		}
+		any_neighbor_country = {  
+			government = khas
+		}
+	}
+	
+	option = {
+		name = DAENERYS_EVENTS.4.option.a
+		
+		add_legitimacy = -50
+		add_prestige = -200
+		
+		country_event = { id = DAENERYS_EVENTS.5 days = 1 }
+	}
+}
+
+# The Birth of Dragons
+#
+country_event = {
+	id = DAENERYS_EVENTS.5
+	title = DAENERYS_EVENTS.5.title
+	desc = DAENERYS_EVENTS.5.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = DAENERYS_EVENTS.5.option.a
+		
+		set_country_flag = drogon
+		set_country_flag = rhaegal
+		set_country_flag = viserion
+		set_country_flag = daenerys_stage_3
+	}
+}
+
+# The City of Qarth
+#
+country_event = {
+	id = DAENERYS_EVENTS.6
+	title = DAENERYS_EVENTS.6.title
+	desc = DAENERYS_EVENTS.6.desc
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		tag = S23
+		had_country_flag = {
+			flag = daenerys_stage_3
+			days = 90
+		}
+		any_neighbor_country = {  
+			government = ancient_city
+		}
+	}
+	
+	option = {
+		name = DAENERYS_EVENTS.6.option.a
+		
+		country_event = { id = DAENERYS_EVENTS.7 }
+	}
+}
+
+# The House of the Undying
+country_event = {
+	id = DAENERYS_EVENTS.7
+	title = DAENERYS_EVENTS.7.title
+	desc = DAENERYS_EVENTS.7.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = DAENERYS_EVENTS.7.option.a
+		
+		country_event = { id = DAENERYS_EVENTS.7 }
+	}
+}

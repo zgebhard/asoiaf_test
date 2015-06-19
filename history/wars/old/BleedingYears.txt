@@ -1,0 +1,30 @@
+name = "Breaking the Volantene Hegemony"
+
+war_goal = {
+	type = humiliate
+	casus_belli = cb_conquest
+}
+
+1000.1.1 = {
+	add_attacker = A10
+	add_attacker = U25
+	add_attacker = U12
+	add_attacker = U01
+	add_attacker = X06
+	add_attacker = X01
+	add_attacker = B37
+	
+	add_defender = U87
+}
+
+1001.1.1 = {
+	rem_attacker = A10
+	rem_attacker = U25
+	rem_attacker = U12
+	rem_attacker = U01
+	rem_attacker = X06
+	rem_attacker = X01
+	rem_attacker = B37
+	
+	rem_defender = U87
+}

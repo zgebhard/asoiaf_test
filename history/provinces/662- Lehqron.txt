@@ -1,0 +1,45 @@
+# 662- Lehqron
+
+owner = R41
+add_core = R41
+add_core = R42
+controller = R41
+
+culture = qartheen
+religion = asoiaf_mixed_worship
+
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Lehqron"
+
+1000.2.1 = {
+	remove_core = R41
+	owner = R42
+	controller = R42
+}
+
+1000.2.2 = {
+	owner = R41
+	add_core = R41
+	controller = R41
+}

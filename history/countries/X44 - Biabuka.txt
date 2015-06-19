@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = biabuka
+religion = asoiaf_summer_gods
+
+capital = 531
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sloey"
+		dynasty = "Biabuka"
+		birth_date = 971.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Darlessa"
+		monarch_name = "Darlessa"
+		dynasty = "Biabuka"
+		female = yes
+		birth_date = 973.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Biabuka"
+		birth_date = 1033.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Biabuka"
+		birth_date = 1069.1.1
+		death_date = 1100.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Ollo"
+		dynasty = "Biabuka"
+		birth_date = 1099.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Orland"
+		monarch_name = "Orland"
+		dynasty = "Biabuka"
+		birth_date = 1103.1.1
+		death_date = 1207.1.1
+		claim = 41
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1188.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Biabuka"
+		birth_date = 1153.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Gorne"
+		monarch_name = "Gorne"
+		dynasty = "Biabuka"
+		birth_date = 1185.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Beqqo"
+		dynasty = "Biabuka"
+		birth_date = 1224.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Eldon"
+		monarch_name = "Eldon"
+		dynasty = "Biabuka"
+		birth_date = 1232.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Othor"
+		dynasty = "Biabuka"
+		birth_date = 1266.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Sam"
+		monarch_name = "Sam"
+		dynasty = "Biabuka"
+		birth_date = 1302.1.1
+		death_date = 1386.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1361.1.1 = {
+
+	monarch = {
+		name = "Quincy"
+		dynasty = "Biabuka"
+		birth_date = 1277.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jammos"
+		monarch_name = "Jammos"
+		dynasty = "Biabuka"
+		birth_date = 1361.1.1
+		death_date = 1398.1.1
+		claim = 50
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Azzak"
+		dynasty = "Biabuka"
+		birth_date = 1349.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Fern"
+		monarch_name = "Fern"
+		dynasty = "Biabuka"
+		birth_date = 1377.1.1
+		death_date = 1458.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+

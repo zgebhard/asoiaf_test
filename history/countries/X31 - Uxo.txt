@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = luxho
+religion = asoiaf_summer_gods
+
+capital = 512
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harwood"
+		dynasty = "Uxo"
+		birth_date = 911.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Uxo"
+		birth_date = 989.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Harlan"
+		dynasty = "Uxo"
+		birth_date = 1026.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk"
+		dynasty = "Uxo"
+		birth_date = 1067.1.1
+		death_date = 1104.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1160.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Uxo"
+		birth_date = 1114.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Ryles"
+		monarch_name = "Ryles"
+		dynasty = "Uxo"
+		birth_date = 1132.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Puddingfoot"
+		dynasty = "Uxo"
+		birth_date = 1139.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Barsena"
+		monarch_name = "Barsena"
+		dynasty = "Uxo"
+		birth_date = 1174.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Roland"
+		dynasty = "Uxo"
+		birth_date = 1201.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Jhiqui"
+		monarch_name = "Jhiqui"
+		dynasty = "Uxo"
+		birth_date = 1235.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1313.1.1 = {
+
+	monarch = {
+		name = "Aegor"
+		dynasty = "Uxo"
+		birth_date = 1224.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Uxo"
+		birth_date = 1298.1.1
+		death_date = 1340.1.1
+		claim = 1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Alfyn"
+		dynasty = "Uxo"
+		birth_date = 1307.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Romny"
+		monarch_name = "Romny"
+		dynasty = "Uxo"
+		birth_date = 1353.1.1
+		death_date = 1453.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+

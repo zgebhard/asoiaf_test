@@ -1,0 +1,45 @@
+# 608- No Man's Land
+
+owner = R19
+add_core = R19
+add_core = R21
+controller = R19
+
+culture = meereen
+religion = asoiaf_graces
+
+base_tax = 3
+base_production = 3
+trade_goods = slaves
+base_manpower =  3
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "No Man's Land"
+
+1000.2.1 = {
+	remove_core = R19
+	owner = R21
+	controller = R21
+}
+
+1000.2.2 = {
+	owner = R19
+	add_core = R19
+	controller = R19
+}

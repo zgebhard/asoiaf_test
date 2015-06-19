@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Horton"
+		dynasty = "Darke"
+		birth_date = 913.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Orell"
+		monarch_name = "Orell"
+		dynasty = "Darke"
+		birth_date = 999.1.1
+		death_date = 1085.1.1
+		claim = 69
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1025.1.1 = {
+
+	monarch = {
+		name = "Dunsen"
+		dynasty = "Darke"
+		birth_date = 962.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Danos"
+		monarch_name = "Danos"
+		dynasty = "Darke"
+		birth_date = 1011.1.1
+		death_date = 1113.1.1
+		claim = 67
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1034.1.1 = {
+
+	monarch = {
+		name = "Amabel"
+		dynasty = "Darke"
+		birth_date = 990.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Maekar"
+		monarch_name = "Maekar"
+		dynasty = "Darke"
+		birth_date = 1017.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Vickon"
+		dynasty = "Darke"
+		birth_date = 997.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Darke"
+		birth_date = 1068.1.1
+		death_date = 1140.1.1
+		claim = 30
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Del"
+		dynasty = "Darke"
+		birth_date = 1139.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Marei"
+		monarch_name = "Marei"
+		dynasty = "Darke"
+		birth_date = 1152.1.1
+		death_date = 1189.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Darke"
+		birth_date = 1127.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Clayton"
+		monarch_name = "Clayton"
+		dynasty = "Darke"
+		birth_date = 1168.1.1
+		death_date = 1222.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1227.1.1 = {
+
+	monarch = {
+		name = "Theodore"
+		dynasty = "Darke"
+		birth_date = 1195.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Aglantine"
+		monarch_name = "Aglantine"
+		dynasty = "Darke"
+		birth_date = 1201.1.1
+		death_date = 1269.1.1
+		claim = 56
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Tyrion"
+		dynasty = "Darke"
+		birth_date = 1200.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Castos"
+		monarch_name = "Castos"
+		dynasty = "Darke"
+		birth_date = 1251.1.1
+		death_date = 1347.1.1
+		claim = 12
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1306.1.1 = {
+
+	monarch = {
+		name = "Harmond"
+		dynasty = "Darke"
+		birth_date = 1256.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Deziel"
+		monarch_name = "Deziel"
+		dynasty = "Darke"
+		birth_date = 1277.1.1
+		death_date = 1321.1.1
+		claim = 98
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Darke"
+		birth_date = 1361.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Borroq"
+		monarch_name = "Borroq"
+		dynasty = "Darke"
+		birth_date = 1365.1.1
+		death_date = 1406.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+

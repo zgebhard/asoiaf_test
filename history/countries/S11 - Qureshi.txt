@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = kayakayanaya
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 680
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tristimun"
+		dynasty = "Qureshi"
+		birth_date = 953.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Kurz"
+		monarch_name = "Kurz"
+		dynasty = "Qureshi"
+		birth_date = 982.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Aladale"
+		dynasty = "Qureshi"
+		birth_date = 944.1.1
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Qureshi"
+		birth_date = 991.1.1
+		death_date = 1062.1.1
+		claim = 60
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Courtenay"
+		dynasty = "Qureshi"
+		birth_date = 1010.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Hibald"
+		monarch_name = "Hibald"
+		dynasty = "Qureshi"
+		birth_date = 1030.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Saathos"
+		dynasty = "Qureshi"
+		birth_date = 1021.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Jared"
+		monarch_name = "Jared"
+		dynasty = "Qureshi"
+		birth_date = 1092.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Qureshi"
+		birth_date = 1039.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Munciter"
+		monarch_name = "Munciter"
+		dynasty = "Qureshi"
+		female = yes
+		birth_date = 1098.1.1
+		death_date = 1136.1.1
+		claim = 86
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1145.1.1 = {
+
+	monarch = {
+		name = "Lorcas"
+		dynasty = "Qureshi"
+		birth_date = 1088.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Ferny"
+		monarch_name = "Ferny"
+		dynasty = "Qureshi"
+		birth_date = 1126.1.1
+		death_date = 1204.1.1
+		claim = 58
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Qureshi"
+		birth_date = 1099.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Qureshi"
+		birth_date = 1158.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Hibald"
+		dynasty = "Qureshi"
+		birth_date = 1198.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Marwyn"
+		monarch_name = "Marwyn"
+		dynasty = "Qureshi"
+		birth_date = 1229.1.1
+		death_date = 1282.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Bryce"
+		dynasty = "Qureshi"
+		birth_date = 1285.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Larra"
+		monarch_name = "Larra"
+		dynasty = "Qureshi"
+		birth_date = 1314.1.1
+		death_date = 1355.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Balon"
+		dynasty = "Qureshi"
+		birth_date = 1299.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Qureshi"
+		birth_date = 1310.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 127
+
+1000.1.1 = {
+	monarch = {
+		name = "Kyra"
+		dynasty = "Wydman"
+		female = yes
+		birth_date = 917.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Dagon"
+		monarch_name = "Dagon"
+		dynasty = "Wydman"
+		birth_date = 977.1.1
+		death_date = 1071.1.1
+		claim = 37
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1072.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Wydman"
+		birth_date = 1013.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Lyanna"
+		monarch_name = "Lyanna"
+		dynasty = "Wydman"
+		female = yes
+		birth_date = 1065.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Edderion"
+		dynasty = "Wydman"
+		birth_date = 1099.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Halys"
+		monarch_name = "Halys"
+		dynasty = "Wydman"
+		birth_date = 1099.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Jyzene"
+		dynasty = "Wydman"
+		birth_date = 1092.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Albar"
+		monarch_name = "Albar"
+		dynasty = "Wydman"
+		birth_date = 1120.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1159.1.1 = {
+
+	monarch = {
+		name = "Samwell"
+		dynasty = "Wydman"
+		birth_date = 1125.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Dobber"
+		monarch_name = "Dobber"
+		dynasty = "Wydman"
+		birth_date = 1154.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Othell"
+		dynasty = "Wydman"
+		birth_date = 1210.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Wydman"
+		birth_date = 1223.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Quentin"
+		dynasty = "Wydman"
+		birth_date = 1218.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Tristimun"
+		monarch_name = "Tristimun"
+		dynasty = "Wydman"
+		birth_date = 1287.1.1
+		death_date = 1357.1.1
+		claim = 32
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Arwyn"
+		dynasty = "Wydman"
+		female = yes
+		birth_date = 1344.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Torwold"
+		monarch_name = "Torwold"
+		dynasty = "Wydman"
+		birth_date = 1357.1.1
+		death_date = 1431.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+

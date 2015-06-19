@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+historical_friend = A06
+
+capital = 194
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Payne"
+		birth_date = 970.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Payne"
+		birth_date = 975.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Payne"
+		birth_date = 1005.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Ollidor"
+		monarch_name = "Ollidor"
+		dynasty = "Payne"
+		birth_date = 1056.1.1
+		death_date = 1127.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Areo"
+		dynasty = "Payne"
+		birth_date = 1095.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Symond"
+		monarch_name = "Symond"
+		dynasty = "Payne"
+		birth_date = 1118.1.1
+		death_date = 1180.1.1
+		claim = 35
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Yorkel"
+		dynasty = "Payne"
+		birth_date = 1064.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Luton"
+		monarch_name = "Luton"
+		dynasty = "Payne"
+		birth_date = 1141.1.1
+		death_date = 1225.1.1
+		claim = 76
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Elyas"
+		dynasty = "Payne"
+		birth_date = 1129.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Melwyn"
+		monarch_name = "Melwyn"
+		dynasty = "Payne"
+		female = yes
+		birth_date = 1156.1.1
+		death_date = 1239.1.1
+		claim = 16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1177.1.1 = {
+
+	monarch = {
+		name = "Cuger"
+		dynasty = "Payne"
+		birth_date = 1135.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Payne"
+		birth_date = 1163.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Gavin"
+		dynasty = "Payne"
+		birth_date = 1217.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Oberyn"
+		monarch_name = "Oberyn"
+		dynasty = "Payne"
+		birth_date = 1245.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Payne"
+		birth_date = 1248.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Todric"
+		monarch_name = "Todric"
+		dynasty = "Payne"
+		birth_date = 1312.1.1
+		death_date = 1347.1.1
+		claim = 69
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Qos"
+		dynasty = "Payne"
+		birth_date = 1348.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Tom"
+		monarch_name = "Tom"
+		dynasty = "Payne"
+		birth_date = 1377.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,26 @@
+name = "War of the Usurpur"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1281.1.1 = {
+	add_attacker = A07
+	add_attacker = A01
+	add_attacker = A03
+	add_attacker = A04
+	add_defender = A10
+	add_defender = F20
+	add_defender = A09
+}
+
+1289.1.1 = {
+	rem_attacker = A07
+	rem_attacker = A01
+	rem_attacker = A03
+	rem_attacker = A04
+	rem_defender = A10
+	rem_defender = F20
+	rem_defender = A09
+}

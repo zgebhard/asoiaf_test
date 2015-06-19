@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 56
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Yohn"
+		dynasty = "Overton"
+		birth_date = 916.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Hallis"
+		monarch_name = "Hallis"
+		dynasty = "Overton"
+		birth_date = 991.1.1
+		death_date = 1045.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Mord"
+		dynasty = "Overton"
+		birth_date = 960.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Beron"
+		monarch_name = "Beron"
+		dynasty = "Overton"
+		birth_date = 1025.1.1
+		death_date = 1103.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1122.1.1 = {
+
+	monarch = {
+		name = "Watt"
+		dynasty = "Overton"
+		birth_date = 1093.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonothor"
+		monarch_name = "Jonothor"
+		dynasty = "Overton"
+		birth_date = 1107.1.1
+		death_date = 1165.1.1
+		claim = 71
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Antario"
+		dynasty = "Overton"
+		birth_date = 1143.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Todric"
+		monarch_name = "Todric"
+		dynasty = "Overton"
+		birth_date = 1170.1.1
+		death_date = 1238.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Azzak"
+		dynasty = "Overton"
+		birth_date = 1141.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Robert"
+		monarch_name = "Robert"
+		dynasty = "Overton"
+		birth_date = 1194.1.1
+		death_date = 1253.1.1
+		claim = 20
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Ethan"
+		dynasty = "Overton"
+		birth_date = 1213.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Zachery"
+		monarch_name = "Zachery"
+		dynasty = "Overton"
+		birth_date = 1220.1.1
+		death_date = 1276.1.1
+		claim = 21
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Bannen"
+		dynasty = "Overton"
+		birth_date = 1243.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Gariss"
+		monarch_name = "Gariss"
+		dynasty = "Overton"
+		birth_date = 1279.1.1
+		death_date = 1362.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Titus"
+		dynasty = "Overton"
+		birth_date = 1309.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Pollitor"
+		monarch_name = "Pollitor"
+		dynasty = "Overton"
+		birth_date = 1325.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+

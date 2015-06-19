@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 79
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Erren"
+		dynasty = "Mallister"
+		birth_date = 975.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Fogo"
+		monarch_name = "Fogo"
+		dynasty = "Mallister"
+		birth_date = 974.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Bryce"
+		dynasty = "Mallister"
+		birth_date = 1016.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Beric"
+		monarch_name = "Beric"
+		dynasty = "Mallister"
+		birth_date = 1025.1.1
+		death_date = 1053.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Andrik"
+		dynasty = "Mallister"
+		birth_date = 1102.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Mallister"
+		birth_date = 1111.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Gydayn"
+		dynasty = "Mallister"
+		birth_date = 1082.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Khrazz"
+		monarch_name = "Khrazz"
+		dynasty = "Mallister"
+		birth_date = 1155.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Mallister"
+		birth_date = 1146.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Mallister"
+		birth_date = 1196.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Harry"
+		dynasty = "Mallister"
+		birth_date = 1169.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Mallister"
+		birth_date = 1207.1.1
+		death_date = 1320.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Lomys"
+		dynasty = "Mallister"
+		birth_date = 1208.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Loren"
+		monarch_name = "Loren"
+		dynasty = "Mallister"
+		birth_date = 1231.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Mallister"
+		birth_date = 1246.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Eddard"
+		monarch_name = "Eddard"
+		dynasty = "Mallister"
+		birth_date = 1284.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1331.1.1 = {
+
+	monarch = {
+		name = "Howd"
+		dynasty = "Mallister"
+		birth_date = 1257.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Willis"
+		monarch_name = "Willis"
+		dynasty = "Mallister"
+		birth_date = 1305.1.1
+		death_date = 1418.1.1
+		claim = 53
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Myles"
+		dynasty = "Mallister"
+		birth_date = 1314.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Jayde"
+		monarch_name = "Jayde"
+		dynasty = "Mallister"
+		birth_date = 1335.1.1
+		death_date = 1428.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+

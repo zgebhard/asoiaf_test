@@ -1,0 +1,51 @@
+# 37 - Blackgrove
+
+owner = A01
+add_core = A01
+controller = A01
+add_core = I32
+
+is_city = yes
+hre = no
+
+religion = asoiaf_the_old_gods
+culture = men_of_the_north
+
+base_tax = 3
+base_production = 3
+base_manpower =  1
+
+trade_goods = ironwood
+
+capital = "Blackgrove"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = A01
+	owner = I32
+	controller = I32
+}
+
+1000.2.2 = {
+	owner = A01
+	add_core = A01
+	controller = A01
+}
+
+1005.1.1 = {
+	hre =  yes
+}

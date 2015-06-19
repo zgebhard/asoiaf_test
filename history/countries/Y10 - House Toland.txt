@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 347
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qos"
+		dynasty = "Toland"
+		birth_date = 966.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Ulmer"
+		monarch_name = "Ulmer"
+		dynasty = "Toland"
+		birth_date = 972.1.1
+		death_date = 1037.1.1
+		claim = 51
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Rossart"
+		dynasty = "Toland"
+		birth_date = 946.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Warren"
+		monarch_name = "Warren"
+		dynasty = "Toland"
+		birth_date = 1007.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1066.1.1 = {
+
+	monarch = {
+		name = "Turquin"
+		dynasty = "Toland"
+		birth_date = 1036.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Cafferen"
+		monarch_name = "Cafferen"
+		dynasty = "Toland"
+		birth_date = 1046.1.1
+		death_date = 1152.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Ashford"
+		dynasty = "Toland"
+		birth_date = 1013.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Rafford"
+		monarch_name = "Rafford"
+		dynasty = "Toland"
+		birth_date = 1052.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Willifer"
+		dynasty = "Toland"
+		birth_date = 1095.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Quellon"
+		monarch_name = "Quellon"
+		dynasty = "Toland"
+		birth_date = 1118.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Toland"
+		birth_date = 1069.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Harlon"
+		monarch_name = "Harlon"
+		dynasty = "Toland"
+		birth_date = 1129.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Oswyn"
+		dynasty = "Toland"
+		birth_date = 1153.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Enger"
+		monarch_name = "Enger"
+		dynasty = "Toland"
+		birth_date = 1149.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Del"
+		dynasty = "Toland"
+		birth_date = 1160.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Toland"
+		birth_date = 1180.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Sansa"
+		dynasty = "Toland"
+		female = yes
+		birth_date = 1133.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Preston"
+		monarch_name = "Preston"
+		dynasty = "Toland"
+		birth_date = 1198.1.1
+		death_date = 1287.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Toland"
+		birth_date = 1214.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Jaehaerys"
+		monarch_name = "Jaehaerys"
+		dynasty = "Toland"
+		birth_date = 1266.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Titus"
+		dynasty = "Toland"
+		birth_date = 1237.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Theodore"
+		monarch_name = "Theodore"
+		dynasty = "Toland"
+		birth_date = 1311.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Bael"
+		dynasty = "Toland"
+		birth_date = 1311.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Galt"
+		monarch_name = "Galt"
+		dynasty = "Toland"
+		birth_date = 1335.1.1
+		death_date = 1365.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Wynton"
+		dynasty = "Toland"
+		birth_date = 1328.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Toland"
+		birth_date = 1370.1.1
+		death_date = 1455.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+

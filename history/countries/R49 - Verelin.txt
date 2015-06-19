@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 667
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Duncan"
+		dynasty = "Verelin"
+		birth_date = 963.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Rickon"
+		monarch_name = "Rickon"
+		dynasty = "Verelin"
+		birth_date = 997.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Harghaz"
+		dynasty = "Verelin"
+		birth_date = 1046.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Harsley"
+		monarch_name = "Harsley"
+		dynasty = "Verelin"
+		birth_date = 1076.1.1
+		death_date = 1132.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Nute"
+		dynasty = "Verelin"
+		birth_date = 999.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Steffarion"
+		monarch_name = "Steffarion"
+		dynasty = "Verelin"
+		birth_date = 1063.1.1
+		death_date = 1105.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Ragwyle"
+		dynasty = "Verelin"
+		birth_date = 1072.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Ryam"
+		monarch_name = "Ryam"
+		dynasty = "Verelin"
+		birth_date = 1138.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Larys"
+		dynasty = "Verelin"
+		birth_date = 1155.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Garigus"
+		monarch_name = "Garigus"
+		dynasty = "Verelin"
+		birth_date = 1171.1.1
+		death_date = 1222.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Verelin"
+		birth_date = 1207.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Kyle"
+		monarch_name = "Kyle"
+		dynasty = "Verelin"
+		birth_date = 1266.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Verelin"
+		birth_date = 1216.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Rennifer"
+		monarch_name = "Rennifer"
+		dynasty = "Verelin"
+		birth_date = 1278.1.1
+		death_date = 1341.1.1
+		claim = 16
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Belgrave"
+		dynasty = "Verelin"
+		birth_date = 1289.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Kennos"
+		monarch_name = "Kennos"
+		dynasty = "Verelin"
+		birth_date = 1309.1.1
+		death_date = 1369.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Poul"
+		dynasty = "Verelin"
+		birth_date = 1312.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Raynald"
+		monarch_name = "Raynald"
+		dynasty = "Verelin"
+		birth_date = 1334.1.1
+		death_date = 1363.1.1
+		claim = 67
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,10 @@
+# Country unit colors.
+
+# Dorne
+
+# Martell
+A09 = {
+    color1= { 204 152 55 }
+    color2= { 135 50 24 }
+    color3= { 217 214 56 }
+}

@@ -1,0 +1,665 @@
+religious_unrest = {
+	local_unrest = 5
+}
+
+raider = {
+	relations_decay_of_me = -0.33
+}
+
+raided_province = {
+	local_production_efficiency = -0.1
+	local_tax_modifier = -0.1
+	trade_goods_size = -0.1
+}
+
+the_wall = {
+	local_hostile_attrition = 4
+	local_movement_speed = 0.5
+	local_unrest = -10
+	local_spy_defence = 0.5
+	supply_limit = 1.0
+	local_defensiveness = 1.0
+}
+
+looted_by_dothraki = {
+	local_tax_modifier = -0.5
+}
+
+permits_slavery = {
+	global_manpower_modifier = 1
+}
+
+enforcing_slavery = {
+	relations_decay_of_me = -1
+}
+
+greenseer_ideas = {
+	idea_cost = -0.1
+}
+
+greenseer_hate = {
+	local_unrest = 4
+}	
+
+begging_brother_1 = {
+	local_missionary_strength = 0.01
+	local_unrest = -1
+}
+
+begging_brother_2 = {
+	local_missionary_strength = 0.02
+	local_unrest = -2
+}
+
+begging_brother_3 = {
+	local_missionary_strength = -0.02
+	local_unrest = 1
+}
+
+religious_sway = {
+	local_unrest = 1
+}
+
+religious_turmoil_asoiaf = {
+	global_unrest = 1
+}
+
+targaryen_vigor = {
+	land_forcelimit = 30
+	discipline = 0.05
+	land_morale = 0.1
+}
+
+citadel_buff = {
+	technology_cost = -0.05
+}
+
+volantis_reelected = {
+	global_unrest = 1
+}
+
+core_traits = {
+}
+
+education_sabotage_mod = {
+	global_unrest = -1
+	spy_offence = 0.25
+	global_spy_defence = 0.25
+}
+
+education_diplomacy_mod = {
+	ae_impact = -0.1
+	diplomatic_upkeep = 1
+	fabricate_claims_time = -0.25
+}
+
+education_stewardship_mod = {
+	technology_cost = -0.05
+	build_cost = -0.15
+	advisor_cost = -0.15
+}
+
+education_leadership_mod = {
+	discipline = 0.1
+	prestige_from_land = 0.25
+	free_leader_pool = 1
+}
+
+education_theology_mod = {
+	global_heretic_missionary_strength = 0.02
+	missionaries = 1
+	religious_unity = 0.1
+}
+
+employing_the_golden_company = {
+	possible_mercenaries = 1.0
+	discipline = 0.1
+	land_forcelimit = 10
+}
+
+has_a_faceless_man = {
+
+}
+
+employing_the_brave_companions = {
+	possible_mercenaries = 0.5
+	discipline = -0.01
+	land_forcelimit = 8
+}
+
+employing_the_second_sons = {
+	possible_mercenaries = 0.50
+	land_morale = 0.1
+	land_forcelimit = 8
+}
+
+employing_the_stormcrows = {
+	possible_mercenaries = 0.50
+	infantry_power = 0.1
+	land_forcelimit = 8
+}
+
+employing_the_windblown = {
+	possible_mercenaries = 0.50
+	cavalry_power = 0.15
+	land_forcelimit = 8
+}
+
+religious_target = {
+	global_missionary_strength = -0.01
+}
+
+given_colonist = {
+	colonists = 1
+}
+
+adventurer_employed = {
+	
+}
+
+expedition_to_essos = {
+	diplomatic_upkeep = -1
+	stability_cost_modifier = 0.15
+	global_tax_modifier = -0.10
+}
+
+miniature_warship = {
+	naval_morale = 0.05
+}
+
+absent_diplomat = {
+	diplomats = -1
+}
+
+dishonored_gods  = {
+	tolerance_own = -1
+}
+
+honored_gods = {
+	tolerance_own = 1
+}
+
+dothraki_capital = {
+	supply_limit = 5
+	local_manpower = 1
+	tax_income = 10
+}
+
+bloody_flux_quar = {
+	local_manpower_modifier = -1
+	local_tax_modifier = -1
+}
+
+bloody_flux_not_quar = {
+	local_manpower_modifier = -0.5
+	local_tax_modifier = -0.5
+}
+
+merchant_travelling = {
+	merchants = -1
+}
+
+more_freedoms = {
+	local_manpower_modifier = -0.5
+	local_tax_modifier = -0.5
+}
+
+discontented_people = {
+	local_manpower_modifier = -1
+	local_tax_modifier = -1
+}
+
+base_modifier = {
+	global_manpower_modifier = -1
+	global_tax_modifier = -1
+}
+
+interaction_sent = {
+
+}
+
+iron_bank_looted = {
+	trade_goods_size = -1
+	local_tax_modifier = -1
+	local_production_efficiency = -1
+}
+
+inherited_by_lord = {
+	local_unrest = 1
+}
+
+disorganised_men = {
+	discipline = -0.05
+}
+
+toy_soldier = {
+	army_tradition = 1
+}
+
+essosian_book = {
+	idea_cost = -0.05
+}
+
+ruler_maimed = {
+	legitimacy = -0.5
+}
+
+ruler_enlightened = {
+	technology_cost = -0.05
+}
+
+ruler_mad = {
+	legitimacy = -2
+	prestige = -5
+}
+
+ruler_education_adm_1 = {
+	development_cost = -0.33
+}
+
+ruler_education_adm_2 = {
+	production_efficiency = 0.1
+}
+
+ruler_education_adm_3 = {
+	advisor_cost = -0.1
+}
+
+ruler_education_dip_1 = {
+	ae_impact = -0.05
+}
+
+ruler_education_dip_2 = {
+	diplomatic_reputation = 2
+}
+
+ruler_education_dip_3 = {
+	province_warscore_cost = -0.1
+}
+
+ruler_education_mil_1 = {
+	army_tradition = 1
+}
+
+ruler_education_mil_2 = {
+	land_maintenance_modifier = -0.1
+}
+
+ruler_education_mil_3 = {
+	naval_morale = 0.2
+}
+
+had_peasant_war = {
+	legitimacy = 1
+}
+
+booming_trade_1 = {
+	build_cost = -0.25
+}
+
+booming_trade_2 = {
+	global_trade_income_modifier = 0.1
+}
+
+faltering_trade = {
+	global_trade_power = -0.1
+	global_trade_income_modifier = -0.25
+}
+
+recently_raided = {
+	diplomatic_reputation = -1
+}
+
+act_of_lovemaking = {
+	heir_chance = 1.0
+}
+
+constructing_swan_ships = {
+	ship_durability = 0.1
+	galley_power = 0.1
+}
+
+exported_goldenwood_bows = {
+	trade_efficiency = 0.05
+	trade_range_modifier = 0.25
+	trade_steering = 0.1
+}
+
+fortified_pass = {
+	local_hostile_attrition = 4
+	local_defensiveness = 0.5
+}
+
+cultivating_sand_steeds = {
+	cavalry_power = 0.1
+}
+
+trade_links_with_essos = {
+	trade_range_modifier = 0.1
+	global_foreign_trade_power = 0.1
+}
+
+abundant_timber = {
+	global_ship_cost = -0.1
+	global_ship_recruit_speed = -0.25
+}
+
+garrisoned_peasants = {
+	global_unrest = -1
+}
+
+garrisoned_fort = {
+	local_hostile_attrition = 1
+	local_defensiveness = 0.25
+	garrison_growth = 0.25
+}
+
+# Personal Reflection
+
+# ADM
+# +
+ruler_trusting = {
+	advisor_pool = 1
+}
+
+ruler_amorous = {
+	heir_chance = 0.5
+}
+
+ruler_organised = {
+	global_tax_modifier = 0.1
+}
+
+# -
+ruler_paranoid = {
+	advisor_cost = 0.1
+}
+
+ruler_chaste = {
+	heir_chance = -0.5
+}
+
+ruler_chaotic = {
+	global_tax_modifier = -0.1
+}
+
+# DIP
+# +
+ruler_attentive = {
+	diplomatic_reputation = 1
+}
+
+ruler_story_teller = {
+	improve_relation_modifier = 0.1
+}
+
+ruler_trade_oriented = {
+	trade_efficiency = 0.05
+}
+
+# -
+ruler_ignorant = {
+	global_unrest = 1
+}
+
+ruler_distrusted = {
+	diplomatic_reputation = -1
+}
+
+ruler_naive = {
+	improve_relation_modifier = -0.1
+}
+
+# MIL
+# +
+ruler_daring = {
+	leader_land_shock = 1
+}
+
+ruler_authorative = {
+	global_manpower_modifier = 0.1
+}
+
+ruler_keen = {
+	manpower_recovery_speed = 0.05
+}
+
+# - 
+ruler_cowardly = {
+	hostile_attrition = -1
+}
+
+ruler_sheepish = {
+	global_manpower_modifier = -0.1
+}
+
+ruler_dismissive = {
+	army_tradition_decay = 0.01
+}
+
+repaired_roads = {
+	local_movement_speed = 0.25
+}
+
+alchemists_fire = {
+	siege_ability = 0.1
+}
+
+attempted_assassination = {
+	diplomatic_reputation = -5
+}
+
+targaryen_fury = {
+	land_morale = 0.3
+	discipline = 0.1
+	land_forcelimit = 60
+	naval_forcelimit = 60
+	province_warscore_cost = -0.5
+	land_maintenance_modifier = -0.9
+	naval_maintenance_modifier = -0.9
+	global_manpower_modifier = 1.0
+}
+
+appeal_to_the_smith = {
+	global_trade_goods_size = 0.25
+}
+
+rapid_conversion = {
+	global_missionary_strength = 0.1
+}
+
+rapid_culture_conversion = {
+	culture_conversion_cost = -0.9
+}
+
+first_night_allowed = {
+	heir_chance = 1.0
+	global_unrest = 1
+}
+
+taken_slaves = {
+	global_unrest = 1
+}
+
+commissioned_runestone = {
+	missionaries = 1
+}
+
+held_tiger_hunt = {
+}
+
+called_for_aid = {
+}
+
+recruited_slaves = {
+	global_unrest = 1
+}
+
+built_pleasure_houses = {
+	global_tax_modifier = 0.25
+	legitimacy = -0.5
+	republican_tradition = -0.01
+}
+
+paid_off = {
+	local_unrest = -10
+}
+
+angry_loyalists = {
+	local_unrest = 10
+}
+
+crackclaw_submission = {
+	diplomatic_upkeep = 4
+	diplomatic_reputation = 3
+}
+
+westerosi_ties = {
+	ae_impact = 0.1
+}
+
+aegons_fury = {
+	province_warscore_cost = -0.25
+}
+
+power_of_the_dragon = {
+	ae_impact = 0.05
+}
+
+bannermen_resentment = {
+	local_unrest = 1
+}
+
+trade_empire = {
+	global_trade_power = 0.15
+}
+
+guarded_realm = {
+	defensiveness = 0.25
+}
+
+bastion_of_knowledge = {
+	idea_cost = -0.1
+}
+
+slaves_punished = {
+	local_unrest = 1
+}
+
+prov_heathens = {
+	local_manpower_modifier = -0.4
+	local_unrest = 2
+	local_tax_modifier = -0.33
+	local_autonomy = 0.05
+}
+
+added_unrest = {
+	local_unrest = 2
+}
+
+reduced_unrest = {
+	local_unrest = -1
+}
+
+even_more_unrest = {
+	local_unrest = 1
+}
+
+# Faction Timers
+monarchy_faction_timer = { picture = "legitimacy" }
+republic_faction_timer = { picture = "legitimacy" }
+qarth_faction_timer = { picture = "legitimacy" }
+tribal_faction_timer = { picture = "legitimacy" }
+khas_faction_timer = { picture = "legitimacy" }
+nw_faction_timer = { picture = "legitimacy" }
+pirate_faction_timer = { picture = "legitimacy" }
+
+# Slavery Decisions
+slaves_as_fodder = {
+	manpower_recovery_speed = 0.25
+	global_regiment_recruit_speed = -0.5
+	
+	diplomatic_reputation = -1
+	ae_impact = 0.1
+}
+
+slaves_as_builders = {
+	build_cost = -0.25
+	development_cost = -0.5
+	
+	diplomatic_reputation = -1
+}
+
+slaves_as_farmers = {
+	production_efficiency = 0.2
+	global_trade_goods_size = 0.2
+	
+	diplomatic_reputation = -1
+}
+
+slaves_as_bait = {
+	hostile_attrition = 5
+	infantry_power = 0.1
+	
+	ae_impact = 0.25
+	diplomatic_reputation = -1
+	land_morale = -0.05
+}
+
+# Religion Conversion Decisions
+
+promoted_sept_attendance = {
+	global_missionary_strength = 0.02
+	global_unrest = 1
+}
+
+promoted_weirwood_attendance = {
+	global_missionary_strength = 0.02
+	global_unrest = 1
+}
+
+promoted_drowning = {
+	global_missionary_strength = 0.02
+	global_unrest = 1
+}
+
+promoted_the_great_stallion = {
+	global_missionary_strength = 0.02
+	global_unrest = 1
+}
+
+promoted_temple_attendance = {
+	global_missionary_strength = 0.02
+	global_unrest = 1
+}
+
+# Formable Bonuses
+unification_bonus = {
+	global_manpower_modifier = 0.1
+	global_tax_modifier = 0.1
+	prestige = 1
+	global_autonomy = -0.1
+}
+
+war_of_conquest = {
+	discipline = 0.1
+	land_morale = 0.5
+	naval_morale = 0.5
+	siege_ability = 1
+	
+	global_manpower = 10
+	
+	naval_forcelimit = 30
+	land_forcelimit = 20
+	land_maintenance_modifier = -0.75
+	naval_maintenance_modifier = -0.75
+}
+
+ruler_withdrawn = {
+	diplomatic_reputation = -1
+}
+
+held_a_feast = {
+	diplomatic_reputation = 2
+}
+

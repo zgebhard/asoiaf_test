@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 295
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Langward"
+		birth_date = 929.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Manfrey"
+		monarch_name = "Manfrey"
+		dynasty = "Langward"
+		birth_date = 998.1.1
+		death_date = 1041.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Lum"
+		dynasty = "Langward"
+		birth_date = 982.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Blane"
+		monarch_name = "Blane"
+		dynasty = "Langward"
+		birth_date = 985.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Langward"
+		birth_date = 1050.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Langward"
+		birth_date = 1049.1.1
+		death_date = 1164.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Lenwood"
+		dynasty = "Langward"
+		birth_date = 1104.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Ottyn"
+		monarch_name = "Ottyn"
+		dynasty = "Langward"
+		birth_date = 1135.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Whalen"
+		dynasty = "Langward"
+		birth_date = 1186.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Harmond"
+		monarch_name = "Harmond"
+		dynasty = "Langward"
+		birth_date = 1183.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1293.1.1 = {
+	monarch = {
+		name = "Mully"
+		dynasty = "Langward"
+		female = yes
+		birth_date = 1272.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Brenett"
+		monarch_name = "Brenett"
+		dynasty = "Langward"
+		female = yes
+		birth_date = 1291.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Pollitor"
+		dynasty = "Langward"
+		birth_date = 1310.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Allar"
+		monarch_name = "Allar"
+		dynasty = "Langward"
+		birth_date = 1359.1.1
+		death_date = 1383.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,140 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 221
+
+1000.1.1 = {
+	monarch = {
+		name = "Aegon I"
+		dynasty = "Targaryen"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 978.1.1
+	}
+	
+	leader = {	
+		name = "Aegon I"
+        type = general
+		rank = 3
+		fire = 5
+		shock = 5
+		manuever = 5
+		siege = 5
+		death_date = 1005.1.1
+	} 
+	
+	leader = {	
+		name = "Orys Baratheon"
+        type = general
+		rank = 3
+		fire = 4
+		shock = 4
+		manuever = 3
+		siege = 3
+		death_date = 1005.1.1
+	} 
+	
+	heir = {
+		name = "Visenya"
+		monarch_name = "Visenya"
+		dynasty = "Targaryen"
+		birth_date = 980.1.1
+		death_date = 1041.1.1
+		claim = 100
+		dip = 5
+		mil = 5
+		adm = 6
+	}
+}
+
+1005.1.1 = {
+	government_rank = 1
+government = royal_house
+	capital = 226
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Maegor"
+		dynasty = "Targaryen"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1002.1.1
+	}
+	
+	
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Aegon II"
+		dynasty = "Targaryen"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1107.1.1
+	}
+}
+
+# The Conquest of Dorne
+1157.1.1 = {
+	monarch = {
+		name = "Daeron"
+		dynasty = "Targaryen"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1140.1.1
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Aerys"
+		dynasty = "Targaryen"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 1172.1.1
+	}
+}
+
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Jaehaerys II"
+		dynasty = "Targaryen"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1224.1.1
+	}
+}
+
+# Robert's Rebellion
+1281.1.1 = {
+	monarch = {
+		name = "Aerys II"
+		dynasty = "Targaryen"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1242.1.1
+	}
+}
+
+1289.1.1 = {
+	government_rank = 1
+government = great_house
+}

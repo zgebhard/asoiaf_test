@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 359
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Gallow"
+		birth_date = 935.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Merrell"
+		monarch_name = "Merrell"
+		dynasty = "Gallow"
+		birth_date = 972.1.1
+		death_date = 1068.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Gallow"
+		birth_date = 950.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jonella"
+		monarch_name = "Jonella"
+		dynasty = "Gallow"
+		female = yes
+		birth_date = 1012.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1052.1.1 = {
+
+	monarch = {
+		name = "Xhondo"
+		dynasty = "Gallow"
+		birth_date = 990.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Harra"
+		monarch_name = "Harra"
+		dynasty = "Gallow"
+		birth_date = 1048.1.1
+		death_date = 1072.1.1
+		claim = 55
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Devyn"
+		dynasty = "Gallow"
+		birth_date = 1004.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Ossifer"
+		monarch_name = "Ossifer"
+		dynasty = "Gallow"
+		birth_date = 1037.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Qyburn"
+		dynasty = "Gallow"
+		birth_date = 1058.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Gallow"
+		birth_date = 1126.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1204.1.1 = {
+	monarch = {
+		name = "Mela"
+		dynasty = "Gallow"
+		female = yes
+		birth_date = 1175.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Woth"
+		monarch_name = "Woth"
+		dynasty = "Gallow"
+		birth_date = 1200.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Urrathon"
+		dynasty = "Gallow"
+		birth_date = 1140.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Morton"
+		monarch_name = "Morton"
+		dynasty = "Gallow"
+		birth_date = 1230.1.1
+		death_date = 1246.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Beron"
+		dynasty = "Gallow"
+		birth_date = 1157.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Gallow"
+		birth_date = 1210.1.1
+		death_date = 1325.1.1
+		claim = 80
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Sargon"
+		dynasty = "Gallow"
+		birth_date = 1270.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk"
+		dynasty = "Gallow"
+		birth_date = 1291.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1398.1.1 = {
+
+	monarch = {
+		name = "Umar"
+		dynasty = "Gallow"
+		birth_date = 1313.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Erren"
+		monarch_name = "Erren"
+		dynasty = "Gallow"
+		birth_date = 1371.1.1
+		death_date = 1455.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+

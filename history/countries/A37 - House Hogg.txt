@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harsley"
+		dynasty = "Hogg"
+		birth_date = 966.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Red"
+		monarch_name = "Red"
+		dynasty = "Hogg"
+		birth_date = 996.1.1
+		death_date = 1051.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Hogg"
+		birth_date = 1040.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Imry"
+		monarch_name = "Imry"
+		dynasty = "Hogg"
+		birth_date = 1066.1.1
+		death_date = 1177.1.1
+		claim = 12
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Merlon"
+		dynasty = "Hogg"
+		birth_date = 1065.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Orivel"
+		monarch_name = "Orivel"
+		dynasty = "Hogg"
+		birth_date = 1101.1.1
+		death_date = 1200.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Cheyk"
+		dynasty = "Hogg"
+		birth_date = 1170.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Ramsey"
+		monarch_name = "Ramsey"
+		dynasty = "Hogg"
+		birth_date = 1189.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1238.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Hogg"
+		birth_date = 1178.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Tristifer"
+		monarch_name = "Tristifer"
+		dynasty = "Hogg"
+		birth_date = 1231.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1249.1.1 = {
+
+	monarch = {
+		name = "Quellon"
+		dynasty = "Hogg"
+		birth_date = 1212.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Quill"
+		monarch_name = "Quill"
+		dynasty = "Hogg"
+		birth_date = 1220.1.1
+		death_date = 1317.1.1
+		claim = 14
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Hogg"
+		birth_date = 1255.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Salladhor"
+		monarch_name = "Salladhor"
+		dynasty = "Hogg"
+		birth_date = 1292.1.1
+		death_date = 1336.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Hogg"
+		birth_date = 1327.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Hogg"
+		birth_date = 1364.1.1
+		death_date = 1386.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1371.1.1 = {
+
+	monarch = {
+		name = "Wendello"
+		dynasty = "Hogg"
+		birth_date = 1348.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Hogg"
+		birth_date = 1367.1.1
+		death_date = 1426.1.1
+		claim = 62
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+

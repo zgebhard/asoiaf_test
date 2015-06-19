@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 190
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bhakaz"
+		dynasty = "Jast"
+		birth_date = 943.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Benfred"
+		monarch_name = "Benfred"
+		dynasty = "Jast"
+		birth_date = 979.1.1
+		death_date = 1018.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Pearse"
+		dynasty = "Jast"
+		birth_date = 1026.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Whalen"
+		monarch_name = "Whalen"
+		dynasty = "Jast"
+		birth_date = 1041.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Marillion"
+		dynasty = "Jast"
+		birth_date = 1051.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Garlan"
+		monarch_name = "Garlan"
+		dynasty = "Jast"
+		birth_date = 1091.1.1
+		death_date = 1151.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Gylbert"
+		dynasty = "Jast"
+		birth_date = 1081.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Kevan"
+		monarch_name = "Kevan"
+		dynasty = "Jast"
+		birth_date = 1124.1.1
+		death_date = 1212.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Barsena"
+		dynasty = "Jast"
+		birth_date = 1172.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Lum"
+		monarch_name = "Lum"
+		dynasty = "Jast"
+		birth_date = 1196.1.1
+		death_date = 1278.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Jhogo"
+		dynasty = "Jast"
+		birth_date = 1228.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Aladale"
+		monarch_name = "Aladale"
+		dynasty = "Jast"
+		birth_date = 1245.1.1
+		death_date = 1284.1.1
+		claim = 7
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1279.1.1 = {
+
+	monarch = {
+		name = "Ronnel"
+		dynasty = "Jast"
+		birth_date = 1237.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Greydon"
+		monarch_name = "Greydon"
+		dynasty = "Jast"
+		birth_date = 1259.1.1
+		death_date = 1360.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Belis"
+		dynasty = "Jast"
+		birth_date = 1239.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Halmon"
+		monarch_name = "Halmon"
+		dynasty = "Jast"
+		birth_date = 1277.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Wate"
+		dynasty = "Jast"
+		birth_date = 1289.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Loren"
+		monarch_name = "Loren"
+		dynasty = "Jast"
+		birth_date = 1310.1.1
+		death_date = 1385.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Monterys"
+		dynasty = "Jast"
+		birth_date = 1326.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Jothos"
+		monarch_name = "Jothos"
+		dynasty = "Jast"
+		birth_date = 1373.1.1
+		death_date = 1471.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+

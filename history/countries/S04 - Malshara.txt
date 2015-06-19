@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = trader_town
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 847
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Haggon"
+		dynasty = "Malshara"
+		birth_date = 978.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Rupert"
+		monarch_name = "Rupert"
+		dynasty = "Malshara"
+		birth_date = 993.1.1
+		death_date = 1079.1.1
+		claim = 0
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1073.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Malshara"
+		birth_date = 1046.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Malshara"
+		birth_date = 1072.1.1
+		death_date = 1151.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Steffarion"
+		dynasty = "Malshara"
+		birth_date = 1009.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Cetheres"
+		monarch_name = "Cetheres"
+		dynasty = "Malshara"
+		birth_date = 1069.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1127.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Malshara"
+		birth_date = 1060.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Mord"
+		monarch_name = "Mord"
+		dynasty = "Malshara"
+		birth_date = 1104.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Enderick"
+		dynasty = "Malshara"
+		birth_date = 1140.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Conwy"
+		monarch_name = "Conwy"
+		dynasty = "Malshara"
+		birth_date = 1179.1.1
+		death_date = 1256.1.1
+		claim = 35
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1235.1.1 = {
+
+	monarch = {
+		name = "Selmond"
+		dynasty = "Malshara"
+		birth_date = 1169.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Malshara"
+		birth_date = 1214.1.1
+		death_date = 1323.1.1
+		claim = 13
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1277.1.1 = {
+	monarch = {
+		name = "Myranda"
+		dynasty = "Malshara"
+		female = yes
+		birth_date = 1198.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Rolland"
+		monarch_name = "Rolland"
+		dynasty = "Malshara"
+		birth_date = 1263.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1367.1.1 = {
+
+	monarch = {
+		name = "Leobald"
+		dynasty = "Malshara"
+		birth_date = 1311.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Maddy"
+		monarch_name = "Maddy"
+		dynasty = "Malshara"
+		female = yes
+		birth_date = 1348.1.1
+		death_date = 1456.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+

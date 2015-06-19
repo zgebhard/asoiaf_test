@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 327
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Merrit"
+		dynasty = "Blackmont"
+		birth_date = 963.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Mikken"
+		monarch_name = "Mikken"
+		dynasty = "Blackmont"
+		birth_date = 983.1.1
+		death_date = 1049.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Gage"
+		dynasty = "Blackmont"
+		birth_date = 1059.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Sigfryd"
+		monarch_name = "Sigfryd"
+		dynasty = "Blackmont"
+		birth_date = 1056.1.1
+		death_date = 1152.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1116.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Blackmont"
+		birth_date = 1094.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Urek"
+		monarch_name = "Urek"
+		dynasty = "Blackmont"
+		birth_date = 1095.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Waymar"
+		dynasty = "Blackmont"
+		birth_date = 1099.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Luton"
+		monarch_name = "Luton"
+		dynasty = "Blackmont"
+		birth_date = 1124.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Blackmont"
+		birth_date = 1091.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Blackmont"
+		birth_date = 1124.1.1
+		death_date = 1212.1.1
+		claim = 25
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Mero"
+		dynasty = "Blackmont"
+		birth_date = 1142.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Benfrey"
+		monarch_name = "Benfrey"
+		dynasty = "Blackmont"
+		birth_date = 1187.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Blackmont"
+		birth_date = 1244.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Red"
+		monarch_name = "Red"
+		dynasty = "Blackmont"
+		birth_date = 1298.1.1
+		death_date = 1391.1.1
+		claim = 26
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1379.1.1 = {
+	monarch = {
+		name = "Jenny"
+		dynasty = "Blackmont"
+		female = yes
+		birth_date = 1314.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Farman"
+		monarch_name = "Farman"
+		dynasty = "Blackmont"
+		birth_date = 1355.1.1
+		death_date = 1411.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+

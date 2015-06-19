@@ -1,0 +1,64 @@
+# 222 - Bramsfort
+
+owner = F01
+controller = F01
+add_core = F01
+
+add_core = A14
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 5
+base_production = 5
+base_manpower =  5
+
+trade_goods = wine
+
+capital = "Bramsfort"
+
+1000.2.1 = {
+	remove_core = F01
+	owner = A14
+	controller = A14
+}
+
+1000.2.2 = {
+	owner = F01
+	add_core = F01
+	controller = F01
+}
+
+
+1005.1.1 = {
+    hre = yes
+	
+	controller = A10
+	add_core = A10
+	owner = A10
+}
+
+1289.1.1 = {
+	remove_core = A10
+	controller = A07
+	add_core = A07
+	owner = A07
+}

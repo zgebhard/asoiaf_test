@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 75
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Matt"
+		dynasty = "Charlton"
+		birth_date = 984.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Haggon"
+		monarch_name = "Haggon"
+		dynasty = "Charlton"
+		birth_date = 988.1.1
+		death_date = 1036.1.1
+		claim = 24
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1059.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Charlton"
+		birth_date = 1034.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Maron"
+		monarch_name = "Maron"
+		dynasty = "Charlton"
+		birth_date = 1044.1.1
+		death_date = 1082.1.1
+		claim = 7
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Hazrak"
+		dynasty = "Charlton"
+		birth_date = 1020.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Donnor"
+		monarch_name = "Donnor"
+		dynasty = "Charlton"
+		birth_date = 1086.1.1
+		death_date = 1152.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1178.1.1 = {
+
+	monarch = {
+		name = "Archibald"
+		dynasty = "Charlton"
+		birth_date = 1111.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Larys"
+		monarch_name = "Larys"
+		dynasty = "Charlton"
+		birth_date = 1174.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1258.1.1 = {
+
+	monarch = {
+		name = "Sam"
+		dynasty = "Charlton"
+		birth_date = 1212.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Charlton"
+		birth_date = 1237.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Vortimer"
+		dynasty = "Charlton"
+		birth_date = 1243.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Barristan"
+		monarch_name = "Barristan"
+		dynasty = "Charlton"
+		birth_date = 1281.1.1
+		death_date = 1372.1.1
+		claim = 67
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Petyr"
+		dynasty = "Charlton"
+		birth_date = 1305.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Myranda"
+		monarch_name = "Myranda"
+		dynasty = "Charlton"
+		female = yes
+		birth_date = 1378.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Justin"
+		dynasty = "Charlton"
+		birth_date = 1360.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Tagganaro"
+		monarch_name = "Tagganaro"
+		dynasty = "Charlton"
+		birth_date = 1380.1.1
+		death_date = 1458.1.1
+		claim = 62
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+

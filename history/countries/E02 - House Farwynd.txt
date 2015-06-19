@@ -1,0 +1,188 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 1
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qyle"
+		dynasty = "Farwynd"
+		birth_date = 934.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Tom"
+		monarch_name = "Tom"
+		dynasty = "Farwynd"
+		birth_date = 979.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Pudding"
+		dynasty = "Farwynd"
+		birth_date = 1018.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Daryn"
+		monarch_name = "Daryn"
+		dynasty = "Farwynd"
+		birth_date = 1045.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Aelinor"
+		dynasty = "Farwynd"
+		birth_date = 1109.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Ebrose"
+		monarch_name = "Ebrose"
+		dynasty = "Farwynd"
+		birth_date = 1130.1.1
+		death_date = 1184.1.1
+		claim = 64
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1242.1.1 = {
+
+	monarch = {
+		name = "Osmund"
+		dynasty = "Farwynd"
+		birth_date = 1174.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Garrison"
+		monarch_name = "Garrison"
+		dynasty = "Farwynd"
+		birth_date = 1230.1.1
+		death_date = 1268.1.1
+		claim = 53
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1313.1.1 = {
+
+	monarch = {
+		name = "Sigfryd"
+		dynasty = "Farwynd"
+		birth_date = 1291.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Farwynd"
+		birth_date = 1294.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Ilyrio"
+		dynasty = "Farwynd"
+		birth_date = 1288.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Leonette"
+		monarch_name = "Leonette"
+		dynasty = "Farwynd"
+		female = yes
+		birth_date = 1293.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Farwynd"
+		birth_date = 1343.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Lyn"
+		monarch_name = "Lyn"
+		dynasty = "Farwynd"
+		birth_date = 1343.1.1
+		death_date = 1389.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+

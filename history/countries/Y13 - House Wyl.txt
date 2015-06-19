@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 330
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Saathos"
+		dynasty = "Wyl"
+		birth_date = 925.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Frelegg"
+		monarch_name = "Frelegg"
+		dynasty = "Wyl"
+		birth_date = 983.1.1
+		death_date = 1024.1.1
+		claim = 22
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1054.1.1 = {
+	monarch = {
+		name = "Cassana"
+		dynasty = "Wyl"
+		female = yes
+		birth_date = 985.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Quort"
+		monarch_name = "Quort"
+		dynasty = "Wyl"
+		birth_date = 1047.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1134.1.1 = {
+
+	monarch = {
+		name = "Halmon"
+		dynasty = "Wyl"
+		birth_date = 1089.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Wyl"
+		birth_date = 1132.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Wyl"
+		birth_date = 1189.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund"
+		dynasty = "Wyl"
+		birth_date = 1194.1.1
+		death_date = 1293.1.1
+		claim = 62
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Ulrick"
+		dynasty = "Wyl"
+		birth_date = 1172.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Tybero"
+		monarch_name = "Tybero"
+		dynasty = "Wyl"
+		birth_date = 1227.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Rennifer"
+		dynasty = "Wyl"
+		birth_date = 1245.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Ilyn"
+		monarch_name = "Ilyn"
+		dynasty = "Wyl"
+		birth_date = 1299.1.1
+		death_date = 1334.1.1
+		claim = 19
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1375.1.1 = {
+
+	monarch = {
+		name = "Wyl"
+		dynasty = "Wyl"
+		birth_date = 1350.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Mikken"
+		monarch_name = "Mikken"
+		dynasty = "Wyl"
+		birth_date = 1365.1.1
+		death_date = 1455.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Wyl"
+		birth_date = 1321.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Cloen"
+		monarch_name = "Cloen"
+		dynasty = "Wyl"
+		birth_date = 1372.1.1
+		death_date = 1460.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 129
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Belmore"
+		birth_date = 985.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Belmore"
+		birth_date = 997.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Belmore"
+		birth_date = 1026.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Enger"
+		monarch_name = "Enger"
+		dynasty = "Belmore"
+		birth_date = 1022.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Elyas"
+		dynasty = "Belmore"
+		birth_date = 980.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Grisella"
+		monarch_name = "Grisella"
+		dynasty = "Belmore"
+		female = yes
+		birth_date = 1046.1.1
+		death_date = 1092.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1095.1.1 = {
+
+	monarch = {
+		name = "Sedgekins"
+		dynasty = "Belmore"
+		birth_date = 1072.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Tothmure"
+		monarch_name = "Tothmure"
+		dynasty = "Belmore"
+		birth_date = 1087.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Medwick"
+		dynasty = "Belmore"
+		birth_date = 1139.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Bonifer"
+		monarch_name = "Bonifer"
+		dynasty = "Belmore"
+		birth_date = 1136.1.1
+		death_date = 1209.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Aladale"
+		dynasty = "Belmore"
+		birth_date = 1142.1.1
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Belmore"
+		birth_date = 1179.1.1
+		death_date = 1276.1.1
+		claim = 35
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Cressen"
+		dynasty = "Belmore"
+		birth_date = 1189.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Alyn"
+		monarch_name = "Alyn"
+		dynasty = "Belmore"
+		birth_date = 1223.1.1
+		death_date = 1280.1.1
+		claim = 20
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Valarr"
+		dynasty = "Belmore"
+		birth_date = 1291.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Allar"
+		monarch_name = "Allar"
+		dynasty = "Belmore"
+		birth_date = 1303.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1338.1.1 = {
+
+	monarch = {
+		name = "Maynard"
+		dynasty = "Belmore"
+		birth_date = 1253.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Reysen"
+		monarch_name = "Reysen"
+		dynasty = "Belmore"
+		birth_date = 1332.1.1
+		death_date = 1360.1.1
+		claim = 2
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Belmore"
+		birth_date = 1302.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Umfred"
+		monarch_name = "Umfred"
+		dynasty = "Belmore"
+		birth_date = 1335.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Belmore"
+		birth_date = 1341.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Belmore"
+		birth_date = 1356.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+

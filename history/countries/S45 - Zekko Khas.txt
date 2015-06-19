@@ -1,0 +1,189 @@
+
+government_rank = 1
+government = khas
+mercantilism = 0.1
+
+technology_group = dothraki
+primary_culture = dothraki
+religion = asoiaf_the_great_stallion
+
+capital = 716
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Alebelly"
+		dynasty = "Zekko"
+		birth_date = 936.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Kemmett"
+		monarch_name = "Kemmett"
+		dynasty = "Zekko"
+		birth_date = 976.1.1
+		death_date = 1036.1.1
+		claim = 92
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Robb"
+		dynasty = "Zekko"
+		birth_date = 1003.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Geraradys"
+		monarch_name = "Geraradys"
+		dynasty = "Zekko"
+		birth_date = 1065.1.1
+		death_date = 1133.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Archibald"
+		dynasty = "Zekko"
+		birth_date = 1092.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Raymar"
+		monarch_name = "Raymar"
+		dynasty = "Zekko"
+		birth_date = 1129.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Zekko"
+		birth_date = 1141.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Delp"
+		monarch_name = "Delp"
+		dynasty = "Zekko"
+		birth_date = 1182.1.1
+		death_date = 1257.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Rafford"
+		dynasty = "Zekko"
+		birth_date = 1211.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Urreg"
+		monarch_name = "Urreg"
+		dynasty = "Zekko"
+		birth_date = 1269.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Dagon"
+		dynasty = "Zekko"
+		birth_date = 1293.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rymolf"
+		monarch_name = "Rymolf"
+		dynasty = "Zekko"
+		birth_date = 1337.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Zekko"
+		birth_date = 1372.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Yorko"
+		monarch_name = "Yorko"
+		dynasty = "Zekko"
+		birth_date = 1376.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+

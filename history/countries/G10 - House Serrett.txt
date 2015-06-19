@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 195
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Serrett"
+		birth_date = 917.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Gerrick"
+		monarch_name = "Gerrick"
+		dynasty = "Serrett"
+		birth_date = 985.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1001.1.1 = {
+
+	monarch = {
+		name = "Alfyn"
+		dynasty = "Serrett"
+		birth_date = 952.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Shyra"
+		monarch_name = "Shyra"
+		dynasty = "Serrett"
+		female = yes
+		birth_date = 991.1.1
+		death_date = 1018.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Rorge"
+		dynasty = "Serrett"
+		birth_date = 1009.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Ferny"
+		monarch_name = "Ferny"
+		dynasty = "Serrett"
+		birth_date = 1029.1.1
+		death_date = 1121.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1069.1.1 = {
+	monarch = {
+		name = "Nan"
+		dynasty = "Serrett"
+		female = yes
+		birth_date = 1032.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Garse"
+		monarch_name = "Garse"
+		dynasty = "Serrett"
+		birth_date = 1044.1.1
+		death_date = 1156.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Donnor"
+		dynasty = "Serrett"
+		birth_date = 1028.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Ocley"
+		monarch_name = "Ocley"
+		dynasty = "Serrett"
+		birth_date = 1106.1.1
+		death_date = 1196.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Robert"
+		dynasty = "Serrett"
+		birth_date = 1134.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Terrence"
+		monarch_name = "Terrence"
+		dynasty = "Serrett"
+		birth_date = 1156.1.1
+		death_date = 1270.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Walder"
+		dynasty = "Serrett"
+		birth_date = 1129.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Lister"
+		monarch_name = "Lister"
+		dynasty = "Serrett"
+		birth_date = 1197.1.1
+		death_date = 1272.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Mollos"
+		dynasty = "Serrett"
+		birth_date = 1246.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Dale"
+		monarch_name = "Dale"
+		dynasty = "Serrett"
+		birth_date = 1288.1.1
+		death_date = 1344.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Dan"
+		dynasty = "Serrett"
+		birth_date = 1249.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Tristan"
+		monarch_name = "Tristan"
+		dynasty = "Serrett"
+		birth_date = 1281.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1363.1.1 = {
+	monarch = {
+		name = "Kyra"
+		dynasty = "Serrett"
+		female = yes
+		birth_date = 1275.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Hotho"
+		monarch_name = "Hotho"
+		dynasty = "Serrett"
+		birth_date = 1359.1.1
+		death_date = 1423.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+

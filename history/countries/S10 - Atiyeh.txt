@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = samyriana
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 679
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Orton"
+		dynasty = "Atiyeh"
+		birth_date = 959.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Wallen"
+		monarch_name = "Wallen"
+		dynasty = "Atiyeh"
+		birth_date = 985.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Atiyeh"
+		birth_date = 1051.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Dareon"
+		monarch_name = "Dareon"
+		dynasty = "Atiyeh"
+		birth_date = 1082.1.1
+		death_date = 1156.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Ramsey"
+		dynasty = "Atiyeh"
+		birth_date = 1040.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Atiyeh"
+		birth_date = 1125.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Lomas"
+		dynasty = "Atiyeh"
+		birth_date = 1078.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Artos"
+		monarch_name = "Artos"
+		dynasty = "Atiyeh"
+		birth_date = 1110.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1148.1.1 = {
+
+	monarch = {
+		name = "Cuger"
+		dynasty = "Atiyeh"
+		birth_date = 1127.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Enderhar"
+		monarch_name = "Enderhar"
+		dynasty = "Atiyeh"
+		birth_date = 1147.1.1
+		death_date = 1170.1.1
+		claim = 20
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Naerys"
+		dynasty = "Atiyeh"
+		birth_date = 1160.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Jacelyn"
+		monarch_name = "Jacelyn"
+		dynasty = "Atiyeh"
+		birth_date = 1184.1.1
+		death_date = 1283.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1199.1.1 = {
+	monarch = {
+		name = "Margot"
+		dynasty = "Atiyeh"
+		female = yes
+		birth_date = 1140.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Hali"
+		monarch_name = "Hali"
+		dynasty = "Atiyeh"
+		birth_date = 1169.1.1
+		death_date = 1273.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Khorane"
+		dynasty = "Atiyeh"
+		birth_date = 1185.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Tystane"
+		monarch_name = "Tystane"
+		dynasty = "Atiyeh"
+		birth_date = 1202.1.1
+		death_date = 1286.1.1
+		claim = 99
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1260.1.1 = {
+
+	monarch = {
+		name = "Sefton"
+		dynasty = "Atiyeh"
+		birth_date = 1217.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Howd"
+		monarch_name = "Howd"
+		dynasty = "Atiyeh"
+		birth_date = 1244.1.1
+		death_date = 1295.1.1
+		claim = 81
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Vortimer"
+		dynasty = "Atiyeh"
+		birth_date = 1245.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Helman"
+		monarch_name = "Helman"
+		dynasty = "Atiyeh"
+		birth_date = 1308.1.1
+		death_date = 1406.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1352.1.1 = {
+	monarch = {
+		name = "Dalla"
+		dynasty = "Atiyeh"
+		female = yes
+		birth_date = 1332.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Garrett"
+		monarch_name = "Garrett"
+		dynasty = "Atiyeh"
+		birth_date = 1335.1.1
+		death_date = 1378.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+

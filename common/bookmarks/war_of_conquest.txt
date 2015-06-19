@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "WAR_OF_CONQUEST_NAME"
+	desc = "WAR_OF_CONQUEST_DESC"
+	# New Date: 1000.1.1
+	# Old Date: 2000.1.2
+	date = 1000.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = war_of_conquest
+		}
+	}
+}

@@ -1,0 +1,46 @@
+# 358 - Bloodstone
+
+add_core = P01
+owner = P01
+controller = P01
+is_city = yes
+
+base_tax = 8
+base_production = 8
+base_manpower =  4
+
+religion = asoiaf_lady_of_the_waves
+culture = stepstones
+
+trade_goods = gold
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1260.1.1 = {
+	controller = AB2
+	add_core = AB2
+	owner = AB2
+	religion = asoiaf_faith_of_the_seven
+}
+
+1281.1.1 = {
+	remove_core = AB2
+	controller = P03
+	add_core = P03
+	owner = P03
+	religion = asoiaf_lady_of_the_waves
+}

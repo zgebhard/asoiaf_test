@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 83
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Krazz"
+		dynasty = "Erenford"
+		birth_date = 978.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Erenford"
+		birth_date = 991.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Danos"
+		dynasty = "Erenford"
+		birth_date = 1011.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Erenford"
+		birth_date = 1046.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1145.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Erenford"
+		birth_date = 1095.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Ogo"
+		monarch_name = "Ogo"
+		dynasty = "Erenford"
+		birth_date = 1115.1.1
+		death_date = 1197.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Wallace"
+		dynasty = "Erenford"
+		birth_date = 1161.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Moryn"
+		monarch_name = "Moryn"
+		dynasty = "Erenford"
+		birth_date = 1189.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1278.1.1 = {
+	monarch = {
+		name = "Megga"
+		dynasty = "Erenford"
+		female = yes
+		birth_date = 1196.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Justin"
+		monarch_name = "Justin"
+		dynasty = "Erenford"
+		birth_date = 1253.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Dywen"
+		dynasty = "Erenford"
+		birth_date = 1219.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Tyrion"
+		monarch_name = "Tyrion"
+		dynasty = "Erenford"
+		birth_date = 1291.1.1
+		death_date = 1325.1.1
+		claim = 4
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Hyle"
+		dynasty = "Erenford"
+		birth_date = 1281.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Cassa"
+		monarch_name = "Cassa"
+		dynasty = "Erenford"
+		birth_date = 1295.1.1
+		death_date = 1366.1.1
+		claim = 10
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Quenton"
+		dynasty = "Erenford"
+		birth_date = 1333.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Mark"
+		monarch_name = "Mark"
+		dynasty = "Erenford"
+		birth_date = 1355.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Urek"
+		dynasty = "Erenford"
+		birth_date = 1335.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Erenford"
+		birth_date = 1386.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+

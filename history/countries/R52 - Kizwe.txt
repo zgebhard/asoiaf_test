@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = naathi
+primary_culture = naathi
+religion = asoiaf_god_of_harmony
+
+capital = 626
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Malleon"
+		dynasty = "Kizwe"
+		birth_date = 943.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Baelor"
+		monarch_name = "Baelor"
+		dynasty = "Kizwe"
+		birth_date = 977.1.1
+		death_date = 1069.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Torrhen"
+		dynasty = "Kizwe"
+		birth_date = 1044.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Ternesio"
+		monarch_name = "Ternesio"
+		dynasty = "Kizwe"
+		birth_date = 1055.1.1
+		death_date = 1105.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Hendry"
+		dynasty = "Kizwe"
+		birth_date = 1039.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Meralyn"
+		monarch_name = "Meralyn"
+		dynasty = "Kizwe"
+		female = yes
+		birth_date = 1054.1.1
+		death_date = 1093.1.1
+		claim = 53
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Gynir"
+		dynasty = "Kizwe"
+		birth_date = 1101.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Hobber"
+		monarch_name = "Hobber"
+		dynasty = "Kizwe"
+		birth_date = 1134.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Armond"
+		dynasty = "Kizwe"
+		birth_date = 1117.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Quentyn"
+		monarch_name = "Quentyn"
+		dynasty = "Kizwe"
+		birth_date = 1140.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Kizwe"
+		birth_date = 1199.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Bernarr"
+		monarch_name = "Bernarr"
+		dynasty = "Kizwe"
+		birth_date = 1218.1.1
+		death_date = 1249.1.1
+		claim = 23
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Rakharo"
+		dynasty = "Kizwe"
+		birth_date = 1246.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Perra"
+		monarch_name = "Perra"
+		dynasty = "Kizwe"
+		female = yes
+		birth_date = 1246.1.1
+		death_date = 1288.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1298.1.1 = {
+
+	monarch = {
+		name = "Larys"
+		dynasty = "Kizwe"
+		birth_date = 1263.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon"
+		dynasty = "Kizwe"
+		birth_date = 1274.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Robin"
+		dynasty = "Kizwe"
+		birth_date = 1294.1.1
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Quellon"
+		monarch_name = "Quellon"
+		dynasty = "Kizwe"
+		birth_date = 1354.1.1
+		death_date = 1401.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Kizwe"
+		birth_date = 1295.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Hugo"
+		monarch_name = "Hugo"
+		dynasty = "Kizwe"
+		birth_date = 1357.1.1
+		death_date = 1436.1.1
+		claim = 74
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+

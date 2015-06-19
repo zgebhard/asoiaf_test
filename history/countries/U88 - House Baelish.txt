@@ -1,0 +1,21 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 136
+
+1289.1.10 = {
+	monarch = {
+		name = "Petyr"
+		dynasty = "Baelish"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1350.1.1
+	}
+}

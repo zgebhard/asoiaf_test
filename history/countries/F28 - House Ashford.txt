@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 270
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Reysen"
+		dynasty = "Ashford"
+		birth_date = 959.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Lister"
+		monarch_name = "Lister"
+		dynasty = "Ashford"
+		birth_date = 999.1.1
+		death_date = 1033.1.1
+		claim = 7
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1002.1.1 = {
+
+	monarch = {
+		name = "Qos"
+		dynasty = "Ashford"
+		birth_date = 966.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Emmon"
+		monarch_name = "Emmon"
+		dynasty = "Ashford"
+		birth_date = 993.1.1
+		death_date = 1034.1.1
+		claim = 78
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Jyck"
+		dynasty = "Ashford"
+		birth_date = 1069.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Hibald"
+		monarch_name = "Hibald"
+		dynasty = "Ashford"
+		birth_date = 1077.1.1
+		death_date = 1126.1.1
+		claim = 94
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Matthar"
+		dynasty = "Ashford"
+		birth_date = 1102.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Ashford"
+		birth_date = 1114.1.1
+		death_date = 1175.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Cellador"
+		dynasty = "Ashford"
+		birth_date = 1147.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Moribold"
+		monarch_name = "Moribold"
+		dynasty = "Ashford"
+		birth_date = 1157.1.1
+		death_date = 1192.1.1
+		claim = 70
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Guncer"
+		dynasty = "Ashford"
+		birth_date = 1181.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Shiera"
+		monarch_name = "Shiera"
+		dynasty = "Ashford"
+		birth_date = 1182.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Garrison"
+		dynasty = "Ashford"
+		birth_date = 1250.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Marghaz"
+		monarch_name = "Marghaz"
+		dynasty = "Ashford"
+		birth_date = 1262.1.1
+		death_date = 1341.1.1
+		claim = 75
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Pyke"
+		dynasty = "Ashford"
+		birth_date = 1283.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Tarle"
+		monarch_name = "Tarle"
+		dynasty = "Ashford"
+		birth_date = 1301.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Rafford"
+		dynasty = "Ashford"
+		birth_date = 1292.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Pypar"
+		monarch_name = "Pypar"
+		dynasty = "Ashford"
+		birth_date = 1347.1.1
+		death_date = 1410.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+

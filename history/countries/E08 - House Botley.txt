@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 161
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harle"
+		dynasty = "Botley"
+		birth_date = 969.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Lucias"
+		monarch_name = "Lucias"
+		dynasty = "Botley"
+		birth_date = 987.1.1
+		death_date = 1047.1.1
+		claim = 72
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1005.1.1 = {
+
+	monarch = {
+		name = "Goghor"
+		dynasty = "Botley"
+		birth_date = 990.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Botley"
+		birth_date = 979.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1021.1.1 = {
+
+	monarch = {
+		name = "Josua"
+		dynasty = "Botley"
+		birth_date = 974.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Tyrek"
+		monarch_name = "Tyrek"
+		dynasty = "Botley"
+		birth_date = 1015.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1083.1.1 = {
+
+	monarch = {
+		name = "Horton"
+		dynasty = "Botley"
+		birth_date = 1055.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Tristimun"
+		monarch_name = "Tristimun"
+		dynasty = "Botley"
+		birth_date = 1064.1.1
+		death_date = 1098.1.1
+		claim = 15
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Botley"
+		birth_date = 1014.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Guyne"
+		monarch_name = "Guyne"
+		dynasty = "Botley"
+		birth_date = 1087.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Leyton"
+		dynasty = "Botley"
+		birth_date = 1073.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Harlan"
+		monarch_name = "Harlan"
+		dynasty = "Botley"
+		birth_date = 1084.1.1
+		death_date = 1121.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1171.1.1 = {
+	monarch = {
+		name = "Bessa"
+		dynasty = "Botley"
+		female = yes
+		birth_date = 1142.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Donyse"
+		monarch_name = "Donyse"
+		dynasty = "Botley"
+		birth_date = 1159.1.1
+		death_date = 1188.1.1
+		claim = 73
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Holger"
+		dynasty = "Botley"
+		birth_date = 1186.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Godric"
+		monarch_name = "Godric"
+		dynasty = "Botley"
+		birth_date = 1209.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1299.1.1 = {
+	monarch = {
+		name = "Carellen"
+		dynasty = "Botley"
+		female = yes
+		birth_date = 1224.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Botley"
+		birth_date = 1298.1.1
+		death_date = 1331.1.1
+		claim = 64
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1375.1.1 = {
+
+	monarch = {
+		name = "Ryles"
+		dynasty = "Botley"
+		birth_date = 1298.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Salladhor"
+		monarch_name = "Salladhor"
+		dynasty = "Botley"
+		birth_date = 1361.1.1
+		death_date = 1457.1.1
+		claim = 17
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+

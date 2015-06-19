@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = lengii
+religion = asoiaf_lion_of_the_night
+
+capital = 791
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jory"
+		dynasty = "Narula"
+		birth_date = 953.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Ramsey"
+		monarch_name = "Ramsey"
+		dynasty = "Narula"
+		birth_date = 982.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Beck"
+		dynasty = "Narula"
+		birth_date = 973.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Narula"
+		birth_date = 1012.1.1
+		death_date = 1054.1.1
+		claim = 2
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Gared"
+		dynasty = "Narula"
+		birth_date = 985.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Wallace"
+		monarch_name = "Wallace"
+		dynasty = "Narula"
+		birth_date = 1048.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1142.1.1 = {
+
+	monarch = {
+		name = "Urreg"
+		dynasty = "Narula"
+		birth_date = 1121.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Wallen"
+		monarch_name = "Wallen"
+		dynasty = "Narula"
+		birth_date = 1114.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Leslyn"
+		dynasty = "Narula"
+		birth_date = 1151.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Jyzene"
+		monarch_name = "Jyzene"
+		dynasty = "Narula"
+		birth_date = 1211.1.1
+		death_date = 1263.1.1
+		claim = 60
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Oznak"
+		dynasty = "Narula"
+		birth_date = 1205.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Narula"
+		birth_date = 1229.1.1
+		death_date = 1317.1.1
+		claim = 33
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Narula"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Roose"
+		monarch_name = "Roose"
+		dynasty = "Narula"
+		birth_date = 1253.1.1
+		death_date = 1341.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Ulf"
+		dynasty = "Narula"
+		birth_date = 1347.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Toregg"
+		monarch_name = "Toregg"
+		dynasty = "Narula"
+		birth_date = 1348.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+

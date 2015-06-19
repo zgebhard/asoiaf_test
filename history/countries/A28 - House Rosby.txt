@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 211
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jarl"
+		dynasty = "Rosby"
+		birth_date = 926.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Willam"
+		monarch_name = "Willam"
+		dynasty = "Rosby"
+		birth_date = 996.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1022.1.1 = {
+
+	monarch = {
+		name = "Conn"
+		dynasty = "Rosby"
+		birth_date = 1001.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Arthor"
+		monarch_name = "Arthor"
+		dynasty = "Rosby"
+		birth_date = 1019.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1028.1.1 = {
+	monarch = {
+		name = "Helya"
+		dynasty = "Rosby"
+		female = yes
+		birth_date = 975.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Ulmer"
+		monarch_name = "Ulmer"
+		dynasty = "Rosby"
+		birth_date = 1005.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Erren"
+		dynasty = "Rosby"
+		birth_date = 1014.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Tristifer"
+		monarch_name = "Tristifer"
+		dynasty = "Rosby"
+		birth_date = 1046.1.1
+		death_date = 1103.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Amolf"
+		dynasty = "Rosby"
+		birth_date = 1065.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Bronn"
+		monarch_name = "Bronn"
+		dynasty = "Rosby"
+		birth_date = 1133.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Aegon"
+		dynasty = "Rosby"
+		birth_date = 1138.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Rosby"
+		birth_date = 1192.1.1
+		death_date = 1283.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1242.1.1 = {
+
+	monarch = {
+		name = "Halys"
+		dynasty = "Rosby"
+		birth_date = 1176.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Ygon"
+		monarch_name = "Ygon"
+		dynasty = "Rosby"
+		birth_date = 1237.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1306.1.1 = {
+
+	monarch = {
+		name = "Trebor"
+		dynasty = "Rosby"
+		birth_date = 1228.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Larys"
+		monarch_name = "Larys"
+		dynasty = "Rosby"
+		birth_date = 1296.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Lucos"
+		dynasty = "Rosby"
+		birth_date = 1296.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Luton"
+		monarch_name = "Luton"
+		dynasty = "Rosby"
+		birth_date = 1317.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1393.1.1 = {
+
+	monarch = {
+		name = "Harlen"
+		dynasty = "Rosby"
+		birth_date = 1323.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Qyle"
+		monarch_name = "Qyle"
+		dynasty = "Rosby"
+		birth_date = 1377.1.1
+		death_date = 1455.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+

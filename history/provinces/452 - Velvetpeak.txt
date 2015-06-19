@@ -1,0 +1,45 @@
+# 452 - Velvetpeak
+
+add_core = U20
+add_core = U12
+owner = U12
+controller = U12
+
+culture = pentoshi
+religion = asoiaf_rhllor
+
+base_tax = 3
+base_production = 3
+trade_goods = wool
+base_manpower =  3
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Velvetpeak"
+
+1000.2.1 = {
+	remove_core = U12
+	owner = U20
+	controller = U20
+}
+
+1000.2.2 = {
+	owner = U12
+	add_core = U12
+	controller = U12
+}

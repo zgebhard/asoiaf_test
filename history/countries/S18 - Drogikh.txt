@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = lhazar
+religion = asoiaf_great_shepherd
+
+capital = 649
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Helman"
+		dynasty = "Drogikh"
+		birth_date = 984.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Rollam"
+		monarch_name = "Rollam"
+		dynasty = "Drogikh"
+		birth_date = 994.1.1
+		death_date = 1050.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Egon"
+		dynasty = "Drogikh"
+		birth_date = 968.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Lyn"
+		monarch_name = "Lyn"
+		dynasty = "Drogikh"
+		birth_date = 1025.1.1
+		death_date = 1092.1.1
+		claim = 0
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Jason"
+		dynasty = "Drogikh"
+		birth_date = 997.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Mollos"
+		monarch_name = "Mollos"
+		dynasty = "Drogikh"
+		birth_date = 1074.1.1
+		death_date = 1132.1.1
+		claim = 12
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Ryella"
+		dynasty = "Drogikh"
+		female = yes
+		birth_date = 1135.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Donyse"
+		monarch_name = "Donyse"
+		dynasty = "Drogikh"
+		birth_date = 1127.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Arlan"
+		dynasty = "Drogikh"
+		birth_date = 1067.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Drogikh"
+		birth_date = 1145.1.1
+		death_date = 1213.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1202.1.1 = {
+
+	monarch = {
+		name = "Pono"
+		dynasty = "Drogikh"
+		birth_date = 1145.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Arson"
+		monarch_name = "Arson"
+		dynasty = "Drogikh"
+		birth_date = 1187.1.1
+		death_date = 1286.1.1
+		claim = 38
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Gwin"
+		dynasty = "Drogikh"
+		birth_date = 1209.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Haggon"
+		monarch_name = "Haggon"
+		dynasty = "Drogikh"
+		birth_date = 1272.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Maslyn"
+		dynasty = "Drogikh"
+		birth_date = 1347.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Sedgekins"
+		monarch_name = "Sedgekins"
+		dynasty = "Drogikh"
+		birth_date = 1349.1.1
+		death_date = 1452.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Beck"
+		dynasty = "Drogikh"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Drogikh"
+		birth_date = 1382.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+
+capital = 294
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Khorane"
+		dynasty = "Fell"
+		birth_date = 962.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Maddy"
+		monarch_name = "Maddy"
+		dynasty = "Fell"
+		female = yes
+		birth_date = 984.1.1
+		death_date = 1042.1.1
+		claim = 57
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Fell"
+		birth_date = 978.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Sedgekins"
+		monarch_name = "Sedgekins"
+		dynasty = "Fell"
+		birth_date = 1039.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Justin"
+		dynasty = "Fell"
+		birth_date = 1022.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Visenya"
+		monarch_name = "Visenya"
+		dynasty = "Fell"
+		birth_date = 1076.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Fell"
+		birth_date = 1101.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Farman"
+		monarch_name = "Farman"
+		dynasty = "Fell"
+		birth_date = 1126.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1205.1.1 = {
+	monarch = {
+		name = "Freynne"
+		dynasty = "Fell"
+		female = yes
+		birth_date = 1118.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Fell"
+		birth_date = 1184.1.1
+		death_date = 1256.1.1
+		claim = 72
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Gregor"
+		dynasty = "Fell"
+		birth_date = 1201.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Kraznys"
+		monarch_name = "Kraznys"
+		dynasty = "Fell"
+		birth_date = 1229.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Justin"
+		dynasty = "Fell"
+		birth_date = 1222.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Ryk"
+		monarch_name = "Ryk"
+		dynasty = "Fell"
+		birth_date = 1239.1.1
+		death_date = 1330.1.1
+		claim = 52
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Pate"
+		dynasty = "Fell"
+		birth_date = 1264.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Hubard"
+		monarch_name = "Hubard"
+		dynasty = "Fell"
+		birth_date = 1260.1.1
+		death_date = 1308.1.1
+		claim = 66
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Victor"
+		dynasty = "Fell"
+		birth_date = 1331.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Vortimer"
+		monarch_name = "Vortimer"
+		dynasty = "Fell"
+		birth_date = 1363.1.1
+		death_date = 1410.1.1
+		claim = 91
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+

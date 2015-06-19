@@ -1,0 +1,288 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 316
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Vortimer"
+		dynasty = "Swann"
+		birth_date = 910.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Lyonel"
+		monarch_name = "Lyonel"
+		dynasty = "Swann"
+		birth_date = 975.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1026.1.1 = {
+	monarch = {
+		name = "Falia"
+		dynasty = "Swann"
+		female = yes
+		birth_date = 951.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Beth"
+		monarch_name = "Beth"
+		dynasty = "Swann"
+		female = yes
+		birth_date = 1016.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Jacelyn"
+		dynasty = "Swann"
+		birth_date = 1026.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Swann"
+		birth_date = 1037.1.1
+		death_date = 1137.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Cedric"
+		dynasty = "Swann"
+		birth_date = 1108.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Frelegg"
+		monarch_name = "Frelegg"
+		dynasty = "Swann"
+		birth_date = 1106.1.1
+		death_date = 1182.1.1
+		claim = 0
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Tormund"
+		dynasty = "Swann"
+		birth_date = 1093.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Gendel"
+		monarch_name = "Gendel"
+		dynasty = "Swann"
+		birth_date = 1136.1.1
+		death_date = 1224.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1162.1.1 = {
+
+	monarch = {
+		name = "Dunaver"
+		dynasty = "Swann"
+		birth_date = 1099.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Rennifer"
+		monarch_name = "Rennifer"
+		dynasty = "Swann"
+		birth_date = 1143.1.1
+		death_date = 1200.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Haegon"
+		dynasty = "Swann"
+		birth_date = 1173.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Dacks"
+		monarch_name = "Dacks"
+		dynasty = "Swann"
+		birth_date = 1212.1.1
+		death_date = 1300.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Tormund"
+		dynasty = "Swann"
+		birth_date = 1251.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Cheyk"
+		monarch_name = "Cheyk"
+		dynasty = "Swann"
+		birth_date = 1267.1.1
+		death_date = 1350.1.1
+		claim = 31
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1303.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Swann"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Beth"
+		monarch_name = "Beth"
+		dynasty = "Swann"
+		female = yes
+		birth_date = 1290.1.1
+		death_date = 1334.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Iggo"
+		dynasty = "Swann"
+		birth_date = 1247.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Rollam"
+		monarch_name = "Rollam"
+		dynasty = "Swann"
+		birth_date = 1309.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Dermot"
+		dynasty = "Swann"
+		birth_date = 1309.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Todric"
+		monarch_name = "Todric"
+		dynasty = "Swann"
+		birth_date = 1339.1.1
+		death_date = 1428.1.1
+		claim = 81
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+

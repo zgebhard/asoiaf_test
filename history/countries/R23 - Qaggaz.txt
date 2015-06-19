@@ -1,0 +1,239 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = yunkai
+religion = asoiaf_graces
+
+capital = 610
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Karlon"
+		dynasty = "Qaggaz"
+		birth_date = 970.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Vargo"
+		monarch_name = "Vargo"
+		dynasty = "Qaggaz"
+		birth_date = 989.1.1
+		death_date = 1065.1.1
+		claim = 60
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1055.1.1 = {
+
+	monarch = {
+		name = "Briar"
+		dynasty = "Qaggaz"
+		birth_date = 989.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Dormund"
+		monarch_name = "Dormund"
+		dynasty = "Qaggaz"
+		birth_date = 1036.1.1
+		death_date = 1110.1.1
+		claim = 82
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Tycho"
+		dynasty = "Qaggaz"
+		birth_date = 1015.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Bedwyck"
+		monarch_name = "Bedwyck"
+		dynasty = "Qaggaz"
+		birth_date = 1080.1.1
+		death_date = 1125.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Jommo"
+		dynasty = "Qaggaz"
+		birth_date = 1098.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Qaggaz"
+		birth_date = 1137.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Edmure"
+		dynasty = "Qaggaz"
+		birth_date = 1155.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Qyle"
+		monarch_name = "Qyle"
+		dynasty = "Qaggaz"
+		birth_date = 1185.1.1
+		death_date = 1259.1.1
+		claim = 50
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1230.1.1 = {
+	monarch = {
+		name = "Tysane"
+		dynasty = "Qaggaz"
+		female = yes
+		birth_date = 1190.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Qarlton"
+		monarch_name = "Qarlton"
+		dynasty = "Qaggaz"
+		birth_date = 1229.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1298.1.1 = {
+
+	monarch = {
+		name = "Jonnel"
+		dynasty = "Qaggaz"
+		birth_date = 1249.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Ondrew"
+		monarch_name = "Ondrew"
+		dynasty = "Qaggaz"
+		birth_date = 1284.1.1
+		death_date = 1372.1.1
+		claim = 86
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Qaggaz"
+		birth_date = 1333.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Gwayne"
+		monarch_name = "Gwayne"
+		dynasty = "Qaggaz"
+		birth_date = 1354.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Barth"
+		dynasty = "Qaggaz"
+		birth_date = 1362.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Garse"
+		monarch_name = "Garse"
+		dynasty = "Qaggaz"
+		birth_date = 1386.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+

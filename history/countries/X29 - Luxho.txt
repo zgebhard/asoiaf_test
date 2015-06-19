@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = luxho
+religion = asoiaf_summer_gods
+
+capital = 511
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Luxho"
+		birth_date = 964.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Benfred"
+		monarch_name = "Benfred"
+		dynasty = "Luxho"
+		birth_date = 990.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Erik"
+		dynasty = "Luxho"
+		birth_date = 1048.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Ashford"
+		monarch_name = "Ashford"
+		dynasty = "Luxho"
+		birth_date = 1063.1.1
+		death_date = 1163.1.1
+		claim = 47
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Belwas"
+		dynasty = "Luxho"
+		birth_date = 1050.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Luxho"
+		birth_date = 1082.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Duncan"
+		dynasty = "Luxho"
+		birth_date = 1039.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Wolfe"
+		monarch_name = "Wolfe"
+		dynasty = "Luxho"
+		birth_date = 1104.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1127.1.1 = {
+
+	monarch = {
+		name = "Lyle"
+		dynasty = "Luxho"
+		birth_date = 1099.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Marsella"
+		monarch_name = "Marsella"
+		dynasty = "Luxho"
+		female = yes
+		birth_date = 1108.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Kraznys"
+		dynasty = "Luxho"
+		birth_date = 1143.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Halmon"
+		monarch_name = "Halmon"
+		dynasty = "Luxho"
+		birth_date = 1200.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Jack"
+		dynasty = "Luxho"
+		birth_date = 1206.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Durran"
+		monarch_name = "Durran"
+		dynasty = "Luxho"
+		birth_date = 1262.1.1
+		death_date = 1367.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Luxho"
+		birth_date = 1305.1.1
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lommy"
+		monarch_name = "Lommy"
+		dynasty = "Luxho"
+		birth_date = 1304.1.1
+		death_date = 1344.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+

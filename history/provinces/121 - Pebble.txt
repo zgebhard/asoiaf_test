@@ -1,0 +1,50 @@
+# 121 - Pebble
+
+owner = A04
+add_core = A04
+controller = A04
+add_core = H21
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_vale
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = fish
+
+capital = "Pebble"
+
+1000.2.1 = {
+	remove_core = A04
+	owner = H21
+	controller = H21
+}
+
+1000.2.2 = {
+	owner = A04
+	add_core = A04
+	controller = A04
+}
+
+1005.1.1 = {
+    hre = yes
+}

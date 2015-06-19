@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 329
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Norbert"
+		dynasty = "Drinkwater"
+		birth_date = 968.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Pycelle"
+		monarch_name = "Pycelle"
+		dynasty = "Drinkwater"
+		birth_date = 1000.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Poul"
+		dynasty = "Drinkwater"
+		birth_date = 978.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Jonella"
+		monarch_name = "Jonella"
+		dynasty = "Drinkwater"
+		female = yes
+		birth_date = 1035.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Kedge"
+		dynasty = "Drinkwater"
+		birth_date = 989.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Emrick"
+		monarch_name = "Emrick"
+		dynasty = "Drinkwater"
+		birth_date = 1053.1.1
+		death_date = 1099.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Cohollo"
+		dynasty = "Drinkwater"
+		birth_date = 1087.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Egon"
+		monarch_name = "Egon"
+		dynasty = "Drinkwater"
+		birth_date = 1147.1.1
+		death_date = 1180.1.1
+		claim = 77
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Fralegg"
+		dynasty = "Drinkwater"
+		birth_date = 1115.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Alequo"
+		monarch_name = "Alequo"
+		dynasty = "Drinkwater"
+		birth_date = 1177.1.1
+		death_date = 1241.1.1
+		claim = 21
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Tywin"
+		dynasty = "Drinkwater"
+		birth_date = 1240.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Daven"
+		monarch_name = "Daven"
+		dynasty = "Drinkwater"
+		birth_date = 1251.1.1
+		death_date = 1343.1.1
+		claim = 62
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Tycho"
+		dynasty = "Drinkwater"
+		birth_date = 1299.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Runcel"
+		monarch_name = "Runcel"
+		dynasty = "Drinkwater"
+		birth_date = 1324.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+

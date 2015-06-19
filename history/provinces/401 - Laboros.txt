@@ -1,0 +1,46 @@
+# 401 - Laboros
+
+add_core = U58
+add_core = U87
+owner = U87
+controller = U87
+is_city = yes
+
+religion = asoiaf_rhllor
+culture = volantene
+
+base_tax = 4
+base_production = 4
+base_manpower =  4
+
+trade_goods = grain
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Laboros"
+
+1000.2.1 = {
+	remove_core = U87
+	owner = U58
+	controller = U58
+}
+
+1000.2.2 = {
+	owner = U87
+	add_core = U87
+	controller = U87
+}

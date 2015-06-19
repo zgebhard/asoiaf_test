@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 57
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Reynard"
+		dynasty = "Cassel"
+		birth_date = 974.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Jhiqui"
+		monarch_name = "Jhiqui"
+		dynasty = "Cassel"
+		birth_date = 993.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1070.1.1 = {
+	monarch = {
+		name = "Mylenda"
+		dynasty = "Cassel"
+		female = yes
+		birth_date = 994.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Vylarr"
+		monarch_name = "Vylarr"
+		dynasty = "Cassel"
+		birth_date = 1054.1.1
+		death_date = 1096.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Cassel"
+		birth_date = 1066.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Marianne"
+		monarch_name = "Marianne"
+		dynasty = "Cassel"
+		female = yes
+		birth_date = 1097.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Jommo"
+		dynasty = "Cassel"
+		birth_date = 1107.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Ambrose"
+		monarch_name = "Ambrose"
+		dynasty = "Cassel"
+		birth_date = 1157.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Orivel"
+		dynasty = "Cassel"
+		birth_date = 1179.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Cassel"
+		birth_date = 1226.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Wilbert"
+		dynasty = "Cassel"
+		birth_date = 1252.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Bandy"
+		monarch_name = "Bandy"
+		dynasty = "Cassel"
+		birth_date = 1296.1.1
+		death_date = 1321.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1354.1.1 = {
+
+	monarch = {
+		name = "Maege"
+		dynasty = "Cassel"
+		birth_date = 1265.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tristimun"
+		monarch_name = "Tristimun"
+		dynasty = "Cassel"
+		birth_date = 1342.1.1
+		death_date = 1409.1.1
+		claim = 71
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+

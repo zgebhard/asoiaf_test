@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 253
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Salladhor"
+		dynasty = "Caswell"
+		birth_date = 983.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Raynald"
+		monarch_name = "Raynald"
+		dynasty = "Caswell"
+		birth_date = 989.1.1
+		death_date = 1037.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Trebor"
+		dynasty = "Caswell"
+		birth_date = 943.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Willam"
+		monarch_name = "Willam"
+		dynasty = "Caswell"
+		birth_date = 1015.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1043.1.1 = {
+
+	monarch = {
+		name = "Othell"
+		dynasty = "Caswell"
+		birth_date = 986.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Errok"
+		monarch_name = "Errok"
+		dynasty = "Caswell"
+		birth_date = 1033.1.1
+		death_date = 1068.1.1
+		claim = 94
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Hal"
+		dynasty = "Caswell"
+		birth_date = 1059.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Gladden"
+		monarch_name = "Gladden"
+		dynasty = "Caswell"
+		birth_date = 1115.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Harmond"
+		dynasty = "Caswell"
+		birth_date = 1104.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Norren"
+		monarch_name = "Norren"
+		dynasty = "Caswell"
+		birth_date = 1155.1.1
+		death_date = 1238.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1253.1.1 = {
+	monarch = {
+		name = "Nan"
+		dynasty = "Caswell"
+		female = yes
+		birth_date = 1225.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Harys"
+		monarch_name = "Harys"
+		dynasty = "Caswell"
+		birth_date = 1223.1.1
+		death_date = 1330.1.1
+		claim = 29
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Cerrick"
+		dynasty = "Caswell"
+		birth_date = 1297.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Dorren"
+		monarch_name = "Dorren"
+		dynasty = "Caswell"
+		birth_date = 1325.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1352.1.1 = {
+
+	monarch = {
+		name = "Delp"
+		dynasty = "Caswell"
+		birth_date = 1324.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Drogo"
+		monarch_name = "Drogo"
+		dynasty = "Caswell"
+		birth_date = 1345.1.1
+		death_date = 1399.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Ulf"
+		dynasty = "Caswell"
+		birth_date = 1325.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Damion"
+		monarch_name = "Damion"
+		dynasty = "Caswell"
+		birth_date = 1358.1.1
+		death_date = 1415.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+

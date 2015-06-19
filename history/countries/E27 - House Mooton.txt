@@ -1,0 +1,290 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 109
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Mooton"
+		birth_date = 954.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Kojja"
+		monarch_name = "Kojja"
+		dynasty = "Mooton"
+		birth_date = 985.1.1
+		death_date = 1065.1.1
+		claim = 54
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Meha"
+		dynasty = "Mooton"
+		birth_date = 1052.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Arron"
+		monarch_name = "Arron"
+		dynasty = "Mooton"
+		birth_date = 1069.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Leyton"
+		dynasty = "Mooton"
+		birth_date = 1047.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Joyeuse"
+		monarch_name = "Joyeuse"
+		dynasty = "Mooton"
+		female = yes
+		birth_date = 1064.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Urrigon"
+		dynasty = "Mooton"
+		birth_date = 1080.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Hodor"
+		monarch_name = "Hodor"
+		dynasty = "Mooton"
+		birth_date = 1089.1.1
+		death_date = 1150.1.1
+		claim = 29
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1127.1.1 = {
+
+	monarch = {
+		name = "Quenten"
+		dynasty = "Mooton"
+		birth_date = 1085.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Hamish"
+		monarch_name = "Hamish"
+		dynasty = "Mooton"
+		birth_date = 1103.1.1
+		death_date = 1183.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1213.1.1 = {
+
+	monarch = {
+		name = "Fralegg"
+		dynasty = "Mooton"
+		birth_date = 1189.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Mooton"
+		birth_date = 1193.1.1
+		death_date = 1237.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Qhorin"
+		dynasty = "Mooton"
+		birth_date = 1246.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Ellaria"
+		monarch_name = "Ellaria"
+		dynasty = "Mooton"
+		female = yes
+		birth_date = 1266.1.1
+		death_date = 1322.1.1
+		claim = 87
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Jon"
+		dynasty = "Mooton"
+		birth_date = 1239.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Bluetooh"
+		monarch_name = "Bluetooh"
+		dynasty = "Mooton"
+		birth_date = 1314.1.1
+		death_date = 1391.1.1
+		claim = 32
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Viserys"
+		dynasty = "Mooton"
+		birth_date = 1304.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Qalen"
+		monarch_name = "Qalen"
+		dynasty = "Mooton"
+		birth_date = 1300.1.1
+		death_date = 1403.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Jhezene"
+		dynasty = "Mooton"
+		birth_date = 1275.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Murmison"
+		monarch_name = "Murmison"
+		dynasty = "Mooton"
+		birth_date = 1318.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1372.1.1 = {
+
+	monarch = {
+		name = "Dormund"
+		dynasty = "Mooton"
+		birth_date = 1307.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Melwyn"
+		monarch_name = "Melwyn"
+		dynasty = "Mooton"
+		female = yes
+		birth_date = 1367.1.1
+		death_date = 1455.1.1
+		claim = 64
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+

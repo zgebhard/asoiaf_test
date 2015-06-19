@@ -1,0 +1,46 @@
+# 404 - Orange Plains
+
+add_core = U62
+add_core = U87
+owner = U87
+controller = U87
+is_city = yes
+
+religion = asoiaf_rhllor
+culture = volantene
+
+base_tax = 4
+base_production = 4
+base_manpower =  3
+
+trade_goods = salt
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Orange Plains"
+
+1000.2.1 = {
+	remove_core = U87
+	owner = U62
+	controller = U62
+}
+
+1000.2.2 = {
+	owner = U87
+	add_core = U87
+	controller = U87
+}

@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ibbenese
+primary_culture = ibbenese
+religion = asoiaf_gods_of_ibben
+
+capital = 585
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Moth"
+		birth_date = 952.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Moth"
+		birth_date = 994.1.1
+		death_date = 1080.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Tim"
+		dynasty = "Moth"
+		birth_date = 997.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Grisil"
+		monarch_name = "Grisil"
+		dynasty = "Moth"
+		birth_date = 1001.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Moth"
+		birth_date = 1019.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Moth"
+		birth_date = 1040.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Moth"
+		birth_date = 1061.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Sarra"
+		monarch_name = "Sarra"
+		dynasty = "Moth"
+		female = yes
+		birth_date = 1088.1.1
+		death_date = 1160.1.1
+		claim = 21
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Moth"
+		birth_date = 1065.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Aladale"
+		monarch_name = "Aladale"
+		dynasty = "Moth"
+		birth_date = 1102.1.1
+		death_date = 1169.1.1
+		claim = 18
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1122.1.1 = {
+
+	monarch = {
+		name = "Gariss"
+		dynasty = "Moth"
+		birth_date = 1099.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Fell"
+		monarch_name = "Fell"
+		dynasty = "Moth"
+		birth_date = 1114.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1144.1.1 = {
+
+	monarch = {
+		name = "Daven"
+		dynasty = "Moth"
+		birth_date = 1093.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Harmond"
+		monarch_name = "Harmond"
+		dynasty = "Moth"
+		birth_date = 1129.1.1
+		death_date = 1177.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1188.1.1 = {
+
+	monarch = {
+		name = "Halder"
+		dynasty = "Moth"
+		birth_date = 1166.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Wat"
+		monarch_name = "Wat"
+		dynasty = "Moth"
+		birth_date = 1169.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Lark"
+		dynasty = "Moth"
+		birth_date = 1142.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Lester"
+		monarch_name = "Lester"
+		dynasty = "Moth"
+		birth_date = 1203.1.1
+		death_date = 1237.1.1
+		claim = 24
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Willum"
+		dynasty = "Moth"
+		birth_date = 1163.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Bannen"
+		monarch_name = "Bannen"
+		dynasty = "Moth"
+		birth_date = 1197.1.1
+		death_date = 1303.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Moth"
+		birth_date = 1243.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Kurz"
+		monarch_name = "Kurz"
+		dynasty = "Moth"
+		birth_date = 1291.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Hazrak"
+		dynasty = "Moth"
+		birth_date = 1261.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Dobber"
+		monarch_name = "Dobber"
+		dynasty = "Moth"
+		birth_date = 1338.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+

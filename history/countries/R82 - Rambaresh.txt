@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 784
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Timett"
+		dynasty = "Rambaresh"
+		birth_date = 978.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Damon"
+		monarch_name = "Damon"
+		dynasty = "Rambaresh"
+		birth_date = 988.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Carolei"
+		dynasty = "Rambaresh"
+		birth_date = 1020.1.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Marlon"
+		monarch_name = "Marlon"
+		dynasty = "Rambaresh"
+		birth_date = 1011.1.1
+		death_date = 1103.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Mallador"
+		dynasty = "Rambaresh"
+		birth_date = 1006.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Harmond"
+		monarch_name = "Harmond"
+		dynasty = "Rambaresh"
+		birth_date = 1084.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Syrio"
+		dynasty = "Rambaresh"
+		birth_date = 1115.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Rambaresh"
+		birth_date = 1143.1.1
+		death_date = 1220.1.1
+		claim = 67
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Rambaresh"
+		birth_date = 1170.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Martyn"
+		monarch_name = "Martyn"
+		dynasty = "Rambaresh"
+		birth_date = 1232.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1279.1.1 = {
+
+	monarch = {
+		name = "Martyn"
+		dynasty = "Rambaresh"
+		birth_date = 1246.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Rambaresh"
+		birth_date = 1259.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Eustace"
+		dynasty = "Rambaresh"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Lum"
+		monarch_name = "Lum"
+		dynasty = "Rambaresh"
+		birth_date = 1300.1.1
+		death_date = 1354.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Luthor"
+		dynasty = "Rambaresh"
+		birth_date = 1277.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Creighton"
+		monarch_name = "Creighton"
+		dynasty = "Rambaresh"
+		birth_date = 1326.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Symeon"
+		dynasty = "Rambaresh"
+		birth_date = 1361.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Unella"
+		monarch_name = "Unella"
+		dynasty = "Rambaresh"
+		female = yes
+		birth_date = 1375.1.1
+		death_date = 1411.1.1
+		claim = 12
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 193
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Hugh"
+		dynasty = "Peckledon"
+		birth_date = 937.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Jorquen"
+		monarch_name = "Jorquen"
+		dynasty = "Peckledon"
+		birth_date = 971.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Rolph"
+		dynasty = "Peckledon"
+		birth_date = 975.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Errok"
+		monarch_name = "Errok"
+		dynasty = "Peckledon"
+		birth_date = 1048.1.1
+		death_date = 1099.1.1
+		claim = 1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Fralegg"
+		dynasty = "Peckledon"
+		birth_date = 1027.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Archibald"
+		monarch_name = "Archibald"
+		dynasty = "Peckledon"
+		birth_date = 1057.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Peckledon"
+		birth_date = 1029.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Hullen"
+		monarch_name = "Hullen"
+		dynasty = "Peckledon"
+		birth_date = 1075.1.1
+		death_date = 1157.1.1
+		claim = 60
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Harsley"
+		dynasty = "Peckledon"
+		birth_date = 1101.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Aegon"
+		monarch_name = "Aegon"
+		dynasty = "Peckledon"
+		birth_date = 1099.1.1
+		death_date = 1146.1.1
+		claim = 75
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1187.1.1 = {
+
+	monarch = {
+		name = "Aemond"
+		dynasty = "Peckledon"
+		birth_date = 1144.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Hallyne"
+		monarch_name = "Hallyne"
+		dynasty = "Peckledon"
+		birth_date = 1184.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Jonothor"
+		dynasty = "Peckledon"
+		birth_date = 1166.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Timoth"
+		monarch_name = "Timoth"
+		dynasty = "Peckledon"
+		birth_date = 1231.1.1
+		death_date = 1291.1.1
+		claim = 52
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Colen"
+		dynasty = "Peckledon"
+		birth_date = 1231.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lomas"
+		monarch_name = "Lomas"
+		dynasty = "Peckledon"
+		birth_date = 1285.1.1
+		death_date = 1389.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Marillion"
+		dynasty = "Peckledon"
+		birth_date = 1279.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Jyck"
+		monarch_name = "Jyck"
+		dynasty = "Peckledon"
+		birth_date = 1315.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Peckledon"
+		birth_date = 1277.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Ragwyle"
+		monarch_name = "Ragwyle"
+		dynasty = "Peckledon"
+		birth_date = 1345.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+

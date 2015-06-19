@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 138
+
+1000.1.1 = {
+	monarch = {
+		name = "Rhaena"
+		dynasty = "Upcliff"
+		female = yes
+		birth_date = 985.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Upcliff"
+		birth_date = 994.1.1
+		death_date = 1075.1.1
+		claim = 21
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1040.1.1 = {
+
+	monarch = {
+		name = "Gage"
+		dynasty = "Upcliff"
+		birth_date = 994.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Kedge"
+		monarch_name = "Kedge"
+		dynasty = "Upcliff"
+		birth_date = 1016.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Upcliff"
+		birth_date = 1008.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Ottyn"
+		monarch_name = "Ottyn"
+		dynasty = "Upcliff"
+		birth_date = 1025.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Richard"
+		dynasty = "Upcliff"
+		birth_date = 1008.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Upcliff"
+		birth_date = 1054.1.1
+		death_date = 1129.1.1
+		claim = 23
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Horton"
+		dynasty = "Upcliff"
+		birth_date = 1033.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Arneld"
+		monarch_name = "Arneld"
+		dynasty = "Upcliff"
+		birth_date = 1050.1.1
+		death_date = 1099.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Porthor"
+		dynasty = "Upcliff"
+		birth_date = 1008.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Harmune"
+		monarch_name = "Harmune"
+		dynasty = "Upcliff"
+		birth_date = 1068.1.1
+		death_date = 1097.1.1
+		claim = 57
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Myles"
+		dynasty = "Upcliff"
+		birth_date = 1062.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Emrick"
+		monarch_name = "Emrick"
+		dynasty = "Upcliff"
+		birth_date = 1094.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Dunsen"
+		dynasty = "Upcliff"
+		birth_date = 1087.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Bennard"
+		monarch_name = "Bennard"
+		dynasty = "Upcliff"
+		birth_date = 1138.1.1
+		death_date = 1188.1.1
+		claim = 1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Norne"
+		dynasty = "Upcliff"
+		birth_date = 1070.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Gyleno"
+		monarch_name = "Gyleno"
+		dynasty = "Upcliff"
+		birth_date = 1132.1.1
+		death_date = 1168.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Ramsey"
+		dynasty = "Upcliff"
+		birth_date = 1110.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ulwyck"
+		monarch_name = "Ulwyck"
+		dynasty = "Upcliff"
+		birth_date = 1175.1.1
+		death_date = 1217.1.1
+		claim = 97
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Erreck"
+		dynasty = "Upcliff"
+		birth_date = 1241.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Aladale"
+		monarch_name = "Aladale"
+		dynasty = "Upcliff"
+		birth_date = 1272.1.1
+		death_date = 1354.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Roose"
+		dynasty = "Upcliff"
+		birth_date = 1255.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Warryn"
+		monarch_name = "Warryn"
+		dynasty = "Upcliff"
+		birth_date = 1305.1.1
+		death_date = 1401.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Edmure"
+		dynasty = "Upcliff"
+		birth_date = 1324.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Upcliff"
+		birth_date = 1363.1.1
+		death_date = 1379.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1399.1.1 = {
+
+	monarch = {
+		name = "Ardrian"
+		dynasty = "Upcliff"
+		birth_date = 1314.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Norjen"
+		monarch_name = "Norjen"
+		dynasty = "Upcliff"
+		birth_date = 1393.1.1
+		death_date = 1451.1.1
+		claim = 91
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+

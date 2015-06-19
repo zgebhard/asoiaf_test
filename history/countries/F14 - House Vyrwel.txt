@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 275
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Luceon"
+		dynasty = "Vyrwel"
+		birth_date = 931.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Osney"
+		monarch_name = "Osney"
+		dynasty = "Vyrwel"
+		birth_date = 999.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Jommy"
+		dynasty = "Vyrwel"
+		birth_date = 1014.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Lommy"
+		monarch_name = "Lommy"
+		dynasty = "Vyrwel"
+		birth_date = 1054.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Harraq"
+		dynasty = "Vyrwel"
+		birth_date = 1055.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Lark"
+		monarch_name = "Lark"
+		dynasty = "Vyrwel"
+		birth_date = 1063.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Dywen"
+		dynasty = "Vyrwel"
+		birth_date = 1060.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Vyrwel"
+		birth_date = 1094.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Armen"
+		dynasty = "Vyrwel"
+		birth_date = 1115.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Ygon"
+		monarch_name = "Ygon"
+		dynasty = "Vyrwel"
+		birth_date = 1160.1.1
+		death_date = 1213.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Jyzene"
+		dynasty = "Vyrwel"
+		birth_date = 1195.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Galladon"
+		monarch_name = "Galladon"
+		dynasty = "Vyrwel"
+		birth_date = 1209.1.1
+		death_date = 1252.1.1
+		claim = 21
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Vyrwel"
+		birth_date = 1220.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Gendel"
+		monarch_name = "Gendel"
+		dynasty = "Vyrwel"
+		birth_date = 1283.1.1
+		death_date = 1347.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1365.1.1 = {
+	monarch = {
+		name = "Maerie"
+		dynasty = "Vyrwel"
+		female = yes
+		birth_date = 1297.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Hilmar"
+		monarch_name = "Hilmar"
+		dynasty = "Vyrwel"
+		birth_date = 1352.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+

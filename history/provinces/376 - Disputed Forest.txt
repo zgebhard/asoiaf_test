@@ -1,0 +1,65 @@
+# 376 - Disputed Forest
+
+add_core = X06
+owner = X06
+controller = X06
+
+add_core = X08
+is_city = yes
+hre = no
+
+culture = lysene
+religion = asoiaf_rhllor
+
+base_tax = 4
+base_production = 4
+trade_goods = naval_supplies
+base_manpower =  2
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Disputed Forest"
+
+1000.2.1 = {
+	remove_core = X06
+	owner = X08
+	controller = X08
+}
+
+1000.2.2 = {
+	owner = X06
+	add_core = X06
+	controller = X06
+}
+
+1260.1.1 = {
+	controller = AB2
+	add_core = AB2
+	owner = AB2
+}
+
+1281.1.1 = {
+	remove_core = AB2
+	owner = XXX
+	controller = XXX
+}
+
+1298.1.1 = {
+	owner = A43
+	add_core = A43
+	controller = A43
+	religion = asoiaf_faith_of_the_seven
+}

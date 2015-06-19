@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = ghis
+religion = asoiaf_graces
+
+capital = 632
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rolph"
+		dynasty = "Zarghaz"
+		birth_date = 956.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Conn"
+		monarch_name = "Conn"
+		dynasty = "Zarghaz"
+		birth_date = 995.1.1
+		death_date = 1028.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Zarghaz"
+		birth_date = 984.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Zarghaz"
+		birth_date = 1052.1.1
+		death_date = 1136.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Elwood"
+		dynasty = "Zarghaz"
+		birth_date = 1029.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ryon"
+		monarch_name = "Ryon"
+		dynasty = "Zarghaz"
+		birth_date = 1081.1.1
+		death_date = 1144.1.1
+		claim = 67
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Zarghaz"
+		birth_date = 1020.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Petyr"
+		monarch_name = "Petyr"
+		dynasty = "Zarghaz"
+		birth_date = 1079.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Normund"
+		dynasty = "Zarghaz"
+		birth_date = 1090.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Zarghaz"
+		birth_date = 1099.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Tumco"
+		dynasty = "Zarghaz"
+		birth_date = 1099.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Clifford"
+		monarch_name = "Clifford"
+		dynasty = "Zarghaz"
+		birth_date = 1146.1.1
+		death_date = 1196.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Morton"
+		dynasty = "Zarghaz"
+		birth_date = 1173.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Poxy"
+		monarch_name = "Poxy"
+		dynasty = "Zarghaz"
+		birth_date = 1172.1.1
+		death_date = 1270.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Jyck"
+		dynasty = "Zarghaz"
+		birth_date = 1185.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Daven"
+		monarch_name = "Daven"
+		dynasty = "Zarghaz"
+		birth_date = 1186.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Zarghaz"
+		birth_date = 1126.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Bharbo"
+		monarch_name = "Bharbo"
+		dynasty = "Zarghaz"
+		birth_date = 1197.1.1
+		death_date = 1233.1.1
+		claim = 16
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Tygett"
+		dynasty = "Zarghaz"
+		birth_date = 1189.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Zarghaz"
+		birth_date = 1222.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Thormor"
+		dynasty = "Zarghaz"
+		birth_date = 1255.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Zarghaz"
+		birth_date = 1263.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1337.1.1 = {
+
+	monarch = {
+		name = "Tanselle"
+		dynasty = "Zarghaz"
+		birth_date = 1314.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Vaellyn"
+		monarch_name = "Vaellyn"
+		dynasty = "Zarghaz"
+		birth_date = 1308.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Zarghaz"
+		birth_date = 1286.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Wilbert"
+		monarch_name = "Wilbert"
+		dynasty = "Zarghaz"
+		birth_date = 1367.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+

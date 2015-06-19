@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = hazdahn
+religion = asoiaf_graces
+
+capital = 698
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ferrego"
+		dynasty = "Larghaz"
+		birth_date = 950.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Bryon"
+		monarch_name = "Bryon"
+		dynasty = "Larghaz"
+		birth_date = 990.1.1
+		death_date = 1038.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Grigg"
+		dynasty = "Larghaz"
+		birth_date = 987.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Cetheres"
+		monarch_name = "Cetheres"
+		dynasty = "Larghaz"
+		birth_date = 999.1.1
+		death_date = 1039.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Ulmer"
+		dynasty = "Larghaz"
+		birth_date = 1032.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Gawen"
+		monarch_name = "Gawen"
+		dynasty = "Larghaz"
+		birth_date = 1036.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Dake"
+		dynasty = "Larghaz"
+		birth_date = 1012.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Sam"
+		monarch_name = "Sam"
+		dynasty = "Larghaz"
+		birth_date = 1058.1.1
+		death_date = 1100.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Ricasso"
+		dynasty = "Larghaz"
+		birth_date = 1068.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Mully"
+		monarch_name = "Mully"
+		dynasty = "Larghaz"
+		female = yes
+		birth_date = 1089.1.1
+		death_date = 1121.1.1
+		claim = 54
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1176.1.1 = {
+
+	monarch = {
+		name = "Dafyn"
+		dynasty = "Larghaz"
+		birth_date = 1155.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Tybero"
+		monarch_name = "Tybero"
+		dynasty = "Larghaz"
+		birth_date = 1165.1.1
+		death_date = 1240.1.1
+		claim = 61
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Larghaz"
+		birth_date = 1138.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Eldred"
+		monarch_name = "Eldred"
+		dynasty = "Larghaz"
+		birth_date = 1204.1.1
+		death_date = 1278.1.1
+		claim = 46
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Harlan"
+		dynasty = "Larghaz"
+		birth_date = 1206.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Dykk"
+		monarch_name = "Dykk"
+		dynasty = "Larghaz"
+		birth_date = 1275.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1373.1.1 = {
+
+	monarch = {
+		name = "Ezzelnyo"
+		dynasty = "Larghaz"
+		birth_date = 1336.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Ternesio"
+		monarch_name = "Ternesio"
+		dynasty = "Larghaz"
+		birth_date = 1351.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+

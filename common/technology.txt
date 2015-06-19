@@ -1,0 +1,105 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new technology, make sure they are uniquely named.
+
+# Armies get a insufficient support penalty when the ratio cav / (inf+cav) is _higher_ than "cav_to_inf_ratio". This applies for the "unit_type" of a country.
+
+# Groups must be defined BEFORE tables.
+
+
+groups = {
+	# Westerois
+	western = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	# Essosian
+	eastern = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	ghiscari = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	quartheen = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	naathi = {
+		modifier = 0.25
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	farosi = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	yiti = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	hyrkooni = {
+		modifier = 0
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	nefer = {
+		modifier = 0.25
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	stepstones = {
+		modifier = 0.25
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	ibbenese = {
+		modifier = 0.25
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	summer_islanders = {
+		modifier = 0.25
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+	
+	# Dothraki
+	dothraki = {
+		modifier = 1
+		start_level = 1
+		cav_to_inf_ratio = 1
+		trade_company = yes
+	}
+	# Wildling
+	wildling = {
+		modifier = 1
+		start_level = 1
+		cav_to_inf_ratio = 0.5
+		trade_company = yes
+	}
+}
+
+tables = {
+	adm_tech = "technologies/adm.txt"
+	dip_tech = "technologies/dip.txt"
+	mil_tech = "technologies/mil.txt"
+}

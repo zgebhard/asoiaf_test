@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = mo
+religion = asoiaf_summer_gods
+
+capital = 505
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rickon"
+		dynasty = "Mo"
+		birth_date = 940.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Jommy"
+		monarch_name = "Jommy"
+		dynasty = "Mo"
+		birth_date = 972.1.1
+		death_date = 1079.1.1
+		claim = 73
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Alannys"
+		dynasty = "Mo"
+		birth_date = 1002.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Rowan"
+		monarch_name = "Rowan"
+		dynasty = "Mo"
+		birth_date = 1054.1.1
+		death_date = 1166.1.1
+		claim = 38
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Mo"
+		birth_date = 1124.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Matthos"
+		monarch_name = "Matthos"
+		dynasty = "Mo"
+		birth_date = 1152.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1160.1.1 = {
+
+	monarch = {
+		name = "Addison"
+		dynasty = "Mo"
+		birth_date = 1086.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Mo"
+		birth_date = 1138.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Colemon"
+		dynasty = "Mo"
+		birth_date = 1112.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Raymund"
+		monarch_name = "Raymund"
+		dynasty = "Mo"
+		birth_date = 1142.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Gallard"
+		dynasty = "Mo"
+		birth_date = 1153.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Mo"
+		birth_date = 1168.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Raymond"
+		dynasty = "Mo"
+		birth_date = 1141.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Puddingfoot"
+		monarch_name = "Puddingfoot"
+		dynasty = "Mo"
+		birth_date = 1190.1.1
+		death_date = 1241.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Vickon"
+		dynasty = "Mo"
+		birth_date = 1134.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Benedar"
+		monarch_name = "Benedar"
+		dynasty = "Mo"
+		birth_date = 1181.1.1
+		death_date = 1224.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Gyles"
+		dynasty = "Mo"
+		birth_date = 1150.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Utherydes"
+		monarch_name = "Utherydes"
+		dynasty = "Mo"
+		birth_date = 1208.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1307.1.1 = {
+
+	monarch = {
+		name = "Galyeon"
+		dynasty = "Mo"
+		birth_date = 1254.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Meha"
+		monarch_name = "Meha"
+		dynasty = "Mo"
+		birth_date = 1287.1.1
+		death_date = 1322.1.1
+		claim = 61
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1365.1.1 = {
+	monarch = {
+		name = "Shyra"
+		dynasty = "Mo"
+		female = yes
+		birth_date = 1323.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Rorge"
+		monarch_name = "Rorge"
+		dynasty = "Mo"
+		birth_date = 1343.1.1
+		death_date = 1441.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Mo"
+		birth_date = 1334.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Mo"
+		birth_date = 1371.1.1
+		death_date = 1415.1.1
+		claim = 2
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+

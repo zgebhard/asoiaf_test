@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = yunkai
+religion = asoiaf_graces
+
+capital = 615
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Dobber"
+		dynasty = "Rhaezn"
+		birth_date = 969.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Jurne"
+		monarch_name = "Jurne"
+		dynasty = "Rhaezn"
+		birth_date = 983.1.1
+		death_date = 1050.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Tygett"
+		dynasty = "Rhaezn"
+		birth_date = 1047.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Cregan"
+		monarch_name = "Cregan"
+		dynasty = "Rhaezn"
+		birth_date = 1061.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Rolph"
+		dynasty = "Rhaezn"
+		birth_date = 1097.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Humfrey"
+		monarch_name = "Humfrey"
+		dynasty = "Rhaezn"
+		birth_date = 1113.1.1
+		death_date = 1162.1.1
+		claim = 54
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1170.1.1 = {
+	monarch = {
+		name = "Daella"
+		dynasty = "Rhaezn"
+		female = yes
+		birth_date = 1106.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Edric"
+		monarch_name = "Edric"
+		dynasty = "Rhaezn"
+		birth_date = 1165.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1256.1.1 = {
+
+	monarch = {
+		name = "Willem"
+		dynasty = "Rhaezn"
+		birth_date = 1182.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Rhaezn"
+		birth_date = 1246.1.1
+		death_date = 1322.1.1
+		claim = 98
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Rhaezn"
+		birth_date = 1293.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Kenned"
+		monarch_name = "Kenned"
+		dynasty = "Rhaezn"
+		birth_date = 1316.1.1
+		death_date = 1345.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1329.1.1 = {
+
+	monarch = {
+		name = "Donnel"
+		dynasty = "Rhaezn"
+		birth_date = 1268.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Goghor"
+		monarch_name = "Goghor"
+		dynasty = "Rhaezn"
+		birth_date = 1325.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1364.1.1 = {
+
+	monarch = {
+		name = "Gwayne"
+		dynasty = "Rhaezn"
+		birth_date = 1335.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Rumund"
+		monarch_name = "Rumund"
+		dynasty = "Rhaezn"
+		birth_date = 1357.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+

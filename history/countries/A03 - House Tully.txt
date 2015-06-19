@@ -1,0 +1,103 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 101
+
+1000.1.1 = {
+	monarch = {
+		name = "Edmyn"
+		dynasty = "Tully"
+		birth_date = 981.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1005.1.1 = {
+	elector = yes
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Melwys"
+		dynasty = "Tully"
+		birth_date = 993.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Elmo"
+		dynasty = "Tully"
+		birth_date = 1089.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+# The Conquest of Dorne
+1157.1.1 = {
+	monarch = {
+		name = "Kermit"
+		dynasty = "Tully"
+		birth_date = 1112.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+# Blackfyre Rebellion
+1196.1.1 = {
+	monarch = {
+		name = "Edmund"
+		dynasty = "Tully"
+		birth_date = 1165.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Hoster"
+		dynasty = "Tully"
+		birth_date = 1236.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+# Robert's Rebellion
+
+# Greyjoy Rebellion
+
+# A Clash of Kings
+
+# A Feast for Crows
+1298.1.1 = {
+	monarch = {
+		name = "Edmure II"
+		dynasty = "Tully"
+		birth_date = 1271.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

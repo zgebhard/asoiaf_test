@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 167
+
+1000.1.1 = {
+	monarch = {
+		name = "Morna"
+		dynasty = "Farman"
+		female = yes
+		birth_date = 935.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Farman"
+		birth_date = 985.1.1
+		death_date = 1052.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1066.1.1 = {
+
+	monarch = {
+		name = "Mallor"
+		dynasty = "Farman"
+		birth_date = 1046.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Mollander"
+		monarch_name = "Mollander"
+		dynasty = "Farman"
+		birth_date = 1066.1.1
+		death_date = 1133.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Yorko"
+		dynasty = "Farman"
+		birth_date = 1117.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Farman"
+		birth_date = 1119.1.1
+		death_date = 1203.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Addam"
+		dynasty = "Farman"
+		birth_date = 1128.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Hop-Robin"
+		monarch_name = "Hop-Robin"
+		dynasty = "Farman"
+		birth_date = 1196.1.1
+		death_date = 1244.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Barristan"
+		dynasty = "Farman"
+		birth_date = 1197.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Watty"
+		monarch_name = "Watty"
+		dynasty = "Farman"
+		birth_date = 1193.1.1
+		death_date = 1295.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Lambert"
+		dynasty = "Farman"
+		birth_date = 1162.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Medgar"
+		monarch_name = "Medgar"
+		dynasty = "Farman"
+		birth_date = 1217.1.1
+		death_date = 1313.1.1
+		claim = 28
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Cedric"
+		dynasty = "Farman"
+		birth_date = 1186.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Jacks"
+		monarch_name = "Jacks"
+		dynasty = "Farman"
+		birth_date = 1224.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Moredo"
+		dynasty = "Farman"
+		birth_date = 1243.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Normund"
+		monarch_name = "Normund"
+		dynasty = "Farman"
+		birth_date = 1268.1.1
+		death_date = 1340.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Hop-Robin"
+		dynasty = "Farman"
+		birth_date = 1309.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Farman"
+		birth_date = 1338.1.1
+		death_date = 1424.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Ryk"
+		dynasty = "Farman"
+		birth_date = 1351.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Farman"
+		birth_date = 1347.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,46 @@
+# 520 - Lotus Hills
+
+add_core = X35
+add_core = X36
+owner = X35
+controller = X35
+
+culture = qo
+religion = asoiaf_summer_gods
+
+base_tax = 3
+base_production = 3
+trade_goods = spices
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Lotus Hills"
+
+1000.2.1 = {
+	remove_core = X35
+	owner = X36
+	controller = X36
+}
+
+1000.2.2 = {
+	owner = X35
+	add_core = X35
+	controller = X35
+}

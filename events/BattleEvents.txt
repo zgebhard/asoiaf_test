@@ -1,0 +1,39 @@
+namespace = BATTLE_EVENTS
+
+#title: $FROMCOUNTRY$ has humiliated us!
+#desc: Our poor performance during a recent battle has brought $MONARCH$ $MONARCHTITLE$'s legitimacy into question.
+#1: Damn them!
+country_event = {
+	id = BATTLE_EVENTS.1
+	title = "BATTLE_EVENTS.1t"
+	desc = "BATTLE_EVENTS.1d"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "BATTLE_EVENTS.1a"
+		
+		add_legitimacy = -5
+		add_prestige = -5
+	}
+}
+
+#title: We humiliated $FROMCOUNTRY$
+#desc: Our excellent performance during a recent battle has given the legitimacy of $MONARCH$ $MONARCHTITLE$'s rule a much needed bolster among [Root.Monarch.GetHerHis] people. 
+#1: Wonderful!
+country_event = {
+	id = BATTLE_EVENTS.2
+	title = "BATTLE_EVENTS.2t"
+	desc = "BATTLE_EVENTS.2d"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "BATTLE_EVENTS.2a"
+		
+		add_legitimacy = 5
+		add_prestige = 5
+	}
+}

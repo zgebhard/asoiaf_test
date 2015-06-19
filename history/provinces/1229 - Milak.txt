@@ -1,0 +1,43 @@
+# 1229 - Milak
+
+owner = R19
+add_core = R19
+controller = R19
+is_city = yes
+
+culture = meereen
+religion = asoiaf_graces
+
+base_tax = 6
+base_production = 6
+base_manpower =  5
+
+trade_goods = cloth
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = R19
+	owner = R22
+	controller = R22
+}
+
+1000.2.2 = {
+	owner = R19
+	add_core = R19
+	controller = R19
+}

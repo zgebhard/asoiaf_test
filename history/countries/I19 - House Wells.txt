@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 59
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bael"
+		dynasty = "Wells"
+		birth_date = 982.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Elyas"
+		monarch_name = "Elyas"
+		dynasty = "Wells"
+		birth_date = 996.1.1
+		death_date = 1049.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Wun"
+		dynasty = "Wells"
+		birth_date = 1052.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Dan"
+		monarch_name = "Dan"
+		dynasty = "Wells"
+		birth_date = 1066.1.1
+		death_date = 1170.1.1
+		claim = 8
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Mero"
+		dynasty = "Wells"
+		birth_date = 1092.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Bonifer"
+		monarch_name = "Bonifer"
+		dynasty = "Wells"
+		birth_date = 1144.1.1
+		death_date = 1189.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Gormond"
+		dynasty = "Wells"
+		birth_date = 1161.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Wells"
+		birth_date = 1198.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Janos"
+		dynasty = "Wells"
+		birth_date = 1164.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Wells"
+		birth_date = 1204.1.1
+		death_date = 1265.1.1
+		claim = 87
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Wells"
+		birth_date = 1222.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Todric"
+		monarch_name = "Todric"
+		dynasty = "Wells"
+		birth_date = 1241.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Wells"
+		birth_date = 1197.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Devan"
+		monarch_name = "Devan"
+		dynasty = "Wells"
+		birth_date = 1245.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Vortimer"
+		dynasty = "Wells"
+		birth_date = 1259.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Joseran"
+		monarch_name = "Joseran"
+		dynasty = "Wells"
+		birth_date = 1269.1.1
+		death_date = 1354.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Kedge"
+		dynasty = "Wells"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Theo"
+		monarch_name = "Theo"
+		dynasty = "Wells"
+		birth_date = 1309.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Wayn"
+		dynasty = "Wells"
+		birth_date = 1314.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Fern"
+		monarch_name = "Fern"
+		dynasty = "Wells"
+		birth_date = 1332.1.1
+		death_date = 1438.1.1
+		claim = 83
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+

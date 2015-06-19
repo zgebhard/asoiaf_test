@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 313
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Godry"
+		dynasty = "Wagstaff"
+		birth_date = 949.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Howd"
+		monarch_name = "Howd"
+		dynasty = "Wagstaff"
+		birth_date = 1000.1.1
+		death_date = 1049.1.1
+		claim = 48
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1065.1.1 = {
+	monarch = {
+		name = "Morna"
+		dynasty = "Wagstaff"
+		female = yes
+		birth_date = 1004.1.1
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Wagstaff"
+		birth_date = 1043.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1115.1.1 = {
+
+	monarch = {
+		name = "Eddard"
+		dynasty = "Wagstaff"
+		birth_date = 1085.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Grigg"
+		monarch_name = "Grigg"
+		dynasty = "Wagstaff"
+		birth_date = 1114.1.1
+		death_date = 1131.1.1
+		claim = 12
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "Jurne"
+		dynasty = "Wagstaff"
+		birth_date = 1122.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Utherydes"
+		monarch_name = "Utherydes"
+		dynasty = "Wagstaff"
+		birth_date = 1157.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Orland"
+		dynasty = "Wagstaff"
+		birth_date = 1150.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Rob"
+		monarch_name = "Rob"
+		dynasty = "Wagstaff"
+		birth_date = 1206.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1265.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Wagstaff"
+		birth_date = 1186.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Arlan"
+		monarch_name = "Arlan"
+		dynasty = "Wagstaff"
+		birth_date = 1262.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Tanselle"
+		dynasty = "Wagstaff"
+		birth_date = 1260.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Harren"
+		monarch_name = "Harren"
+		dynasty = "Wagstaff"
+		birth_date = 1322.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Oro"
+		dynasty = "Wagstaff"
+		birth_date = 1355.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Hilmar"
+		monarch_name = "Hilmar"
+		dynasty = "Wagstaff"
+		birth_date = 1370.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+

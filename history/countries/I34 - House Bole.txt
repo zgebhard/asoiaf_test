@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 38
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Howland"
+		dynasty = "Bole"
+		birth_date = 959.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Todder"
+		monarch_name = "Todder"
+		dynasty = "Bole"
+		birth_date = 987.1.1
+		death_date = 1018.1.1
+		claim = 53
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Dunaver"
+		dynasty = "Bole"
+		birth_date = 959.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Willas"
+		monarch_name = "Willas"
+		dynasty = "Bole"
+		birth_date = 1020.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Edderion"
+		dynasty = "Bole"
+		birth_date = 990.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Godric"
+		monarch_name = "Godric"
+		dynasty = "Bole"
+		birth_date = 1034.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Bole"
+		birth_date = 1097.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Amabel"
+		monarch_name = "Amabel"
+		dynasty = "Bole"
+		birth_date = 1118.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Bole"
+		birth_date = 1117.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Urrigon"
+		monarch_name = "Urrigon"
+		dynasty = "Bole"
+		birth_date = 1160.1.1
+		death_date = 1266.1.1
+		claim = 75
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Alerie"
+		dynasty = "Bole"
+		birth_date = 1107.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Kevan"
+		monarch_name = "Kevan"
+		dynasty = "Bole"
+		birth_date = 1184.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Lysono"
+		dynasty = "Bole"
+		birth_date = 1136.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Tomard"
+		monarch_name = "Tomard"
+		dynasty = "Bole"
+		birth_date = 1204.1.1
+		death_date = 1284.1.1
+		claim = 37
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Erryk"
+		dynasty = "Bole"
+		birth_date = 1194.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Harwood"
+		monarch_name = "Harwood"
+		dynasty = "Bole"
+		birth_date = 1252.1.1
+		death_date = 1332.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Bole"
+		birth_date = 1230.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Henk"
+		monarch_name = "Henk"
+		dynasty = "Bole"
+		birth_date = 1317.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Andrew"
+		dynasty = "Bole"
+		birth_date = 1314.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Haldon"
+		monarch_name = "Haldon"
+		dynasty = "Bole"
+		birth_date = 1365.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+

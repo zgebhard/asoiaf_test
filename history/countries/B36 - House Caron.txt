@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 307
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mallador"
+		dynasty = "Caron"
+		birth_date = 940.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Tanton"
+		monarch_name = "Tanton"
+		dynasty = "Caron"
+		birth_date = 973.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Caron"
+		birth_date = 948.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Kezmya"
+		monarch_name = "Kezmya"
+		dynasty = "Caron"
+		birth_date = 1003.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1092.1.1 = {
+
+	monarch = {
+		name = "Mohor"
+		dynasty = "Caron"
+		birth_date = 1019.1.1
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Qarl"
+		monarch_name = "Qarl"
+		dynasty = "Caron"
+		birth_date = 1083.1.1
+		death_date = 1176.1.1
+		claim = 46
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Quenten"
+		dynasty = "Caron"
+		birth_date = 1135.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Daeron"
+		monarch_name = "Daeron"
+		dynasty = "Caron"
+		birth_date = 1170.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Caron"
+		birth_date = 1152.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Gyloro"
+		monarch_name = "Gyloro"
+		dynasty = "Caron"
+		birth_date = 1220.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Garrison"
+		dynasty = "Caron"
+		birth_date = 1204.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Normund"
+		monarch_name = "Normund"
+		dynasty = "Caron"
+		birth_date = 1272.1.1
+		death_date = 1362.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Harsley"
+		dynasty = "Caron"
+		birth_date = 1263.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Waldon"
+		monarch_name = "Waldon"
+		dynasty = "Caron"
+		birth_date = 1267.1.1
+		death_date = 1380.1.1
+		claim = 73
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Theobald"
+		dynasty = "Caron"
+		birth_date = 1295.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ragnor"
+		monarch_name = "Ragnor"
+		dynasty = "Caron"
+		birth_date = 1291.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1399.1.1 = {
+
+	monarch = {
+		name = "Igon"
+		dynasty = "Caron"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Qezza"
+		monarch_name = "Qezza"
+		dynasty = "Caron"
+		birth_date = 1381.1.1
+		death_date = 1453.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+

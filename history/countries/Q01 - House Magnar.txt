@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = skagosi
+religion = asoiaf_the_old_gods
+
+capital = 31
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Norne"
+		dynasty = "Magnar"
+		birth_date = 924.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Matthar"
+		monarch_name = "Matthar"
+		dynasty = "Magnar"
+		birth_date = 992.1.1
+		death_date = 1023.1.1
+		claim = 92
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1006.1.1 = {
+
+	monarch = {
+		name = "Pollitor"
+		dynasty = "Magnar"
+		birth_date = 938.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Cellador"
+		monarch_name = "Cellador"
+		dynasty = "Magnar"
+		birth_date = 985.1.1
+		death_date = 1073.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Tytos"
+		dynasty = "Magnar"
+		birth_date = 966.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Willum"
+		monarch_name = "Willum"
+		dynasty = "Magnar"
+		birth_date = 997.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Godric"
+		dynasty = "Magnar"
+		birth_date = 988.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Tystane"
+		monarch_name = "Tystane"
+		dynasty = "Magnar"
+		birth_date = 989.1.1
+		death_date = 1065.1.1
+		claim = 31
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Jaehaerys"
+		dynasty = "Magnar"
+		birth_date = 1013.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Guyne"
+		monarch_name = "Guyne"
+		dynasty = "Magnar"
+		birth_date = 1033.1.1
+		death_date = 1140.1.1
+		claim = 38
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Agrivane"
+		dynasty = "Magnar"
+		birth_date = 1015.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jeren"
+		monarch_name = "Jeren"
+		dynasty = "Magnar"
+		birth_date = 1070.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Argilac"
+		dynasty = "Magnar"
+		birth_date = 1029.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Alfyn"
+		monarch_name = "Alfyn"
+		dynasty = "Magnar"
+		birth_date = 1073.1.1
+		death_date = 1174.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Reysen"
+		dynasty = "Magnar"
+		birth_date = 1083.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Khorane"
+		monarch_name = "Khorane"
+		dynasty = "Magnar"
+		birth_date = 1161.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Ryman"
+		dynasty = "Magnar"
+		birth_date = 1204.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Emphyria"
+		monarch_name = "Emphyria"
+		dynasty = "Magnar"
+		birth_date = 1211.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1244.1.1 = {
+
+	monarch = {
+		name = "Wolmer"
+		dynasty = "Magnar"
+		birth_date = 1226.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Nute"
+		monarch_name = "Nute"
+		dynasty = "Magnar"
+		birth_date = 1243.1.1
+		death_date = 1290.1.1
+		claim = 79
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Reysen"
+		dynasty = "Magnar"
+		birth_date = 1194.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Dake"
+		monarch_name = "Dake"
+		dynasty = "Magnar"
+		birth_date = 1221.1.1
+		death_date = 1285.1.1
+		claim = 49
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1307.1.1 = {
+
+	monarch = {
+		name = "Emmon"
+		dynasty = "Magnar"
+		birth_date = 1270.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Cedra"
+		monarch_name = "Cedra"
+		dynasty = "Magnar"
+		birth_date = 1305.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1346.1.1 = {
+
+	monarch = {
+		name = "Torwold"
+		dynasty = "Magnar"
+		birth_date = 1268.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Penny"
+		monarch_name = "Penny"
+		dynasty = "Magnar"
+		birth_date = 1336.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Eldred"
+		dynasty = "Magnar"
+		birth_date = 1344.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Jaehaerys"
+		monarch_name = "Jaehaerys"
+		dynasty = "Magnar"
+		birth_date = 1342.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+

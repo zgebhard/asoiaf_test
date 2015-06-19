@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "CONQUEST_OF_DORNE_NAME"
+	desc = "CONQUEST_OF_DORNE_DESC"
+	# New Date: 1157.1.1
+	# Old Date: 2004.1.1
+	date = 1157.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = conquest_of_dorne
+		}
+	}
+}

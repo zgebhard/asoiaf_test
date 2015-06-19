@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 345
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Roone"
+		dynasty = "Vaith"
+		birth_date = 935.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Qarro"
+		monarch_name = "Qarro"
+		dynasty = "Vaith"
+		birth_date = 995.1.1
+		death_date = 1058.1.1
+		claim = 1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1014.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Vaith"
+		birth_date = 956.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Ogo"
+		monarch_name = "Ogo"
+		dynasty = "Vaith"
+		birth_date = 1013.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Torrhen"
+		dynasty = "Vaith"
+		birth_date = 1010.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Palla"
+		monarch_name = "Palla"
+		dynasty = "Vaith"
+		female = yes
+		birth_date = 1001.1.1
+		death_date = 1061.1.1
+		claim = 82
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Tyta"
+		dynasty = "Vaith"
+		birth_date = 1010.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Cedrik"
+		monarch_name = "Cedrik"
+		dynasty = "Vaith"
+		birth_date = 1078.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1146.1.1 = {
+
+	monarch = {
+		name = "Jommy"
+		dynasty = "Vaith"
+		birth_date = 1065.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Marlon"
+		monarch_name = "Marlon"
+		dynasty = "Vaith"
+		birth_date = 1120.1.1
+		death_date = 1200.1.1
+		claim = 42
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Borcas"
+		dynasty = "Vaith"
+		birth_date = 1131.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Guncer"
+		monarch_name = "Guncer"
+		dynasty = "Vaith"
+		birth_date = 1190.1.1
+		death_date = 1269.1.1
+		claim = 36
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Clarence"
+		dynasty = "Vaith"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Horton"
+		monarch_name = "Horton"
+		dynasty = "Vaith"
+		birth_date = 1243.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Hibald"
+		dynasty = "Vaith"
+		birth_date = 1258.1.1
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Joseth"
+		monarch_name = "Joseth"
+		dynasty = "Vaith"
+		birth_date = 1308.1.1
+		death_date = 1408.1.1
+		claim = 27
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Vaith"
+		birth_date = 1326.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Haegon"
+		monarch_name = "Haegon"
+		dynasty = "Vaith"
+		birth_date = 1340.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+

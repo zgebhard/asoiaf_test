@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 184
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gareth"
+		dynasty = "Broom"
+		birth_date = 957.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Alyx"
+		monarch_name = "Alyx"
+		dynasty = "Broom"
+		birth_date = 1000.1.1
+		death_date = 1047.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1089.1.1 = {
+	monarch = {
+		name = "Walda"
+		dynasty = "Broom"
+		female = yes
+		birth_date = 1009.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Beldecar"
+		monarch_name = "Beldecar"
+		dynasty = "Broom"
+		birth_date = 1065.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1159.1.1 = {
+
+	monarch = {
+		name = "Amabel"
+		dynasty = "Broom"
+		birth_date = 1084.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Daereyssa"
+		monarch_name = "Daereyssa"
+		dynasty = "Broom"
+		female = yes
+		birth_date = 1130.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Kennos"
+		dynasty = "Broom"
+		birth_date = 1190.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Broom"
+		birth_date = 1222.1.1
+		death_date = 1270.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Sumner"
+		dynasty = "Broom"
+		birth_date = 1182.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Broom"
+		birth_date = 1247.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1271.1.1 = {
+	monarch = {
+		name = "Mya"
+		dynasty = "Broom"
+		female = yes
+		birth_date = 1253.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon"
+		dynasty = "Broom"
+		birth_date = 1252.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Osmynd"
+		dynasty = "Broom"
+		birth_date = 1194.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Ebben"
+		monarch_name = "Ebben"
+		dynasty = "Broom"
+		birth_date = 1275.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Broom"
+		birth_date = 1268.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Wynafrei"
+		monarch_name = "Wynafrei"
+		dynasty = "Broom"
+		female = yes
+		birth_date = 1329.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Shiera"
+		dynasty = "Broom"
+		birth_date = 1337.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "Broom"
+		birth_date = 1360.1.1
+		death_date = 1422.1.1
+		claim = 72
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,188 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+historical_rival = A01
+
+capital = 53
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Krazz"
+		dynasty = "Bolton"
+		birth_date = 918.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Bolton"
+		birth_date = 995.1.1
+		death_date = 1028.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Bolton"
+		birth_date = 1055.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Oberyn"
+		monarch_name = "Oberyn"
+		dynasty = "Bolton"
+		birth_date = 1046.1.1
+		death_date = 1102.1.1
+		claim = 47
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Bolton"
+		birth_date = 1022.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Bolton"
+		birth_date = 1101.1.1
+		death_date = 1162.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1190.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Bolton"
+		birth_date = 1108.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Eldred"
+		monarch_name = "Eldred"
+		dynasty = "Bolton"
+		birth_date = 1190.1.1
+		death_date = 1222.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Jothos"
+		dynasty = "Bolton"
+		birth_date = 1153.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Elia"
+		monarch_name = "Elia"
+		dynasty = "Bolton"
+		female = yes
+		birth_date = 1225.1.1
+		death_date = 1257.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Eggon"
+		dynasty = "Bolton"
+		birth_date = 1289.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Colen"
+		monarch_name = "Colen"
+		dynasty = "Bolton"
+		birth_date = 1303.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1373.1.1 = {
+
+	monarch = {
+		name = "Garth"
+		dynasty = "Bolton"
+		birth_date = 1324.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Turquin"
+		monarch_name = "Turquin"
+		dynasty = "Bolton"
+		birth_date = 1361.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+

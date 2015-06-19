@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 145
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Morosh"
+		dynasty = "Templeton"
+		birth_date = 967.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Templeton"
+		birth_date = 993.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1048.1.1 = {
+
+	monarch = {
+		name = "Merrit"
+		dynasty = "Templeton"
+		birth_date = 1002.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Brandon"
+		monarch_name = "Brandon"
+		dynasty = "Templeton"
+		birth_date = 1033.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Harmund"
+		dynasty = "Templeton"
+		birth_date = 975.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Woth"
+		monarch_name = "Woth"
+		dynasty = "Templeton"
+		birth_date = 1037.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Nymos"
+		dynasty = "Templeton"
+		birth_date = 1063.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Roland"
+		monarch_name = "Roland"
+		dynasty = "Templeton"
+		birth_date = 1092.1.1
+		death_date = 1137.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Templeton"
+		birth_date = 1043.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Dagmer"
+		monarch_name = "Dagmer"
+		dynasty = "Templeton"
+		birth_date = 1102.1.1
+		death_date = 1175.1.1
+		claim = 12
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Templeton"
+		birth_date = 1123.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Otto"
+		monarch_name = "Otto"
+		dynasty = "Templeton"
+		birth_date = 1153.1.1
+		death_date = 1200.1.1
+		claim = 87
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Rupert"
+		dynasty = "Templeton"
+		birth_date = 1212.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Zollo"
+		monarch_name = "Zollo"
+		dynasty = "Templeton"
+		birth_date = 1254.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1291.1.1 = {
+	monarch = {
+		name = "Asha"
+		dynasty = "Templeton"
+		female = yes
+		birth_date = 1269.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Templeton"
+		birth_date = 1288.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1307.1.1 = {
+
+	monarch = {
+		name = "Collio"
+		dynasty = "Templeton"
+		birth_date = 1250.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Notch"
+		monarch_name = "Notch"
+		dynasty = "Templeton"
+		birth_date = 1305.1.1
+		death_date = 1334.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Luke"
+		dynasty = "Templeton"
+		birth_date = 1281.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Ezzelnyo"
+		monarch_name = "Ezzelnyo"
+		dynasty = "Templeton"
+		birth_date = 1309.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Merrit"
+		dynasty = "Templeton"
+		birth_date = 1333.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Visenya"
+		monarch_name = "Visenya"
+		dynasty = "Templeton"
+		birth_date = 1377.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Watt"
+		dynasty = "Templeton"
+		birth_date = 1306.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Morros"
+		monarch_name = "Morros"
+		dynasty = "Templeton"
+		birth_date = 1379.1.1
+		death_date = 1470.1.1
+		claim = 84
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Tregar"
+		dynasty = "Templeton"
+		birth_date = 1332.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Rodwell"
+		monarch_name = "Rodwell"
+		dynasty = "Templeton"
+		birth_date = 1378.1.1
+		death_date = 1483.1.1
+		claim = 25
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+

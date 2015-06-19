@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 245
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Otto"
+		dynasty = "Rowan"
+		birth_date = 967.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Rossart"
+		monarch_name = "Rossart"
+		dynasty = "Rowan"
+		birth_date = 996.1.1
+		death_date = 1086.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1042.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Rowan"
+		birth_date = 1022.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Marq"
+		monarch_name = "Marq"
+		dynasty = "Rowan"
+		birth_date = 1035.1.1
+		death_date = 1108.1.1
+		claim = 74
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1059.1.1 = {
+
+	monarch = {
+		name = "Rafe"
+		dynasty = "Rowan"
+		birth_date = 1025.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Ulmer"
+		monarch_name = "Ulmer"
+		dynasty = "Rowan"
+		birth_date = 1042.1.1
+		death_date = 1099.1.1
+		claim = 5
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Tanton"
+		dynasty = "Rowan"
+		birth_date = 995.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Gilwood"
+		monarch_name = "Gilwood"
+		dynasty = "Rowan"
+		birth_date = 1065.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Rymolf"
+		dynasty = "Rowan"
+		birth_date = 1121.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Tygett"
+		monarch_name = "Tygett"
+		dynasty = "Rowan"
+		birth_date = 1165.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Jhaqo"
+		dynasty = "Rowan"
+		birth_date = 1162.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Skittrick"
+		monarch_name = "Skittrick"
+		dynasty = "Rowan"
+		birth_date = 1202.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Balon"
+		dynasty = "Rowan"
+		birth_date = 1235.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Benedar"
+		monarch_name = "Benedar"
+		dynasty = "Rowan"
+		birth_date = 1265.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Rowan"
+		birth_date = 1303.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Maege"
+		monarch_name = "Maege"
+		dynasty = "Rowan"
+		birth_date = 1316.1.1
+		death_date = 1373.1.1
+		claim = 11
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+

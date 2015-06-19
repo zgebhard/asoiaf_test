@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 159
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Duncan"
+		dynasty = "Stonetree"
+		birth_date = 955.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Ferrego"
+		monarch_name = "Ferrego"
+		dynasty = "Stonetree"
+		birth_date = 992.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1011.1.1 = {
+
+	monarch = {
+		name = "Rugen"
+		dynasty = "Stonetree"
+		birth_date = 966.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Cloen"
+		monarch_name = "Cloen"
+		dynasty = "Stonetree"
+		birth_date = 1010.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Draqaz"
+		dynasty = "Stonetree"
+		birth_date = 1013.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Eglantine"
+		monarch_name = "Eglantine"
+		dynasty = "Stonetree"
+		birth_date = 1088.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "Jason"
+		dynasty = "Stonetree"
+		birth_date = 1096.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Rowan"
+		monarch_name = "Rowan"
+		dynasty = "Stonetree"
+		birth_date = 1159.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1191.1.1 = {
+
+	monarch = {
+		name = "Ygon"
+		dynasty = "Stonetree"
+		birth_date = 1160.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Stonetree"
+		birth_date = 1186.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Warren"
+		dynasty = "Stonetree"
+		birth_date = 1219.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Grigg"
+		monarch_name = "Grigg"
+		dynasty = "Stonetree"
+		birth_date = 1239.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1339.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Stonetree"
+		birth_date = 1306.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Rolder"
+		monarch_name = "Rolder"
+		dynasty = "Stonetree"
+		birth_date = 1321.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Dacks"
+		dynasty = "Stonetree"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Myria"
+		monarch_name = "Myria"
+		dynasty = "Stonetree"
+		female = yes
+		birth_date = 1359.1.1
+		death_date = 1413.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,15 @@
+
+owner = FAT
+add_core = FAT
+controller = FAT
+is_city = yes
+hre = no
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = unknown

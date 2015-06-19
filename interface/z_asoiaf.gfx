@@ -1,0 +1,224 @@
+spriteTypes = {
+	# General 
+	spriteType = {
+		name = "GFX_tech_group_strip"
+		texturefile = "gfx//interface//tech_group_strip.dds"
+		transparencecheck = yes	
+		noOfFrames = 14
+	}
+	
+	spriteType = {
+		name = "GFX_icon_religion"
+		texturefile = "gfx//interface//icon_religion.tga"
+		noOfFrames = 30
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_icon_religion_small"
+		texturefile = "gfx//interface//icon_religion_small.tga"
+		noOfFrames = 30
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_religion_icon_strip"
+		texturefile = "gfx//interface//icon_religion_small.dds"
+		transparencecheck = yes
+		noOfFrames = 30
+	}
+	
+	spriteType = {
+		name = "GFX_province_view_religion"
+		texturefile = "gfx//interface//province_view_religion.tga"
+		noOfFrames = 30
+	}
+	
+	# Factions
+	spriteType = {
+		name = "GFX_faction_faction_elephants"	
+		texturefile = "gfx//interface//faction_elephants.dds"
+	}
+	spriteType = {
+		name = "GFX_faction_faction_tigers"	
+		texturefile = "gfx//interface//faction_tigers.dds"
+	}
+	
+	# Faction Icons
+	
+	spriteType = {
+		name = "GFX_faction_elephants_influence"
+		texturefile = "gfx/interface/ideas_EU4/technology_cost.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_faction_tigers_influence"
+		texturefile = "gfx/interface/ideas_EU4/technology_cost.dds"
+	}
+	
+	# Tradegoods
+	spriteType = {
+		name = "GFX_resource_icon"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 29
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_resource_icon_transparent"
+		texturefile = "gfx//interface//resources.tga"
+		noOfFrames = 29
+		loadType = "INGAME"
+		norefcount = yes
+		allwaystransparent = yes
+	}
+	
+	# Event Pictures
+	# 512 * 280
+	
+	# Buildings
+	spriteType = {
+		name = "GFX_housing"
+		texturefile = "gfx//interface//buildings//latin_temple.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_lumber_camp"
+		texturefile = "gfx//interface//buildings//latin_workshop.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_mining_camp"
+		texturefile = "gfx//interface//buildings//latin_workshop.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_bank"
+		texturefile = "gfx//interface//buildings//latin_mint.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_tavern"
+		texturefile = "gfx//interface//buildings//latin_town_hall.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_monastery"
+		texturefile = "gfx//interface//buildings//latin_cathedral.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_dock"
+		texturefile = "gfx//interface//buildings//latin_dock.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_shipyard"
+		texturefile = "gfx//interface//buildings//latin_shipyard.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_storehouse"
+		texturefile = "gfx//interface//buildings//latin_naval_arsenal.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_market"
+		texturefile = "gfx//interface//buildings//latin_marketplace.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_bazaar"
+		texturefile = "gfx//interface//buildings//latin_trade_depot.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_training_fields"
+		texturefile = "gfx//interface//buildings//latin_training_fields.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_barracks"
+		texturefile = "gfx//interface//buildings//latin_armory.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_keep"
+		texturefile = "gfx//interface//buildings//latin_fort01.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_palisade_walls"
+		texturefile = "gfx//interface//buildings//latin_fort00.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_stone_walls"
+		texturefile = "gfx//interface//buildings//latin_fort01.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_fortified_walls"
+		texturefile = "gfx//interface//buildings//latin_fort01.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_market"
+		texturefile = "gfx//interface//buildings//manufactory_farm_estate.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_temple"
+		texturefile = "gfx//interface//buildings//latin_temple.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_castle"
+		texturefile = "gfx//interface//buildings//latin_fort01.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_library"
+		texturefile = "gfx//interface//buildings//manufactory_university.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_reliquary"
+		texturefile = "gfx//interface//buildings//manufactory_university.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_palace"
+		texturefile = "gfx//interface//buildings//latin_royal_palace.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_grand_hall"
+		texturefile = "gfx//interface//buildings//latin_embassy.tga"
+		loadType = "INGAME"
+	}
+}

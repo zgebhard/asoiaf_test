@@ -1,0 +1,265 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = astapor
+religion = asoiaf_graces
+
+capital = 616
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Puckens"
+		dynasty = "Gradzdhan"
+		birth_date = 936.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Cheyk"
+		monarch_name = "Cheyk"
+		dynasty = "Gradzdhan"
+		birth_date = 993.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1034.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Gradzdhan"
+		birth_date = 949.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Squint"
+		monarch_name = "Squint"
+		dynasty = "Gradzdhan"
+		birth_date = 1007.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Kyle"
+		dynasty = "Gradzdhan"
+		birth_date = 1000.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Jeren"
+		monarch_name = "Jeren"
+		dynasty = "Gradzdhan"
+		birth_date = 1045.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Gradzdhan"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Terrence"
+		monarch_name = "Terrence"
+		dynasty = "Gradzdhan"
+		birth_date = 1112.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Wendel"
+		dynasty = "Gradzdhan"
+		birth_date = 1058.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Gheal"
+		monarch_name = "Gheal"
+		dynasty = "Gradzdhan"
+		birth_date = 1140.1.1
+		death_date = 1203.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1172.1.1 = {
+	monarch = {
+		name = "Ella"
+		dynasty = "Gradzdhan"
+		female = yes
+		birth_date = 1101.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Cheyk"
+		monarch_name = "Cheyk"
+		dynasty = "Gradzdhan"
+		birth_date = 1156.1.1
+		death_date = 1204.1.1
+		claim = 46
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Garse"
+		dynasty = "Gradzdhan"
+		birth_date = 1166.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Falena"
+		monarch_name = "Falena"
+		dynasty = "Gradzdhan"
+		female = yes
+		birth_date = 1165.1.1
+		death_date = 1228.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1213.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Gradzdhan"
+		birth_date = 1143.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Frelegg"
+		monarch_name = "Frelegg"
+		dynasty = "Gradzdhan"
+		birth_date = 1193.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1298.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Gradzdhan"
+		birth_date = 1233.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Malleon"
+		monarch_name = "Malleon"
+		dynasty = "Gradzdhan"
+		birth_date = 1273.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Qarro"
+		dynasty = "Gradzdhan"
+		birth_date = 1355.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Gradzdhan"
+		birth_date = 1363.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+

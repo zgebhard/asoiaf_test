@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = jaluru
+religion = asoiaf_summer_gods
+
+capital = 522
+1000.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Jaluru"
+		birth_date = 960.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Utt"
+		monarch_name = "Utt"
+		dynasty = "Jaluru"
+		birth_date = 995.1.1
+		death_date = 1074.1.1
+		claim = 38
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Jaluru"
+		birth_date = 975.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Jaluru"
+		birth_date = 1052.1.1
+		death_date = 1119.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Gilwood"
+		dynasty = "Jaluru"
+		birth_date = 1090.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Jacelyn"
+		monarch_name = "Jacelyn"
+		dynasty = "Jaluru"
+		birth_date = 1102.1.1
+		death_date = 1177.1.1
+		claim = 24
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Robin"
+		dynasty = "Jaluru"
+		birth_date = 1192.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Malcolm"
+		monarch_name = "Malcolm"
+		dynasty = "Jaluru"
+		birth_date = 1178.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Jaluru"
+		birth_date = 1185.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Grazdan"
+		monarch_name = "Grazdan"
+		dynasty = "Jaluru"
+		birth_date = 1203.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1218.1.1 = {
+
+	monarch = {
+		name = "Ragnor"
+		dynasty = "Jaluru"
+		birth_date = 1192.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Donnel"
+		monarch_name = "Donnel"
+		dynasty = "Jaluru"
+		birth_date = 1207.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Naerys"
+		dynasty = "Jaluru"
+		birth_date = 1202.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Dacks"
+		monarch_name = "Dacks"
+		dynasty = "Jaluru"
+		birth_date = 1231.1.1
+		death_date = 1302.1.1
+		claim = 90
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1338.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Jaluru"
+		birth_date = 1310.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Bella"
+		monarch_name = "Bella"
+		dynasty = "Jaluru"
+		female = yes
+		birth_date = 1333.1.1
+		death_date = 1356.1.1
+		claim = 58
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Jaluru"
+		birth_date = 1315.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Paxter"
+		monarch_name = "Paxter"
+		dynasty = "Jaluru"
+		birth_date = 1393.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+

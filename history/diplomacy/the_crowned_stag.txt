@@ -1,0 +1,65 @@
+
+# Bleeding Years
+#	All major houses have alliance with Hoare
+#	Targaryen start at with with Hoare, with the Cave Houses as support
+#		Will need to add events as 'support'
+
+# Forging the Throne
+#	Tully under Targaryen
+#	Durrandon under Targaryen
+#	Targaryen at war with Tyrell and Lannister
+#	Targaryen at war with Stark
+
+# union
+# vassal
+# alliance
+# guarentee
+# warning
+#union = {
+#	first = A10
+#	second = A03
+#	start_date = 2000.1.2
+#	end_date = 2000.1.3
+#}
+
+alliance = {
+	first = A07
+	second = A01
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}
+
+alliance = {
+	first = A07
+	second = A03
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}
+
+alliance = {
+	first = A07
+	second = A09
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}
+
+alliance = {
+	first = A07
+	second = A06
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}
+
+alliance = {
+	first = A07
+	second = E09
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}
+
+alliance = {
+	first = A07
+	second = F20
+	start_date = 1289.1.1
+	end_date = 1298.1.1
+}

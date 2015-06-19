@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 655
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cayn"
+		dynasty = "Eleglos"
+		birth_date = 944.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Guyard"
+		monarch_name = "Guyard"
+		dynasty = "Eleglos"
+		birth_date = 983.1.1
+		death_date = 1023.1.1
+		claim = 2
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1079.1.1 = {
+	monarch = {
+		name = "Leonella"
+		dynasty = "Eleglos"
+		female = yes
+		birth_date = 1007.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Bellena"
+		monarch_name = "Bellena"
+		dynasty = "Eleglos"
+		female = yes
+		birth_date = 1057.1.1
+		death_date = 1153.1.1
+		claim = 50
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Bandy"
+		dynasty = "Eleglos"
+		birth_date = 1067.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Nan"
+		monarch_name = "Nan"
+		dynasty = "Eleglos"
+		female = yes
+		birth_date = 1110.1.1
+		death_date = 1169.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Whalen"
+		dynasty = "Eleglos"
+		birth_date = 1115.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Ryman"
+		monarch_name = "Ryman"
+		dynasty = "Eleglos"
+		birth_date = 1141.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Lucias"
+		dynasty = "Eleglos"
+		birth_date = 1182.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Eldon"
+		monarch_name = "Eldon"
+		dynasty = "Eleglos"
+		birth_date = 1223.1.1
+		death_date = 1284.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Eleglos"
+		birth_date = 1222.1.1
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Hallyne"
+		monarch_name = "Hallyne"
+		dynasty = "Eleglos"
+		birth_date = 1284.1.1
+		death_date = 1352.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Notch"
+		dynasty = "Eleglos"
+		birth_date = 1317.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Morros"
+		monarch_name = "Morros"
+		dynasty = "Eleglos"
+		birth_date = 1340.1.1
+		death_date = 1418.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1398.1.1 = {
+
+	monarch = {
+		name = "Harsley"
+		dynasty = "Eleglos"
+		birth_date = 1363.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Argilac"
+		monarch_name = "Argilac"
+		dynasty = "Eleglos"
+		birth_date = 1397.1.1
+		death_date = 1449.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+

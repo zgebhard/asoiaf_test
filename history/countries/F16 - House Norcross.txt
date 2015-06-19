@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 272
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Brandon"
+		dynasty = "Norcross"
+		birth_date = 975.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Perra"
+		monarch_name = "Perra"
+		dynasty = "Norcross"
+		female = yes
+		birth_date = 975.1.1
+		death_date = 1050.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1021.1.1 = {
+
+	monarch = {
+		name = "Alekyne"
+		dynasty = "Norcross"
+		birth_date = 943.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Mebble"
+		monarch_name = "Mebble"
+		dynasty = "Norcross"
+		birth_date = 991.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Rowan"
+		dynasty = "Norcross"
+		birth_date = 966.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Ezzara"
+		monarch_name = "Ezzara"
+		dynasty = "Norcross"
+		female = yes
+		birth_date = 1022.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Dennis"
+		dynasty = "Norcross"
+		birth_date = 1061.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Tystane"
+		monarch_name = "Tystane"
+		dynasty = "Norcross"
+		birth_date = 1097.1.1
+		death_date = 1142.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Matt"
+		dynasty = "Norcross"
+		birth_date = 1096.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Damon"
+		monarch_name = "Damon"
+		dynasty = "Norcross"
+		birth_date = 1153.1.1
+		death_date = 1234.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1206.1.1 = {
+
+	monarch = {
+		name = "Jaremy"
+		dynasty = "Norcross"
+		birth_date = 1189.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Clement"
+		monarch_name = "Clement"
+		dynasty = "Norcross"
+		birth_date = 1200.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Norcross"
+		birth_date = 1227.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Lenyl"
+		monarch_name = "Lenyl"
+		dynasty = "Norcross"
+		birth_date = 1258.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Lyessa"
+		dynasty = "Norcross"
+		birth_date = 1227.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Jonnel"
+		monarch_name = "Jonnel"
+		dynasty = "Norcross"
+		birth_date = 1254.1.1
+		death_date = 1339.1.1
+		claim = 23
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Hobber"
+		dynasty = "Norcross"
+		birth_date = 1323.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Rafe"
+		monarch_name = "Rafe"
+		dynasty = "Norcross"
+		birth_date = 1323.1.1
+		death_date = 1379.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+

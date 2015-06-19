@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "ROBERTS_REBELLION_NAME"
+	desc = "ROBERTS_REBELLION_DESC"
+	# New Date: 1281.1.1
+	# Old Date: 2008.1.1
+	date = 1281.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = roberts_rebellion
+		}
+	}
+}

@@ -1,0 +1,338 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 172
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Halder"
+		dynasty = "Ferren"
+		birth_date = 924.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Gillam"
+		monarch_name = "Gillam"
+		dynasty = "Ferren"
+		birth_date = 970.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1017.1.1 = {
+
+	monarch = {
+		name = "Jasper"
+		dynasty = "Ferren"
+		birth_date = 985.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Lorent"
+		monarch_name = "Lorent"
+		dynasty = "Ferren"
+		birth_date = 1017.1.1
+		death_date = 1073.1.1
+		claim = 72
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1032.1.1 = {
+
+	monarch = {
+		name = "Cassa"
+		dynasty = "Ferren"
+		birth_date = 1012.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Varly"
+		monarch_name = "Varly"
+		dynasty = "Ferren"
+		birth_date = 1014.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Clarence"
+		dynasty = "Ferren"
+		birth_date = 1049.1.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Bluetooh"
+		monarch_name = "Bluetooh"
+		dynasty = "Ferren"
+		birth_date = 1060.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Alaric"
+		dynasty = "Ferren"
+		birth_date = 1076.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucion"
+		monarch_name = "Lucion"
+		dynasty = "Ferren"
+		birth_date = 1080.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1136.1.1 = {
+	monarch = {
+		name = "Helya"
+		dynasty = "Ferren"
+		female = yes
+		birth_date = 1107.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Ferren"
+		birth_date = 1128.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Ferren"
+		birth_date = 1097.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Red"
+		monarch_name = "Red"
+		dynasty = "Ferren"
+		birth_date = 1114.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Galbert"
+		dynasty = "Ferren"
+		birth_date = 1100.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Josmyn"
+		monarch_name = "Josmyn"
+		dynasty = "Ferren"
+		birth_date = 1153.1.1
+		death_date = 1241.1.1
+		claim = 65
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Armen"
+		dynasty = "Ferren"
+		birth_date = 1143.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Symond"
+		monarch_name = "Symond"
+		dynasty = "Ferren"
+		birth_date = 1187.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Durran"
+		dynasty = "Ferren"
+		birth_date = 1160.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Cyrenna"
+		monarch_name = "Cyrenna"
+		dynasty = "Ferren"
+		female = yes
+		birth_date = 1204.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Goodwin"
+		dynasty = "Ferren"
+		birth_date = 1254.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Gregor"
+		monarch_name = "Gregor"
+		dynasty = "Ferren"
+		birth_date = 1319.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1352.1.1 = {
+
+	monarch = {
+		name = "Norbert"
+		dynasty = "Ferren"
+		birth_date = 1317.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Ferren"
+		birth_date = 1335.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Goghor"
+		dynasty = "Ferren"
+		birth_date = 1342.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Gheal"
+		monarch_name = "Gheal"
+		dynasty = "Ferren"
+		birth_date = 1350.1.1
+		death_date = 1420.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+

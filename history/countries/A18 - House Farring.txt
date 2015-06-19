@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 223
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bluetooh"
+		dynasty = "Farring"
+		birth_date = 955.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Farring"
+		birth_date = 990.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1041.1.1 = {
+
+	monarch = {
+		name = "Beric"
+		dynasty = "Farring"
+		birth_date = 1015.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Samwell"
+		monarch_name = "Samwell"
+		dynasty = "Farring"
+		birth_date = 1020.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Blane"
+		dynasty = "Farring"
+		birth_date = 1006.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Flement"
+		monarch_name = "Flement"
+		dynasty = "Farring"
+		birth_date = 1050.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Gariss"
+		dynasty = "Farring"
+		birth_date = 1071.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Kaeth"
+		monarch_name = "Kaeth"
+		dynasty = "Farring"
+		birth_date = 1100.1.1
+		death_date = 1185.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Galtry"
+		dynasty = "Farring"
+		birth_date = 1134.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Tytos"
+		monarch_name = "Tytos"
+		dynasty = "Farring"
+		birth_date = 1139.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Tristimun"
+		dynasty = "Farring"
+		birth_date = 1115.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Grigg"
+		monarch_name = "Grigg"
+		dynasty = "Farring"
+		birth_date = 1162.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Will"
+		dynasty = "Farring"
+		birth_date = 1150.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Nymos"
+		monarch_name = "Nymos"
+		dynasty = "Farring"
+		birth_date = 1218.1.1
+		death_date = 1257.1.1
+		claim = 68
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Wendello"
+		dynasty = "Farring"
+		birth_date = 1240.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Hosteen"
+		monarch_name = "Hosteen"
+		dynasty = "Farring"
+		birth_date = 1260.1.1
+		death_date = 1357.1.1
+		claim = 74
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Mord"
+		dynasty = "Farring"
+		birth_date = 1211.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Farring"
+		birth_date = 1263.1.1
+		death_date = 1373.1.1
+		claim = 45
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Salladhor"
+		dynasty = "Farring"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Rhaenys"
+		monarch_name = "Rhaenys"
+		dynasty = "Farring"
+		female = yes
+		birth_date = 1297.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Ygitte"
+		dynasty = "Farring"
+		female = yes
+		birth_date = 1294.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Karlon"
+		monarch_name = "Karlon"
+		dynasty = "Farring"
+		birth_date = 1342.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+

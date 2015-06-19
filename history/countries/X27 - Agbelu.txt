@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = mo
+religion = asoiaf_summer_gods
+
+capital = 507
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Maelys"
+		dynasty = "Agbelu"
+		birth_date = 922.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Agbelu"
+		birth_date = 990.1.1
+		death_date = 1028.1.1
+		claim = 82
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1021.1.1 = {
+
+	monarch = {
+		name = "Denyo"
+		dynasty = "Agbelu"
+		birth_date = 1004.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Bowen"
+		monarch_name = "Bowen"
+		dynasty = "Agbelu"
+		birth_date = 1017.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Eroeh"
+		dynasty = "Agbelu"
+		birth_date = 991.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Zei"
+		monarch_name = "Zei"
+		dynasty = "Agbelu"
+		birth_date = 1066.1.1
+		death_date = 1148.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Melessa"
+		dynasty = "Agbelu"
+		female = yes
+		birth_date = 1136.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonos"
+		monarch_name = "Jonos"
+		dynasty = "Agbelu"
+		birth_date = 1139.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Poxy"
+		dynasty = "Agbelu"
+		birth_date = 1167.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Agbelu"
+		birth_date = 1216.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Dennis"
+		dynasty = "Agbelu"
+		birth_date = 1228.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Jhezene"
+		monarch_name = "Jhezene"
+		dynasty = "Agbelu"
+		birth_date = 1254.1.1
+		death_date = 1364.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Agbelu"
+		birth_date = 1219.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Agbelu"
+		birth_date = 1273.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1360.1.1 = {
+
+	monarch = {
+		name = "Andrey"
+		dynasty = "Agbelu"
+		birth_date = 1303.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Agbelu"
+		birth_date = 1358.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Bonifer"
+		dynasty = "Agbelu"
+		birth_date = 1352.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Morna"
+		monarch_name = "Morna"
+		dynasty = "Agbelu"
+		female = yes
+		birth_date = 1384.1.1
+		death_date = 1461.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+

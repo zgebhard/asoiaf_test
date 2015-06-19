@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 869
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Arron"
+		dynasty = "Fakhury"
+		birth_date = 958.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Zollo"
+		monarch_name = "Zollo"
+		dynasty = "Fakhury"
+		birth_date = 998.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Ezzelnyo"
+		dynasty = "Fakhury"
+		birth_date = 1060.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Kenned"
+		monarch_name = "Kenned"
+		dynasty = "Fakhury"
+		birth_date = 1060.1.1
+		death_date = 1156.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Luke"
+		dynasty = "Fakhury"
+		birth_date = 1078.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Beck"
+		monarch_name = "Beck"
+		dynasty = "Fakhury"
+		birth_date = 1080.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Norjen"
+		dynasty = "Fakhury"
+		birth_date = 1149.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Kedge"
+		monarch_name = "Kedge"
+		dynasty = "Fakhury"
+		birth_date = 1148.1.1
+		death_date = 1185.1.1
+		claim = 64
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Todder"
+		dynasty = "Fakhury"
+		birth_date = 1125.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Roone"
+		monarch_name = "Roone"
+		dynasty = "Fakhury"
+		birth_date = 1151.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Tanton"
+		dynasty = "Fakhury"
+		birth_date = 1098.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tumco"
+		monarch_name = "Tumco"
+		dynasty = "Fakhury"
+		birth_date = 1154.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Vyman"
+		dynasty = "Fakhury"
+		birth_date = 1228.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Varys"
+		monarch_name = "Varys"
+		dynasty = "Fakhury"
+		birth_date = 1236.1.1
+		death_date = 1333.1.1
+		claim = 88
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1303.1.1 = {
+	monarch = {
+		name = "Belandra"
+		dynasty = "Fakhury"
+		female = yes
+		birth_date = 1234.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Fakhury"
+		birth_date = 1274.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Garizon"
+		dynasty = "Fakhury"
+		birth_date = 1342.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Hoster"
+		monarch_name = "Hoster"
+		dynasty = "Fakhury"
+		birth_date = 1365.1.1
+		death_date = 1424.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+

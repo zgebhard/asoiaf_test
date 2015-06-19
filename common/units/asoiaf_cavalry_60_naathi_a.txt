@@ -1,0 +1,11 @@
+#Cavalry 60 A 
+type = cavalry
+unit_type = naathi
+
+maneuver = 2 
+offensive_morale = 8 
+defensive_morale = 7 
+offensive_fire = 6 
+defensive_fire = 6 
+offensive_shock = 8 
+defensive_shock = 7 

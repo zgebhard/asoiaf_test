@@ -1,0 +1,289 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = gowonu
+religion = asoiaf_summer_gods
+
+capital = 534
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Umfred"
+		dynasty = "Xhone"
+		birth_date = 960.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Janei"
+		monarch_name = "Janei"
+		dynasty = "Xhone"
+		female = yes
+		birth_date = 990.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1024.1.1 = {
+
+	monarch = {
+		name = "Caswell"
+		dynasty = "Xhone"
+		birth_date = 935.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Liane"
+		monarch_name = "Liane"
+		dynasty = "Xhone"
+		birth_date = 1012.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1041.1.1 = {
+
+	monarch = {
+		name = "Bryce"
+		dynasty = "Xhone"
+		birth_date = 960.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Harlan"
+		monarch_name = "Harlan"
+		dynasty = "Xhone"
+		birth_date = 1035.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Notch"
+		dynasty = "Xhone"
+		birth_date = 1072.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Lomas"
+		monarch_name = "Lomas"
+		dynasty = "Xhone"
+		birth_date = 1102.1.1
+		death_date = 1175.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1162.1.1 = {
+
+	monarch = {
+		name = "Deziel"
+		dynasty = "Xhone"
+		birth_date = 1118.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Meribold"
+		monarch_name = "Meribold"
+		dynasty = "Xhone"
+		birth_date = 1143.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Duncan"
+		dynasty = "Xhone"
+		birth_date = 1197.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Mern"
+		monarch_name = "Mern"
+		dynasty = "Xhone"
+		birth_date = 1192.1.1
+		death_date = 1286.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Prendahl"
+		dynasty = "Xhone"
+		birth_date = 1184.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Arianne"
+		monarch_name = "Arianne"
+		dynasty = "Xhone"
+		female = yes
+		birth_date = 1229.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1256.1.1 = {
+
+	monarch = {
+		name = "Gormond"
+		dynasty = "Xhone"
+		birth_date = 1213.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "?Anya"
+		monarch_name = "?Anya"
+		dynasty = "Xhone"
+		female = yes
+		birth_date = 1246.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1278.1.1 = {
+
+	monarch = {
+		name = "Arson"
+		dynasty = "Xhone"
+		birth_date = 1239.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Jommo"
+		monarch_name = "Jommo"
+		dynasty = "Xhone"
+		birth_date = 1266.1.1
+		death_date = 1339.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1312.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Xhone"
+		birth_date = 1265.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Petyr"
+		monarch_name = "Petyr"
+		dynasty = "Xhone"
+		birth_date = 1310.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Donyse"
+		dynasty = "Xhone"
+		birth_date = 1260.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Narbert"
+		monarch_name = "Narbert"
+		dynasty = "Xhone"
+		birth_date = 1304.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+

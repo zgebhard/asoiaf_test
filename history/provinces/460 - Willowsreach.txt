@@ -1,0 +1,45 @@
+# 460 - Willowsreach
+
+add_core = U39
+add_core = U38
+owner = U38
+controller = U38
+
+culture = lorathi
+religion = asoiaf_gods_of_lorath
+
+base_tax = 1
+base_production = 1
+trade_goods = wool
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Willowsreach"
+
+1000.2.1 = {
+	remove_core = U38
+	owner = U39
+	controller = U39
+}
+
+1000.2.2 = {
+	owner = U38
+	add_core = U38
+	controller = U38
+}

@@ -1,0 +1,38 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+asoiaf_the_old_gods_diety_stone =
+{
+	hostile_attrition = 1
+	
+	allow = { religion = asoiaf_the_old_gods }
+	sprite = 99
+	
+	ai_will_do = {
+		factor = 1	
+	}
+}
+
+asoiaf_the_old_gods_diety_earth =
+{
+	land_attrition = -0.1
+	
+	allow = { religion = asoiaf_the_old_gods }
+	sprite = 99
+	
+	ai_will_do = {
+		factor = 1	
+	}
+}
+
+asoiaf_the_old_gods_diety_tree =
+{
+	build_cost = -0.1
+	
+	allow = { religion = asoiaf_the_old_gods }
+	sprite = 99
+	
+	ai_will_do = {
+		factor = 1	
+	}
+}

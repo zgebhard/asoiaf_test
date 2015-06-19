@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+historical_friend = A09
+
+capital = 346
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lucos"
+		dynasty = "Gargalen"
+		birth_date = 946.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Azzak"
+		monarch_name = "Azzak"
+		dynasty = "Gargalen"
+		birth_date = 994.1.1
+		death_date = 1029.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Ollo"
+		dynasty = "Gargalen"
+		birth_date = 1009.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Alannys"
+		monarch_name = "Alannys"
+		dynasty = "Gargalen"
+		birth_date = 1004.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Rodwell"
+		dynasty = "Gargalen"
+		birth_date = 1070.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk"
+		dynasty = "Gargalen"
+		birth_date = 1067.1.1
+		death_date = 1150.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Dake"
+		dynasty = "Gargalen"
+		birth_date = 1035.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Gavin"
+		monarch_name = "Gavin"
+		dynasty = "Gargalen"
+		birth_date = 1101.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Mace"
+		dynasty = "Gargalen"
+		birth_date = 1156.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Chella"
+		monarch_name = "Chella"
+		dynasty = "Gargalen"
+		birth_date = 1191.1.1
+		death_date = 1279.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1253.1.1 = {
+
+	monarch = {
+		name = "Plummer"
+		dynasty = "Gargalen"
+		birth_date = 1195.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Calon"
+		monarch_name = "Calon"
+		dynasty = "Gargalen"
+		birth_date = 1234.1.1
+		death_date = 1278.1.1
+		claim = 42
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Gargalen"
+		birth_date = 1250.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Gargalen"
+		birth_date = 1296.1.1
+		death_date = 1408.1.1
+		claim = 56
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Addison"
+		dynasty = "Gargalen"
+		birth_date = 1317.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Meizo"
+		monarch_name = "Meizo"
+		dynasty = "Gargalen"
+		birth_date = 1331.1.1
+		death_date = 1397.1.1
+		claim = 19
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1398.1.1 = {
+
+	monarch = {
+		name = "Fogo"
+		dynasty = "Gargalen"
+		birth_date = 1326.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Beron"
+		monarch_name = "Beron"
+		dynasty = "Gargalen"
+		birth_date = 1397.1.1
+		death_date = 1428.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+

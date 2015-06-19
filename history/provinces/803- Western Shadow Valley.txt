@@ -1,0 +1,31 @@
+# 803- Western Shadow Valley
+
+base_tax = 1
+base_production = 1
+trade_goods = cotton
+base_manpower =  1
+is_city = no
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Western Shadow Valley"
+
+religion = asoiaf_mixed_worship
+
+native_size = 60
+native_ferocity = 5
+native_hostileness = 5

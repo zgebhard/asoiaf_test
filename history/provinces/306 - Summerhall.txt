@@ -1,0 +1,73 @@
+# 306 - Summerhall
+
+owner = F01
+add_core = F01
+controller = F01
+is_city = yes
+hre = no
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 5
+base_production = 5
+base_manpower =  2
+
+trade_goods = grain
+
+capital = "Summerhall"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = F01
+	owner = AB2
+	controller = AB2
+}
+
+1000.2.2 = {
+	owner = F01
+	add_core = F01
+	controller = F01
+}
+
+1005.1.1 = {
+	hre = yes
+
+	controller = A07
+	add_core = A07
+	owner = A07
+}
+
+1196.1.1 = {
+	controller = AB2
+	add_core = AB2
+	owner = AB2
+}
+
+1211.1.1 = {
+	remove_core = AB2
+	controller = A10
+	add_core = A10
+	owner = A10
+}
+
+1260.1.1 = {
+
+	controller = A07
+	add_core = A07
+	owner = A07
+}

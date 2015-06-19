@@ -1,0 +1,45 @@
+# 473 - Dolronhor
+
+add_core = U47
+add_core = U44
+owner = U44
+controller = U44
+
+culture = norvosi
+religion = asoiaf_bearded_priests
+
+base_tax = 2
+base_production = 2
+trade_goods = grain
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Dolronhor"
+
+1000.2.1 = {
+	remove_core = U44
+	owner = U47
+	controller = U47
+}
+
+1000.2.2 = {
+	owner = U44
+	add_core = U44
+	controller = U44
+}

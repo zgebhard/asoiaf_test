@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 673
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Polliver"
+		dynasty = "Kalzarria"
+		birth_date = 983.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Hop-Robin"
+		monarch_name = "Hop-Robin"
+		dynasty = "Kalzarria"
+		birth_date = 978.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1048.1.1 = {
+
+	monarch = {
+		name = "Hoarfrost"
+		dynasty = "Kalzarria"
+		birth_date = 973.1.1
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Briar"
+		monarch_name = "Briar"
+		dynasty = "Kalzarria"
+		birth_date = 1041.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1059.1.1 = {
+
+	monarch = {
+		name = "Rolfe"
+		dynasty = "Kalzarria"
+		birth_date = 991.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Nysterica"
+		monarch_name = "Nysterica"
+		dynasty = "Kalzarria"
+		female = yes
+		birth_date = 1036.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1110.1.1 = {
+
+	monarch = {
+		name = "Jhezene"
+		dynasty = "Kalzarria"
+		birth_date = 1076.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Kalzarria"
+		birth_date = 1096.1.1
+		death_date = 1199.1.1
+		claim = 89
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Gareth"
+		dynasty = "Kalzarria"
+		birth_date = 1135.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Rorge"
+		monarch_name = "Rorge"
+		dynasty = "Kalzarria"
+		birth_date = 1175.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Tycho"
+		dynasty = "Kalzarria"
+		birth_date = 1147.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Ragwyle"
+		monarch_name = "Ragwyle"
+		dynasty = "Kalzarria"
+		birth_date = 1212.1.1
+		death_date = 1275.1.1
+		claim = 11
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1279.1.1 = {
+
+	monarch = {
+		name = "Loreza"
+		dynasty = "Kalzarria"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Gared"
+		monarch_name = "Gared"
+		dynasty = "Kalzarria"
+		birth_date = 1259.1.1
+		death_date = 1345.1.1
+		claim = 83
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Kalzarria"
+		birth_date = 1292.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Dykk"
+		monarch_name = "Dykk"
+		dynasty = "Kalzarria"
+		birth_date = 1285.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Amell"
+		dynasty = "Kalzarria"
+		birth_date = 1373.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Sigrin"
+		monarch_name = "Sigrin"
+		dynasty = "Kalzarria"
+		birth_date = 1371.1.1
+		death_date = 1403.1.1
+		claim = 75
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+

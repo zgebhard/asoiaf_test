@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 318
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Garth"
+		dynasty = "Staedmon"
+		birth_date = 915.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Nella"
+		monarch_name = "Nella"
+		dynasty = "Staedmon"
+		female = yes
+		birth_date = 991.1.1
+		death_date = 1024.1.1
+		claim = 4
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Roro"
+		dynasty = "Staedmon"
+		birth_date = 1013.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Malleon"
+		monarch_name = "Malleon"
+		dynasty = "Staedmon"
+		birth_date = 1084.1.1
+		death_date = 1129.1.1
+		claim = 56
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Harlan"
+		dynasty = "Staedmon"
+		birth_date = 1037.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Edmyn"
+		monarch_name = "Edmyn"
+		dynasty = "Staedmon"
+		birth_date = 1058.1.1
+		death_date = 1152.1.1
+		claim = 50
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1146.1.1 = {
+
+	monarch = {
+		name = "Vickon"
+		dynasty = "Staedmon"
+		birth_date = 1080.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Gysella"
+		monarch_name = "Gysella"
+		dynasty = "Staedmon"
+		birth_date = 1143.1.1
+		death_date = 1197.1.1
+		claim = 65
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "Rosey"
+		dynasty = "Staedmon"
+		female = yes
+		birth_date = 1147.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Ambrose"
+		monarch_name = "Ambrose"
+		dynasty = "Staedmon"
+		birth_date = 1212.1.1
+		death_date = 1320.1.1
+		claim = 1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Annara"
+		dynasty = "Staedmon"
+		birth_date = 1217.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "?Abelar"
+		monarch_name = "?Abelar"
+		dynasty = "Staedmon"
+		birth_date = 1268.1.1
+		death_date = 1357.1.1
+		claim = 96
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Staedmon"
+		birth_date = 1298.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Loren"
+		monarch_name = "Loren"
+		dynasty = "Staedmon"
+		birth_date = 1326.1.1
+		death_date = 1417.1.1
+		claim = 84
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+

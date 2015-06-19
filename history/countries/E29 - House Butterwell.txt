@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 114
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Josua"
+		dynasty = "Butterwell"
+		birth_date = 910.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Allar"
+		monarch_name = "Allar"
+		dynasty = "Butterwell"
+		birth_date = 984.1.1
+		death_date = 1049.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Ulf"
+		dynasty = "Butterwell"
+		birth_date = 998.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Bors"
+		monarch_name = "Bors"
+		dynasty = "Butterwell"
+		birth_date = 1063.1.1
+		death_date = 1104.1.1
+		claim = 65
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Fralegg"
+		dynasty = "Butterwell"
+		birth_date = 1103.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Selwyn"
+		monarch_name = "Selwyn"
+		dynasty = "Butterwell"
+		birth_date = 1123.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Damion"
+		dynasty = "Butterwell"
+		birth_date = 1111.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Blane"
+		monarch_name = "Blane"
+		dynasty = "Butterwell"
+		birth_date = 1173.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Calon"
+		dynasty = "Butterwell"
+		birth_date = 1164.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Butterwell"
+		birth_date = 1171.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1219.1.1 = {
+	monarch = {
+		name = "Jyanna"
+		dynasty = "Butterwell"
+		female = yes
+		birth_date = 1141.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Vayon"
+		monarch_name = "Vayon"
+		dynasty = "Butterwell"
+		birth_date = 1200.1.1
+		death_date = 1260.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Romny"
+		dynasty = "Butterwell"
+		birth_date = 1207.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Howd"
+		monarch_name = "Howd"
+		dynasty = "Butterwell"
+		birth_date = 1225.1.1
+		death_date = 1271.1.1
+		claim = 82
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1280.1.1 = {
+
+	monarch = {
+		name = "Meryn"
+		dynasty = "Butterwell"
+		birth_date = 1215.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rhaego"
+		monarch_name = "Rhaego"
+		dynasty = "Butterwell"
+		birth_date = 1256.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Ragnor"
+		dynasty = "Butterwell"
+		birth_date = 1318.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Butterwell"
+		birth_date = 1333.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1379.1.1 = {
+
+	monarch = {
+		name = "Euron"
+		dynasty = "Butterwell"
+		birth_date = 1289.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Reynard"
+		monarch_name = "Reynard"
+		dynasty = "Butterwell"
+		birth_date = 1359.1.1
+		death_date = 1441.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Lotho"
+		dynasty = "Butterwell"
+		birth_date = 1317.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Grubbs"
+		monarch_name = "Grubbs"
+		dynasty = "Butterwell"
+		birth_date = 1371.1.1
+		death_date = 1457.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+

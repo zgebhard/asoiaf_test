@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 331
+
+1000.1.1 = {
+	monarch = {
+		name = "Berena"
+		dynasty = "Manwoody"
+		female = yes
+		birth_date = 928.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Manwoody"
+		birth_date = 995.1.1
+		death_date = 1041.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1072.1.1 = {
+
+	monarch = {
+		name = "Enderhar"
+		dynasty = "Manwoody"
+		birth_date = 1026.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Joth"
+		monarch_name = "Joth"
+		dynasty = "Manwoody"
+		birth_date = 1049.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Clement"
+		dynasty = "Manwoody"
+		birth_date = 1087.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Manwoody"
+		birth_date = 1155.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Enderick"
+		dynasty = "Manwoody"
+		birth_date = 1183.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Edmure"
+		monarch_name = "Edmure"
+		dynasty = "Manwoody"
+		birth_date = 1201.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Hoster"
+		dynasty = "Manwoody"
+		birth_date = 1224.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Quenten"
+		monarch_name = "Quenten"
+		dynasty = "Manwoody"
+		birth_date = 1246.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1346.1.1 = {
+	monarch = {
+		name = "Meliana"
+		dynasty = "Manwoody"
+		female = yes
+		birth_date = 1322.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Horas"
+		monarch_name = "Horas"
+		dynasty = "Manwoody"
+		birth_date = 1340.1.1
+		death_date = 1378.1.1
+		claim = 5
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+

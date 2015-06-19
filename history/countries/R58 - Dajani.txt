@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = vahari
+religion = asoiaf_stone_cow_of_faros
+
+capital = 730
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mathos"
+		dynasty = "Dajani"
+		birth_date = 915.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Bryen"
+		monarch_name = "Bryen"
+		dynasty = "Dajani"
+		birth_date = 973.1.1
+		death_date = 1081.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Hosteen"
+		dynasty = "Dajani"
+		birth_date = 1013.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Joss"
+		monarch_name = "Joss"
+		dynasty = "Dajani"
+		birth_date = 1060.1.1
+		death_date = 1118.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Harlan"
+		dynasty = "Dajani"
+		birth_date = 1105.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Theomar"
+		monarch_name = "Theomar"
+		dynasty = "Dajani"
+		birth_date = 1135.1.1
+		death_date = 1242.1.1
+		claim = 9
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Gorold"
+		dynasty = "Dajani"
+		birth_date = 1181.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Larence"
+		monarch_name = "Larence"
+		dynasty = "Dajani"
+		birth_date = 1201.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Willifer"
+		dynasty = "Dajani"
+		birth_date = 1260.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Sandor"
+		monarch_name = "Sandor"
+		dynasty = "Dajani"
+		birth_date = 1284.1.1
+		death_date = 1321.1.1
+		claim = 11
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Cloen"
+		dynasty = "Dajani"
+		birth_date = 1277.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Roone"
+		monarch_name = "Roone"
+		dynasty = "Dajani"
+		birth_date = 1331.1.1
+		death_date = 1398.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+

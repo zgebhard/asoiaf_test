@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 34
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Emmon"
+		dynasty = "Condon"
+		birth_date = 939.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Condon"
+		birth_date = 975.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Condon"
+		birth_date = 1003.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Reysen"
+		monarch_name = "Reysen"
+		dynasty = "Condon"
+		birth_date = 1061.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Maegelle"
+		dynasty = "Condon"
+		birth_date = 1059.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Blane"
+		monarch_name = "Blane"
+		dynasty = "Condon"
+		birth_date = 1079.1.1
+		death_date = 1143.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Condon"
+		birth_date = 1085.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Condon"
+		birth_date = 1129.1.1
+		death_date = 1151.1.1
+		claim = 1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1177.1.1 = {
+
+	monarch = {
+		name = "Ormond"
+		dynasty = "Condon"
+		birth_date = 1096.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Aladale"
+		monarch_name = "Aladale"
+		dynasty = "Condon"
+		birth_date = 1158.1.1
+		death_date = 1265.1.1
+		claim = 1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Condon"
+		birth_date = 1212.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Romny"
+		monarch_name = "Romny"
+		dynasty = "Condon"
+		birth_date = 1211.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Otho"
+		dynasty = "Condon"
+		birth_date = 1170.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Elron"
+		monarch_name = "Elron"
+		dynasty = "Condon"
+		birth_date = 1227.1.1
+		death_date = 1327.1.1
+		claim = 46
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Lewys"
+		dynasty = "Condon"
+		birth_date = 1234.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Lancel"
+		monarch_name = "Lancel"
+		dynasty = "Condon"
+		birth_date = 1299.1.1
+		death_date = 1356.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Cregan"
+		dynasty = "Condon"
+		birth_date = 1272.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Larence"
+		monarch_name = "Larence"
+		dynasty = "Condon"
+		birth_date = 1323.1.1
+		death_date = 1364.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+

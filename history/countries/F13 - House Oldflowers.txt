@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 284
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cosgrove"
+		dynasty = "Oldflowers"
+		birth_date = 938.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Danos"
+		monarch_name = "Danos"
+		dynasty = "Oldflowers"
+		birth_date = 974.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Torbert"
+		dynasty = "Oldflowers"
+		birth_date = 986.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Satin"
+		monarch_name = "Satin"
+		dynasty = "Oldflowers"
+		birth_date = 1064.1.1
+		death_date = 1138.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Loreza"
+		dynasty = "Oldflowers"
+		birth_date = 1071.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Poxy"
+		monarch_name = "Poxy"
+		dynasty = "Oldflowers"
+		birth_date = 1135.1.1
+		death_date = 1218.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1159.1.1 = {
+
+	monarch = {
+		name = "Larys"
+		dynasty = "Oldflowers"
+		birth_date = 1117.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Androw"
+		monarch_name = "Androw"
+		dynasty = "Oldflowers"
+		birth_date = 1135.1.1
+		death_date = 1234.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1166.1.1 = {
+	monarch = {
+		name = "Irri"
+		dynasty = "Oldflowers"
+		female = yes
+		birth_date = 1137.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund"
+		dynasty = "Oldflowers"
+		birth_date = 1158.1.1
+		death_date = 1244.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Symond"
+		dynasty = "Oldflowers"
+		birth_date = 1182.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Jhogo"
+		monarch_name = "Jhogo"
+		dynasty = "Oldflowers"
+		birth_date = 1196.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Daryn"
+		dynasty = "Oldflowers"
+		birth_date = 1178.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Belaquo"
+		monarch_name = "Belaquo"
+		dynasty = "Oldflowers"
+		birth_date = 1230.1.1
+		death_date = 1287.1.1
+		claim = 28
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1331.1.1 = {
+
+	monarch = {
+		name = "Sefton"
+		dynasty = "Oldflowers"
+		birth_date = 1285.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Oldflowers"
+		birth_date = 1328.1.1
+		death_date = 1373.1.1
+		claim = 8
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+

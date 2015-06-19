@@ -1,0 +1,264 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+historical_friend = F01
+
+capital = 292
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Heward"
+		dynasty = "Redwyne"
+		birth_date = 953.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Heward"
+		monarch_name = "Heward"
+		dynasty = "Redwyne"
+		birth_date = 983.1.1
+		death_date = 1061.1.1
+		claim = 69
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Lambert"
+		dynasty = "Redwyne"
+		birth_date = 973.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Redwyne"
+		birth_date = 1000.1.1
+		death_date = 1040.1.1
+		claim = 88
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1048.1.1 = {
+
+	monarch = {
+		name = "Sigfry"
+		dynasty = "Redwyne"
+		birth_date = 979.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Missandei"
+		monarch_name = "Missandei"
+		dynasty = "Redwyne"
+		female = yes
+		birth_date = 1036.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1049.1.1 = {
+	monarch = {
+		name = "Cass"
+		dynasty = "Redwyne"
+		female = yes
+		birth_date = 1018.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Lucifer"
+		monarch_name = "Lucifer"
+		dynasty = "Redwyne"
+		birth_date = 1042.1.1
+		death_date = 1119.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Redwyne"
+		birth_date = 1030.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Edmyn"
+		monarch_name = "Edmyn"
+		dynasty = "Redwyne"
+		birth_date = 1094.1.1
+		death_date = 1124.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Emmon"
+		dynasty = "Redwyne"
+		birth_date = 1135.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Ysilla"
+		monarch_name = "Ysilla"
+		dynasty = "Redwyne"
+		female = yes
+		birth_date = 1139.1.1
+		death_date = 1207.1.1
+		claim = 4
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Paxter"
+		dynasty = "Redwyne"
+		birth_date = 1167.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Tyrion"
+		monarch_name = "Tyrion"
+		dynasty = "Redwyne"
+		birth_date = 1191.1.1
+		death_date = 1282.1.1
+		claim = 59
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Eden"
+		dynasty = "Redwyne"
+		birth_date = 1224.1.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Redwyne"
+		birth_date = 1270.1.1
+		death_date = 1356.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Sedgekins"
+		dynasty = "Redwyne"
+		birth_date = 1286.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Barra"
+		monarch_name = "Barra"
+		dynasty = "Redwyne"
+		birth_date = 1325.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1360.1.1 = {
+
+	monarch = {
+		name = "Lomys"
+		dynasty = "Redwyne"
+		birth_date = 1330.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Redwyne"
+		birth_date = 1359.1.1
+		death_date = 1429.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+

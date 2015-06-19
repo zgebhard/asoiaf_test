@@ -1,0 +1,34 @@
+# 527 - Indigoshore
+
+add_core = X37
+owner = X37
+controller = X37
+
+culture = enyaxho
+religion = asoiaf_summer_gods
+
+
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+capital = "Indigoshore"

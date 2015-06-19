@@ -1,0 +1,296 @@
+country_decisions = {
+
+	become_king_beyond_the_wall = {
+		major = yes
+		potential = {
+			technology_group = wildling
+			NOT = { exists = Z01 }
+		}
+		allow = {
+			owns_core_province = 15
+			owns_core_province = 8
+			owns_core_province = 11
+			owns_core_province = 12
+			owns_core_province = 13
+			owns_core_province = 14
+			owns_core_province = 10 
+			owns_core_province = 9
+			owns_core_province = 6
+			owns_core_province = 5
+			owns_core_province = 3
+			owns_core_province = 2
+			owns_core_province = 4
+			owns_core_province = 7
+			is_at_war = no
+		}
+		effect = {
+			change_tag = Z01
+			add_prestige = 25
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of the North
+	proclaim_the_kingdom_of_the_north = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_north }
+			capital_scope = {
+				region = region_the_north
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_north }
+			capital_scope = {
+				region = region_the_north
+			}
+			is_at_war = no
+			region_the_north = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_north
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	# Kingdom of the Mountain and the Vale
+	proclaim_the_kingdom_of_the_mountain_and_the_vale = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_mountain_and_the_vale }
+			capital_scope = {
+				region = region_the_vale
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_mountain_and_the_vale }
+			capital_scope = {
+				region = region_the_vale
+			}
+			is_at_war = no
+			region_the_vale = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_mountain_and_the_vale
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of the Isles and Rivers
+	proclaim_the_kingdom_of_the_isles_and_rivers = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_isles_and_rivers }
+			capital_scope = {
+				OR = {
+					region = region_the_riverlands
+					region = region_iron_islands
+				}
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_isles_and_rivers }
+			capital_scope = {
+				OR = {
+					region = region_the_riverlands
+					region = region_iron_islands
+				}
+			}
+			is_at_war = no
+			region_the_riverlands = {
+				type = all
+				owned_by = ROOT
+			}
+			region_iron_islands = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_isles_and_rivers
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of the Rock
+	proclaim_the_kingdom_of_the_rock = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_rock }
+			capital_scope = {
+				region = region_the_westerlands
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_rock }
+			capital_scope = {
+				region = region_the_westerlands
+			}
+			is_at_war = no
+			region_the_westerlands = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_rock
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of the Stormlands
+	proclaim_the_kingdom_of_the_stormlands = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_stormlands }
+			capital_scope = {
+				region = region_stormlands
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_stormlands }
+			capital_scope = {
+				region = region_stormlands
+			}
+			is_at_war = no
+			region_stormlands = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_stormlands
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of the Reach
+	proclaim_the_kingdom_of_the_reach = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_the_reach }
+			capital_scope = {
+				region = region_the_reach
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_the_reach }
+			capital_scope = {
+				region = region_the_reach
+			}
+			is_at_war = no
+			region_the_reach = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_the_reach
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Kingdom of Dorne
+	proclaim_the_kingdom_of_dorne = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = unified_dorne }
+			capital_scope = {
+				region = region_dorne
+			}
+		}
+		allow = {
+			prestige = 100
+			NOT = { has_country_flag = unified_dorne }
+			capital_scope = {
+				region = region_dorne
+			}
+			is_at_war = no
+			region_dorne = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = unified_dorne
+			add_stability = 3
+			
+			add_country_modifier = {
+				name = unification_bonus
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

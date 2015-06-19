@@ -1,0 +1,214 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 202
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ellery"
+		dynasty = "Mallery"
+		birth_date = 927.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Ryella"
+		monarch_name = "Ryella"
+		dynasty = "Mallery"
+		female = yes
+		birth_date = 980.1.1
+		death_date = 1037.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Josmyn"
+		dynasty = "Mallery"
+		birth_date = 1032.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Rycherd"
+		monarch_name = "Rycherd"
+		dynasty = "Mallery"
+		birth_date = 1059.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Tyrion"
+		dynasty = "Mallery"
+		birth_date = 1123.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Sarya"
+		monarch_name = "Sarya"
+		dynasty = "Mallery"
+		female = yes
+		birth_date = 1165.1.1
+		death_date = 1248.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1178.1.1 = {
+
+	monarch = {
+		name = "Gysella"
+		dynasty = "Mallery"
+		birth_date = 1153.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Jack"
+		monarch_name = "Jack"
+		dynasty = "Mallery"
+		birth_date = 1170.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Mors"
+		dynasty = "Mallery"
+		birth_date = 1191.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Annara"
+		monarch_name = "Annara"
+		dynasty = "Mallery"
+		birth_date = 1214.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Hoke"
+		dynasty = "Mallery"
+		birth_date = 1272.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Brella"
+		monarch_name = "Brella"
+		dynasty = "Mallery"
+		female = yes
+		birth_date = 1307.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Henly"
+		dynasty = "Mallery"
+		birth_date = 1310.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Lennocks"
+		monarch_name = "Lennocks"
+		dynasty = "Mallery"
+		birth_date = 1336.1.1
+		death_date = 1381.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1361.1.1 = {
+
+	monarch = {
+		name = "Trebor"
+		dynasty = "Mallery"
+		birth_date = 1306.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Helliweg"
+		monarch_name = "Helliweg"
+		dynasty = "Mallery"
+		birth_date = 1331.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+

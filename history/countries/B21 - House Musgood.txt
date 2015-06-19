@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 308
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rupert"
+		dynasty = "Musgood"
+		birth_date = 924.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Harmund"
+		monarch_name = "Harmund"
+		dynasty = "Musgood"
+		birth_date = 997.1.1
+		death_date = 1022.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Dontos"
+		dynasty = "Musgood"
+		birth_date = 978.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Jason"
+		monarch_name = "Jason"
+		dynasty = "Musgood"
+		birth_date = 1046.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Roryn"
+		dynasty = "Musgood"
+		birth_date = 1068.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Podrick"
+		monarch_name = "Podrick"
+		dynasty = "Musgood"
+		birth_date = 1083.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1144.1.1 = {
+
+	monarch = {
+		name = "Tristan"
+		dynasty = "Musgood"
+		birth_date = 1068.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Stafford"
+		monarch_name = "Stafford"
+		dynasty = "Musgood"
+		birth_date = 1135.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1164.1.1 = {
+
+	monarch = {
+		name = "Galbert"
+		dynasty = "Musgood"
+		birth_date = 1128.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Orys"
+		monarch_name = "Orys"
+		dynasty = "Musgood"
+		birth_date = 1136.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Fornio"
+		dynasty = "Musgood"
+		birth_date = 1143.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Pearse"
+		monarch_name = "Pearse"
+		dynasty = "Musgood"
+		birth_date = 1176.1.1
+		death_date = 1231.1.1
+		claim = 58
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Tycho"
+		dynasty = "Musgood"
+		birth_date = 1188.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Musgood"
+		birth_date = 1247.1.1
+		death_date = 1309.1.1
+		claim = 2
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Musgood"
+		birth_date = 1320.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Wate"
+		monarch_name = "Wate"
+		dynasty = "Musgood"
+		birth_date = 1343.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1353.1.1 = {
+
+	monarch = {
+		name = "Sam"
+		dynasty = "Musgood"
+		birth_date = 1300.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Musgood"
+		birth_date = 1352.1.1
+		death_date = 1440.1.1
+		claim = 63
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Willum"
+		dynasty = "Musgood"
+		birth_date = 1308.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Liane"
+		monarch_name = "Liane"
+		dynasty = "Musgood"
+		birth_date = 1343.1.1
+		death_date = 1428.1.1
+		claim = 30
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 302
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Orland"
+		dynasty = "Grandison"
+		birth_date = 956.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Torrek"
+		monarch_name = "Torrek"
+		dynasty = "Grandison"
+		birth_date = 973.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Luceon"
+		dynasty = "Grandison"
+		birth_date = 1003.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Mallador"
+		monarch_name = "Mallador"
+		dynasty = "Grandison"
+		birth_date = 1053.1.1
+		death_date = 1109.1.1
+		claim = 99
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Hoke"
+		dynasty = "Grandison"
+		birth_date = 1060.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Torwold"
+		monarch_name = "Torwold"
+		dynasty = "Grandison"
+		birth_date = 1133.1.1
+		death_date = 1212.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Mord"
+		dynasty = "Grandison"
+		birth_date = 1172.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Denyo"
+		monarch_name = "Denyo"
+		dynasty = "Grandison"
+		birth_date = 1183.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Frelegg"
+		dynasty = "Grandison"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Tyta"
+		monarch_name = "Tyta"
+		dynasty = "Grandison"
+		birth_date = 1197.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Penny"
+		dynasty = "Grandison"
+		birth_date = 1209.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Grandison"
+		birth_date = 1234.1.1
+		death_date = 1314.1.1
+		claim = 87
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Quentyn"
+		dynasty = "Grandison"
+		birth_date = 1205.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Tybolt"
+		monarch_name = "Tybolt"
+		dynasty = "Grandison"
+		birth_date = 1234.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Stiv"
+		dynasty = "Grandison"
+		birth_date = 1288.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Morosh"
+		monarch_name = "Morosh"
+		dynasty = "Grandison"
+		birth_date = 1310.1.1
+		death_date = 1390.1.1
+		claim = 34
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = biabuka
+religion = asoiaf_summer_gods
+
+capital = 532
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Urek"
+		dynasty = "Ebaharo"
+		birth_date = 953.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Arthur"
+		monarch_name = "Arthur"
+		dynasty = "Ebaharo"
+		birth_date = 971.1.1
+		death_date = 1083.1.1
+		claim = 7
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Luthor"
+		dynasty = "Ebaharo"
+		birth_date = 1041.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Daena"
+		monarch_name = "Daena"
+		dynasty = "Ebaharo"
+		birth_date = 1062.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Qhorin"
+		dynasty = "Ebaharo"
+		birth_date = 1104.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Steffarion"
+		monarch_name = "Steffarion"
+		dynasty = "Ebaharo"
+		birth_date = 1153.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Wilbert"
+		dynasty = "Ebaharo"
+		birth_date = 1114.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Sigfry"
+		monarch_name = "Sigfry"
+		dynasty = "Ebaharo"
+		birth_date = 1192.1.1
+		death_date = 1278.1.1
+		claim = 98
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Dywen"
+		dynasty = "Ebaharo"
+		birth_date = 1161.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Ebaharo"
+		birth_date = 1196.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1212.1.1 = {
+	monarch = {
+		name = "Delonne"
+		dynasty = "Ebaharo"
+		female = yes
+		birth_date = 1127.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Jacelyn"
+		monarch_name = "Jacelyn"
+		dynasty = "Ebaharo"
+		birth_date = 1199.1.1
+		death_date = 1278.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Gavin"
+		dynasty = "Ebaharo"
+		birth_date = 1255.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Ebaharo"
+		birth_date = 1277.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Sandor"
+		dynasty = "Ebaharo"
+		birth_date = 1320.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Marq"
+		monarch_name = "Marq"
+		dynasty = "Ebaharo"
+		birth_date = 1362.1.1
+		death_date = 1436.1.1
+		claim = 98
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Elys"
+		dynasty = "Ebaharo"
+		birth_date = 1336.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Alaric"
+		monarch_name = "Alaric"
+		dynasty = "Ebaharo"
+		birth_date = 1366.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+

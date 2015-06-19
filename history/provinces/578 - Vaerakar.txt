@@ -1,0 +1,33 @@
+# 578 - Vaerakar
+
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower =  1
+is_city = no
+native_size = 4
+native_ferocity = 2
+native_hostileness = 2
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+culture = dothraki
+religion = asoiaf_the_great_stallion
+
+
+
+capital = "Vaerakar"

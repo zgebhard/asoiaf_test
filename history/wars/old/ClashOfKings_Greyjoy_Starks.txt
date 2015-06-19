@@ -1,0 +1,16 @@
+name = "Greyjoy Raid on Winterfell"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1300.1.1 = {
+	add_attacker = E09
+	add_defender = A01
+}
+
+1302.1.2 = {
+	rem_attacker = E09
+	rem_defender = A01
+}

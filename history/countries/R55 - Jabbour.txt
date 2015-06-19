@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = farosi
+religion = asoiaf_stone_cow_of_faros
+
+capital = 723
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cleyton"
+		dynasty = "Jabbour"
+		birth_date = 936.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Gendel"
+		monarch_name = "Gendel"
+		dynasty = "Jabbour"
+		birth_date = 978.1.1
+		death_date = 1036.1.1
+		claim = 93
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1004.1.1 = {
+
+	monarch = {
+		name = "Pudding"
+		dynasty = "Jabbour"
+		birth_date = 986.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonos"
+		monarch_name = "Jonos"
+		dynasty = "Jabbour"
+		birth_date = 1001.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Timett"
+		dynasty = "Jabbour"
+		birth_date = 1002.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Jorquen"
+		monarch_name = "Jorquen"
+		dynasty = "Jabbour"
+		birth_date = 1066.1.1
+		death_date = 1133.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1146.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Jabbour"
+		birth_date = 1115.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Gyleno"
+		monarch_name = "Gyleno"
+		dynasty = "Jabbour"
+		birth_date = 1133.1.1
+		death_date = 1218.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Tybero"
+		dynasty = "Jabbour"
+		birth_date = 1147.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Davos"
+		monarch_name = "Davos"
+		dynasty = "Jabbour"
+		birth_date = 1186.1.1
+		death_date = 1225.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Olyvar"
+		dynasty = "Jabbour"
+		birth_date = 1175.1.1
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Mebble"
+		monarch_name = "Mebble"
+		dynasty = "Jabbour"
+		birth_date = 1214.1.1
+		death_date = 1307.1.1
+		claim = 3
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Jabbour"
+		birth_date = 1211.1.1
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Stevron"
+		monarch_name = "Stevron"
+		dynasty = "Jabbour"
+		birth_date = 1226.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1256.1.1 = {
+
+	monarch = {
+		name = "Devan"
+		dynasty = "Jabbour"
+		birth_date = 1190.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Jabbour"
+		birth_date = 1226.1.1
+		death_date = 1284.1.1
+		claim = 85
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Selmond"
+		dynasty = "Jabbour"
+		birth_date = 1228.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Boremund"
+		monarch_name = "Boremund"
+		dynasty = "Jabbour"
+		birth_date = 1262.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Jabbour"
+		birth_date = 1265.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Quaro"
+		monarch_name = "Quaro"
+		dynasty = "Jabbour"
+		birth_date = 1311.1.1
+		death_date = 1404.1.1
+		claim = 72
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Mors"
+		dynasty = "Jabbour"
+		birth_date = 1323.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Arwood"
+		monarch_name = "Arwood"
+		dynasty = "Jabbour"
+		birth_date = 1360.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 315
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Zarabelo"
+		dynasty = "Lonmouth"
+		birth_date = 975.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Lonmouth"
+		birth_date = 978.1.1
+		death_date = 1019.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1072.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Lonmouth"
+		birth_date = 1034.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Lomys"
+		monarch_name = "Lomys"
+		dynasty = "Lonmouth"
+		birth_date = 1058.1.1
+		death_date = 1151.1.1
+		claim = 50
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1129.1.1 = {
+	monarch = {
+		name = "Bellonara"
+		dynasty = "Lonmouth"
+		female = yes
+		birth_date = 1078.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Aenys"
+		monarch_name = "Aenys"
+		dynasty = "Lonmouth"
+		birth_date = 1111.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Wayn"
+		dynasty = "Lonmouth"
+		birth_date = 1148.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Pyat"
+		monarch_name = "Pyat"
+		dynasty = "Lonmouth"
+		birth_date = 1172.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Kirth"
+		dynasty = "Lonmouth"
+		birth_date = 1195.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Helliweg"
+		monarch_name = "Helliweg"
+		dynasty = "Lonmouth"
+		birth_date = 1234.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Jaremy"
+		dynasty = "Lonmouth"
+		birth_date = 1259.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Herbert"
+		monarch_name = "Herbert"
+		dynasty = "Lonmouth"
+		birth_date = 1283.1.1
+		death_date = 1320.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Rolland"
+		dynasty = "Lonmouth"
+		birth_date = 1289.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Dacks"
+		monarch_name = "Dacks"
+		dynasty = "Lonmouth"
+		birth_date = 1349.1.1
+		death_date = 1392.1.1
+		claim = 31
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Lonmouth"
+		birth_date = 1285.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Garrett"
+		monarch_name = "Garrett"
+		dynasty = "Lonmouth"
+		birth_date = 1360.1.1
+		death_date = 1433.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Lancel"
+		dynasty = "Lonmouth"
+		birth_date = 1372.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Trebor"
+		monarch_name = "Trebor"
+		dynasty = "Lonmouth"
+		birth_date = 1380.1.1
+		death_date = 1457.1.1
+		claim = 38
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Rob"
+		dynasty = "Lonmouth"
+		birth_date = 1364.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Calon"
+		monarch_name = "Calon"
+		dynasty = "Lonmouth"
+		birth_date = 1369.1.1
+		death_date = 1468.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+

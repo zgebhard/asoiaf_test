@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 218
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Boggs"
+		birth_date = 921.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Morrec"
+		monarch_name = "Morrec"
+		dynasty = "Boggs"
+		birth_date = 974.1.1
+		death_date = 1036.1.1
+		claim = 51
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Toregg"
+		dynasty = "Boggs"
+		birth_date = 1024.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Azor"
+		monarch_name = "Azor"
+		dynasty = "Boggs"
+		birth_date = 1041.1.1
+		death_date = 1068.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Cletus"
+		dynasty = "Boggs"
+		birth_date = 1022.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Othor"
+		monarch_name = "Othor"
+		dynasty = "Boggs"
+		birth_date = 1053.1.1
+		death_date = 1103.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Lucifer"
+		dynasty = "Boggs"
+		birth_date = 1073.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Crawn"
+		monarch_name = "Crawn"
+		dynasty = "Boggs"
+		birth_date = 1089.1.1
+		death_date = 1118.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Boggs"
+		birth_date = 1057.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Gheal"
+		monarch_name = "Gheal"
+		dynasty = "Boggs"
+		birth_date = 1093.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Tygett"
+		dynasty = "Boggs"
+		birth_date = 1053.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Harrion"
+		monarch_name = "Harrion"
+		dynasty = "Boggs"
+		birth_date = 1131.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Alvyn"
+		dynasty = "Boggs"
+		birth_date = 1171.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Shiera"
+		monarch_name = "Shiera"
+		dynasty = "Boggs"
+		birth_date = 1216.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Harmen"
+		dynasty = "Boggs"
+		birth_date = 1214.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Ethan"
+		monarch_name = "Ethan"
+		dynasty = "Boggs"
+		birth_date = 1279.1.1
+		death_date = 1371.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Rollam"
+		dynasty = "Boggs"
+		birth_date = 1266.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Boggs"
+		birth_date = 1295.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+

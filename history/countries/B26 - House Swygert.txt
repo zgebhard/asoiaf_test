@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 301
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Swygert"
+		birth_date = 976.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Dudley"
+		monarch_name = "Dudley"
+		dynasty = "Swygert"
+		birth_date = 997.1.1
+		death_date = 1083.1.1
+		claim = 83
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Alyn"
+		dynasty = "Swygert"
+		birth_date = 996.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Barth"
+		monarch_name = "Barth"
+		dynasty = "Swygert"
+		birth_date = 1039.1.1
+		death_date = 1131.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1073.1.1 = {
+
+	monarch = {
+		name = "Rollam"
+		dynasty = "Swygert"
+		birth_date = 1013.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Gerion"
+		monarch_name = "Gerion"
+		dynasty = "Swygert"
+		birth_date = 1055.1.1
+		death_date = 1160.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Jommo"
+		dynasty = "Swygert"
+		birth_date = 1120.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Wolfe"
+		monarch_name = "Wolfe"
+		dynasty = "Swygert"
+		birth_date = 1149.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Lucan"
+		dynasty = "Swygert"
+		birth_date = 1103.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Praed"
+		monarch_name = "Praed"
+		dynasty = "Swygert"
+		birth_date = 1133.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Gillam"
+		dynasty = "Swygert"
+		birth_date = 1189.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Orbelo"
+		monarch_name = "Orbelo"
+		dynasty = "Swygert"
+		birth_date = 1196.1.1
+		death_date = 1278.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Lenwood"
+		dynasty = "Swygert"
+		birth_date = 1226.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Mathis"
+		monarch_name = "Mathis"
+		dynasty = "Swygert"
+		birth_date = 1265.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Boy"
+		dynasty = "Swygert"
+		birth_date = 1294.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Swygert"
+		birth_date = 1342.1.1
+		death_date = 1427.1.1
+		claim = 19
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+

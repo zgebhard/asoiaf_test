@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = onuxho
+religion = asoiaf_summer_gods
+
+capital = 499
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Kano"
+		birth_date = 959.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Monterys"
+		monarch_name = "Monterys"
+		dynasty = "Kano"
+		birth_date = 997.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Tystane"
+		dynasty = "Kano"
+		birth_date = 1035.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Othor"
+		monarch_name = "Othor"
+		dynasty = "Kano"
+		birth_date = 1080.1.1
+		death_date = 1104.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1115.1.1 = {
+
+	monarch = {
+		name = "Bowen"
+		dynasty = "Kano"
+		birth_date = 1048.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Tytos"
+		monarch_name = "Tytos"
+		dynasty = "Kano"
+		birth_date = 1102.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Todder"
+		dynasty = "Kano"
+		birth_date = 1136.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Kano"
+		birth_date = 1177.1.1
+		death_date = 1268.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1260.1.1 = {
+
+	monarch = {
+		name = "Jhezene"
+		dynasty = "Kano"
+		birth_date = 1206.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Maegelle"
+		monarch_name = "Maegelle"
+		dynasty = "Kano"
+		birth_date = 1259.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1306.1.1 = {
+
+	monarch = {
+		name = "Walys"
+		dynasty = "Kano"
+		birth_date = 1273.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Wyl"
+		monarch_name = "Wyl"
+		dynasty = "Kano"
+		birth_date = 1278.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Hobb"
+		dynasty = "Kano"
+		birth_date = 1328.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Quence"
+		monarch_name = "Quence"
+		dynasty = "Kano"
+		birth_date = 1349.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1372.1.1 = {
+
+	monarch = {
+		name = "Watty"
+		dynasty = "Kano"
+		birth_date = 1324.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Kirth"
+		monarch_name = "Kirth"
+		dynasty = "Kano"
+		birth_date = 1370.1.1
+		death_date = 1418.1.1
+		claim = 66
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+

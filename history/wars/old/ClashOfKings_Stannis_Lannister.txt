@@ -1,0 +1,16 @@
+name = "Baratheon War of Inheritance"
+
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1300.1.1 = {
+	add_attacker = A39
+	add_defender = A06
+}
+
+1302.1.1 = {
+	rem_attacker = A39
+	rem_defender = A06
+}

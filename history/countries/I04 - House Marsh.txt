@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 69
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Marsh"
+		birth_date = 910.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Loras"
+		monarch_name = "Loras"
+		dynasty = "Marsh"
+		birth_date = 972.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1042.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Marsh"
+		birth_date = 1011.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Marsh"
+		birth_date = 1031.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Kraznys"
+		dynasty = "Marsh"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Harmune"
+		monarch_name = "Harmune"
+		dynasty = "Marsh"
+		birth_date = 1118.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Hake"
+		dynasty = "Marsh"
+		birth_date = 1061.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Urras"
+		monarch_name = "Urras"
+		dynasty = "Marsh"
+		birth_date = 1105.1.1
+		death_date = 1148.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Marsh"
+		birth_date = 1088.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Wex"
+		monarch_name = "Wex"
+		dynasty = "Marsh"
+		birth_date = 1156.1.1
+		death_date = 1200.1.1
+		claim = 92
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1249.1.1 = {
+
+	monarch = {
+		name = "Ollidor"
+		dynasty = "Marsh"
+		birth_date = 1167.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Ryk"
+		monarch_name = "Ryk"
+		dynasty = "Marsh"
+		birth_date = 1246.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1253.1.1 = {
+
+	monarch = {
+		name = "Dafyn"
+		dynasty = "Marsh"
+		birth_date = 1212.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund"
+		dynasty = "Marsh"
+		birth_date = 1233.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Marsh"
+		birth_date = 1261.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ronnel"
+		monarch_name = "Ronnel"
+		dynasty = "Marsh"
+		birth_date = 1304.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Rhonda"
+		dynasty = "Marsh"
+		female = yes
+		birth_date = 1267.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Mya"
+		monarch_name = "Mya"
+		dynasty = "Marsh"
+		female = yes
+		birth_date = 1321.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Liane"
+		dynasty = "Marsh"
+		birth_date = 1351.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Danelle"
+		monarch_name = "Danelle"
+		dynasty = "Marsh"
+		female = yes
+		birth_date = 1378.1.1
+		death_date = 1431.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+

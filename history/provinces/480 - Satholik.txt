@@ -1,0 +1,47 @@
+# 480 - Satholik
+
+add_core = U81
+
+add_core = U72
+owner = U72
+controller = U72
+
+religion = asoiaf_black_goat_of_qohor
+culture = qohorik
+
+
+base_tax = 1
+base_production = 1
+trade_goods = spices
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Satholik"
+
+1000.2.1 = {
+	remove_core = U72
+	owner = U81
+	controller = U81
+}
+
+1000.2.2 = {
+	owner = U72
+	add_core = U72
+	controller = U72
+}

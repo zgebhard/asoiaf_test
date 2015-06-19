@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ibbenese
+primary_culture = ibbenese
+religion = asoiaf_gods_of_ibben
+
+capital = 582
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ned"
+		dynasty = "Bartogg"
+		birth_date = 914.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Bartogg"
+		birth_date = 988.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1009.1.1 = {
+
+	monarch = {
+		name = "Lyessa"
+		dynasty = "Bartogg"
+		birth_date = 960.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Emmon"
+		monarch_name = "Emmon"
+		dynasty = "Bartogg"
+		birth_date = 1005.1.1
+		death_date = 1085.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1034.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Bartogg"
+		birth_date = 947.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Wendell"
+		monarch_name = "Wendell"
+		dynasty = "Bartogg"
+		birth_date = 1017.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Eglantine"
+		dynasty = "Bartogg"
+		birth_date = 1004.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Imry"
+		monarch_name = "Imry"
+		dynasty = "Bartogg"
+		birth_date = 1032.1.1
+		death_date = 1134.1.1
+		claim = 98
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Benfrey"
+		dynasty = "Bartogg"
+		birth_date = 1034.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Bartogg"
+		birth_date = 1110.1.1
+		death_date = 1200.1.1
+		claim = 26
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1214.1.1 = {
+	monarch = {
+		name = "Taena"
+		dynasty = "Bartogg"
+		female = yes
+		birth_date = 1196.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Barristan"
+		monarch_name = "Barristan"
+		dynasty = "Bartogg"
+		birth_date = 1193.1.1
+		death_date = 1263.1.1
+		claim = 43
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Kaeth"
+		dynasty = "Bartogg"
+		birth_date = 1262.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Tagganaro"
+		monarch_name = "Tagganaro"
+		dynasty = "Bartogg"
+		birth_date = 1262.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Morros"
+		dynasty = "Bartogg"
+		birth_date = 1286.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Kirth"
+		monarch_name = "Kirth"
+		dynasty = "Bartogg"
+		birth_date = 1326.1.1
+		death_date = 1402.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+

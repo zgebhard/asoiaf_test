@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 105
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Helliweg"
+		dynasty = "Vance"
+		birth_date = 975.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Cleyton"
+		monarch_name = "Cleyton"
+		dynasty = "Vance"
+		birth_date = 983.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1031.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Vance"
+		birth_date = 1001.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Joseran"
+		monarch_name = "Joseran"
+		dynasty = "Vance"
+		birth_date = 1013.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Morrec"
+		dynasty = "Vance"
+		birth_date = 986.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Kedge"
+		monarch_name = "Kedge"
+		dynasty = "Vance"
+		birth_date = 1039.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Lymond"
+		dynasty = "Vance"
+		birth_date = 1049.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Vance"
+		birth_date = 1084.1.1
+		death_date = 1140.1.1
+		claim = 44
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Mohor"
+		dynasty = "Vance"
+		birth_date = 1112.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Marghaz"
+		monarch_name = "Marghaz"
+		dynasty = "Vance"
+		birth_date = 1129.1.1
+		death_date = 1206.1.1
+		claim = 22
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Norjen"
+		dynasty = "Vance"
+		birth_date = 1167.1.1
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Artys"
+		monarch_name = "Artys"
+		dynasty = "Vance"
+		birth_date = 1171.1.1
+		death_date = 1221.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Hotho"
+		dynasty = "Vance"
+		birth_date = 1215.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Jorah"
+		monarch_name = "Jorah"
+		dynasty = "Vance"
+		birth_date = 1243.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Ulrick"
+		dynasty = "Vance"
+		birth_date = 1263.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Andrew"
+		monarch_name = "Andrew"
+		dynasty = "Vance"
+		birth_date = 1277.1.1
+		death_date = 1351.1.1
+		claim = 97
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1379.1.1 = {
+
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Vance"
+		birth_date = 1352.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Wyman"
+		monarch_name = "Wyman"
+		dynasty = "Vance"
+		birth_date = 1356.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1391.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Vance"
+		birth_date = 1335.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Jayde"
+		monarch_name = "Jayde"
+		dynasty = "Vance"
+		birth_date = 1372.1.1
+		death_date = 1406.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+

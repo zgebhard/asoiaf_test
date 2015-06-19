@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 188
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Wendello"
+		dynasty = "Parren"
+		birth_date = 976.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Naerys"
+		monarch_name = "Naerys"
+		dynasty = "Parren"
+		birth_date = 982.1.1
+		death_date = 1032.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1025.1.1 = {
+
+	monarch = {
+		name = "Cassa"
+		dynasty = "Parren"
+		birth_date = 946.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Randyll"
+		monarch_name = "Randyll"
+		dynasty = "Parren"
+		birth_date = 997.1.1
+		death_date = 1082.1.1
+		claim = 4
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Pypar"
+		dynasty = "Parren"
+		birth_date = 1022.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Galladon"
+		monarch_name = "Galladon"
+		dynasty = "Parren"
+		birth_date = 1074.1.1
+		death_date = 1164.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1091.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Parren"
+		birth_date = 1038.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Annara"
+		monarch_name = "Annara"
+		dynasty = "Parren"
+		birth_date = 1065.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1100.1.1 = {
+
+	monarch = {
+		name = "Brandon"
+		dynasty = "Parren"
+		birth_date = 1074.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Lysono"
+		monarch_name = "Lysono"
+		dynasty = "Parren"
+		birth_date = 1093.1.1
+		death_date = 1187.1.1
+		claim = 94
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Tyrion"
+		dynasty = "Parren"
+		birth_date = 1044.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Parren"
+		birth_date = 1095.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Harghaz"
+		dynasty = "Parren"
+		birth_date = 1152.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Parren"
+		birth_date = 1186.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Gorold"
+		dynasty = "Parren"
+		birth_date = 1206.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Othor"
+		monarch_name = "Othor"
+		dynasty = "Parren"
+		birth_date = 1215.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Tyland"
+		dynasty = "Parren"
+		birth_date = 1247.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Mathos"
+		monarch_name = "Mathos"
+		dynasty = "Parren"
+		birth_date = 1248.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Ryam"
+		dynasty = "Parren"
+		birth_date = 1223.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Parren"
+		birth_date = 1274.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1352.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Parren"
+		birth_date = 1271.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Parren"
+		birth_date = 1346.1.1
+		death_date = 1384.1.1
+		claim = 25
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Mallor"
+		dynasty = "Parren"
+		birth_date = 1338.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Amabel"
+		monarch_name = "Amabel"
+		dynasty = "Parren"
+		birth_date = 1326.1.1
+		death_date = 1428.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1361.1.1 = {
+
+	monarch = {
+		name = "Pycelle"
+		dynasty = "Parren"
+		birth_date = 1337.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Axell"
+		monarch_name = "Axell"
+		dynasty = "Parren"
+		birth_date = 1333.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+}
+

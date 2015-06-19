@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 266
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Arrec"
+		dynasty = "Smallwood"
+		birth_date = 982.1.1
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Shiera"
+		monarch_name = "Shiera"
+		dynasty = "Smallwood"
+		birth_date = 989.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Harwin"
+		dynasty = "Smallwood"
+		birth_date = 1014.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Luceon"
+		monarch_name = "Luceon"
+		dynasty = "Smallwood"
+		birth_date = 1048.1.1
+		death_date = 1125.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Rafford"
+		dynasty = "Smallwood"
+		birth_date = 973.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Vortimer"
+		monarch_name = "Vortimer"
+		dynasty = "Smallwood"
+		birth_date = 1050.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1064.1.1 = {
+
+	monarch = {
+		name = "Patrek"
+		dynasty = "Smallwood"
+		birth_date = 997.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Norren"
+		monarch_name = "Norren"
+		dynasty = "Smallwood"
+		birth_date = 1062.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Tywin"
+		dynasty = "Smallwood"
+		birth_date = 1033.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Orell"
+		monarch_name = "Orell"
+		dynasty = "Smallwood"
+		birth_date = 1079.1.1
+		death_date = 1127.1.1
+		claim = 44
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Amell"
+		dynasty = "Smallwood"
+		birth_date = 1098.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Smallwood"
+		birth_date = 1176.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Zhoe"
+		dynasty = "Smallwood"
+		birth_date = 1197.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Urrigon"
+		monarch_name = "Urrigon"
+		dynasty = "Smallwood"
+		birth_date = 1245.1.1
+		death_date = 1283.1.1
+		claim = 35
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Dunsen"
+		dynasty = "Smallwood"
+		birth_date = 1288.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Jammos"
+		monarch_name = "Jammos"
+		dynasty = "Smallwood"
+		birth_date = 1320.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Smallwood"
+		birth_date = 1363.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Chett"
+		monarch_name = "Chett"
+		dynasty = "Smallwood"
+		birth_date = 1393.1.1
+		death_date = 1446.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+

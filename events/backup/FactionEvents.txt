@@ -1,0 +1,514 @@
+namespace = FACTION_EVENTS
+
+#title: Famine in $PROVINCENAME$
+#desc: We have been neglecting our peasants in $PROVINCENAME$, and it is now experiencing a famine. This will take some administrative skill to resolve peacefully.
+#1: Source extra food for $PROVINCENAME$
+#2: Let them find their own food
+province_event = {
+	id = FACTION_EVENTS.1
+	title = "FACTION_EVENTS.1t"
+	desc = "FACTION_EVENTS.1d"
+	picture = FAMINE_eventPicture
+	
+	is_mtth_scaled_to_size = 1
+	
+	trigger = {
+		owner = {
+			NOT = { faction_in_power = faction_peasants }
+		}
+		is_capital = no
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = "FACTION_EVENTS.1a"
+		
+		add_unrest = -5
+		owner = { add_adm_power = -50 }
+	}
+	option = {
+		name = "FACTION_EVENTS.1b"
+		
+		add_unrest = 5
+	}
+}
+
+#title: Bountiful Harvest in $PROVINCENAME$
+#desc: We have been support the peasants in $PROVINCENAME$, and their harvests have been bountiful this year. This will release some of the administrative burden in this region. 
+#1: We can store extra for winter!
+province_event = {
+	id = FACTION_EVENTS.2
+	title = "FACTION_EVENTS.2t"
+	desc = "FACTION_EVENTS.2d"
+	picture = FEAST_eventPicture
+	
+	is_mtth_scaled_to_size = 1
+	
+	trigger = {
+		owner = {
+			faction_in_power = faction_peasants
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = "FACTION_EVENTS.2a"
+		
+		add_unrest = -2
+		owner = { add_adm_power = 50 }
+	}
+}
+
+#title: Nobles are pleased
+#desc: Our consultations with nobles in our realm has increased their support of our rule. As a consequence, they have pledged to tithe more troops for the royal armies.
+#1: Wonderful!
+country_event = {
+	id = FACTION_EVENTS.3
+	title = "FACTION_EVENTS.3t"
+	desc = "FACTION_EVENTS.3d"
+	picture = LAND_MILITARY_eventPicture
+	
+	trigger = {
+		faction_in_power = faction_nobles
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.3a"
+		
+		add_mil_power = 100
+	}
+	option = {
+		name = "FACTION_EVENTS.3b"
+		
+		add_army_tradition = 5
+	}
+}
+
+#title: We have angered our Nobility
+#desc: Recent support for the traders has upset some of our noble friends, and they have begun to plot against our rule. We will need to exercise some force to show them who is in charge.
+#1: Damn.
+country_event = {
+	id = FACTION_EVENTS.4
+	title = "FACTION_EVENTS.4t"
+	desc = "FACTION_EVENTS.4d"
+	picture = MILITARY_CAMP_eventPicture
+	
+	trigger = {
+		NOT = { faction_in_power = faction_nobles }
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.4a"
+		
+		add_mil_power = -50
+		add_army_tradition = -10
+	}
+	option = {
+		name = "FACTION_EVENTS.4b"
+		
+		add_mil_power = -50
+		add_yearly_manpower = -0.25
+	}
+}
+
+#title: Trade is booming!
+#desc: Our support of the traders has led to record levels of profit from trade within our realm. This gives us valuable negotiating power with these merchants.
+#1: Trade is great!
+country_event = {
+	id = FACTION_EVENTS.5
+	title = "FACTION_EVENTS.5t"
+	desc = "FACTION_EVENTS.5d"
+	picture = ARTWORK_eventPicture
+	
+	trigger = {
+		faction_in_power = faction_merchants
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.5a"
+		
+		add_dip_power = 100
+		
+		add_country_modifier = {
+			name = booming_trade_1
+			duration = 3650
+		}
+	}
+	option = {
+		name = "FACTION_EVENTS.5b"
+		
+		add_mercantilism = 0.05
+		
+		add_country_modifier = {
+			name = booming_trade_2
+			duration = 3650
+		}
+	}
+}
+
+#title: Trade is faltering!
+#desc: Our lack of support of the traders has led to dismal profits for our merchants, and they are considering other markets for their goods. We will need to exercise some diplomatic skill to maintain them.
+#1: Foibles of money...
+country_event = {
+	id = FACTION_EVENTS.6
+	title = "FACTION_EVENTS.6t"
+	desc = "FACTION_EVENTS.6d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { faction_in_power = faction_merchants }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.6a"
+		
+		add_dip_power = -100
+		add_years_of_income = -0.25
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.6b"
+		
+		add_country_modifier = {
+			name = faltering_trade
+			duration = 3650
+		}
+	}
+}
+
+#title: $MONARCH$ is beloved by his people
+#desc: $MONARCHTITLE$ $MONARCH$'s progressive attitude towards our peasants has garnered major support for $MONARCHTITLE$ $MONARCH$'s rule, giving [Root.Monarch.GetHerHis] rule legitimacy.
+#1: One true king!
+country_event = {
+	id = FACTION_EVENTS.7
+	title = "FACTION_EVENTS.7t"
+	desc = "FACTION_EVENTS.7d"
+	picture = CULTURE_eventPicture
+	
+	trigger = {
+		faction_influence = {
+			faction = faction_peasants
+			influence = 50
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.7a"
+		
+		add_legitimacy = 5
+		add_republican_tradition = 0.05
+	}
+}
+
+#title: Nobility invests in the Royal Army
+#desc: $MONARCHTITLE$ $MONARCH$'s support of the nobles in our realm has paid off. Numerous nobles have pledged to levy more men for the Royal Army, if needs be.
+#1: Excellent.
+country_event = {
+	id = FACTION_EVENTS.8
+	title = "FACTION_EVENTS.8t"
+	desc = "FACTION_EVENTS.8d"
+	picture = LAND_MILITARY_eventPicture
+	
+	trigger = {
+		faction_influence = {
+			faction = faction_nobles
+			influence = 50
+		}
+		NOT = { army_tradition = 75 }	
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.8a"
+		
+		add_army_tradition = 10
+	}
+}
+
+#title: Excellent Merchant
+#desc: $MONARCHTITLE$ $MONARCH$'s favoured merchant has done excellent work in one of our active trade regions. This has given us a large advantage in the region.
+#1: Wonderful.
+country_event = {
+	id = FACTION_EVENTS.9
+	title = "FACTION_EVENTS.9t"
+	desc = "FACTION_EVENTS.9d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		faction_influence = {
+			faction = faction_merchants
+			influence = 50
+		}
+		any_active_trade_node = {  }
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.9a"
+		
+		random_active_trade_node = {
+			add_trade_modifier = {
+				who = root
+				duration = 360
+				power = 10
+				key = excellent_merchant
+			}
+		}
+	}
+}
+
+#title: Peasants upset!
+#desc: $MONARCHTITLE$ $MONARCH$'s poor administration of $COUNTRY$ has been noticed by the peasantry, and they are demanding more local powers. If $MONARCH$ gives in, our nobility will not be happy.
+#1: Cede local autonomy
+#2: Maintain central rule
+country_event = {
+	id = FACTION_EVENTS.10
+	title = "FACTION_EVENTS.10t"
+	desc = "FACTION_EVENTS.10d"
+	picture = ANGRY_MOB_eventPicture
+	
+	trigger = {
+		NOT = { stability = 0 }
+		has_factions = yes
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.10a"
+		
+		random_owned_province = {
+			add_local_autonomy = 25
+		}
+		random_owned_province = {
+			add_local_autonomy = 25
+		}
+		random_owned_province = {
+			add_local_autonomy = 25
+		}
+		
+		add_faction_influence = { faction = faction_nobles influence = -10 }
+		add_faction_influence = { faction = faction_peasants influence = 10 }
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.10b"
+		
+		random_owned_province = {
+			add_unrest = 10
+		}
+		random_owned_province = {
+			add_unrest = 10
+		}
+		random_owned_province = {
+			add_unrest = 10
+		}
+		
+		add_faction_influence = { faction = faction_nobles influence = 10 }
+		add_faction_influence = { faction = faction_peasants influence = -10 }
+	}
+}
+
+#title: $PROVINCENAME$ demands freedom
+#desc: After years of oppression under the yoke of [Root.Owner.Monarch.GetName], the people of $PROVINCENAME$ have decided to fight for their freedom.
+#1: Crush these insolent dogs.
+#2: Bah, pay them off for now.
+
+province_event = {
+	id = FACTION_EVENTS.11
+	title = "FACTION_EVENTS.11t"
+	desc = "FACTION_EVENTS.11d"
+	picture = ANGRY_MOB_eventPicture
+	
+	is_mtth_scaled_to_size = 1
+	
+	trigger = {
+		owner = { NOT = { stability = 0 } }
+		NOT = { has_province_modifier = paid_off }
+		NOT = { has_province_modifier = angry_loyalists }
+		owner = { num_of_cities = 3 }
+	}
+
+	mean_time_to_happen = {
+		months = 1200
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.11a"
+		
+		nationalist_rebels = 1
+		
+		add_province_modifier = {
+			name = angry_loyalists
+			duration = 3650
+		}
+		random_neighbor_province = {
+			limit = { owned_by = owner }
+			add_province_modifier = {
+				name = angry_loyalists
+				duration = 3650
+			}
+		}
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.11b"
+		
+		owner = {
+			add_treasury = -100
+			add_prestige = -25
+		}
+		
+		add_province_modifier = {
+			name = paid_off
+			duration = 3650
+		}
+	}
+}
+
+#title: Spice trade is booming!
+#desc: Our merchants report an influx of spices in our markets, and are suggesting we store it, and sell it on when the supply drops.
+#1: Store it.
+#2: Keep trading it.
+
+country_event = {
+	id = FACTION_EVENTS.12
+	title = "FACTION_EVENTS.12t"
+	desc = "FACTION_EVENTS.12d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		has_idea_group = trade_ideas
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.12a"
+		
+		add_mercantilism = 0.05
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.12b"
+		
+		add_dip_power = 50
+	}
+}
+
+#title: Demand in grain surges!
+#desc: Our storehouses are brimming with grain, and the recent winter has drained our trading partners stores. Now would be a great time to get rid of our surplus.
+#1: Trade away the grain.
+#2: Store it, we might need it.
+
+country_event = {
+	id = FACTION_EVENTS.13
+	title = "FACTION_EVENTS.13t"
+	desc = "FACTION_EVENTS.13d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		any_owned_province = {
+			trade_goods = grain
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "FACTION_EVENTS.13a"
+		
+		add_mercantilism = 0.01
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.13b"
+		
+		add_dip_power = 25
+	}
+}
+
+#title: Silk workers emigrate to our realm
+#desc: Due to persecution in Essos, silk workers have been travelling across the Narrow Sea to Westeros, and many of them have entered our realm. It would be wise to integrate them, rather than punishing them.
+#1: Help them integrate.
+#2: Kill them.
+country_event = {
+	id = FACTION_EVENTS.14
+	title = "FACTION_EVENTS.14t"
+	desc = "FACTION_EVENTS.14d"
+	picture = SHIP_SAILING_eventPicture
+	
+	trigger = {
+		capital_scope = { continent = europe }
+		any_country = {
+			capital_scope = { continent = continent_essos }
+			is_at_war = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "FACTION_EVENTS.14a"
+		
+		add_dip_power = -50
+		random = {
+			chance = 20 
+			random_owned_province = {
+				limit = {
+					has_port = yes
+				}
+				change_trade_goods = silk
+			}
+		}
+	}
+	
+	option = {
+		name = "FACTION_EVENTS.14b"
+		
+		add_adm_power = 50
+		add_prestige = -5
+	}
+}

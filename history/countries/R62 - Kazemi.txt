@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = moraqi
+religion = asoiaf_stone_cow_of_faros
+
+capital = 725
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Wyl"
+		dynasty = "Kazemi"
+		birth_date = 915.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Medwick"
+		monarch_name = "Medwick"
+		dynasty = "Kazemi"
+		birth_date = 985.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Endrew"
+		dynasty = "Kazemi"
+		birth_date = 1070.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Conwy"
+		monarch_name = "Conwy"
+		dynasty = "Kazemi"
+		birth_date = 1074.1.1
+		death_date = 1164.1.1
+		claim = 11
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Bennard"
+		dynasty = "Kazemi"
+		birth_date = 1042.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Tanton"
+		monarch_name = "Tanton"
+		dynasty = "Kazemi"
+		birth_date = 1112.1.1
+		death_date = 1168.1.1
+		claim = 42
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1190.1.1 = {
+
+	monarch = {
+		name = "Red"
+		dynasty = "Kazemi"
+		birth_date = 1163.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Kazemi"
+		birth_date = 1169.1.1
+		death_date = 1263.1.1
+		claim = 77
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Bedwyck"
+		dynasty = "Kazemi"
+		birth_date = 1180.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Murenmure"
+		monarch_name = "Murenmure"
+		dynasty = "Kazemi"
+		birth_date = 1254.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Lyonel"
+		dynasty = "Kazemi"
+		birth_date = 1294.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Zachery"
+		monarch_name = "Zachery"
+		dynasty = "Kazemi"
+		birth_date = 1331.1.1
+		death_date = 1398.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+

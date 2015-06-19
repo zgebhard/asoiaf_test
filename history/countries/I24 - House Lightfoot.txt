@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 52
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Arthur"
+		dynasty = "Lightfoot"
+		birth_date = 935.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Polliver"
+		monarch_name = "Polliver"
+		dynasty = "Lightfoot"
+		birth_date = 971.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1002.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Lightfoot"
+		birth_date = 936.1.1
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Rymolf"
+		monarch_name = "Rymolf"
+		dynasty = "Lightfoot"
+		birth_date = 976.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Lightfoot"
+		birth_date = 1037.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Lightfoot"
+		birth_date = 1046.1.1
+		death_date = 1105.1.1
+		claim = 20
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1134.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Lightfoot"
+		birth_date = 1100.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Tystane"
+		monarch_name = "Tystane"
+		dynasty = "Lightfoot"
+		birth_date = 1125.1.1
+		death_date = 1176.1.1
+		claim = 35
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Merlon"
+		dynasty = "Lightfoot"
+		birth_date = 1091.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Daven"
+		monarch_name = "Daven"
+		dynasty = "Lightfoot"
+		birth_date = 1116.1.1
+		death_date = 1217.1.1
+		claim = 21
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Bryen"
+		dynasty = "Lightfoot"
+		birth_date = 1160.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Lenwood"
+		monarch_name = "Lenwood"
+		dynasty = "Lightfoot"
+		birth_date = 1198.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Yormwell"
+		dynasty = "Lightfoot"
+		birth_date = 1228.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Bennis"
+		monarch_name = "Bennis"
+		dynasty = "Lightfoot"
+		birth_date = 1242.1.1
+		death_date = 1314.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Castos"
+		dynasty = "Lightfoot"
+		birth_date = 1265.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Rawney"
+		monarch_name = "Rawney"
+		dynasty = "Lightfoot"
+		birth_date = 1273.1.1
+		death_date = 1368.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Galazza"
+		dynasty = "Lightfoot"
+		birth_date = 1263.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ternesio"
+		monarch_name = "Ternesio"
+		dynasty = "Lightfoot"
+		birth_date = 1318.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+

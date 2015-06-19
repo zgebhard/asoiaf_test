@@ -1,0 +1,45 @@
+# 731- Draccar
+
+owner = R57
+add_core = R57
+add_core = R59
+controller = R57
+
+culture = vahari
+religion = asoiaf_stone_cow_of_faros
+
+base_tax = 5
+base_production = 5
+trade_goods = spices
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Draccar"
+
+1000.2.1 = {
+	remove_core = R57
+	owner = R59
+	controller = R59
+}
+
+1000.2.2 = {
+	owner = R57
+	add_core = R57
+	controller = R57
+}

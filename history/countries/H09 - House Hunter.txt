@@ -1,0 +1,386 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 139
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tytos"
+		dynasty = "Hunter"
+		birth_date = 983.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Jojen"
+		monarch_name = "Jojen"
+		dynasty = "Hunter"
+		birth_date = 979.1.1
+		death_date = 1059.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Brusco"
+		dynasty = "Hunter"
+		birth_date = 966.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Stannis"
+		monarch_name = "Stannis"
+		dynasty = "Hunter"
+		birth_date = 998.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Ilyrio"
+		dynasty = "Hunter"
+		birth_date = 1029.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Hunter"
+		birth_date = 1048.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Pollitor"
+		dynasty = "Hunter"
+		birth_date = 1036.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Utt"
+		monarch_name = "Utt"
+		dynasty = "Hunter"
+		birth_date = 1046.1.1
+		death_date = 1127.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Tyrek"
+		dynasty = "Hunter"
+		birth_date = 1038.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Endrew"
+		monarch_name = "Endrew"
+		dynasty = "Hunter"
+		birth_date = 1054.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1126.1.1 = {
+
+	monarch = {
+		name = "Lester"
+		dynasty = "Hunter"
+		birth_date = 1072.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Tarle"
+		monarch_name = "Tarle"
+		dynasty = "Hunter"
+		birth_date = 1106.1.1
+		death_date = 1157.1.1
+		claim = 14
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Orivel"
+		dynasty = "Hunter"
+		birth_date = 1101.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Aegon"
+		monarch_name = "Aegon"
+		dynasty = "Hunter"
+		birth_date = 1149.1.1
+		death_date = 1230.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1189.1.1 = {
+
+	monarch = {
+		name = "Josua"
+		dynasty = "Hunter"
+		birth_date = 1150.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Axell"
+		monarch_name = "Axell"
+		dynasty = "Hunter"
+		birth_date = 1173.1.1
+		death_date = 1249.1.1
+		claim = 47
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Aemond"
+		dynasty = "Hunter"
+		birth_date = 1119.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Qyle"
+		monarch_name = "Qyle"
+		dynasty = "Hunter"
+		birth_date = 1172.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Hunter"
+		birth_date = 1164.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Varly"
+		monarch_name = "Varly"
+		dynasty = "Hunter"
+		birth_date = 1218.1.1
+		death_date = 1300.1.1
+		claim = 26
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Helliweg"
+		dynasty = "Hunter"
+		birth_date = 1174.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Belaquo"
+		monarch_name = "Belaquo"
+		dynasty = "Hunter"
+		birth_date = 1241.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Stygg"
+		dynasty = "Hunter"
+		birth_date = 1222.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Qhorin"
+		monarch_name = "Qhorin"
+		dynasty = "Hunter"
+		birth_date = 1271.1.1
+		death_date = 1345.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1312.1.1 = {
+
+	monarch = {
+		name = "Walys"
+		dynasty = "Hunter"
+		birth_date = 1243.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gyles"
+		monarch_name = "Gyles"
+		dynasty = "Hunter"
+		birth_date = 1289.1.1
+		death_date = 1334.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Hunter"
+		birth_date = 1305.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Artys"
+		monarch_name = "Artys"
+		dynasty = "Hunter"
+		birth_date = 1308.1.1
+		death_date = 1352.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Lucion"
+		dynasty = "Hunter"
+		birth_date = 1334.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Polliver"
+		monarch_name = "Polliver"
+		dynasty = "Hunter"
+		birth_date = 1353.1.1
+		death_date = 1464.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+

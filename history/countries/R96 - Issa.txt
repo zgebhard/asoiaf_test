@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 670
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Endrew"
+		dynasty = "Issa"
+		birth_date = 910.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Anvil"
+		monarch_name = "Anvil"
+		dynasty = "Issa"
+		birth_date = 993.1.1
+		death_date = 1089.1.1
+		claim = 23
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Royce"
+		dynasty = "Issa"
+		birth_date = 940.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Tom"
+		monarch_name = "Tom"
+		dynasty = "Issa"
+		birth_date = 1003.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Amabel"
+		dynasty = "Issa"
+		birth_date = 990.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Qos"
+		monarch_name = "Qos"
+		dynasty = "Issa"
+		birth_date = 1002.1.1
+		death_date = 1098.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Issa"
+		birth_date = 982.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Barristan"
+		monarch_name = "Barristan"
+		dynasty = "Issa"
+		birth_date = 1066.1.1
+		death_date = 1131.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1092.1.1 = {
+	monarch = {
+		name = "Shierle"
+		dynasty = "Issa"
+		female = yes
+		birth_date = 1067.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Issa"
+		birth_date = 1082.1.1
+		death_date = 1124.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Lister"
+		dynasty = "Issa"
+		birth_date = 1082.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Medger"
+		monarch_name = "Medger"
+		dynasty = "Issa"
+		birth_date = 1119.1.1
+		death_date = 1182.1.1
+		claim = 78
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Terro"
+		dynasty = "Issa"
+		birth_date = 1112.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Dareon"
+		monarch_name = "Dareon"
+		dynasty = "Issa"
+		birth_date = 1155.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Lucias"
+		dynasty = "Issa"
+		birth_date = 1203.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Koss"
+		monarch_name = "Koss"
+		dynasty = "Issa"
+		birth_date = 1227.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1316.1.1 = {
+	monarch = {
+		name = "Nan"
+		dynasty = "Issa"
+		female = yes
+		birth_date = 1242.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Hobber"
+		monarch_name = "Hobber"
+		dynasty = "Issa"
+		birth_date = 1306.1.1
+		death_date = 1338.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Donel"
+		dynasty = "Issa"
+		birth_date = 1308.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Frenya"
+		monarch_name = "Frenya"
+		dynasty = "Issa"
+		female = yes
+		birth_date = 1302.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Issa"
+		birth_date = 1344.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Tanselle"
+		monarch_name = "Tanselle"
+		dynasty = "Issa"
+		birth_date = 1361.1.1
+		death_date = 1465.1.1
+		claim = 24
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+

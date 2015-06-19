@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 49
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bennet"
+		dynasty = "Cerwyn"
+		birth_date = 951.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Garrison"
+		monarch_name = "Garrison"
+		dynasty = "Cerwyn"
+		birth_date = 985.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1033.1.1 = {
+	monarch = {
+		name = "Bellonara"
+		dynasty = "Cerwyn"
+		female = yes
+		birth_date = 963.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Arthur"
+		monarch_name = "Arthur"
+		dynasty = "Cerwyn"
+		birth_date = 1009.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1037.1.1 = {
+
+	monarch = {
+		name = "Ternesio"
+		dynasty = "Cerwyn"
+		birth_date = 1021.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Lister"
+		monarch_name = "Lister"
+		dynasty = "Cerwyn"
+		birth_date = 1036.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Erren"
+		dynasty = "Cerwyn"
+		birth_date = 1008.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lommy"
+		monarch_name = "Lommy"
+		dynasty = "Cerwyn"
+		birth_date = 1088.1.1
+		death_date = 1165.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1142.1.1 = {
+
+	monarch = {
+		name = "Rymolf"
+		dynasty = "Cerwyn"
+		birth_date = 1082.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Albar"
+		monarch_name = "Albar"
+		dynasty = "Cerwyn"
+		birth_date = 1137.1.1
+		death_date = 1183.1.1
+		claim = 12
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Monterys"
+		dynasty = "Cerwyn"
+		birth_date = 1161.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Cerwyn"
+		birth_date = 1210.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Andros"
+		dynasty = "Cerwyn"
+		birth_date = 1212.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Gyles"
+		monarch_name = "Gyles"
+		dynasty = "Cerwyn"
+		birth_date = 1261.1.1
+		death_date = 1351.1.1
+		claim = 62
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Rhaego"
+		dynasty = "Cerwyn"
+		birth_date = 1233.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Oreo"
+		monarch_name = "Oreo"
+		dynasty = "Cerwyn"
+		birth_date = 1303.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Axell"
+		dynasty = "Cerwyn"
+		birth_date = 1262.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Lenwood"
+		monarch_name = "Lenwood"
+		dynasty = "Cerwyn"
+		birth_date = 1303.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Eustace"
+		dynasty = "Cerwyn"
+		birth_date = 1355.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Cerwyn"
+		birth_date = 1356.1.1
+		death_date = 1416.1.1
+		claim = 25
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+

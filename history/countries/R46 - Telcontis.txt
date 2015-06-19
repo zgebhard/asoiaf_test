@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 665
+
+1000.1.1 = {
+	monarch = {
+		name = "Corliss"
+		dynasty = "Telcontis"
+		female = yes
+		birth_date = 942.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Larra"
+		monarch_name = "Larra"
+		dynasty = "Telcontis"
+		birth_date = 991.1.1
+		death_date = 1060.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Wallen"
+		dynasty = "Telcontis"
+		birth_date = 945.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Gueren"
+		monarch_name = "Gueren"
+		dynasty = "Telcontis"
+		birth_date = 1012.1.1
+		death_date = 1081.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1031.1.1 = {
+
+	monarch = {
+		name = "Todric"
+		dynasty = "Telcontis"
+		birth_date = 999.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Liane"
+		monarch_name = "Liane"
+		dynasty = "Telcontis"
+		birth_date = 1030.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Telcontis"
+		birth_date = 984.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Gormond"
+		monarch_name = "Gormond"
+		dynasty = "Telcontis"
+		birth_date = 1056.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1081.1.1 = {
+	monarch = {
+		name = "Brienne"
+		dynasty = "Telcontis"
+		female = yes
+		birth_date = 1009.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Telcontis"
+		birth_date = 1058.1.1
+		death_date = 1149.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Dickon"
+		dynasty = "Telcontis"
+		birth_date = 1113.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Alannys"
+		monarch_name = "Alannys"
+		dynasty = "Telcontis"
+		birth_date = 1130.1.1
+		death_date = 1179.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Bryan"
+		dynasty = "Telcontis"
+		birth_date = 1146.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Patrek"
+		monarch_name = "Patrek"
+		dynasty = "Telcontis"
+		birth_date = 1211.1.1
+		death_date = 1308.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Rhaegar"
+		dynasty = "Telcontis"
+		birth_date = 1274.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Telcontis"
+		birth_date = 1308.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Pearse"
+		dynasty = "Telcontis"
+		birth_date = 1296.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Luco"
+		monarch_name = "Luco"
+		dynasty = "Telcontis"
+		birth_date = 1350.1.1
+		death_date = 1418.1.1
+		claim = 76
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+

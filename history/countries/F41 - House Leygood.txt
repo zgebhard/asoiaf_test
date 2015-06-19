@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 251
+
+1000.1.1 = {
+	monarch = {
+		name = "Shae"
+		dynasty = "Leygood"
+		female = yes
+		birth_date = 914.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Devyn"
+		monarch_name = "Devyn"
+		dynasty = "Leygood"
+		birth_date = 987.1.1
+		death_date = 1071.1.1
+		claim = 6
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Naerys"
+		dynasty = "Leygood"
+		birth_date = 1003.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jorah"
+		monarch_name = "Jorah"
+		dynasty = "Leygood"
+		birth_date = 1067.1.1
+		death_date = 1149.1.1
+		claim = 59
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Alyx"
+		dynasty = "Leygood"
+		birth_date = 1072.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Watt"
+		monarch_name = "Watt"
+		dynasty = "Leygood"
+		birth_date = 1150.1.1
+		death_date = 1216.1.1
+		claim = 2
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Orland"
+		dynasty = "Leygood"
+		birth_date = 1164.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Willas"
+		monarch_name = "Willas"
+		dynasty = "Leygood"
+		birth_date = 1211.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Vardis"
+		dynasty = "Leygood"
+		birth_date = 1208.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Marghaz"
+		monarch_name = "Marghaz"
+		dynasty = "Leygood"
+		birth_date = 1268.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Dermot"
+		dynasty = "Leygood"
+		birth_date = 1284.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Torrek"
+		monarch_name = "Torrek"
+		dynasty = "Leygood"
+		birth_date = 1305.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Beth"
+		dynasty = "Leygood"
+		female = yes
+		birth_date = 1367.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Leygood"
+		birth_date = 1368.1.1
+		death_date = 1456.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+

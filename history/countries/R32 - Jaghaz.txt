@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = ghis
+religion = asoiaf_graces
+
+capital = 617
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Stafford"
+		dynasty = "Jaghaz"
+		birth_date = 951.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Hamish"
+		monarch_name = "Hamish"
+		dynasty = "Jaghaz"
+		birth_date = 974.1.1
+		death_date = 1087.1.1
+		claim = 76
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Jaghaz"
+		birth_date = 1001.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Hake"
+		monarch_name = "Hake"
+		dynasty = "Jaghaz"
+		birth_date = 1035.1.1
+		death_date = 1108.1.1
+		claim = 74
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Symond"
+		dynasty = "Jaghaz"
+		birth_date = 1069.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Rumund"
+		monarch_name = "Rumund"
+		dynasty = "Jaghaz"
+		birth_date = 1074.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Lewys"
+		dynasty = "Jaghaz"
+		birth_date = 1159.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Dunstan"
+		monarch_name = "Dunstan"
+		dynasty = "Jaghaz"
+		birth_date = 1166.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Brandon"
+		dynasty = "Jaghaz"
+		birth_date = 1153.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Jaghaz"
+		birth_date = 1221.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1253.1.1 = {
+
+	monarch = {
+		name = "Tobho"
+		dynasty = "Jaghaz"
+		birth_date = 1163.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Alfyn"
+		monarch_name = "Alfyn"
+		dynasty = "Jaghaz"
+		birth_date = 1244.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Godry"
+		dynasty = "Jaghaz"
+		birth_date = 1259.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Waymar"
+		monarch_name = "Waymar"
+		dynasty = "Jaghaz"
+		birth_date = 1266.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Gran"
+		dynasty = "Jaghaz"
+		birth_date = 1303.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Xaro"
+		monarch_name = "Xaro"
+		dynasty = "Jaghaz"
+		birth_date = 1337.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+

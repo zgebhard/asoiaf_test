@@ -1,0 +1,33 @@
+
+owner = R68
+add_core = R68
+add_core = R78
+controller = R68
+is_city = yes
+
+culture = yitish
+religion = asoiaf_lion_of_the_night
+
+base_tax = 11
+base_production = 11
+base_manpower =  10
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+
+

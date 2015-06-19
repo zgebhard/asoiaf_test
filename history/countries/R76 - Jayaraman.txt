@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 770
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cossomo"
+		dynasty = "Jayaraman"
+		birth_date = 922.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Torren"
+		monarch_name = "Torren"
+		dynasty = "Jayaraman"
+		birth_date = 970.1.1
+		death_date = 1046.1.1
+		claim = 10
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Kenned"
+		dynasty = "Jayaraman"
+		birth_date = 1024.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Jayaraman"
+		birth_date = 1058.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Jayaraman"
+		birth_date = 1094.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Beardless"
+		monarch_name = "Beardless"
+		dynasty = "Jayaraman"
+		birth_date = 1148.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Grisil"
+		dynasty = "Jayaraman"
+		birth_date = 1074.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Utherydes"
+		monarch_name = "Utherydes"
+		dynasty = "Jayaraman"
+		birth_date = 1142.1.1
+		death_date = 1198.1.1
+		claim = 30
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Raymun"
+		dynasty = "Jayaraman"
+		birth_date = 1083.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lewis"
+		monarch_name = "Lewis"
+		dynasty = "Jayaraman"
+		birth_date = 1141.1.1
+		death_date = 1207.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1198.1.1 = {
+	monarch = {
+		name = "Scolera"
+		dynasty = "Jayaraman"
+		female = yes
+		birth_date = 1175.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Jayde"
+		monarch_name = "Jayde"
+		dynasty = "Jayaraman"
+		birth_date = 1183.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1253.1.1 = {
+	monarch = {
+		name = "S'vrone"
+		dynasty = "Jayaraman"
+		female = yes
+		birth_date = 1214.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Kojja"
+		monarch_name = "Kojja"
+		dynasty = "Jayaraman"
+		birth_date = 1251.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Jayaraman"
+		birth_date = 1278.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Uller"
+		monarch_name = "Uller"
+		dynasty = "Jayaraman"
+		birth_date = 1340.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Herbert"
+		dynasty = "Jayaraman"
+		birth_date = 1357.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Hullen"
+		monarch_name = "Hullen"
+		dynasty = "Jayaraman"
+		birth_date = 1360.1.1
+		death_date = 1450.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+

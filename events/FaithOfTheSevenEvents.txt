@@ -1,0 +1,206 @@
+namespace = FAITH_EVENTS
+
+#title: The Sept in $PROVINCENAME$ is in disrepair
+#desc: The local sept in $PROVINCENAME$ has fallen into disrepair. The locals wish to worship there once again, but the building will need extensive work to make it fit for habitation.
+#1: Repair it.
+#2: Let it decay.
+province_event = {
+	id = FAITH_EVENTS.1
+	title = "FAITH_EVENTS.1t"
+	desc = "FAITH_EVENTS.1d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		owner = { 
+			religion = asoiaf_faith_of_the_seven 
+			papal_influence = 5
+		} 
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+
+	option = {
+		name = "FAITH_EVENTS.1a"
+		
+		owner = {
+			add_papal_influence = 5
+			add_years_of_income = -0.1
+		}
+	}
+	option = {
+		name = "FAITH_EVENTS.1b"
+		owner = {
+			add_papal_influence = -5
+		}
+	}
+}
+
+#title: A warrior demands representation!
+#desc: It is expected of the Seven to intervene during a trial of combat on the side of the just combatant, be it via divine will or with a holy knight. To refuse representation would be a grave mistake.
+#1: Grant representation.
+#2: Refuse.
+#3: Kill him for his insolence.
+country_event = {
+	id = FAITH_EVENTS.2
+	title = "FAITH_EVENTS.2t"
+	desc = "FAITH_EVENTS.2d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+		papal_influence = 5
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "FAITH_EVENTS.2a"
+		
+		add_dip_power = 10
+		add_papal_influence = 10
+	}
+	option = {
+		name = "FAITH_EVENTS.2b"
+		
+		add_papal_influence = 5
+		add_adm_power = 25
+	}
+	option = {
+		name = "FAITH_EVENTS.2c"
+		
+		add_papal_influence = -5
+		add_mil_power = 25
+	}
+}
+
+#title: The begging brother from $PROVINCENAME$ desires a home.
+#desc: A begging brother from $PROVINCENAME$ has tired of wandering, and wishes to serve the Seven in a more 'permanent' location. To refuse his request would make us look ungodly."
+#1: House him in our capital.
+#2: House him in a local village.
+#3: Refuse his request.
+province_event = {
+	id = FAITH_EVENTS.3
+	title = "FAITH_EVENTS.3t"
+	desc = "FAITH_EVENTS.3d"
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		owner = { 
+			religion = asoiaf_faith_of_the_seven 
+			papal_influence = 10
+		} 
+		religion = asoiaf_faith_of_the_seven
+		OR = {
+			NOT = { has_province_modifier = begging_brother_1 }
+			NOT = { has_province_modifier = begging_brother_2 }
+			NOT = { has_province_modifier = begging_brother_3 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12000
+	}
+
+	option = {
+		name = "FAITH_EVENTS.3a"
+		
+		owner = { 
+			add_adm_power = -25
+
+			capital_scope = {
+				add_province_modifier = {
+					name = begging_brother_2
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = "FAITH_EVENTS.3b"
+		
+		owner = { add_adm_power = -10 }
+		
+		add_province_modifier = {
+			name = begging_brother_1
+			duration = 3650
+		}
+	}
+	option = {
+		name = "FAITH_EVENTS.3c"
+		
+		owner = { add_papal_influence = -10 }
+		add_province_modifier = {
+			name = begging_brother_3
+			duration = 3650
+		}
+	}
+}
+
+#title: The Septa from $PROVINCENAME$ demands investment.
+#desc: The holy septa from $PROVINCENAME$ has grown confident in her position, and is demanding that you, her $MONARCHTITLE$ invest in a new temple for $PROVINCENAME$.
+#1: Grant her the investment.
+#2: Teach her a lesson in manners.
+province_event = {
+	id = FAITH_EVENTS.4
+	title = "FAITH_EVENTS.4t"
+	desc = "FAITH_EVENTS.4d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+		owner = { religion = asoiaf_faith_of_the_seven }
+		has_building = monastery
+	}
+	
+	mean_time_to_happen = {
+		months = 6000
+	}
+
+	option = {
+		name = "FAITH_EVENTS.4a"
+		
+		owner = { 
+			add_years_of_income = -0.25
+			add_papal_influence = 10 
+		}
+	}
+	option = {
+		name = "FAITH_EVENTS.4b"
+		
+		owner = { 
+			add_papal_influence = -10
+		}
+	}
+}
+
+#title: Our Faith Rewarded!
+#desc: The High Septon has seen fit to promote our most senior septon, who will now sit at the Most Devout, the ruling council for the Faith of the Seven.
+#1: Wonderful!
+country_event = {
+	id = FAITH_EVENTS.5
+	title = "FAITH_EVENTS.5t"
+	desc = "FAITH_EVENTS.5d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+		NOT = { num_of_cardinals = 1 }
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "FAITH_EVENTS.5a"
+		
+		random_owned_province = {
+			add_cardinal = yes
+		}
+	}
+}

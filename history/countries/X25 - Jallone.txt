@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = mo
+religion = asoiaf_summer_gods
+
+capital = 506
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daryn"
+		dynasty = "Jallone"
+		birth_date = 942.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Krazz"
+		monarch_name = "Krazz"
+		dynasty = "Jallone"
+		birth_date = 989.1.1
+		death_date = 1056.1.1
+		claim = 94
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1052.1.1 = {
+
+	monarch = {
+		name = "Will"
+		dynasty = "Jallone"
+		birth_date = 1007.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Jonothor"
+		monarch_name = "Jonothor"
+		dynasty = "Jallone"
+		birth_date = 1052.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Dunaver"
+		dynasty = "Jallone"
+		birth_date = 1058.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Andrew"
+		monarch_name = "Andrew"
+		dynasty = "Jallone"
+		birth_date = 1076.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1115.1.1 = {
+
+	monarch = {
+		name = "Qalen"
+		dynasty = "Jallone"
+		birth_date = 1049.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Cregan"
+		monarch_name = "Cregan"
+		dynasty = "Jallone"
+		birth_date = 1090.1.1
+		death_date = 1161.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Michael"
+		dynasty = "Jallone"
+		birth_date = 1162.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Harmune"
+		monarch_name = "Harmune"
+		dynasty = "Jallone"
+		birth_date = 1176.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Podrick"
+		dynasty = "Jallone"
+		birth_date = 1187.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Howland"
+		monarch_name = "Howland"
+		dynasty = "Jallone"
+		birth_date = 1213.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Jallone"
+		birth_date = 1213.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Shagwell"
+		monarch_name = "Shagwell"
+		dynasty = "Jallone"
+		birth_date = 1285.1.1
+		death_date = 1376.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Jeffory"
+		dynasty = "Jallone"
+		birth_date = 1290.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Jallone"
+		birth_date = 1343.1.1
+		death_date = 1410.1.1
+		claim = 57
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Conn"
+		dynasty = "Jallone"
+		birth_date = 1333.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Dermot"
+		monarch_name = "Dermot"
+		dynasty = "Jallone"
+		birth_date = 1376.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 247
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ollidor"
+		dynasty = "Bushy"
+		birth_date = 965.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Timon"
+		monarch_name = "Timon"
+		dynasty = "Bushy"
+		birth_date = 983.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Henly"
+		dynasty = "Bushy"
+		birth_date = 1006.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Bushy"
+		birth_date = 1051.1.1
+		death_date = 1160.1.1
+		claim = 55
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Bushy"
+		birth_date = 1110.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Warren"
+		monarch_name = "Warren"
+		dynasty = "Bushy"
+		birth_date = 1142.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Otto"
+		dynasty = "Bushy"
+		birth_date = 1136.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Pypar"
+		monarch_name = "Pypar"
+		dynasty = "Bushy"
+		birth_date = 1199.1.1
+		death_date = 1260.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Bradamar"
+		dynasty = "Bushy"
+		birth_date = 1240.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Helman"
+		monarch_name = "Helman"
+		dynasty = "Bushy"
+		birth_date = 1265.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Bushy"
+		birth_date = 1308.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Bushy"
+		birth_date = 1315.1.1
+		death_date = 1395.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+

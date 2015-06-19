@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 286
+
+1000.1.1 = {
+	monarch = {
+		name = "Tansy"
+		dynasty = "Hightower"
+		female = yes
+		birth_date = 981.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Anguy"
+		monarch_name = "Anguy"
+		dynasty = "Hightower"
+		birth_date = 1000.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Bennard"
+		dynasty = "Hightower"
+		birth_date = 1023.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Hightower"
+		birth_date = 1053.1.1
+		death_date = 1142.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1069.1.1 = {
+	monarch = {
+		name = "Frenya"
+		dynasty = "Hightower"
+		female = yes
+		birth_date = 1037.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Dennet"
+		monarch_name = "Dennet"
+		dynasty = "Hightower"
+		birth_date = 1051.1.1
+		death_date = 1086.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1096.1.1 = {
+	monarch = {
+		name = "Mariya"
+		dynasty = "Hightower"
+		female = yes
+		birth_date = 1043.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Stygg"
+		monarch_name = "Stygg"
+		dynasty = "Hightower"
+		birth_date = 1067.1.1
+		death_date = 1128.1.1
+		claim = 27
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1122.1.1 = {
+
+	monarch = {
+		name = "Hoke"
+		dynasty = "Hightower"
+		birth_date = 1034.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Lharys"
+		monarch_name = "Lharys"
+		dynasty = "Hightower"
+		birth_date = 1115.1.1
+		death_date = 1138.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Yorko"
+		dynasty = "Hightower"
+		birth_date = 1187.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Lucan"
+		monarch_name = "Lucan"
+		dynasty = "Hightower"
+		birth_date = 1193.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Lymond"
+		dynasty = "Hightower"
+		birth_date = 1172.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Gerris"
+		monarch_name = "Gerris"
+		dynasty = "Hightower"
+		birth_date = 1217.1.1
+		death_date = 1309.1.1
+		claim = 99
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Kezmya"
+		dynasty = "Hightower"
+		birth_date = 1222.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Hightower"
+		birth_date = 1259.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Dontos"
+		dynasty = "Hightower"
+		birth_date = 1241.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Rafe"
+		monarch_name = "Rafe"
+		dynasty = "Hightower"
+		birth_date = 1248.1.1
+		death_date = 1295.1.1
+		claim = 20
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1316.1.1 = {
+
+	monarch = {
+		name = "Stafford"
+		dynasty = "Hightower"
+		birth_date = 1275.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Hightower"
+		birth_date = 1300.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1393.1.1 = {
+
+	monarch = {
+		name = "Castos"
+		dynasty = "Hightower"
+		birth_date = 1350.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Bayard"
+		monarch_name = "Bayard"
+		dynasty = "Hightower"
+		birth_date = 1366.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 166
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Maegelle"
+		dynasty = "Estren"
+		birth_date = 920.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Estren"
+		birth_date = 970.1.1
+		death_date = 1053.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Wyman"
+		dynasty = "Estren"
+		birth_date = 1016.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Gawen"
+		monarch_name = "Gawen"
+		dynasty = "Estren"
+		birth_date = 1057.1.1
+		death_date = 1108.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Mikken"
+		dynasty = "Estren"
+		birth_date = 1047.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Sargon"
+		monarch_name = "Sargon"
+		dynasty = "Estren"
+		birth_date = 1112.1.1
+		death_date = 1142.1.1
+		claim = 4
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1164.1.1 = {
+
+	monarch = {
+		name = "Rugen"
+		dynasty = "Estren"
+		birth_date = 1099.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Estren"
+		birth_date = 1153.1.1
+		death_date = 1233.1.1
+		claim = 44
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1177.1.1 = {
+
+	monarch = {
+		name = "Lothar"
+		dynasty = "Estren"
+		birth_date = 1161.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Devan"
+		monarch_name = "Devan"
+		dynasty = "Estren"
+		birth_date = 1166.1.1
+		death_date = 1234.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Arrec"
+		dynasty = "Estren"
+		birth_date = 1139.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Guyne"
+		monarch_name = "Guyne"
+		dynasty = "Estren"
+		birth_date = 1207.1.1
+		death_date = 1308.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1294.1.1 = {
+
+	monarch = {
+		name = "Gormond"
+		dynasty = "Estren"
+		birth_date = 1217.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Estren"
+		birth_date = 1267.1.1
+		death_date = 1357.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1325.1.1 = {
+	monarch = {
+		name = "Cassana"
+		dynasty = "Estren"
+		female = yes
+		birth_date = 1254.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryan"
+		monarch_name = "Bryan"
+		dynasty = "Estren"
+		birth_date = 1302.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Cutjack"
+		dynasty = "Estren"
+		birth_date = 1297.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Dormund"
+		monarch_name = "Dormund"
+		dynasty = "Estren"
+		birth_date = 1352.1.1
+		death_date = 1453.1.1
+		claim = 59
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Jaime"
+		dynasty = "Estren"
+		birth_date = 1346.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Androw"
+		monarch_name = "Androw"
+		dynasty = "Estren"
+		birth_date = 1394.1.1
+		death_date = 1450.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+

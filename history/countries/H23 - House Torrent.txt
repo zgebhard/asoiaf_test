@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+historical_friend = A04
+
+capital = 120
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Stygg"
+		dynasty = "Torrent"
+		birth_date = 980.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Myrielle"
+		monarch_name = "Myrielle"
+		dynasty = "Torrent"
+		female = yes
+		birth_date = 977.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Dilly"
+		dynasty = "Torrent"
+		birth_date = 1038.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Torrek"
+		monarch_name = "Torrek"
+		dynasty = "Torrent"
+		birth_date = 1054.1.1
+		death_date = 1108.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1100.1.1 = {
+
+	monarch = {
+		name = "Cregan"
+		dynasty = "Torrent"
+		birth_date = 1016.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Gydayn"
+		monarch_name = "Gydayn"
+		dynasty = "Torrent"
+		birth_date = 1073.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Weese"
+		dynasty = "Torrent"
+		birth_date = 1131.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Aenys"
+		monarch_name = "Aenys"
+		dynasty = "Torrent"
+		birth_date = 1127.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1223.1.1 = {
+
+	monarch = {
+		name = "Ferrego"
+		dynasty = "Torrent"
+		birth_date = 1152.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Torrent"
+		birth_date = 1222.1.1
+		death_date = 1251.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Tystane"
+		dynasty = "Torrent"
+		birth_date = 1194.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Ulwyck"
+		monarch_name = "Ulwyck"
+		dynasty = "Torrent"
+		birth_date = 1232.1.1
+		death_date = 1288.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Torrent"
+		birth_date = 1247.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Quaro"
+		monarch_name = "Quaro"
+		dynasty = "Torrent"
+		birth_date = 1278.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Tomard"
+		dynasty = "Torrent"
+		birth_date = 1240.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Torrent"
+		birth_date = 1309.1.1
+		death_date = 1363.1.1
+		claim = 94
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Moribold"
+		dynasty = "Torrent"
+		birth_date = 1311.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Torrent"
+		birth_date = 1349.1.1
+		death_date = 1402.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+

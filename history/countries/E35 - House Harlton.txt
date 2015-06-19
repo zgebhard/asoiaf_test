@@ -1,0 +1,313 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 355
+
+1000.1.1 = {
+	monarch = {
+		name = "Genna"
+		dynasty = "Harlton"
+		female = yes
+		birth_date = 929.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Gascoyne"
+		monarch_name = "Gascoyne"
+		dynasty = "Harlton"
+		birth_date = 996.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Harlton"
+		birth_date = 993.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Donella"
+		monarch_name = "Donella"
+		dynasty = "Harlton"
+		female = yes
+		birth_date = 1031.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Stiv"
+		dynasty = "Harlton"
+		birth_date = 983.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Wolfe"
+		monarch_name = "Wolfe"
+		dynasty = "Harlton"
+		birth_date = 1059.1.1
+		death_date = 1104.1.1
+		claim = 87
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Titus"
+		dynasty = "Harlton"
+		birth_date = 1086.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Leobald"
+		monarch_name = "Leobald"
+		dynasty = "Harlton"
+		birth_date = 1083.1.1
+		death_date = 1177.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1176.1.1 = {
+	monarch = {
+		name = "Tya"
+		dynasty = "Harlton"
+		female = yes
+		birth_date = 1128.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Cottor"
+		monarch_name = "Cottor"
+		dynasty = "Harlton"
+		birth_date = 1151.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Zollo"
+		dynasty = "Harlton"
+		birth_date = 1143.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Nestor"
+		monarch_name = "Nestor"
+		dynasty = "Harlton"
+		birth_date = 1187.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Cassa"
+		dynasty = "Harlton"
+		birth_date = 1146.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Harlton"
+		birth_date = 1226.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Edmyn"
+		dynasty = "Harlton"
+		birth_date = 1161.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Wylla"
+		monarch_name = "Wylla"
+		dynasty = "Harlton"
+		female = yes
+		birth_date = 1233.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1249.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Harlton"
+		birth_date = 1232.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Qarlton"
+		monarch_name = "Qarlton"
+		dynasty = "Harlton"
+		birth_date = 1239.1.1
+		death_date = 1300.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1307.1.1 = {
+
+	monarch = {
+		name = "Tommard"
+		dynasty = "Harlton"
+		birth_date = 1268.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Luco"
+		monarch_name = "Luco"
+		dynasty = "Harlton"
+		birth_date = 1297.1.1
+		death_date = 1375.1.1
+		claim = 52
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1364.1.1 = {
+
+	monarch = {
+		name = "Tobho"
+		dynasty = "Harlton"
+		birth_date = 1299.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Patrek"
+		monarch_name = "Patrek"
+		dynasty = "Harlton"
+		birth_date = 1350.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1399.1.1 = {
+
+	monarch = {
+		name = "Loreza"
+		dynasty = "Harlton"
+		birth_date = 1348.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Quaithe"
+		monarch_name = "Quaithe"
+		dynasty = "Harlton"
+		birth_date = 1384.1.1
+		death_date = 1450.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+

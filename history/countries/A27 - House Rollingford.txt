@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 224
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lyman"
+		dynasty = "Rollingford"
+		birth_date = 941.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Kojja"
+		monarch_name = "Kojja"
+		dynasty = "Rollingford"
+		birth_date = 973.1.1
+		death_date = 1033.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1005.1.1 = {
+
+	monarch = {
+		name = "Harlon"
+		dynasty = "Rollingford"
+		birth_date = 946.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Styr"
+		monarch_name = "Styr"
+		dynasty = "Rollingford"
+		birth_date = 996.1.1
+		death_date = 1091.1.1
+		claim = 32
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Pree"
+		dynasty = "Rollingford"
+		birth_date = 940.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Yoren"
+		monarch_name = "Yoren"
+		dynasty = "Rollingford"
+		birth_date = 1006.1.1
+		death_date = 1092.1.1
+		claim = 98
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Harlen"
+		dynasty = "Rollingford"
+		birth_date = 1045.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Vayon"
+		monarch_name = "Vayon"
+		dynasty = "Rollingford"
+		birth_date = 1065.1.1
+		death_date = 1136.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1087.1.1 = {
+	monarch = {
+		name = "Ella"
+		dynasty = "Rollingford"
+		female = yes
+		birth_date = 1050.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Yorko"
+		monarch_name = "Yorko"
+		dynasty = "Rollingford"
+		birth_date = 1080.1.1
+		death_date = 1174.1.1
+		claim = 67
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Rollingford"
+		birth_date = 1036.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Norren"
+		monarch_name = "Norren"
+		dynasty = "Rollingford"
+		birth_date = 1081.1.1
+		death_date = 1133.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Mortimer"
+		dynasty = "Rollingford"
+		birth_date = 1127.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Drennan"
+		monarch_name = "Drennan"
+		dynasty = "Rollingford"
+		birth_date = 1142.1.1
+		death_date = 1201.1.1
+		claim = 28
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1189.1.1 = {
+
+	monarch = {
+		name = "Artys"
+		dynasty = "Rollingford"
+		birth_date = 1141.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Hyle"
+		monarch_name = "Hyle"
+		dynasty = "Rollingford"
+		birth_date = 1186.1.1
+		death_date = 1243.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Rollingford"
+		birth_date = 1208.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Rumund"
+		monarch_name = "Rumund"
+		dynasty = "Rollingford"
+		birth_date = 1218.1.1
+		death_date = 1294.1.1
+		claim = 57
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Lorcas"
+		dynasty = "Rollingford"
+		birth_date = 1169.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Rollingford"
+		birth_date = 1242.1.1
+		death_date = 1320.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Oberyn"
+		dynasty = "Rollingford"
+		birth_date = 1266.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Melicent"
+		monarch_name = "Melicent"
+		dynasty = "Rollingford"
+		female = yes
+		birth_date = 1311.1.1
+		death_date = 1392.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Rollingford"
+		birth_date = 1324.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Medger"
+		monarch_name = "Medger"
+		dynasty = "Rollingford"
+		birth_date = 1351.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 165
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Alannys"
+		dynasty = "Lorch"
+		birth_date = 979.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Lenyl"
+		monarch_name = "Lenyl"
+		dynasty = "Lorch"
+		birth_date = 976.1.1
+		death_date = 1020.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Ethan"
+		dynasty = "Lorch"
+		birth_date = 988.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Beqqo"
+		monarch_name = "Beqqo"
+		dynasty = "Lorch"
+		birth_date = 1053.1.1
+		death_date = 1124.1.1
+		claim = 3
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Lorch"
+		birth_date = 1141.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Gerrick"
+		monarch_name = "Gerrick"
+		dynasty = "Lorch"
+		birth_date = 1157.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Lorch"
+		birth_date = 1187.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Royce"
+		monarch_name = "Royce"
+		dynasty = "Lorch"
+		birth_date = 1188.1.1
+		death_date = 1241.1.1
+		claim = 2
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Lorch"
+		birth_date = 1206.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Lucifer"
+		monarch_name = "Lucifer"
+		dynasty = "Lorch"
+		birth_date = 1255.1.1
+		death_date = 1287.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Lewis"
+		dynasty = "Lorch"
+		birth_date = 1267.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Jaime"
+		monarch_name = "Jaime"
+		dynasty = "Lorch"
+		birth_date = 1318.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Eden"
+		dynasty = "Lorch"
+		birth_date = 1316.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Merrell"
+		monarch_name = "Merrell"
+		dynasty = "Lorch"
+		birth_date = 1334.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+

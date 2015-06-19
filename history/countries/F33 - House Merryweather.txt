@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 256
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rycherd"
+		dynasty = "Merryweather"
+		birth_date = 965.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Farman"
+		monarch_name = "Farman"
+		dynasty = "Merryweather"
+		birth_date = 996.1.1
+		death_date = 1060.1.1
+		claim = 39
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Merryweather"
+		birth_date = 952.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Normund"
+		monarch_name = "Normund"
+		dynasty = "Merryweather"
+		birth_date = 1030.1.1
+		death_date = 1108.1.1
+		claim = 13
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Luceon"
+		dynasty = "Merryweather"
+		birth_date = 972.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rugen"
+		monarch_name = "Rugen"
+		dynasty = "Merryweather"
+		birth_date = 1011.1.1
+		death_date = 1068.1.1
+		claim = 24
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Merryweather"
+		birth_date = 981.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Titus"
+		monarch_name = "Titus"
+		dynasty = "Merryweather"
+		birth_date = 1036.1.1
+		death_date = 1109.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Goodwin"
+		dynasty = "Merryweather"
+		birth_date = 1051.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Vaellyn"
+		monarch_name = "Vaellyn"
+		dynasty = "Merryweather"
+		birth_date = 1096.1.1
+		death_date = 1198.1.1
+		claim = 79
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Cletus"
+		dynasty = "Merryweather"
+		birth_date = 1154.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Esgred"
+		monarch_name = "Esgred"
+		dynasty = "Merryweather"
+		female = yes
+		birth_date = 1149.1.1
+		death_date = 1258.1.1
+		claim = 99
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1187.1.1 = {
+
+	monarch = {
+		name = "Jaremy"
+		dynasty = "Merryweather"
+		birth_date = 1126.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Kym"
+		monarch_name = "Kym"
+		dynasty = "Merryweather"
+		birth_date = 1170.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Dudley"
+		dynasty = "Merryweather"
+		birth_date = 1140.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Gwayne"
+		monarch_name = "Gwayne"
+		dynasty = "Merryweather"
+		birth_date = 1203.1.1
+		death_date = 1272.1.1
+		claim = 93
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1244.1.1 = {
+
+	monarch = {
+		name = "Sybassion"
+		dynasty = "Merryweather"
+		birth_date = 1221.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Humfrey"
+		monarch_name = "Humfrey"
+		dynasty = "Merryweather"
+		birth_date = 1218.1.1
+		death_date = 1317.1.1
+		claim = 3
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Aglantine"
+		dynasty = "Merryweather"
+		birth_date = 1244.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Merryweather"
+		birth_date = 1281.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Lennocks"
+		dynasty = "Merryweather"
+		birth_date = 1286.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Gran"
+		monarch_name = "Gran"
+		dynasty = "Merryweather"
+		birth_date = 1333.1.1
+		death_date = 1383.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+

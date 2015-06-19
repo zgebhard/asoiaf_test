@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 132
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mebble"
+		dynasty = "Donniger"
+		birth_date = 959.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Easy"
+		monarch_name = "Easy"
+		dynasty = "Donniger"
+		birth_date = 971.1.1
+		death_date = 1033.1.1
+		claim = 70
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Tanton"
+		dynasty = "Donniger"
+		birth_date = 1030.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Alequo"
+		monarch_name = "Alequo"
+		dynasty = "Donniger"
+		birth_date = 1053.1.1
+		death_date = 1107.1.1
+		claim = 50
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Cloen"
+		dynasty = "Donniger"
+		birth_date = 1055.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Mylenda"
+		monarch_name = "Mylenda"
+		dynasty = "Donniger"
+		female = yes
+		birth_date = 1132.1.1
+		death_date = 1204.1.1
+		claim = 89
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Tybolt"
+		dynasty = "Donniger"
+		birth_date = 1077.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Helliweg"
+		monarch_name = "Helliweg"
+		dynasty = "Donniger"
+		birth_date = 1118.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1164.1.1 = {
+
+	monarch = {
+		name = "Rodwell"
+		dynasty = "Donniger"
+		birth_date = 1143.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Jhezene"
+		monarch_name = "Jhezene"
+		dynasty = "Donniger"
+		birth_date = 1151.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Praed"
+		dynasty = "Donniger"
+		birth_date = 1184.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rennifer"
+		monarch_name = "Rennifer"
+		dynasty = "Donniger"
+		birth_date = 1192.1.1
+		death_date = 1268.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Calon"
+		dynasty = "Donniger"
+		birth_date = 1177.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Goghor"
+		monarch_name = "Goghor"
+		dynasty = "Donniger"
+		birth_date = 1190.1.1
+		death_date = 1243.1.1
+		claim = 52
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Lark"
+		dynasty = "Donniger"
+		birth_date = 1235.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Cosgrove"
+		monarch_name = "Cosgrove"
+		dynasty = "Donniger"
+		birth_date = 1266.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Urswyck"
+		dynasty = "Donniger"
+		birth_date = 1288.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Willit"
+		monarch_name = "Willit"
+		dynasty = "Donniger"
+		birth_date = 1330.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+

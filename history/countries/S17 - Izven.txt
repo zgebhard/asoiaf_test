@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = lhazar
+religion = asoiaf_great_shepherd
+
+capital = 639
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gynir"
+		dynasty = "Izven"
+		birth_date = 965.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Desmond"
+		monarch_name = "Desmond"
+		dynasty = "Izven"
+		birth_date = 996.1.1
+		death_date = 1033.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1024.1.1 = {
+
+	monarch = {
+		name = "Erryk"
+		dynasty = "Izven"
+		birth_date = 997.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Horton"
+		monarch_name = "Horton"
+		dynasty = "Izven"
+		birth_date = 1017.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Gueren"
+		dynasty = "Izven"
+		birth_date = 1040.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Donnis"
+		monarch_name = "Donnis"
+		dynasty = "Izven"
+		birth_date = 1091.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Arwood"
+		dynasty = "Izven"
+		birth_date = 1097.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Howland"
+		monarch_name = "Howland"
+		dynasty = "Izven"
+		birth_date = 1115.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1134.1.1 = {
+	monarch = {
+		name = "Elza"
+		dynasty = "Izven"
+		female = yes
+		birth_date = 1063.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Edmyn"
+		monarch_name = "Edmyn"
+		dynasty = "Izven"
+		birth_date = 1117.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Garizon"
+		dynasty = "Izven"
+		birth_date = 1051.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Lem"
+		monarch_name = "Lem"
+		dynasty = "Izven"
+		birth_date = 1132.1.1
+		death_date = 1207.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Zhoe"
+		dynasty = "Izven"
+		birth_date = 1110.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Dorren"
+		monarch_name = "Dorren"
+		dynasty = "Izven"
+		birth_date = 1156.1.1
+		death_date = 1231.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Nage"
+		dynasty = "Izven"
+		birth_date = 1180.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Eldred"
+		monarch_name = "Eldred"
+		dynasty = "Izven"
+		birth_date = 1181.1.1
+		death_date = 1288.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Fornio"
+		dynasty = "Izven"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Torbert"
+		monarch_name = "Torbert"
+		dynasty = "Izven"
+		birth_date = 1254.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Tarle"
+		dynasty = "Izven"
+		birth_date = 1268.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ilyn"
+		monarch_name = "Ilyn"
+		dynasty = "Izven"
+		birth_date = 1313.1.1
+		death_date = 1411.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Joseran"
+		dynasty = "Izven"
+		birth_date = 1349.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Theodan"
+		monarch_name = "Theodan"
+		dynasty = "Izven"
+		birth_date = 1384.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 249
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qarl"
+		dynasty = "Strickland"
+		birth_date = 949.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Strickland"
+		birth_date = 973.1.1
+		death_date = 1020.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Strickland"
+		birth_date = 964.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Sherrit"
+		monarch_name = "Sherrit"
+		dynasty = "Strickland"
+		birth_date = 1026.1.1
+		death_date = 1067.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Barba"
+		dynasty = "Strickland"
+		birth_date = 1090.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Cossomo"
+		monarch_name = "Cossomo"
+		dynasty = "Strickland"
+		birth_date = 1112.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1166.1.1 = {
+
+	monarch = {
+		name = "Khrazz"
+		dynasty = "Strickland"
+		birth_date = 1108.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Hother"
+		monarch_name = "Hother"
+		dynasty = "Strickland"
+		birth_date = 1143.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Torbert"
+		dynasty = "Strickland"
+		birth_date = 1166.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Dunsen"
+		monarch_name = "Dunsen"
+		dynasty = "Strickland"
+		birth_date = 1185.1.1
+		death_date = 1241.1.1
+		claim = 2
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Hugh"
+		dynasty = "Strickland"
+		birth_date = 1170.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Yoren"
+		monarch_name = "Yoren"
+		dynasty = "Strickland"
+		birth_date = 1218.1.1
+		death_date = 1294.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Wendel"
+		dynasty = "Strickland"
+		birth_date = 1197.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Tomard"
+		monarch_name = "Tomard"
+		dynasty = "Strickland"
+		birth_date = 1252.1.1
+		death_date = 1324.1.1
+		claim = 94
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Cedric"
+		dynasty = "Strickland"
+		birth_date = 1268.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Salladhor"
+		monarch_name = "Salladhor"
+		dynasty = "Strickland"
+		birth_date = 1340.1.1
+		death_date = 1420.1.1
+		claim = 94
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Urzen"
+		dynasty = "Strickland"
+		birth_date = 1342.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Hugo"
+		monarch_name = "Hugo"
+		dynasty = "Strickland"
+		birth_date = 1349.1.1
+		death_date = 1395.1.1
+		claim = 92
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Gyles"
+		dynasty = "Strickland"
+		birth_date = 1342.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Wynton"
+		monarch_name = "Wynton"
+		dynasty = "Strickland"
+		birth_date = 1381.1.1
+		death_date = 1448.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+

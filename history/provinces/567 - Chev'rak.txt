@@ -1,0 +1,35 @@
+# 567 - Chev'rak
+
+add_core = J06
+owner = J06
+controller = J06
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = naval_supplies
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+culture = ifeqevron
+religion = asoiaf_gods_of_ifeqevron
+
+
+
+capital = "Chev'rak"

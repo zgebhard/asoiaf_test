@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = enyaxho
+religion = asoiaf_summer_gods
+
+capital = 527
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Enyaxho"
+		birth_date = 969.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Gerald"
+		monarch_name = "Gerald"
+		dynasty = "Enyaxho"
+		birth_date = 974.1.1
+		death_date = 1039.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Shagwell"
+		dynasty = "Enyaxho"
+		birth_date = 1040.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Wynton"
+		monarch_name = "Wynton"
+		dynasty = "Enyaxho"
+		birth_date = 1056.1.1
+		death_date = 1142.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Enyaxho"
+		birth_date = 1019.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Bennarion"
+		monarch_name = "Bennarion"
+		dynasty = "Enyaxho"
+		birth_date = 1093.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1154.1.1 = {
+
+	monarch = {
+		name = "Gulian"
+		dynasty = "Enyaxho"
+		birth_date = 1133.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Walder"
+		monarch_name = "Walder"
+		dynasty = "Enyaxho"
+		birth_date = 1138.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Mace"
+		dynasty = "Enyaxho"
+		birth_date = 1129.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Ethan"
+		monarch_name = "Ethan"
+		dynasty = "Enyaxho"
+		birth_date = 1164.1.1
+		death_date = 1268.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Theomor"
+		dynasty = "Enyaxho"
+		birth_date = 1163.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Ferret"
+		monarch_name = "Ferret"
+		dynasty = "Enyaxho"
+		birth_date = 1225.1.1
+		death_date = 1255.1.1
+		claim = 84
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Enyaxho"
+		birth_date = 1280.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Halmon"
+		monarch_name = "Halmon"
+		dynasty = "Enyaxho"
+		birth_date = 1293.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Forley"
+		dynasty = "Enyaxho"
+		birth_date = 1296.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Enyaxho"
+		birth_date = 1342.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Quill"
+		dynasty = "Enyaxho"
+		birth_date = 1331.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Enyaxho"
+		birth_date = 1349.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+

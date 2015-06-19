@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = lengii
+religion = asoiaf_lion_of_the_night
+
+capital = 792
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Norren"
+		dynasty = "Ramesh"
+		birth_date = 968.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Daeron"
+		monarch_name = "Daeron"
+		dynasty = "Ramesh"
+		birth_date = 998.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Eon"
+		dynasty = "Ramesh"
+		birth_date = 1003.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Ramesh"
+		birth_date = 1051.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1095.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Ramesh"
+		birth_date = 1061.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Naerys"
+		monarch_name = "Naerys"
+		dynasty = "Ramesh"
+		birth_date = 1084.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Marlon"
+		dynasty = "Ramesh"
+		birth_date = 1050.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Illifer"
+		monarch_name = "Illifer"
+		dynasty = "Ramesh"
+		birth_date = 1105.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Wyman"
+		dynasty = "Ramesh"
+		birth_date = 1119.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Joth"
+		monarch_name = "Joth"
+		dynasty = "Ramesh"
+		birth_date = 1142.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Illifer"
+		dynasty = "Ramesh"
+		birth_date = 1086.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Ramesh"
+		birth_date = 1156.1.1
+		death_date = 1237.1.1
+		claim = 65
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Torren"
+		dynasty = "Ramesh"
+		birth_date = 1179.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Euron"
+		monarch_name = "Euron"
+		dynasty = "Ramesh"
+		birth_date = 1244.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Eroeh"
+		dynasty = "Ramesh"
+		birth_date = 1258.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Valarr"
+		monarch_name = "Valarr"
+		dynasty = "Ramesh"
+		birth_date = 1326.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Roose"
+		dynasty = "Ramesh"
+		birth_date = 1323.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Domeric"
+		monarch_name = "Domeric"
+		dynasty = "Ramesh"
+		birth_date = 1323.1.1
+		death_date = 1418.1.1
+		claim = 12
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Zarabelo"
+		dynasty = "Ramesh"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Joyeuse"
+		monarch_name = "Joyeuse"
+		dynasty = "Ramesh"
+		female = yes
+		birth_date = 1376.1.1
+		death_date = 1460.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+

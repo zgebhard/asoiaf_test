@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 144
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Edmure"
+		dynasty = "Redfort"
+		birth_date = 968.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Kym"
+		monarch_name = "Kym"
+		dynasty = "Redfort"
+		birth_date = 971.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1022.1.1 = {
+
+	monarch = {
+		name = "Dagon"
+		dynasty = "Redfort"
+		birth_date = 989.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Fern"
+		monarch_name = "Fern"
+		dynasty = "Redfort"
+		birth_date = 1003.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Jory"
+		dynasty = "Redfort"
+		birth_date = 1044.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Castos"
+		monarch_name = "Castos"
+		dynasty = "Redfort"
+		birth_date = 1073.1.1
+		death_date = 1142.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1112.1.1 = {
+	monarch = {
+		name = "Obella"
+		dynasty = "Redfort"
+		female = yes
+		birth_date = 1050.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Hamish"
+		monarch_name = "Hamish"
+		dynasty = "Redfort"
+		birth_date = 1102.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Redfort"
+		birth_date = 1055.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Androw"
+		monarch_name = "Androw"
+		dynasty = "Redfort"
+		birth_date = 1125.1.1
+		death_date = 1205.1.1
+		claim = 24
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Xhondo"
+		dynasty = "Redfort"
+		birth_date = 1121.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Redfort"
+		birth_date = 1147.1.1
+		death_date = 1187.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Bertram"
+		dynasty = "Redfort"
+		birth_date = 1110.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Mortimer"
+		monarch_name = "Mortimer"
+		dynasty = "Redfort"
+		birth_date = 1188.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1213.1.1 = {
+
+	monarch = {
+		name = "Lyonel"
+		dynasty = "Redfort"
+		birth_date = 1155.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Hake"
+		monarch_name = "Hake"
+		dynasty = "Redfort"
+		birth_date = 1213.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Lyn"
+		dynasty = "Redfort"
+		birth_date = 1151.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ashford"
+		monarch_name = "Ashford"
+		dynasty = "Redfort"
+		birth_date = 1202.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Erryk"
+		dynasty = "Redfort"
+		birth_date = 1192.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Redfort"
+		birth_date = 1217.1.1
+		death_date = 1310.1.1
+		claim = 88
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Redfort"
+		birth_date = 1265.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucion"
+		monarch_name = "Lucion"
+		dynasty = "Redfort"
+		birth_date = 1302.1.1
+		death_date = 1339.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1331.1.1 = {
+
+	monarch = {
+		name = "Aegor"
+		dynasty = "Redfort"
+		birth_date = 1284.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Balon"
+		monarch_name = "Balon"
+		dynasty = "Redfort"
+		birth_date = 1322.1.1
+		death_date = 1375.1.1
+		claim = 71
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+

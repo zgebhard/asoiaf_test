@@ -1,0 +1,39 @@
+# 8 - Central Frostfangs
+
+add_core = U93
+owner = U93
+controller = U93
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+religion = asoiaf_the_old_gods
+culture = free_folk
+
+trade_goods = fur
+hre = no
+
+capital = "Central Frostfangs"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1298.1.1 = {
+	owner = Z01
+	controller = Z01
+	add_core = Z01
+}

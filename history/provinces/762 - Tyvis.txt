@@ -1,0 +1,47 @@
+# 762 - Tyvis
+
+add_core = U87
+owner = U87
+controller = U87
+is_city = yes
+
+religion = asoiaf_rhllor
+culture = volantene
+
+base_tax = 8
+base_production = 8
+base_manpower =  5
+
+trade_goods = spices
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+
+
+
+
+ 
+
+capital = "Tyvis"
+
+1005.1.1 = {
+	controller = U87
+	owner = U87
+	add_core = U87
+	
+}

@@ -1,0 +1,11 @@
+#Cavalry 80 B 
+type = cavalry
+unit_type = quartheen
+
+maneuver = 2 
+offensive_morale = 9 
+defensive_morale = 10 
+offensive_fire = 8 
+defensive_fire = 8 
+offensive_shock = 9 
+defensive_shock = 10 

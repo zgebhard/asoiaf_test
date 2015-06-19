@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 197
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Dalbridge"
+		dynasty = "Crakehall"
+		birth_date = 910.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Orell"
+		monarch_name = "Orell"
+		dynasty = "Crakehall"
+		birth_date = 994.1.1
+		death_date = 1067.1.1
+		claim = 28
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Loras"
+		dynasty = "Crakehall"
+		birth_date = 957.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Podrick"
+		monarch_name = "Podrick"
+		dynasty = "Crakehall"
+		birth_date = 1013.1.1
+		death_date = 1124.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Rufus"
+		dynasty = "Crakehall"
+		birth_date = 975.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Hoke"
+		monarch_name = "Hoke"
+		dynasty = "Crakehall"
+		birth_date = 1034.1.1
+		death_date = 1066.1.1
+		claim = 65
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Crakehall"
+		birth_date = 1094.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryan"
+		monarch_name = "Bryan"
+		dynasty = "Crakehall"
+		birth_date = 1089.1.1
+		death_date = 1133.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Hareth"
+		dynasty = "Crakehall"
+		birth_date = 1077.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Crakehall"
+		birth_date = 1122.1.1
+		death_date = 1199.1.1
+		claim = 99
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Howd"
+		dynasty = "Crakehall"
+		birth_date = 1136.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Harwood"
+		monarch_name = "Harwood"
+		dynasty = "Crakehall"
+		birth_date = 1200.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Xhondo"
+		dynasty = "Crakehall"
+		birth_date = 1200.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Skittrick"
+		monarch_name = "Skittrick"
+		dynasty = "Crakehall"
+		birth_date = 1206.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Qyle"
+		dynasty = "Crakehall"
+		birth_date = 1180.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Loras"
+		monarch_name = "Loras"
+		dynasty = "Crakehall"
+		birth_date = 1237.1.1
+		death_date = 1279.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1277.1.1 = {
+
+	monarch = {
+		name = "Narbert"
+		dynasty = "Crakehall"
+		birth_date = 1191.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Hibald"
+		monarch_name = "Hibald"
+		dynasty = "Crakehall"
+		birth_date = 1269.1.1
+		death_date = 1352.1.1
+		claim = 93
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Frelegg"
+		dynasty = "Crakehall"
+		birth_date = 1290.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Poul"
+		monarch_name = "Poul"
+		dynasty = "Crakehall"
+		birth_date = 1326.1.1
+		death_date = 1391.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Larraq"
+		dynasty = "Crakehall"
+		birth_date = 1366.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Kaeth"
+		monarch_name = "Kaeth"
+		dynasty = "Crakehall"
+		birth_date = 1373.1.1
+		death_date = 1428.1.1
+		claim = 62
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+

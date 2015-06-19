@@ -1,0 +1,314 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 217
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Crabb"
+		birth_date = 913.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Olene"
+		monarch_name = "Olene"
+		dynasty = "Crabb"
+		female = yes
+		birth_date = 996.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Urreg"
+		dynasty = "Crabb"
+		birth_date = 949.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Harwood"
+		monarch_name = "Harwood"
+		dynasty = "Crabb"
+		birth_date = 1023.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1057.1.1 = {
+
+	monarch = {
+		name = "Kraznys"
+		dynasty = "Crabb"
+		birth_date = 1029.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Colmar"
+		monarch_name = "Colmar"
+		dynasty = "Crabb"
+		birth_date = 1028.1.1
+		death_date = 1118.1.1
+		claim = 99
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Rhogoro"
+		dynasty = "Crabb"
+		birth_date = 1063.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Durran"
+		monarch_name = "Durran"
+		dynasty = "Crabb"
+		birth_date = 1104.1.1
+		death_date = 1175.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1191.1.1 = {
+
+	monarch = {
+		name = "Warren"
+		dynasty = "Crabb"
+		birth_date = 1124.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Eleanor"
+		monarch_name = "Eleanor"
+		dynasty = "Crabb"
+		female = yes
+		birth_date = 1174.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Kenned"
+		dynasty = "Crabb"
+		birth_date = 1112.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Tremond"
+		monarch_name = "Tremond"
+		dynasty = "Crabb"
+		birth_date = 1181.1.1
+		death_date = 1224.1.1
+		claim = 27
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1238.1.1 = {
+
+	monarch = {
+		name = "Hugo"
+		dynasty = "Crabb"
+		birth_date = 1162.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Crabb"
+		birth_date = 1221.1.1
+		death_date = 1266.1.1
+		claim = 21
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Crabb"
+		birth_date = 1234.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Tristan"
+		monarch_name = "Tristan"
+		dynasty = "Crabb"
+		birth_date = 1264.1.1
+		death_date = 1317.1.1
+		claim = 81
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Naerys"
+		dynasty = "Crabb"
+		birth_date = 1254.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Edwyrn"
+		monarch_name = "Edwyrn"
+		dynasty = "Crabb"
+		birth_date = 1302.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Quence"
+		dynasty = "Crabb"
+		birth_date = 1303.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Garrett"
+		monarch_name = "Garrett"
+		dynasty = "Crabb"
+		birth_date = 1312.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Lenyl"
+		dynasty = "Crabb"
+		birth_date = 1280.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Myranda"
+		monarch_name = "Myranda"
+		dynasty = "Crabb"
+		female = yes
+		birth_date = 1327.1.1
+		death_date = 1385.1.1
+		claim = 94
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Rodrik"
+		dynasty = "Crabb"
+		birth_date = 1348.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Bodger"
+		monarch_name = "Bodger"
+		dynasty = "Crabb"
+		birth_date = 1369.1.1
+		death_date = 1461.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 157
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bors"
+		dynasty = "Volmark"
+		birth_date = 981.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Theo"
+		monarch_name = "Theo"
+		dynasty = "Volmark"
+		birth_date = 983.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1073.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Volmark"
+		birth_date = 1007.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Henk"
+		monarch_name = "Henk"
+		dynasty = "Volmark"
+		birth_date = 1065.1.1
+		death_date = 1102.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Gerrick"
+		dynasty = "Volmark"
+		birth_date = 997.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Alesander"
+		monarch_name = "Alesander"
+		dynasty = "Volmark"
+		birth_date = 1073.1.1
+		death_date = 1122.1.1
+		claim = 67
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1092.1.1 = {
+	monarch = {
+		name = "Dalla"
+		dynasty = "Volmark"
+		female = yes
+		birth_date = 1059.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Eelinor"
+		monarch_name = "Eelinor"
+		dynasty = "Volmark"
+		female = yes
+		birth_date = 1083.1.1
+		death_date = 1176.1.1
+		claim = 12
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Joss"
+		dynasty = "Volmark"
+		birth_date = 1044.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Volmark"
+		birth_date = 1111.1.1
+		death_date = 1161.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Volmark"
+		birth_date = 1174.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Waldon"
+		monarch_name = "Waldon"
+		dynasty = "Volmark"
+		birth_date = 1198.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Tumberjon"
+		dynasty = "Volmark"
+		birth_date = 1174.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Beardless"
+		monarch_name = "Beardless"
+		dynasty = "Volmark"
+		birth_date = 1224.1.1
+		death_date = 1330.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Bennet"
+		dynasty = "Volmark"
+		birth_date = 1277.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Elys"
+		monarch_name = "Elys"
+		dynasty = "Volmark"
+		birth_date = 1311.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1398.1.1 = {
+
+	monarch = {
+		name = "Tallad"
+		dynasty = "Volmark"
+		birth_date = 1318.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Murch"
+		monarch_name = "Murch"
+		dynasty = "Volmark"
+		birth_date = 1390.1.1
+		death_date = 1426.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+

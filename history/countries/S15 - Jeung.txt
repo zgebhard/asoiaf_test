@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = nefer
+primary_culture = nefer
+religion = asoiaf_gods_of_nghai
+
+capital = 836
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Zekko"
+		dynasty = "Jeung"
+		birth_date = 956.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Satin"
+		monarch_name = "Satin"
+		dynasty = "Jeung"
+		birth_date = 974.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Jeung"
+		birth_date = 1036.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Hubard"
+		monarch_name = "Hubard"
+		dynasty = "Jeung"
+		birth_date = 1044.1.1
+		death_date = 1090.1.1
+		claim = 85
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Haggon"
+		dynasty = "Jeung"
+		birth_date = 1017.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Dancy"
+		monarch_name = "Dancy"
+		dynasty = "Jeung"
+		female = yes
+		birth_date = 1061.1.1
+		death_date = 1116.1.1
+		claim = 83
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Norjen"
+		dynasty = "Jeung"
+		birth_date = 1075.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Jeung"
+		birth_date = 1108.1.1
+		death_date = 1183.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Beardless"
+		dynasty = "Jeung"
+		birth_date = 1150.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Ryam"
+		monarch_name = "Ryam"
+		dynasty = "Jeung"
+		birth_date = 1197.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Jeung"
+		birth_date = 1235.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Mance"
+		monarch_name = "Mance"
+		dynasty = "Jeung"
+		birth_date = 1227.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Torbert"
+		dynasty = "Jeung"
+		birth_date = 1207.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Robb"
+		monarch_name = "Robb"
+		dynasty = "Jeung"
+		birth_date = 1284.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1292.1.1 = {
+
+	monarch = {
+		name = "Bennet"
+		dynasty = "Jeung"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Jeung"
+		birth_date = 1283.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1373.1.1 = {
+
+	monarch = {
+		name = "Cayn"
+		dynasty = "Jeung"
+		birth_date = 1334.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Jeung"
+		birth_date = 1370.1.1
+		death_date = 1451.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1393.1.1 = {
+
+	monarch = {
+		name = "Tumco"
+		dynasty = "Jeung"
+		birth_date = 1308.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Rast"
+		monarch_name = "Rast"
+		dynasty = "Jeung"
+		birth_date = 1365.1.1
+		death_date = 1451.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+

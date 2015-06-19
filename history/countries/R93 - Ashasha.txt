@@ -1,0 +1,188 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 868
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Dagmer"
+		dynasty = "Ashasha"
+		birth_date = 952.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Mark"
+		monarch_name = "Mark"
+		dynasty = "Ashasha"
+		birth_date = 984.1.1
+		death_date = 1077.1.1
+		claim = 56
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Greydon"
+		dynasty = "Ashasha"
+		birth_date = 944.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Urras"
+		monarch_name = "Urras"
+		dynasty = "Ashasha"
+		birth_date = 1014.1.1
+		death_date = 1098.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Ashasha"
+		birth_date = 982.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ella"
+		monarch_name = "Ella"
+		dynasty = "Ashasha"
+		female = yes
+		birth_date = 1052.1.1
+		death_date = 1101.1.1
+		claim = 36
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1121.1.1 = {
+
+	monarch = {
+		name = "Morgath"
+		dynasty = "Ashasha"
+		birth_date = 1086.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Willifer"
+		monarch_name = "Willifer"
+		dynasty = "Ashasha"
+		birth_date = 1111.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Quenton"
+		dynasty = "Ashasha"
+		birth_date = 1170.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Archibald"
+		monarch_name = "Archibald"
+		dynasty = "Ashasha"
+		birth_date = 1183.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1258.1.1 = {
+
+	monarch = {
+		name = "Sefton"
+		dynasty = "Ashasha"
+		birth_date = 1227.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Dalla"
+		monarch_name = "Dalla"
+		dynasty = "Ashasha"
+		female = yes
+		birth_date = 1230.1.1
+		death_date = 1330.1.1
+		claim = 2
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Liane"
+		dynasty = "Ashasha"
+		birth_date = 1316.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Ordello"
+		monarch_name = "Ordello"
+		dynasty = "Ashasha"
+		birth_date = 1320.1.1
+		death_date = 1374.1.1
+		claim = 81
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+

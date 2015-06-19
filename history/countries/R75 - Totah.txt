@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 769
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Totah"
+		birth_date = 982.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Nute"
+		monarch_name = "Nute"
+		dynasty = "Totah"
+		birth_date = 994.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Ethan"
+		dynasty = "Totah"
+		birth_date = 1049.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Meera"
+		monarch_name = "Meera"
+		dynasty = "Totah"
+		female = yes
+		birth_date = 1052.1.1
+		death_date = 1100.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Ternesio"
+		dynasty = "Totah"
+		birth_date = 1019.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Dilly"
+		monarch_name = "Dilly"
+		dynasty = "Totah"
+		birth_date = 1067.1.1
+		death_date = 1122.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Lenyl"
+		dynasty = "Totah"
+		birth_date = 1113.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Tanselle"
+		monarch_name = "Tanselle"
+		dynasty = "Totah"
+		birth_date = 1102.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1139.1.1 = {
+
+	monarch = {
+		name = "Karyl"
+		dynasty = "Totah"
+		birth_date = 1069.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Marsella"
+		monarch_name = "Marsella"
+		dynasty = "Totah"
+		female = yes
+		birth_date = 1123.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Steffarion"
+		dynasty = "Totah"
+		birth_date = 1139.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Gwin"
+		monarch_name = "Gwin"
+		dynasty = "Totah"
+		birth_date = 1193.1.1
+		death_date = 1249.1.1
+		claim = 81
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1227.1.1 = {
+
+	monarch = {
+		name = "Dacks"
+		dynasty = "Totah"
+		birth_date = 1202.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Varys"
+		monarch_name = "Varys"
+		dynasty = "Totah"
+		birth_date = 1201.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Quent"
+		dynasty = "Totah"
+		birth_date = 1214.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Meribold"
+		monarch_name = "Meribold"
+		dynasty = "Totah"
+		birth_date = 1273.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Norbert"
+		dynasty = "Totah"
+		birth_date = 1308.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Quort"
+		monarch_name = "Quort"
+		dynasty = "Totah"
+		birth_date = 1334.1.1
+		death_date = 1404.1.1
+		claim = 27
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1382.1.1 = {
+
+	monarch = {
+		name = "Borcas"
+		dynasty = "Totah"
+		birth_date = 1352.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ryman"
+		monarch_name = "Ryman"
+		dynasty = "Totah"
+		birth_date = 1370.1.1
+		death_date = 1452.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+

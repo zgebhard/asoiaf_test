@@ -1,0 +1,45 @@
+# 582 - Ib Nor
+
+add_core = R02
+add_core = R01
+owner = R01
+controller = R01
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+culture = ibbenese
+religion = asoiaf_gods_of_ibben
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = naval_supplies
+capital = "Ib Nor"
+
+1000.2.1 = {
+	remove_core = R01
+	owner = R02
+	controller = R02
+}
+
+1000.2.2 = {
+	owner = R01
+	add_core = R01
+	controller = R01
+}

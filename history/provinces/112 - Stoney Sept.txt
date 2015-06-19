@@ -1,0 +1,69 @@
+# 112 - Stoney Sept
+
+owner = E01
+add_core = E01
+controller = E01
+add_core = E33
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_riverlands
+
+base_tax = 5
+base_production = 5
+base_manpower =  2
+
+trade_goods = grain
+
+capital = "Stoney Sept"
+
+1000.2.1 = {
+	remove_core = E01
+	owner = E33
+	controller = E33
+}
+
+1000.2.2 = {
+	owner = E01
+	add_core = E01
+	controller = E01
+}
+
+1005.1.1 = {
+    hre = yes
+	
+	controller = A03
+	add_core = A03
+	owner = A03
+	religion = asoiaf_faith_of_the_seven
+}
+
+1196.1.1 = {
+	controller = E33
+	owner = E33
+	add_core = E33
+}
+
+1211.1.1 = {
+	remove_core = E33
+	controller = A03
+	add_core = A03
+	owner = A03
+}

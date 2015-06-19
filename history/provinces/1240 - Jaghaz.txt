@@ -1,0 +1,44 @@
+# 1240 - Jaghaz
+
+owner = R31
+add_core = R31
+add_core = R32
+controller = R31
+is_city = yes
+
+culture = ghis
+religion = asoiaf_graces
+
+base_tax = 6
+base_production = 6
+base_manpower =  6
+
+trade_goods = slaves
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = R31
+	owner = R32
+	controller = R32
+}
+
+1000.2.2 = {
+	owner = R31
+	add_core = R31
+	controller = R31
+}

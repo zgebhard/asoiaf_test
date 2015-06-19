@@ -1,0 +1,2485 @@
+bookmark =
+{
+	name = "SHATTERED_WORLD"
+	desc = "SHATTERED_WORLD_DESC"
+	date = 1000.2.1
+	
+	effect = {
+		A01 = {
+			set_country_flag = shattered_world
+			set_global_flag = shattered_world
+		}
+		
+		AB2 = {
+			set_country_flag = shattered_world
+		}
+		
+		AB3 = {
+			set_country_flag = shattered_world
+		}
+		
+		AB4 = {
+			set_country_flag = shattered_world
+		}
+		
+		AB5 = {
+			set_country_flag = shattered_world
+		}
+		
+		AB6 = {
+			set_country_flag = shattered_world
+		}
+		
+		AB7 = {
+			set_country_flag = shattered_world
+		}
+		
+		A02 = {
+			set_country_flag = shattered_world
+		}
+
+		A03 = {
+			set_country_flag = shattered_world
+		}
+
+		A04 = {
+			set_country_flag = shattered_world
+		}
+
+		A05 = {
+			set_country_flag = shattered_world
+		}
+
+		A06 = {
+			set_country_flag = shattered_world
+		}
+
+		A07 = {
+			set_country_flag = shattered_world
+		}
+
+		A08 = {
+			set_country_flag = shattered_world
+		}
+
+		A09 = {
+			set_country_flag = shattered_world
+		}
+
+		A10 = {
+			set_country_flag = shattered_world
+		}
+
+		A11 = {
+			set_country_flag = shattered_world
+		}
+
+		A12 = {
+			set_country_flag = shattered_world
+		}
+
+		A13 = {
+			set_country_flag = shattered_world
+		}
+
+		A14 = {
+			set_country_flag = shattered_world
+		}
+
+		A15 = {
+			set_country_flag = shattered_world
+		}
+
+		A16 = {
+			set_country_flag = shattered_world
+		}
+
+		A17 = {
+			set_country_flag = shattered_world
+		}
+
+		A18 = {
+			set_country_flag = shattered_world
+		}
+
+		A19 = {
+			set_country_flag = shattered_world
+		}
+
+		A20 = {
+			set_country_flag = shattered_world
+		}
+
+		A21 = {
+			set_country_flag = shattered_world
+		}
+
+		A22 = {
+			set_country_flag = shattered_world
+		}
+
+		A23 = {
+			set_country_flag = shattered_world
+		}
+
+		A24 = {
+			set_country_flag = shattered_world
+		}
+
+		A25 = {
+			set_country_flag = shattered_world
+		}
+
+		A26 = {
+			set_country_flag = shattered_world
+		}
+
+		A27 = {
+			set_country_flag = shattered_world
+		}
+
+		A28 = {
+			set_country_flag = shattered_world
+		}
+
+		A29 = {
+			set_country_flag = shattered_world
+		}
+
+		A30 = {
+			set_country_flag = shattered_world
+		}
+
+		A31 = {
+			set_country_flag = shattered_world
+		}
+
+		A32 = {
+			set_country_flag = shattered_world
+		}
+
+		A33 = {
+			set_country_flag = shattered_world
+		}
+
+		A34 = {
+			set_country_flag = shattered_world
+		}
+
+		A35 = {
+			set_country_flag = shattered_world
+		}
+
+		A36 = {
+			set_country_flag = shattered_world
+		}
+
+		A37 = {
+			set_country_flag = shattered_world
+		}
+
+		A38 = {
+			set_country_flag = shattered_world
+		}
+
+		A39 = {
+			set_country_flag = shattered_world
+		}
+
+		A40 = {
+			set_country_flag = shattered_world
+		}
+
+		A41 = {
+			set_country_flag = shattered_world
+		}
+
+		A42 = {
+			set_country_flag = shattered_world
+		}
+
+		A43 = {
+			set_country_flag = shattered_world
+		}
+
+		A44 = {
+			set_country_flag = shattered_world
+		}
+
+		A45 = {
+			set_country_flag = shattered_world
+		}
+
+		A46 = {
+			set_country_flag = shattered_world
+		}
+
+		A47 = {
+			set_country_flag = shattered_world
+		}
+
+		A48 = {
+			set_country_flag = shattered_world
+		}
+
+		A49 = {
+			set_country_flag = shattered_world
+		}
+
+		B01 = {
+			set_country_flag = shattered_world
+		}
+
+		B02 = {
+			set_country_flag = shattered_world
+		}
+
+		B03 = {
+			set_country_flag = shattered_world
+		}
+
+		B04 = {
+			set_country_flag = shattered_world
+		}
+
+		B05 = {
+			set_country_flag = shattered_world
+		}
+
+		B06 = {
+			set_country_flag = shattered_world
+		}
+
+		B07 = {
+			set_country_flag = shattered_world
+		}
+
+		B08 = {
+			set_country_flag = shattered_world
+		}
+
+		B09 = {
+			set_country_flag = shattered_world
+		}
+
+		B10 = {
+			set_country_flag = shattered_world
+		}
+
+		B11 = {
+			set_country_flag = shattered_world
+		}
+
+		B12 = {
+			set_country_flag = shattered_world
+		}
+
+		B13 = {
+			set_country_flag = shattered_world
+		}
+
+		B14 = {
+			set_country_flag = shattered_world
+		}
+
+		B15 = {
+			set_country_flag = shattered_world
+		}
+
+		B16 = {
+			set_country_flag = shattered_world
+		}
+
+		B17 = {
+			set_country_flag = shattered_world
+		}
+
+		B18 = {
+			set_country_flag = shattered_world
+		}
+
+		B19 = {
+			set_country_flag = shattered_world
+		}
+
+		B20 = {
+			set_country_flag = shattered_world
+		}
+
+		B21 = {
+			set_country_flag = shattered_world
+		}
+
+		B22 = {
+			set_country_flag = shattered_world
+		}
+
+		B23 = {
+			set_country_flag = shattered_world
+		}
+
+		B24 = {
+			set_country_flag = shattered_world
+		}
+
+		B25 = {
+			set_country_flag = shattered_world
+		}
+
+		B26 = {
+			set_country_flag = shattered_world
+		}
+
+		B27 = {
+			set_country_flag = shattered_world
+		}
+
+		B28 = {
+			set_country_flag = shattered_world
+		}
+
+		B29 = {
+			set_country_flag = shattered_world
+		}
+
+		B30 = {
+			set_country_flag = shattered_world
+		}
+
+		B31 = {
+			set_country_flag = shattered_world
+		}
+
+		B32 = {
+			set_country_flag = shattered_world
+		}
+
+		B33 = {
+			set_country_flag = shattered_world
+		}
+
+		B34 = {
+			set_country_flag = shattered_world
+		}
+
+		B35 = {
+			set_country_flag = shattered_world
+		}
+
+		B36 = {
+			set_country_flag = shattered_world
+		}
+
+		B37 = {
+			set_country_flag = shattered_world
+		}
+
+		B38 = {
+			set_country_flag = shattered_world
+		}
+
+		Y01 = {
+			set_country_flag = shattered_world
+		}
+
+		Y02 = {
+			set_country_flag = shattered_world
+		}
+
+		Y03 = {
+			set_country_flag = shattered_world
+		}
+
+		Y04 = {
+			set_country_flag = shattered_world
+		}
+
+		Y05 = {
+			set_country_flag = shattered_world
+		}
+
+		Y06 = {
+			set_country_flag = shattered_world
+		}
+
+		Y07 = {
+			set_country_flag = shattered_world
+		}
+
+		Y08 = {
+			set_country_flag = shattered_world
+		}
+
+		Y09 = {
+			set_country_flag = shattered_world
+		}
+
+		Y10 = {
+			set_country_flag = shattered_world
+		}
+
+		Y11 = {
+			set_country_flag = shattered_world
+		}
+
+		Y12 = {
+			set_country_flag = shattered_world
+		}
+
+		Y13 = {
+			set_country_flag = shattered_world
+		}
+
+		Y14 = {
+			set_country_flag = shattered_world
+		}
+
+		Y15 = {
+			set_country_flag = shattered_world
+		}
+
+		Y16 = {
+			set_country_flag = shattered_world
+		}
+
+		Y17 = {
+			set_country_flag = shattered_world
+		}
+
+		Y18 = {
+			set_country_flag = shattered_world
+		}
+
+		F01 = {
+			set_country_flag = shattered_world
+		}
+
+		F02 = {
+			set_country_flag = shattered_world
+		}
+
+		F03 = {
+			set_country_flag = shattered_world
+		}
+
+		F04 = {
+			set_country_flag = shattered_world
+		}
+
+		F05 = {
+			set_country_flag = shattered_world
+		}
+
+		F06 = {
+			set_country_flag = shattered_world
+		}
+
+		F07 = {
+			set_country_flag = shattered_world
+		}
+
+		F08 = {
+			set_country_flag = shattered_world
+		}
+
+		F09 = {
+			set_country_flag = shattered_world
+		}
+
+		F10 = {
+			set_country_flag = shattered_world
+		}
+
+		F11 = {
+			set_country_flag = shattered_world
+		}
+
+		F12 = {
+			set_country_flag = shattered_world
+		}
+
+		F13 = {
+			set_country_flag = shattered_world
+		}
+
+		F14 = {
+			set_country_flag = shattered_world
+		}
+
+		F15 = {
+			set_country_flag = shattered_world
+		}
+
+		F16 = {
+			set_country_flag = shattered_world
+		}
+
+		F17 = {
+			set_country_flag = shattered_world
+		}
+
+		F18 = {
+			set_country_flag = shattered_world
+		}
+
+		F19 = {
+			set_country_flag = shattered_world
+		}
+
+		F20 = {
+			set_country_flag = shattered_world
+		}
+
+		F21 = {
+			set_country_flag = shattered_world
+		}
+
+		F22 = {
+			set_country_flag = shattered_world
+		}
+
+		F23 = {
+			set_country_flag = shattered_world
+		}
+
+		F24 = {
+			set_country_flag = shattered_world
+		}
+
+		F25 = {
+			set_country_flag = shattered_world
+		}
+
+		F26 = {
+			set_country_flag = shattered_world
+		}
+
+		F27 = {
+			set_country_flag = shattered_world
+		}
+
+		F28 = {
+			set_country_flag = shattered_world
+		}
+
+		F29 = {
+			set_country_flag = shattered_world
+		}
+
+		F30 = {
+			set_country_flag = shattered_world
+		}
+
+		F31 = {
+			set_country_flag = shattered_world
+		}
+
+		F32 = {
+			set_country_flag = shattered_world
+		}
+
+		F33 = {
+			set_country_flag = shattered_world
+		}
+
+		F34 = {
+			set_country_flag = shattered_world
+		}
+
+		F35 = {
+			set_country_flag = shattered_world
+		}
+
+		F36 = {
+			set_country_flag = shattered_world
+		}
+
+		F37 = {
+			set_country_flag = shattered_world
+		}
+
+		F38 = {
+			set_country_flag = shattered_world
+		}
+
+		F39 = {
+			set_country_flag = shattered_world
+		}
+
+		F40 = {
+			set_country_flag = shattered_world
+		}
+
+		F41 = {
+			set_country_flag = shattered_world
+		}
+
+		F42 = {
+			set_country_flag = shattered_world
+		}
+
+		F43 = {
+			set_country_flag = shattered_world
+		}
+
+		F44 = {
+			set_country_flag = shattered_world
+		}
+
+		F45 = {
+			set_country_flag = shattered_world
+		}
+
+		F46 = {
+			set_country_flag = shattered_world
+		}
+
+		F47 = {
+			set_country_flag = shattered_world
+		}
+
+		F48 = {
+			set_country_flag = shattered_world
+		}
+
+		F49 = {
+			set_country_flag = shattered_world
+		}
+
+		F50 = {
+			set_country_flag = shattered_world
+		}
+
+		F51 = {
+			set_country_flag = shattered_world
+		}
+
+		F52 = {
+			set_country_flag = shattered_world
+		}
+
+		G01 = {
+			set_country_flag = shattered_world
+		}
+
+		G02 = {
+			set_country_flag = shattered_world
+		}
+
+		G03 = {
+			set_country_flag = shattered_world
+		}
+
+		G04 = {
+			set_country_flag = shattered_world
+		}
+
+		G05 = {
+			set_country_flag = shattered_world
+		}
+
+		G06 = {
+			set_country_flag = shattered_world
+		}
+
+		G07 = {
+			set_country_flag = shattered_world
+		}
+
+		G08 = {
+			set_country_flag = shattered_world
+		}
+
+		G09 = {
+			set_country_flag = shattered_world
+		}
+
+		G10 = {
+			set_country_flag = shattered_world
+		}
+
+		G11 = {
+			set_country_flag = shattered_world
+		}
+
+		G12 = {
+			set_country_flag = shattered_world
+		}
+
+		G13 = {
+			set_country_flag = shattered_world
+		}
+
+		G14 = {
+			set_country_flag = shattered_world
+		}
+
+		G15 = {
+			set_country_flag = shattered_world
+		}
+
+		G16 = {
+			set_country_flag = shattered_world
+		}
+
+		G17 = {
+			set_country_flag = shattered_world
+		}
+
+		G18 = {
+			set_country_flag = shattered_world
+		}
+
+		G19 = {
+			set_country_flag = shattered_world
+		}
+
+		G20 = {
+			set_country_flag = shattered_world
+		}
+
+		G21 = {
+			set_country_flag = shattered_world
+		}
+
+		G22 = {
+			set_country_flag = shattered_world
+		}
+
+		G23 = {
+			set_country_flag = shattered_world
+		}
+
+		G24 = {
+			set_country_flag = shattered_world
+		}
+
+		G25 = {
+			set_country_flag = shattered_world
+		}
+
+		G26 = {
+			set_country_flag = shattered_world
+		}
+
+		G27 = {
+			set_country_flag = shattered_world
+		}
+
+		G28 = {
+			set_country_flag = shattered_world
+		}
+
+		G29 = {
+			set_country_flag = shattered_world
+		}
+
+		G30 = {
+			set_country_flag = shattered_world
+		}
+
+		G31 = {
+			set_country_flag = shattered_world
+		}
+
+		G32 = {
+			set_country_flag = shattered_world
+		}
+
+		G33 = {
+			set_country_flag = shattered_world
+		}
+
+		G34 = {
+			set_country_flag = shattered_world
+		}
+
+		G35 = {
+			set_country_flag = shattered_world
+		}
+
+		G36 = {
+			set_country_flag = shattered_world
+		}
+
+		G37 = {
+			set_country_flag = shattered_world
+		}
+
+		G38 = {
+			set_country_flag = shattered_world
+		}
+
+		E01 = {
+			set_country_flag = shattered_world
+		}
+
+		E02 = {
+			set_country_flag = shattered_world
+		}
+
+		E03 = {
+			set_country_flag = shattered_world
+		}
+
+		E04 = {
+			set_country_flag = shattered_world
+		}
+
+		E05 = {
+			set_country_flag = shattered_world
+		}
+
+		E06 = {
+			set_country_flag = shattered_world
+		}
+
+		E07 = {
+			set_country_flag = shattered_world
+		}
+
+		E08 = {
+			set_country_flag = shattered_world
+		}
+
+		E09 = {
+			set_country_flag = shattered_world
+		}
+
+		E10 = {
+			set_country_flag = shattered_world
+		}
+
+		E11 = {
+			set_country_flag = shattered_world
+		}
+
+		E12 = {
+			set_country_flag = shattered_world
+		}
+
+		E13 = {
+			set_country_flag = shattered_world
+		}
+
+		E14 = {
+			set_country_flag = shattered_world
+		}
+
+		E15 = {
+			set_country_flag = shattered_world
+		}
+
+		E16 = {
+			set_country_flag = shattered_world
+		}
+
+		E17 = {
+			set_country_flag = shattered_world
+		}
+
+		E18 = {
+			set_country_flag = shattered_world
+		}
+
+		E19 = {
+			set_country_flag = shattered_world
+		}
+
+		E20 = {
+			set_country_flag = shattered_world
+		}
+
+		E21 = {
+			set_country_flag = shattered_world
+		}
+
+		E22 = {
+			set_country_flag = shattered_world
+		}
+
+		E23 = {
+			set_country_flag = shattered_world
+		}
+
+		E24 = {
+			set_country_flag = shattered_world
+		}
+
+		E25 = {
+			set_country_flag = shattered_world
+		}
+
+		E26 = {
+			set_country_flag = shattered_world
+		}
+
+		E27 = {
+			set_country_flag = shattered_world
+		}
+
+		E28 = {
+			set_country_flag = shattered_world
+		}
+
+		E29 = {
+			set_country_flag = shattered_world
+		}
+
+		E30 = {
+			set_country_flag = shattered_world
+		}
+
+		E31 = {
+			set_country_flag = shattered_world
+		}
+
+		E32 = {
+			set_country_flag = shattered_world
+		}
+
+		E33 = {
+			set_country_flag = shattered_world
+		}
+
+		E34 = {
+			set_country_flag = shattered_world
+		}
+
+		E35 = {
+			set_country_flag = shattered_world
+		}
+
+		E36 = {
+			set_country_flag = shattered_world
+		}
+
+		E37 = {
+			set_country_flag = shattered_world
+		}
+
+		E38 = {
+			set_country_flag = shattered_world
+		}
+
+		E39 = {
+			set_country_flag = shattered_world
+		}
+
+		E40 = {
+			set_country_flag = shattered_world
+		}
+
+		E41 = {
+			set_country_flag = shattered_world
+		}
+
+		E42 = {
+			set_country_flag = shattered_world
+		}
+
+		E43 = {
+			set_country_flag = shattered_world
+		}
+
+		E44 = {
+			set_country_flag = shattered_world
+		}
+
+		E45 = {
+			set_country_flag = shattered_world
+		}
+
+		H01 = {
+			set_country_flag = shattered_world
+		}
+
+		H02 = {
+			set_country_flag = shattered_world
+		}
+
+		H03 = {
+			set_country_flag = shattered_world
+		}
+
+		H04 = {
+			set_country_flag = shattered_world
+		}
+
+		H05 = {
+			set_country_flag = shattered_world
+		}
+
+		H06 = {
+			set_country_flag = shattered_world
+		}
+
+		H07 = {
+			set_country_flag = shattered_world
+		}
+
+		H08 = {
+			set_country_flag = shattered_world
+		}
+
+		H09 = {
+			set_country_flag = shattered_world
+		}
+
+		H10 = {
+			set_country_flag = shattered_world
+		}
+
+		H11 = {
+			set_country_flag = shattered_world
+		}
+
+		H12 = {
+			set_country_flag = shattered_world
+		}
+
+		H13 = {
+			set_country_flag = shattered_world
+		}
+
+		H14 = {
+			set_country_flag = shattered_world
+		}
+
+		H15 = {
+			set_country_flag = shattered_world
+		}
+
+		H16 = {
+			set_country_flag = shattered_world
+		}
+
+		H17 = {
+			set_country_flag = shattered_world
+		}
+
+		H18 = {
+			set_country_flag = shattered_world
+		}
+
+		H19 = {
+			set_country_flag = shattered_world
+		}
+
+		H20 = {
+			set_country_flag = shattered_world
+		}
+
+		H21 = {
+			set_country_flag = shattered_world
+		}
+
+		H22 = {
+			set_country_flag = shattered_world
+		}
+
+		H23 = {
+			set_country_flag = shattered_world
+		}
+
+		H24 = {
+			set_country_flag = shattered_world
+		}
+
+		H25 = {
+			set_country_flag = shattered_world
+		}
+
+		H26 = {
+			set_country_flag = shattered_world
+		}
+
+		H27 = {
+			set_country_flag = shattered_world
+		}
+
+		H28 = {
+			set_country_flag = shattered_world
+		}
+
+		H29 = {
+			set_country_flag = shattered_world
+		}
+
+		H30 = {
+			set_country_flag = shattered_world
+		}
+
+		H31 = {
+			set_country_flag = shattered_world
+		}
+
+		H32 = {
+			set_country_flag = shattered_world
+		}
+
+		H33 = {
+			set_country_flag = shattered_world
+		}
+
+		H34 = {
+			set_country_flag = shattered_world
+		}
+
+		H35 = {
+			set_country_flag = shattered_world
+		}
+
+		H36 = {
+			set_country_flag = shattered_world
+		}
+
+		H37 = {
+			set_country_flag = shattered_world
+		}
+
+		H38 = {
+			set_country_flag = shattered_world
+		}
+
+		I01 = {
+			set_country_flag = shattered_world
+		}
+
+		I02 = {
+			set_country_flag = shattered_world
+		}
+
+		I03 = {
+			set_country_flag = shattered_world
+		}
+
+		I04 = {
+			set_country_flag = shattered_world
+		}
+
+		I05 = {
+			set_country_flag = shattered_world
+		}
+
+		I06 = {
+			set_country_flag = shattered_world
+		}
+
+		I07 = {
+			set_country_flag = shattered_world
+		}
+
+		I08 = {
+			set_country_flag = shattered_world
+		}
+
+		I09 = {
+			set_country_flag = shattered_world
+		}
+
+		I10 = {
+			set_country_flag = shattered_world
+		}
+
+		I11 = {
+			set_country_flag = shattered_world
+		}
+
+		I12 = {
+			set_country_flag = shattered_world
+		}
+
+		I13 = {
+			set_country_flag = shattered_world
+		}
+
+		I14 = {
+			set_country_flag = shattered_world
+		}
+
+		I15 = {
+			set_country_flag = shattered_world
+		}
+
+		I16 = {
+			set_country_flag = shattered_world
+		}
+
+		I17 = {
+			set_country_flag = shattered_world
+		}
+
+		I18 = {
+			set_country_flag = shattered_world
+		}
+
+		I19 = {
+			set_country_flag = shattered_world
+		}
+
+		I20 = {
+			set_country_flag = shattered_world
+		}
+
+		I21 = {
+			set_country_flag = shattered_world
+		}
+
+		I22 = {
+			set_country_flag = shattered_world
+		}
+
+		I23 = {
+			set_country_flag = shattered_world
+		}
+
+		I24 = {
+			set_country_flag = shattered_world
+		}
+
+		I25 = {
+			set_country_flag = shattered_world
+		}
+
+		I26 = {
+			set_country_flag = shattered_world
+		}
+
+		I27 = {
+			set_country_flag = shattered_world
+		}
+
+		I28 = {
+			set_country_flag = shattered_world
+		}
+
+		I29 = {
+			set_country_flag = shattered_world
+		}
+
+		I30 = {
+			set_country_flag = shattered_world
+		}
+
+		I31 = {
+			set_country_flag = shattered_world
+		}
+
+		I32 = {
+			set_country_flag = shattered_world
+		}
+
+		I33 = {
+			set_country_flag = shattered_world
+		}
+
+		I34 = {
+			set_country_flag = shattered_world
+		}
+
+		I35 = {
+			set_country_flag = shattered_world
+		}
+
+		I36 = {
+			set_country_flag = shattered_world
+		}
+
+		I37 = {
+			set_country_flag = shattered_world
+		}
+
+		I38 = {
+			set_country_flag = shattered_world
+		}
+
+		I39 = {
+			set_country_flag = shattered_world
+		}
+
+		Q01 = {
+			set_country_flag = shattered_world
+		}
+
+		Q02 = {
+			set_country_flag = shattered_world
+		}
+
+		Q03 = {
+			set_country_flag = shattered_world
+		}
+
+		Q04 = {
+			set_country_flag = shattered_world
+		}
+
+		Q05 = {
+			set_country_flag = shattered_world
+		}
+
+		Q06 = {
+			set_country_flag = shattered_world
+		}
+
+		P01 = {
+			set_country_flag = shattered_world
+		}
+
+		P02 = {
+			set_country_flag = shattered_world
+		}
+
+		P03 = {
+			set_country_flag = shattered_world
+		}
+
+		P04 = {
+			set_country_flag = shattered_world
+		}
+
+		P05 = {
+			set_country_flag = shattered_world
+		}
+
+		P06 = {
+			set_country_flag = shattered_world
+		}
+
+		P07 = {
+			set_country_flag = shattered_world
+		}
+
+		P08 = {
+			set_country_flag = shattered_world
+		}
+
+		P09 = {
+			set_country_flag = shattered_world
+		}
+
+		X01 = {
+			set_country_flag = shattered_world
+		}
+
+		X02 = {
+			set_country_flag = shattered_world
+		}
+
+		X03 = {
+			set_country_flag = shattered_world
+		}
+
+		X04 = {
+			set_country_flag = shattered_world
+		}
+
+		X05 = {
+			set_country_flag = shattered_world
+		}
+
+		X06 = {
+			set_country_flag = shattered_world
+		}
+
+		X07 = {
+			set_country_flag = shattered_world
+		}
+
+		X08 = {
+			set_country_flag = shattered_world
+		}
+
+		X09 = {
+			set_country_flag = shattered_world
+		}
+
+		X10 = {
+			set_country_flag = shattered_world
+		}
+
+		X11 = {
+			set_country_flag = shattered_world
+		}
+
+		X12 = {
+			set_country_flag = shattered_world
+		}
+
+		X13 = {
+			set_country_flag = shattered_world
+		}
+
+		X14 = {
+			set_country_flag = shattered_world
+		}
+
+		X15 = {
+			set_country_flag = shattered_world
+		}
+
+		X16 = {
+			set_country_flag = shattered_world
+		}
+
+		X17 = {
+			set_country_flag = shattered_world
+		}
+
+		X18 = {
+			set_country_flag = shattered_world
+		}
+
+		X19 = {
+			set_country_flag = shattered_world
+		}
+
+		X20 = {
+			set_country_flag = shattered_world
+		}
+
+		X21 = {
+			set_country_flag = shattered_world
+		}
+
+		X22 = {
+			set_country_flag = shattered_world
+		}
+
+		X23 = {
+			set_country_flag = shattered_world
+		}
+
+		X24 = {
+			set_country_flag = shattered_world
+		}
+
+		X25 = {
+			set_country_flag = shattered_world
+		}
+
+		X26 = {
+			set_country_flag = shattered_world
+		}
+
+		X27 = {
+			set_country_flag = shattered_world
+		}
+
+		X28 = {
+			set_country_flag = shattered_world
+		}
+
+		X29 = {
+			set_country_flag = shattered_world
+		}
+
+		X30 = {
+			set_country_flag = shattered_world
+		}
+
+		X31 = {
+			set_country_flag = shattered_world
+		}
+
+		X32 = {
+			set_country_flag = shattered_world
+		}
+
+		X33 = {
+			set_country_flag = shattered_world
+		}
+
+		X34 = {
+			set_country_flag = shattered_world
+		}
+
+		X35 = {
+			set_country_flag = shattered_world
+		}
+
+		X36 = {
+			set_country_flag = shattered_world
+		}
+
+		X37 = {
+			set_country_flag = shattered_world
+		}
+
+		X38 = {
+			set_country_flag = shattered_world
+		}
+
+		X39 = {
+			set_country_flag = shattered_world
+		}
+
+		X40 = {
+			set_country_flag = shattered_world
+		}
+
+		X41 = {
+			set_country_flag = shattered_world
+		}
+
+		X42 = {
+			set_country_flag = shattered_world
+		}
+
+		X43 = {
+			set_country_flag = shattered_world
+		}
+
+		X44 = {
+			set_country_flag = shattered_world
+		}
+
+		X45 = {
+			set_country_flag = shattered_world
+		}
+
+		X46 = {
+			set_country_flag = shattered_world
+		}
+
+		X47 = {
+			set_country_flag = shattered_world
+		}
+
+		X48 = {
+			set_country_flag = shattered_world
+		}
+
+		X49 = {
+			set_country_flag = shattered_world
+		}
+
+		X50 = {
+			set_country_flag = shattered_world
+		}
+
+		X51 = {
+			set_country_flag = shattered_world
+		}
+
+		X52 = {
+			set_country_flag = shattered_world
+		}
+
+		X53 = {
+			set_country_flag = shattered_world
+		}
+
+		X54 = {
+			set_country_flag = shattered_world
+		}
+
+		X55 = {
+			set_country_flag = shattered_world
+		}
+
+		U01 = {
+			set_country_flag = shattered_world
+		}
+
+		U02 = {
+			set_country_flag = shattered_world
+		}
+
+		U03 = {
+			set_country_flag = shattered_world
+		}
+
+		U04 = {
+			set_country_flag = shattered_world
+		}
+
+		U05 = {
+			set_country_flag = shattered_world
+		}
+
+		U06 = {
+			set_country_flag = shattered_world
+		}
+
+		U07 = {
+			set_country_flag = shattered_world
+		}
+
+		U08 = {
+			set_country_flag = shattered_world
+		}
+
+		U09 = {
+			set_country_flag = shattered_world
+		}
+
+		U10 = {
+			set_country_flag = shattered_world
+		}
+
+		U11 = {
+			set_country_flag = shattered_world
+		}
+
+		U12 = {
+			set_country_flag = shattered_world
+		}
+
+		U13 = {
+			set_country_flag = shattered_world
+		}
+
+		U14 = {
+			set_country_flag = shattered_world
+		}
+
+		U15 = {
+			set_country_flag = shattered_world
+		}
+
+		U16 = {
+			set_country_flag = shattered_world
+		}
+
+		U17 = {
+			set_country_flag = shattered_world
+		}
+
+		U18 = {
+			set_country_flag = shattered_world
+		}
+
+		U19 = {
+			set_country_flag = shattered_world
+		}
+
+		U20 = {
+			set_country_flag = shattered_world
+		}
+
+		U21 = {
+			set_country_flag = shattered_world
+		}
+
+		U22 = {
+			set_country_flag = shattered_world
+		}
+
+		U23 = {
+			set_country_flag = shattered_world
+		}
+
+		U24 = {
+			set_country_flag = shattered_world
+		}
+
+		U25 = {
+			set_country_flag = shattered_world
+		}
+
+		U26 = {
+			set_country_flag = shattered_world
+		}
+
+		U27 = {
+			set_country_flag = shattered_world
+		}
+
+		U28 = {
+			set_country_flag = shattered_world
+		}
+
+		U29 = {
+			set_country_flag = shattered_world
+		}
+
+		U30 = {
+			set_country_flag = shattered_world
+		}
+
+		U31 = {
+			set_country_flag = shattered_world
+		}
+
+		U32 = {
+			set_country_flag = shattered_world
+		}
+
+		U33 = {
+			set_country_flag = shattered_world
+		}
+
+		U34 = {
+			set_country_flag = shattered_world
+		}
+
+		U35 = {
+			set_country_flag = shattered_world
+		}
+
+		U36 = {
+			set_country_flag = shattered_world
+		}
+
+		U37 = {
+			set_country_flag = shattered_world
+		}
+
+		U38 = {
+			set_country_flag = shattered_world
+		}
+
+		U39 = {
+			set_country_flag = shattered_world
+		}
+
+		U40 = {
+			set_country_flag = shattered_world
+		}
+
+		U41 = {
+			set_country_flag = shattered_world
+		}
+
+		U42 = {
+			set_country_flag = shattered_world
+		}
+
+		U43 = {
+			set_country_flag = shattered_world
+		}
+
+		U44 = {
+			set_country_flag = shattered_world
+		}
+
+		U45 = {
+			set_country_flag = shattered_world
+		}
+
+		U46 = {
+			set_country_flag = shattered_world
+		}
+
+		U47 = {
+			set_country_flag = shattered_world
+		}
+
+		U48 = {
+			set_country_flag = shattered_world
+		}
+
+		U49 = {
+			set_country_flag = shattered_world
+		}
+
+		U50 = {
+			set_country_flag = shattered_world
+		}
+
+		U51 = {
+			set_country_flag = shattered_world
+		}
+
+		U52 = {
+			set_country_flag = shattered_world
+		}
+
+		U53 = {
+			set_country_flag = shattered_world
+		}
+
+		U54 = {
+			set_country_flag = shattered_world
+		}
+
+		U55 = {
+			set_country_flag = shattered_world
+		}
+
+		U56 = {
+			set_country_flag = shattered_world
+		}
+
+		U57 = {
+			set_country_flag = shattered_world
+		}
+
+		U58 = {
+			set_country_flag = shattered_world
+		}
+
+		U59 = {
+			set_country_flag = shattered_world
+		}
+
+		U60 = {
+			set_country_flag = shattered_world
+		}
+
+		U61 = {
+			set_country_flag = shattered_world
+		}
+
+		U62 = {
+			set_country_flag = shattered_world
+		}
+
+		U63 = {
+			set_country_flag = shattered_world
+		}
+
+		U64 = {
+			set_country_flag = shattered_world
+		}
+
+		U65 = {
+			set_country_flag = shattered_world
+		}
+
+		U66 = {
+			set_country_flag = shattered_world
+		}
+
+		U67 = {
+			set_country_flag = shattered_world
+		}
+
+		U68 = {
+			set_country_flag = shattered_world
+		}
+
+		U69 = {
+			set_country_flag = shattered_world
+		}
+
+		U70 = {
+			set_country_flag = shattered_world
+		}
+
+		U71 = {
+			set_country_flag = shattered_world
+		}
+
+		U72 = {
+			set_country_flag = shattered_world
+		}
+
+		U73 = {
+			set_country_flag = shattered_world
+		}
+
+		U74 = {
+			set_country_flag = shattered_world
+		}
+
+		U75 = {
+			set_country_flag = shattered_world
+		}
+
+		U76 = {
+			set_country_flag = shattered_world
+		}
+
+		U77 = {
+			set_country_flag = shattered_world
+		}
+
+		U78 = {
+			set_country_flag = shattered_world
+		}
+
+		U79 = {
+			set_country_flag = shattered_world
+		}
+
+		U80 = {
+			set_country_flag = shattered_world
+		}
+
+		U81 = {
+			set_country_flag = shattered_world
+		}
+
+		U82 = {
+			set_country_flag = shattered_world
+		}
+
+		U83 = {
+			set_country_flag = shattered_world
+		}
+
+		U84 = {
+			set_country_flag = shattered_world
+		}
+
+		U85 = {
+			set_country_flag = shattered_world
+		}
+
+		U86 = {
+			set_country_flag = shattered_world
+		}
+
+		U87 = {
+			set_country_flag = shattered_world
+		}
+
+		U88 = {
+			set_country_flag = shattered_world
+		}
+
+		U89 = {
+			set_country_flag = shattered_world
+		}
+
+		U90 = {
+			set_country_flag = shattered_world
+		}
+
+		U91 = {
+			set_country_flag = shattered_world
+		}
+
+		U92 = {
+			set_country_flag = shattered_world
+		}
+
+		U93 = {
+			set_country_flag = shattered_world
+		}
+
+		U94 = {
+			set_country_flag = shattered_world
+		}
+
+		U95 = {
+			set_country_flag = shattered_world
+		}
+
+		U96 = {
+			set_country_flag = shattered_world
+		}
+
+		U97 = {
+			set_country_flag = shattered_world
+		}
+
+		U98 = {
+			set_country_flag = shattered_world
+		}
+
+		U99 = {
+			set_country_flag = shattered_world
+		}
+
+		S01 = {
+			set_country_flag = shattered_world
+		}
+
+		S02 = {
+			set_country_flag = shattered_world
+		}
+
+		S03 = {
+			set_country_flag = shattered_world
+		}
+
+		S04 = {
+			set_country_flag = shattered_world
+		}
+
+		S05 = {
+			set_country_flag = shattered_world
+		}
+
+		S06 = {
+			set_country_flag = shattered_world
+		}
+
+		S07 = {
+			set_country_flag = shattered_world
+		}
+
+		S08 = {
+			set_country_flag = shattered_world
+		}
+
+		S09 = {
+			set_country_flag = shattered_world
+		}
+
+		S10 = {
+			set_country_flag = shattered_world
+		}
+
+		S11 = {
+			set_country_flag = shattered_world
+		}
+
+		S12 = {
+			set_country_flag = shattered_world
+		}
+
+		S13 = {
+			set_country_flag = shattered_world
+		}
+
+		S14 = {
+			set_country_flag = shattered_world
+		}
+
+		S15 = {
+			set_country_flag = shattered_world
+		}
+
+		S16 = {
+			set_country_flag = shattered_world
+		}
+
+		S17 = {
+			set_country_flag = shattered_world
+		}
+
+		S18 = {
+			set_country_flag = shattered_world
+		}
+
+		S19 = {
+			set_country_flag = shattered_world
+		}
+
+		S20 = {
+			set_country_flag = shattered_world
+		}
+
+		S21 = {
+			set_country_flag = shattered_world
+		}
+
+		S22 = {
+			set_country_flag = shattered_world
+		}
+
+		S23 = {
+			set_country_flag = shattered_world
+		}
+
+		R01 = {
+			set_country_flag = shattered_world
+		}
+
+		R02 = {
+			set_country_flag = shattered_world
+		}
+
+		R03 = {
+			set_country_flag = shattered_world
+		}
+
+		R04 = {
+			set_country_flag = shattered_world
+		}
+
+		R05 = {
+			set_country_flag = shattered_world
+		}
+
+		R06 = {
+			set_country_flag = shattered_world
+		}
+
+		R07 = {
+			set_country_flag = shattered_world
+		}
+
+		R08 = {
+			set_country_flag = shattered_world
+		}
+
+		R09 = {
+			set_country_flag = shattered_world
+		}
+
+		R10 = {
+			set_country_flag = shattered_world
+		}
+
+		R11 = {
+			set_country_flag = shattered_world
+		}
+
+		R12 = {
+			set_country_flag = shattered_world
+		}
+
+		R13 = {
+			set_country_flag = shattered_world
+		}
+
+		R14 = {
+			set_country_flag = shattered_world
+		}
+
+		R15 = {
+			set_country_flag = shattered_world
+		}
+
+		R16 = {
+			set_country_flag = shattered_world
+		}
+
+		R17 = {
+			set_country_flag = shattered_world
+		}
+
+		R18 = {
+			set_country_flag = shattered_world
+		}
+
+		R19 = {
+			set_country_flag = shattered_world
+		}
+
+		R20 = {
+			set_country_flag = shattered_world
+		}
+
+		R21 = {
+			set_country_flag = shattered_world
+		}
+
+		R22 = {
+			set_country_flag = shattered_world
+		}
+
+		R23 = {
+			set_country_flag = shattered_world
+		}
+
+		R24 = {
+			set_country_flag = shattered_world
+		}
+
+		R25 = {
+			set_country_flag = shattered_world
+		}
+
+		R26 = {
+			set_country_flag = shattered_world
+		}
+
+		R27 = {
+			set_country_flag = shattered_world
+		}
+
+		R28 = {
+			set_country_flag = shattered_world
+		}
+
+		R29 = {
+			set_country_flag = shattered_world
+		}
+
+		R30 = {
+			set_country_flag = shattered_world
+		}
+
+		R31 = {
+			set_country_flag = shattered_world
+		}
+
+		R32 = {
+			set_country_flag = shattered_world
+		}
+
+		R33 = {
+			set_country_flag = shattered_world
+		}
+
+		R34 = {
+			set_country_flag = shattered_world
+		}
+
+		R35 = {
+			set_country_flag = shattered_world
+		}
+
+		R36 = {
+			set_country_flag = shattered_world
+		}
+
+		R37 = {
+			set_country_flag = shattered_world
+		}
+
+		R38 = {
+			set_country_flag = shattered_world
+		}
+
+		R39 = {
+			set_country_flag = shattered_world
+		}
+
+		R40 = {
+			set_country_flag = shattered_world
+		}
+
+		R41 = {
+			set_country_flag = shattered_world
+		}
+
+		R42 = {
+			set_country_flag = shattered_world
+		}
+
+		R43 = {
+			set_country_flag = shattered_world
+		}
+
+		R44 = {
+			set_country_flag = shattered_world
+		}
+
+		R45 = {
+			set_country_flag = shattered_world
+		}
+
+		R46 = {
+			set_country_flag = shattered_world
+		}
+
+		R47 = {
+			set_country_flag = shattered_world
+		}
+
+		R48 = {
+			set_country_flag = shattered_world
+		}
+
+		R49 = {
+			set_country_flag = shattered_world
+		}
+
+		R50 = {
+			set_country_flag = shattered_world
+		}
+
+		R51 = {
+			set_country_flag = shattered_world
+		}
+
+		R52 = {
+			set_country_flag = shattered_world
+		}
+
+		R53 = {
+			set_country_flag = shattered_world
+		}
+
+		R54 = {
+			set_country_flag = shattered_world
+		}
+
+		R55 = {
+			set_country_flag = shattered_world
+		}
+
+		R56 = {
+			set_country_flag = shattered_world
+		}
+
+		R57 = {
+			set_country_flag = shattered_world
+		}
+
+		R58 = {
+			set_country_flag = shattered_world
+		}
+
+		R59 = {
+			set_country_flag = shattered_world
+		}
+
+		R60 = {
+			set_country_flag = shattered_world
+		}
+
+		R61 = {
+			set_country_flag = shattered_world
+		}
+
+		R62 = {
+			set_country_flag = shattered_world
+		}
+
+		R63 = {
+			set_country_flag = shattered_world
+		}
+
+		R64 = {
+			set_country_flag = shattered_world
+		}
+
+		R65 = {
+			set_country_flag = shattered_world
+		}
+
+		R66 = {
+			set_country_flag = shattered_world
+		}
+
+		R67 = {
+			set_country_flag = shattered_world
+		}
+
+		R68 = {
+			set_country_flag = shattered_world
+		}
+
+		R69 = {
+			set_country_flag = shattered_world
+		}
+
+		R70 = {
+			set_country_flag = shattered_world
+		}
+
+		R71 = {
+			set_country_flag = shattered_world
+		}
+
+		R72 = {
+			set_country_flag = shattered_world
+		}
+
+		R73 = {
+			set_country_flag = shattered_world
+		}
+
+		R74 = {
+			set_country_flag = shattered_world
+		}
+
+		R75 = {
+			set_country_flag = shattered_world
+		}
+
+		R76 = {
+			set_country_flag = shattered_world
+		}
+
+		R77 = {
+			set_country_flag = shattered_world
+		}
+
+		R78 = {
+			set_country_flag = shattered_world
+		}
+
+		R79 = {
+			set_country_flag = shattered_world
+		}
+
+		R80 = {
+			set_country_flag = shattered_world
+		}
+
+		R81 = {
+			set_country_flag = shattered_world
+		}
+
+		R82 = {
+			set_country_flag = shattered_world
+		}
+
+		R83 = {
+			set_country_flag = shattered_world
+		}
+
+		R84 = {
+			set_country_flag = shattered_world
+		}
+
+		R85 = {
+			set_country_flag = shattered_world
+		}
+
+		R86 = {
+			set_country_flag = shattered_world
+		}
+
+		R87 = {
+			set_country_flag = shattered_world
+		}
+
+		R88 = {
+			set_country_flag = shattered_world
+		}
+
+		R89 = {
+			set_country_flag = shattered_world
+		}
+
+		R90 = {
+			set_country_flag = shattered_world
+		}
+
+		R91 = {
+			set_country_flag = shattered_world
+		}
+
+		R92 = {
+			set_country_flag = shattered_world
+		}
+
+		R93 = {
+			set_country_flag = shattered_world
+		}
+
+		R94 = {
+			set_country_flag = shattered_world
+		}
+
+		R95 = {
+			set_country_flag = shattered_world
+		}
+
+		R96 = {
+			set_country_flag = shattered_world
+		}
+
+		R97 = {
+			set_country_flag = shattered_world
+		}
+
+		R98 = {
+			set_country_flag = shattered_world
+		}
+
+		J01 = {
+			set_country_flag = shattered_world
+		}
+
+		J02 = {
+			set_country_flag = shattered_world
+		}
+
+		J03 = {
+			set_country_flag = shattered_world
+		}
+
+		J04 = {
+			set_country_flag = shattered_world
+		}
+
+		J05 = {
+			set_country_flag = shattered_world
+		}
+
+		J06 = {
+			set_country_flag = shattered_world
+		}
+	}
+}

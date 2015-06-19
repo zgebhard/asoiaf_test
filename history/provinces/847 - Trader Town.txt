@@ -1,0 +1,43 @@
+
+owner = S04
+add_core = S04
+controller = S04
+is_city = yes
+
+culture = trader_town
+religion = asoiaf_gods_of_hyrkoon
+
+base_tax = 12
+base_production = 12
+base_manpower =  10
+
+trade_goods = spices
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Trader Town"
+
+
+
+
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}

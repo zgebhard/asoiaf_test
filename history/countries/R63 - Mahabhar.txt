@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = zabhadi
+religion = asoiaf_stone_cow_of_faros
+
+capital = 728
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Mahabhar"
+		birth_date = 911.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Malcolm"
+		monarch_name = "Malcolm"
+		dynasty = "Mahabhar"
+		birth_date = 978.1.1
+		death_date = 1022.1.1
+		claim = 79
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Gage"
+		dynasty = "Mahabhar"
+		birth_date = 999.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Draqaz"
+		monarch_name = "Draqaz"
+		dynasty = "Mahabhar"
+		birth_date = 1037.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Eglantine"
+		dynasty = "Mahabhar"
+		birth_date = 1083.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Pyke"
+		monarch_name = "Pyke"
+		dynasty = "Mahabhar"
+		birth_date = 1103.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Tyrion"
+		dynasty = "Mahabhar"
+		birth_date = 1091.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ricasso"
+		monarch_name = "Ricasso"
+		dynasty = "Mahabhar"
+		birth_date = 1140.1.1
+		death_date = 1203.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Parmen"
+		dynasty = "Mahabhar"
+		birth_date = 1225.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Mahabhar"
+		birth_date = 1229.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Pudding"
+		dynasty = "Mahabhar"
+		birth_date = 1197.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Ardrian"
+		monarch_name = "Ardrian"
+		dynasty = "Mahabhar"
+		birth_date = 1229.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Thoros"
+		dynasty = "Mahabhar"
+		birth_date = 1257.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Oro"
+		monarch_name = "Oro"
+		dynasty = "Mahabhar"
+		birth_date = 1298.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Catelyn"
+		dynasty = "Mahabhar"
+		female = yes
+		birth_date = 1343.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Daena"
+		monarch_name = "Daena"
+		dynasty = "Mahabhar"
+		birth_date = 1386.1.1
+		death_date = 1445.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+

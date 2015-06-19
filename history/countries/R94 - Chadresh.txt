@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 865
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lancel"
+		dynasty = "Chadresh"
+		birth_date = 962.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Cossomo"
+		monarch_name = "Cossomo"
+		dynasty = "Chadresh"
+		birth_date = 991.1.1
+		death_date = 1068.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Timoth"
+		dynasty = "Chadresh"
+		birth_date = 968.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lum"
+		monarch_name = "Lum"
+		dynasty = "Chadresh"
+		birth_date = 1004.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Lucan"
+		dynasty = "Chadresh"
+		birth_date = 1015.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Qezza"
+		monarch_name = "Qezza"
+		dynasty = "Chadresh"
+		birth_date = 1047.1.1
+		death_date = 1113.1.1
+		claim = 12
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Kurz"
+		dynasty = "Chadresh"
+		birth_date = 1116.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Allar"
+		monarch_name = "Allar"
+		dynasty = "Chadresh"
+		birth_date = 1103.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1177.1.1 = {
+	monarch = {
+		name = "Mellara"
+		dynasty = "Chadresh"
+		female = yes
+		birth_date = 1102.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Donnis"
+		monarch_name = "Donnis"
+		dynasty = "Chadresh"
+		birth_date = 1167.1.1
+		death_date = 1192.1.1
+		claim = 98
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Chadresh"
+		birth_date = 1157.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Willow"
+		monarch_name = "Willow"
+		dynasty = "Chadresh"
+		female = yes
+		birth_date = 1189.1.1
+		death_date = 1257.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1253.1.1 = {
+	monarch = {
+		name = "Melara"
+		dynasty = "Chadresh"
+		female = yes
+		birth_date = 1173.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Bannen"
+		monarch_name = "Bannen"
+		dynasty = "Chadresh"
+		birth_date = 1224.1.1
+		death_date = 1338.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Dale"
+		dynasty = "Chadresh"
+		birth_date = 1282.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Qotho"
+		monarch_name = "Qotho"
+		dynasty = "Chadresh"
+		birth_date = 1304.1.1
+		death_date = 1422.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Dan"
+		dynasty = "Chadresh"
+		birth_date = 1316.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Aemond"
+		monarch_name = "Aemond"
+		dynasty = "Chadresh"
+		birth_date = 1339.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Qhorin"
+		dynasty = "Chadresh"
+		birth_date = 1352.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Pylos"
+		monarch_name = "Pylos"
+		dynasty = "Chadresh"
+		birth_date = 1382.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,337 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 82
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Steffon"
+		dynasty = "Vypren"
+		birth_date = 915.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Eroeh"
+		monarch_name = "Eroeh"
+		dynasty = "Vypren"
+		birth_date = 990.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1058.1.1 = {
+
+	monarch = {
+		name = "Bluetooh"
+		dynasty = "Vypren"
+		birth_date = 1017.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Trebor"
+		monarch_name = "Trebor"
+		dynasty = "Vypren"
+		birth_date = 1041.1.1
+		death_date = 1073.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Sloey"
+		dynasty = "Vypren"
+		birth_date = 1089.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Gyloro"
+		monarch_name = "Gyloro"
+		dynasty = "Vypren"
+		birth_date = 1095.1.1
+		death_date = 1151.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1164.1.1 = {
+
+	monarch = {
+		name = "Thormor"
+		dynasty = "Vypren"
+		birth_date = 1127.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Joseran"
+		monarch_name = "Joseran"
+		dynasty = "Vypren"
+		birth_date = 1140.1.1
+		death_date = 1201.1.1
+		claim = 41
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Grazdan"
+		dynasty = "Vypren"
+		birth_date = 1141.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Vypren"
+		birth_date = 1164.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1202.1.1 = {
+
+	monarch = {
+		name = "Farlan"
+		dynasty = "Vypren"
+		birth_date = 1163.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Urek"
+		monarch_name = "Urek"
+		dynasty = "Vypren"
+		birth_date = 1194.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1227.1.1 = {
+
+	monarch = {
+		name = "Denys"
+		dynasty = "Vypren"
+		birth_date = 1149.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Cohollo"
+		monarch_name = "Cohollo"
+		dynasty = "Vypren"
+		birth_date = 1200.1.1
+		death_date = 1262.1.1
+		claim = 30
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Calon"
+		dynasty = "Vypren"
+		birth_date = 1165.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Uller"
+		monarch_name = "Uller"
+		dynasty = "Vypren"
+		birth_date = 1246.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Grigg"
+		dynasty = "Vypren"
+		birth_date = 1251.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Lenyl"
+		monarch_name = "Lenyl"
+		dynasty = "Vypren"
+		birth_date = 1260.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Pyke"
+		dynasty = "Vypren"
+		birth_date = 1217.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Nage"
+		monarch_name = "Nage"
+		dynasty = "Vypren"
+		birth_date = 1291.1.1
+		death_date = 1379.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Hyle"
+		dynasty = "Vypren"
+		birth_date = 1332.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Wylla"
+		monarch_name = "Wylla"
+		dynasty = "Vypren"
+		female = yes
+		birth_date = 1328.1.1
+		death_date = 1443.1.1
+		claim = 32
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Jorah"
+		dynasty = "Vypren"
+		birth_date = 1336.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Kevan"
+		monarch_name = "Kevan"
+		dynasty = "Vypren"
+		birth_date = 1338.1.1
+		death_date = 1417.1.1
+		claim = 21
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Vypren"
+		birth_date = 1353.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Aegor"
+		monarch_name = "Aegor"
+		dynasty = "Vypren"
+		birth_date = 1360.1.1
+		death_date = 1432.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+

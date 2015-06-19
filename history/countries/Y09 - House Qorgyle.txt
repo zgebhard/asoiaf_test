@@ -1,0 +1,337 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 337
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Qorgyle"
+		birth_date = 979.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Mully"
+		monarch_name = "Mully"
+		dynasty = "Qorgyle"
+		female = yes
+		birth_date = 990.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1072.1.1 = {
+	monarch = {
+		name = "Melisandre"
+		dynasty = "Qorgyle"
+		female = yes
+		birth_date = 1042.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Dagmer"
+		monarch_name = "Dagmer"
+		dynasty = "Qorgyle"
+		birth_date = 1044.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Gascoyne"
+		dynasty = "Qorgyle"
+		birth_date = 1092.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem"
+		dynasty = "Qorgyle"
+		birth_date = 1092.1.1
+		death_date = 1176.1.1
+		claim = 7
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Quellon"
+		dynasty = "Qorgyle"
+		birth_date = 1089.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonothor"
+		monarch_name = "Jonothor"
+		dynasty = "Qorgyle"
+		birth_date = 1116.1.1
+		death_date = 1188.1.1
+		claim = 71
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Harodon"
+		dynasty = "Qorgyle"
+		birth_date = 1136.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Matthos"
+		monarch_name = "Matthos"
+		dynasty = "Qorgyle"
+		birth_date = 1143.1.1
+		death_date = 1211.1.1
+		claim = 30
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Podrick"
+		dynasty = "Qorgyle"
+		birth_date = 1120.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Timett"
+		monarch_name = "Timett"
+		dynasty = "Qorgyle"
+		birth_date = 1139.1.1
+		death_date = 1236.1.1
+		claim = 87
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1201.1.1 = {
+	monarch = {
+		name = "Nan"
+		dynasty = "Qorgyle"
+		female = yes
+		birth_date = 1123.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Del"
+		monarch_name = "Del"
+		dynasty = "Qorgyle"
+		birth_date = 1189.1.1
+		death_date = 1244.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Cerrick"
+		dynasty = "Qorgyle"
+		birth_date = 1214.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Borroq"
+		monarch_name = "Borroq"
+		dynasty = "Qorgyle"
+		birth_date = 1247.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Podrick"
+		dynasty = "Qorgyle"
+		birth_date = 1215.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Denyo"
+		monarch_name = "Denyo"
+		dynasty = "Qorgyle"
+		birth_date = 1252.1.1
+		death_date = 1354.1.1
+		claim = 52
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1303.1.1 = {
+
+	monarch = {
+		name = "Sedgekins"
+		dynasty = "Qorgyle"
+		birth_date = 1234.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Frenken"
+		monarch_name = "Frenken"
+		dynasty = "Qorgyle"
+		birth_date = 1288.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1322.1.1 = {
+
+	monarch = {
+		name = "Danos"
+		dynasty = "Qorgyle"
+		birth_date = 1265.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Qorgyle"
+		birth_date = 1297.1.1
+		death_date = 1385.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1346.1.1 = {
+
+	monarch = {
+		name = "Sedgekins"
+		dynasty = "Qorgyle"
+		birth_date = 1296.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Lark"
+		monarch_name = "Lark"
+		dynasty = "Qorgyle"
+		birth_date = 1324.1.1
+		death_date = 1405.1.1
+		claim = 48
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Bennard"
+		dynasty = "Qorgyle"
+		birth_date = 1325.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Geraradys"
+		monarch_name = "Geraradys"
+		dynasty = "Qorgyle"
+		birth_date = 1353.1.1
+		death_date = 1445.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+

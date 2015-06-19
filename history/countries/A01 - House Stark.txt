@@ -1,0 +1,119 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 47
+
+historical_friend = A02
+
+1000.1.1 = {
+	monarch = {
+		name = "Torrhen"
+		dynasty = "Stark"
+		birth_date = 970.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}
+
+1000.1.1 = {
+	heir = {
+		name = "Brandon"
+		monarch_name = "Brandon"
+		dynasty = "Stark"
+		birth_date = 1000.1.1
+		death_date = 1041.1.1
+		claim = 100
+		dip = 6
+		mil = 6
+		adm = 6
+	}
+}
+
+1005.1.1 = {
+	elector = yes
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Brandon"
+		dynasty = "Stark"
+		birth_date = 995.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Cregan"
+		dynasty = "Stark"
+		birth_date = 1100.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+# The Conquest of Dorne
+
+# Blackfyre Rebellion
+1196.1.1 = {
+	monarch = {
+		name = "Jonnel"
+		dynasty = "Stark"
+		birth_date = 1170.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Edwyle"
+		dynasty = "Stark"
+		birth_date = 1230.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+# Robert's Rebellion
+1281.1.1 = {
+	monarch = {
+		name = "Eddard"
+		dynasty = "Stark"
+		birth_date = 1260.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+# Greyjoy Rebellion
+
+# A Clash of Kings
+1298.1.1 = {
+	monarch = {
+		name = "Robb"
+		dynasty = "Stark"
+		birth_date = 1278.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+
+# Bolton CRUSH Stark

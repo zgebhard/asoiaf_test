@@ -1,0 +1,826 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new buildings, make sure they are uniquely named.
+
+# cost = x #==> cost in $ to build (subject to other modifiers)
+# time = x #==> number of months to build.
+# modifier = m # a modifier on the province that the building gives
+# trigger = t # an and trigger that needs to be fullfilled to build and keep the building
+# one_per_country = yes/no # if yes, only one of these can exist in a country
+# manufactory = { trade_good trade_good } # list of trade goods that get a production bonus
+# onmap = yes/no # show as a sprite on the map
+# allow_in_gold_provinces = no/yes
+# influencing_fort = yes
+# make_obsolete = building
+
+# FROM = owner
+# ROOT = province
+
+# AI will consider buildings it does not have the tech for at 20% of scripted AI weight (in case it wants to save slots)
+
+# ADM
+housing = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_tax_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+lumber_camp = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_build_cost = -0.25
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+mining_camp = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_production_efficiency = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+bank = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_development_cost = -0.25
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+monastery = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_missionary_strength = 0.002
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+# DIP
+dock = {
+	cost = 100
+	time = 12
+	
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		local_ship_cost = -0.5
+		ship_recruit_speed = -0.5
+	}
+	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+shipyard = {
+	cost = 100
+	time = 12
+	
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		naval_forcelimit = 2
+		local_ship_repair = 0.5
+	}
+	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+storehouse = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		trade_goods_size_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+market = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		trade_value_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+bazaar = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		province_trade_power_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+# MIL
+training_fields = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_regiment_cost = -0.5
+		regiment_recruit_speed = -0.5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+barracks = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_manpower_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+keep = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		local_hostile_attrition = 1
+		garrison_growth = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+palisade_walls = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		fort_level = 1
+		local_defensiveness = 0.25
+	}
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+stone_walls = {
+	cost = 500
+	time = 12
+	
+	make_obsolete = palisade_walls
+	
+	modifier = {
+		fort_level = 2
+		local_defensiveness = 0.5
+	}
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+fortified_walls = {
+	cost = 1000
+	time = 12
+	
+	make_obsolete = stone_walls
+	
+	modifier = {
+		fort_level = 3
+		local_defensiveness = 0.75
+	}
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+# Unique
+grand_market = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		global_trade_income_modifier = 0.25
+		global_trade_power = 0.5
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_temple = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		missionaries = 2
+		global_missionary_strength = 0.03
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_castle = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		defensiveness = 0.25
+		free_leader_pool = 2
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_library = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		technology_cost = -0.15
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_reliquary = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		idea_cost = -0.15
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_palace = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		legitimacy = 2
+		prestige = 2
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+grand_hall = {
+	cost = 10000
+	time = 12
+	
+	modifier = {
+		diplomats = 1
+		ae_impact = -0.25
+	}
+	
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+

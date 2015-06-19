@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 326
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Borroq"
+		dynasty = "Estermont"
+		birth_date = 972.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Tomard"
+		monarch_name = "Tomard"
+		dynasty = "Estermont"
+		birth_date = 972.1.1
+		death_date = 1076.1.1
+		claim = 43
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1025.1.1 = {
+
+	monarch = {
+		name = "Steffarion"
+		dynasty = "Estermont"
+		birth_date = 971.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Oswyn"
+		monarch_name = "Oswyn"
+		dynasty = "Estermont"
+		birth_date = 1020.1.1
+		death_date = 1092.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1095.1.1 = {
+
+	monarch = {
+		name = "Dan"
+		dynasty = "Estermont"
+		birth_date = 1068.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Maegor"
+		monarch_name = "Maegor"
+		dynasty = "Estermont"
+		birth_date = 1086.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Ternesio"
+		dynasty = "Estermont"
+		birth_date = 1079.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Orys"
+		monarch_name = "Orys"
+		dynasty = "Estermont"
+		birth_date = 1129.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Josmyn"
+		dynasty = "Estermont"
+		birth_date = 1159.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Gascoyne"
+		monarch_name = "Gascoyne"
+		dynasty = "Estermont"
+		birth_date = 1184.1.1
+		death_date = 1229.1.1
+		claim = 68
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Ryam"
+		dynasty = "Estermont"
+		birth_date = 1177.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Werlag"
+		monarch_name = "Werlag"
+		dynasty = "Estermont"
+		birth_date = 1194.1.1
+		death_date = 1258.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1223.1.1 = {
+
+	monarch = {
+		name = "Bryon"
+		dynasty = "Estermont"
+		birth_date = 1197.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Estermont"
+		birth_date = 1212.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Conn"
+		dynasty = "Estermont"
+		birth_date = 1240.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Jacelyn"
+		monarch_name = "Jacelyn"
+		dynasty = "Estermont"
+		birth_date = 1266.1.1
+		death_date = 1312.1.1
+		claim = 71
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Pree"
+		dynasty = "Estermont"
+		birth_date = 1224.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Bharbo"
+		monarch_name = "Bharbo"
+		dynasty = "Estermont"
+		birth_date = 1263.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Estermont"
+		birth_date = 1256.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Rolder"
+		monarch_name = "Rolder"
+		dynasty = "Estermont"
+		birth_date = 1314.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1326.1.1 = {
+
+	monarch = {
+		name = "Harmund"
+		dynasty = "Estermont"
+		birth_date = 1259.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Alebelly"
+		monarch_name = "Alebelly"
+		dynasty = "Estermont"
+		birth_date = 1303.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Wyman"
+		dynasty = "Estermont"
+		birth_date = 1303.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Quincy"
+		monarch_name = "Quincy"
+		dynasty = "Estermont"
+		birth_date = 1356.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Lorent"
+		dynasty = "Estermont"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Oreo"
+		monarch_name = "Oreo"
+		dynasty = "Estermont"
+		birth_date = 1359.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+

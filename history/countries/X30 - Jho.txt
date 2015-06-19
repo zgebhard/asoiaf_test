@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = luxho
+religion = asoiaf_summer_gods
+
+capital = 510
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Meha"
+		dynasty = "Jho"
+		birth_date = 942.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Porthor"
+		monarch_name = "Porthor"
+		dynasty = "Jho"
+		birth_date = 972.1.1
+		death_date = 1021.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Jho"
+		birth_date = 993.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Jho"
+		birth_date = 1024.1.1
+		death_date = 1109.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Stafford"
+		dynasty = "Jho"
+		birth_date = 1028.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Daeron"
+		monarch_name = "Daeron"
+		dynasty = "Jho"
+		birth_date = 1062.1.1
+		death_date = 1095.1.1
+		claim = 65
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Jho"
+		birth_date = 1005.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Bellonara"
+		monarch_name = "Bellonara"
+		dynasty = "Jho"
+		female = yes
+		birth_date = 1076.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1137.1.1 = {
+
+	monarch = {
+		name = "Naerys"
+		dynasty = "Jho"
+		birth_date = 1117.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Toregg"
+		monarch_name = "Toregg"
+		dynasty = "Jho"
+		birth_date = 1133.1.1
+		death_date = 1207.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Jho"
+		birth_date = 1107.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Cloen"
+		monarch_name = "Cloen"
+		dynasty = "Jho"
+		birth_date = 1138.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Wolfe"
+		dynasty = "Jho"
+		birth_date = 1202.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Sawane"
+		monarch_name = "Sawane"
+		dynasty = "Jho"
+		birth_date = 1222.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Oznak"
+		dynasty = "Jho"
+		birth_date = 1241.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Jho"
+		birth_date = 1302.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1349.1.1 = {
+
+	monarch = {
+		name = "Lothar"
+		dynasty = "Jho"
+		birth_date = 1314.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Martyn"
+		monarch_name = "Martyn"
+		dynasty = "Jho"
+		birth_date = 1337.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Ilyrio"
+		dynasty = "Jho"
+		birth_date = 1298.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Walys"
+		monarch_name = "Walys"
+		dynasty = "Jho"
+		birth_date = 1357.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+

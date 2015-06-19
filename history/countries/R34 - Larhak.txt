@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = ghis
+religion = asoiaf_graces
+
+capital = 631
+
+1000.1.1 = {
+	monarch = {
+		name = "Brella"
+		dynasty = "Larhak"
+		female = yes
+		birth_date = 966.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Larhak"
+		birth_date = 978.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Tytos"
+		dynasty = "Larhak"
+		birth_date = 998.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Rhaegar"
+		monarch_name = "Rhaegar"
+		dynasty = "Larhak"
+		birth_date = 1025.1.1
+		death_date = 1093.1.1
+		claim = 33
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Wilbert"
+		dynasty = "Larhak"
+		birth_date = 980.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Damion"
+		monarch_name = "Damion"
+		dynasty = "Larhak"
+		birth_date = 1035.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Narbert"
+		dynasty = "Larhak"
+		birth_date = 1083.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Jorah"
+		monarch_name = "Jorah"
+		dynasty = "Larhak"
+		birth_date = 1142.1.1
+		death_date = 1220.1.1
+		claim = 78
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Addison"
+		dynasty = "Larhak"
+		birth_date = 1140.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Orton"
+		monarch_name = "Orton"
+		dynasty = "Larhak"
+		birth_date = 1164.1.1
+		death_date = 1192.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Eyron"
+		dynasty = "Larhak"
+		birth_date = 1125.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Jacks"
+		monarch_name = "Jacks"
+		dynasty = "Larhak"
+		birth_date = 1191.1.1
+		death_date = 1278.1.1
+		claim = 36
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Chett"
+		dynasty = "Larhak"
+		birth_date = 1162.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Raynald"
+		monarch_name = "Raynald"
+		dynasty = "Larhak"
+		birth_date = 1196.1.1
+		death_date = 1284.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Urreg"
+		dynasty = "Larhak"
+		birth_date = 1165.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Hobb"
+		monarch_name = "Hobb"
+		dynasty = "Larhak"
+		birth_date = 1181.1.1
+		death_date = 1294.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1241.1.1 = {
+
+	monarch = {
+		name = "Hobber"
+		dynasty = "Larhak"
+		birth_date = 1175.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Aemon"
+		monarch_name = "Aemon"
+		dynasty = "Larhak"
+		birth_date = 1235.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1306.1.1 = {
+
+	monarch = {
+		name = "Jason"
+		dynasty = "Larhak"
+		birth_date = 1275.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Helliweg"
+		monarch_name = "Helliweg"
+		dynasty = "Larhak"
+		birth_date = 1278.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Lamprey"
+		dynasty = "Larhak"
+		birth_date = 1361.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Quaro"
+		monarch_name = "Quaro"
+		dynasty = "Larhak"
+		birth_date = 1364.1.1
+		death_date = 1392.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "THE_DANCE_OF_THE_DRAGONS_NAME"
+	desc = "THE_DANCE_OF_THE_DRAGONS_DESC"
+	# New Date: 1129.1.1
+	# Old Date: 2003.1.1
+	date = 1129.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = the_dance_of_dragons
+		}
+	}
+	
+}

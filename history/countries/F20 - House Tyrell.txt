@@ -1,0 +1,126 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 271
+
+1000.1.1 = {
+	monarch = {
+		name = "Harlan"
+		dynasty = "Tyrell"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 974.1.1
+	}
+	
+     heir = {
+		name = "Gyles"
+		monarch_name = "Gyles"
+		dynasty = "Tyrell"
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 993.1.1
+		death_date = 1050.1.1
+	}
+}
+
+1005.1.1 = {
+	elector = yes
+}
+
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Iggo"
+		dynasty = "Tyrell"
+		birth_date = 1012.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Tyland"
+		monarch_name = "Tyland"
+		dynasty = "Tyrell"
+		birth_date = 1075.1.1
+		death_date = 1152.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Galtry"
+		dynasty = "Tyrell"
+		birth_date = 1063.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Berena"
+		monarch_name = "Berena"
+		dynasty = "Tyrell"
+		female = yes
+		birth_date = 1118.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Oswyn"
+		dynasty = "Tyrell"
+		birth_date = 1126.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tristifer"
+		monarch_name = "Tristifer"
+		dynasty = "Tyrell"
+		birth_date = 1203.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Mace"
+		dynasty = "Tyrell"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1210.1.1
+	}
+}
+

@@ -1,0 +1,288 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = hazdahn
+religion = asoiaf_graces
+
+capital = 700
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Zhoe"
+		dynasty = "Hazdahn"
+		birth_date = 971.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Hazdahn"
+		birth_date = 995.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1001.1.1 = {
+
+	monarch = {
+		name = "Mullin"
+		dynasty = "Hazdahn"
+		birth_date = 915.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Warryn"
+		monarch_name = "Warryn"
+		dynasty = "Hazdahn"
+		birth_date = 972.1.1
+		death_date = 1087.1.1
+		claim = 66
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Timett"
+		dynasty = "Hazdahn"
+		birth_date = 999.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Hazdahn"
+		birth_date = 1044.1.1
+		death_date = 1152.1.1
+		claim = 55
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Dennis"
+		dynasty = "Hazdahn"
+		birth_date = 1019.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Nage"
+		monarch_name = "Nage"
+		dynasty = "Hazdahn"
+		birth_date = 1053.1.1
+		death_date = 1165.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Terrence"
+		dynasty = "Hazdahn"
+		birth_date = 1044.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Morgil"
+		monarch_name = "Morgil"
+		dynasty = "Hazdahn"
+		birth_date = 1096.1.1
+		death_date = 1187.1.1
+		claim = 7
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Cottor"
+		dynasty = "Hazdahn"
+		birth_date = 1088.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Mago"
+		monarch_name = "Mago"
+		dynasty = "Hazdahn"
+		female = yes
+		birth_date = 1125.1.1
+		death_date = 1208.1.1
+		claim = 60
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Artys"
+		dynasty = "Hazdahn"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Mylenda"
+		monarch_name = "Mylenda"
+		dynasty = "Hazdahn"
+		female = yes
+		birth_date = 1141.1.1
+		death_date = 1211.1.1
+		claim = 24
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Jon"
+		dynasty = "Hazdahn"
+		birth_date = 1123.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Hazdahn"
+		birth_date = 1165.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Hazdahn"
+		birth_date = 1202.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Hazdahn"
+		birth_date = 1203.1.1
+		death_date = 1246.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1303.1.1 = {
+
+	monarch = {
+		name = "Arrec"
+		dynasty = "Hazdahn"
+		birth_date = 1272.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Benedar"
+		monarch_name = "Benedar"
+		dynasty = "Hazdahn"
+		birth_date = 1302.1.1
+		death_date = 1351.1.1
+		claim = 28
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Mace"
+		dynasty = "Hazdahn"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Hazdahn"
+		birth_date = 1369.1.1
+		death_date = 1435.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 297
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Grigg"
+		dynasty = "Hasty"
+		birth_date = 985.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Marei"
+		monarch_name = "Marei"
+		dynasty = "Hasty"
+		birth_date = 973.1.1
+		death_date = 1025.1.1
+		claim = 69
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1023.1.1 = {
+
+	monarch = {
+		name = "Jyzene"
+		dynasty = "Hasty"
+		birth_date = 952.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Mathos"
+		monarch_name = "Mathos"
+		dynasty = "Hasty"
+		birth_date = 1014.1.1
+		death_date = 1099.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Gerion"
+		dynasty = "Hasty"
+		birth_date = 1048.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Osmund"
+		monarch_name = "Osmund"
+		dynasty = "Hasty"
+		birth_date = 1084.1.1
+		death_date = 1112.1.1
+		claim = 73
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Dickon"
+		dynasty = "Hasty"
+		birth_date = 1105.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Arya"
+		monarch_name = "Arya"
+		dynasty = "Hasty"
+		female = yes
+		birth_date = 1135.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1191.1.1 = {
+
+	monarch = {
+		name = "Aenys"
+		dynasty = "Hasty"
+		birth_date = 1127.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Maegelle"
+		monarch_name = "Maegelle"
+		dynasty = "Hasty"
+		birth_date = 1183.1.1
+		death_date = 1277.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Otho"
+		dynasty = "Hasty"
+		birth_date = 1193.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Hasty"
+		birth_date = 1209.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Rowan"
+		dynasty = "Hasty"
+		birth_date = 1178.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Patrek"
+		monarch_name = "Patrek"
+		dynasty = "Hasty"
+		birth_date = 1229.1.1
+		death_date = 1286.1.1
+		claim = 84
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Khrazz"
+		dynasty = "Hasty"
+		birth_date = 1181.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Oreo"
+		monarch_name = "Oreo"
+		dynasty = "Hasty"
+		birth_date = 1243.1.1
+		death_date = 1320.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1329.1.1 = {
+
+	monarch = {
+		name = "Robb"
+		dynasty = "Hasty"
+		birth_date = 1239.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Praed"
+		monarch_name = "Praed"
+		dynasty = "Hasty"
+		birth_date = 1325.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1342.1.1 = {
+
+	monarch = {
+		name = "Toregg"
+		dynasty = "Hasty"
+		birth_date = 1293.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Deziel"
+		monarch_name = "Deziel"
+		dynasty = "Hasty"
+		birth_date = 1319.1.1
+		death_date = 1394.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Watt"
+		dynasty = "Hasty"
+		birth_date = 1341.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Daryn"
+		monarch_name = "Daryn"
+		dynasty = "Hasty"
+		birth_date = 1371.1.1
+		death_date = 1410.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+

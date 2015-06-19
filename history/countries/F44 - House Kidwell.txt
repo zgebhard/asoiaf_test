@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 246
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Frelegg"
+		dynasty = "Kidwell"
+		birth_date = 949.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Kidwell"
+		birth_date = 994.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Igon"
+		dynasty = "Kidwell"
+		birth_date = 1002.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Rolland"
+		monarch_name = "Rolland"
+		dynasty = "Kidwell"
+		birth_date = 1051.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1083.1.1 = {
+
+	monarch = {
+		name = "Hoster"
+		dynasty = "Kidwell"
+		birth_date = 1046.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Cressen"
+		monarch_name = "Cressen"
+		dynasty = "Kidwell"
+		birth_date = 1079.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1128.1.1 = {
+
+	monarch = {
+		name = "Perros"
+		dynasty = "Kidwell"
+		birth_date = 1095.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Syrio"
+		monarch_name = "Syrio"
+		dynasty = "Kidwell"
+		birth_date = 1100.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Harry"
+		dynasty = "Kidwell"
+		birth_date = 1153.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Koss"
+		monarch_name = "Koss"
+		dynasty = "Kidwell"
+		birth_date = 1184.1.1
+		death_date = 1238.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Iggo"
+		dynasty = "Kidwell"
+		birth_date = 1201.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Puddingfoot"
+		monarch_name = "Puddingfoot"
+		dynasty = "Kidwell"
+		birth_date = 1188.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Lewis"
+		dynasty = "Kidwell"
+		birth_date = 1172.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Red"
+		monarch_name = "Red"
+		dynasty = "Kidwell"
+		birth_date = 1195.1.1
+		death_date = 1282.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Urek"
+		dynasty = "Kidwell"
+		birth_date = 1205.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Pate"
+		monarch_name = "Pate"
+		dynasty = "Kidwell"
+		birth_date = 1281.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Medgar"
+		dynasty = "Kidwell"
+		birth_date = 1262.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Gueren"
+		monarch_name = "Gueren"
+		dynasty = "Kidwell"
+		birth_date = 1310.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1374.1.1 = {
+
+	monarch = {
+		name = "Ossy"
+		dynasty = "Kidwell"
+		birth_date = 1358.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Kidwell"
+		birth_date = 1357.1.1
+		death_date = 1422.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+

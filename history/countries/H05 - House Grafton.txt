@@ -1,0 +1,161 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+historical_friend = A04
+
+capital = 149
+1000.1.1 = {
+
+	monarch = {
+		name = "Matt"
+		dynasty = "Grafton"
+		birth_date = 972.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Arwood"
+		monarch_name = "Arwood"
+		dynasty = "Grafton"
+		birth_date = 982.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Woth"
+		dynasty = "Grafton"
+		birth_date = 1027.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Beck"
+		monarch_name = "Beck"
+		dynasty = "Grafton"
+		birth_date = 1082.1.1
+		death_date = 1170.1.1
+		claim = 2
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Lothar"
+		dynasty = "Grafton"
+		birth_date = 1085.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Hotho"
+		monarch_name = "Hotho"
+		dynasty = "Grafton"
+		birth_date = 1166.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Esgred"
+		dynasty = "Grafton"
+		female = yes
+		birth_date = 1221.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Grigg"
+		monarch_name = "Grigg"
+		dynasty = "Grafton"
+		birth_date = 1212.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Iggo"
+		dynasty = "Grafton"
+		birth_date = 1250.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Gilwood"
+		monarch_name = "Gilwood"
+		dynasty = "Grafton"
+		birth_date = 1294.1.1
+		death_date = 1350.1.1
+		claim = 41
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1346.1.1 = {
+
+	monarch = {
+		name = "Cetheres"
+		dynasty = "Grafton"
+		birth_date = 1256.1.1
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Ricasso"
+		monarch_name = "Ricasso"
+		dynasty = "Grafton"
+		birth_date = 1316.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+

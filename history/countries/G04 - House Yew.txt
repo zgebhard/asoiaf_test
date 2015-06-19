@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 186
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cleyton"
+		dynasty = "Yew"
+		birth_date = 984.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Lotho"
+		monarch_name = "Lotho"
+		dynasty = "Yew"
+		birth_date = 996.1.1
+		death_date = 1022.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1043.1.1 = {
+
+	monarch = {
+		name = "Colin"
+		dynasty = "Yew"
+		birth_date = 965.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Quent"
+		monarch_name = "Quent"
+		dynasty = "Yew"
+		birth_date = 1027.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Delp"
+		dynasty = "Yew"
+		birth_date = 1044.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Donnel"
+		monarch_name = "Donnel"
+		dynasty = "Yew"
+		birth_date = 1060.1.1
+		death_date = 1133.1.1
+		claim = 94
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1149.1.1 = {
+	monarch = {
+		name = "Meredyth"
+		dynasty = "Yew"
+		female = yes
+		birth_date = 1075.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Matthar"
+		monarch_name = "Matthar"
+		dynasty = "Yew"
+		birth_date = 1131.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Boremund"
+		dynasty = "Yew"
+		birth_date = 1129.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Jacks"
+		monarch_name = "Jacks"
+		dynasty = "Yew"
+		birth_date = 1189.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Pylos"
+		dynasty = "Yew"
+		birth_date = 1204.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Valarr"
+		monarch_name = "Valarr"
+		dynasty = "Yew"
+		birth_date = 1213.1.1
+		death_date = 1276.1.1
+		claim = 93
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Hotho"
+		dynasty = "Yew"
+		birth_date = 1241.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Gariss"
+		monarch_name = "Gariss"
+		dynasty = "Yew"
+		birth_date = 1294.1.1
+		death_date = 1365.1.1
+		claim = 36
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Kevan"
+		dynasty = "Yew"
+		birth_date = 1308.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Chiggen"
+		monarch_name = "Chiggen"
+		dynasty = "Yew"
+		birth_date = 1362.1.1
+		death_date = 1445.1.1
+		claim = 5
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+

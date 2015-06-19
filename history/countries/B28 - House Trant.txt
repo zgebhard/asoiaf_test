@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 310
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Anguy"
+		dynasty = "Trant"
+		birth_date = 978.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Visenya"
+		monarch_name = "Visenya"
+		dynasty = "Trant"
+		birth_date = 974.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1001.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Trant"
+		birth_date = 979.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Hali"
+		monarch_name = "Hali"
+		dynasty = "Trant"
+		birth_date = 994.1.1
+		death_date = 1067.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1072.1.1 = {
+
+	monarch = {
+		name = "Frelegg"
+		dynasty = "Trant"
+		birth_date = 1013.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Howd"
+		monarch_name = "Howd"
+		dynasty = "Trant"
+		birth_date = 1042.1.1
+		death_date = 1105.1.1
+		claim = 10
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Qyburn"
+		dynasty = "Trant"
+		birth_date = 1104.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Creighton"
+		monarch_name = "Creighton"
+		dynasty = "Trant"
+		birth_date = 1108.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Selwyn"
+		dynasty = "Trant"
+		birth_date = 1139.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Mern"
+		monarch_name = "Mern"
+		dynasty = "Trant"
+		birth_date = 1206.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1243.1.1 = {
+	monarch = {
+		name = "Val"
+		dynasty = "Trant"
+		female = yes
+		birth_date = 1173.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Marghaz"
+		monarch_name = "Marghaz"
+		dynasty = "Trant"
+		birth_date = 1239.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Trant"
+		birth_date = 1291.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Mortimer"
+		monarch_name = "Mortimer"
+		dynasty = "Trant"
+		birth_date = 1294.1.1
+		death_date = 1363.1.1
+		claim = 11
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1338.1.1 = {
+
+	monarch = {
+		name = "Roger"
+		dynasty = "Trant"
+		birth_date = 1293.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Erreck"
+		monarch_name = "Erreck"
+		dynasty = "Trant"
+		birth_date = 1318.1.1
+		death_date = 1365.1.1
+		claim = 54
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1364.1.1 = {
+
+	monarch = {
+		name = "Halder"
+		dynasty = "Trant"
+		birth_date = 1339.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Trant"
+		birth_date = 1342.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Willis"
+		dynasty = "Trant"
+		birth_date = 1327.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Forley"
+		monarch_name = "Forley"
+		dynasty = "Trant"
+		birth_date = 1358.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+

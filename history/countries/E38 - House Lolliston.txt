@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 103
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Beric"
+		dynasty = "Lolliston"
+		birth_date = 953.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Alebelly"
+		monarch_name = "Alebelly"
+		dynasty = "Lolliston"
+		birth_date = 985.1.1
+		death_date = 1030.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Elron"
+		dynasty = "Lolliston"
+		birth_date = 1022.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Joramun"
+		monarch_name = "Joramun"
+		dynasty = "Lolliston"
+		birth_date = 1049.1.1
+		death_date = 1097.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Lolliston"
+		birth_date = 1063.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Olenna"
+		monarch_name = "Olenna"
+		dynasty = "Lolliston"
+		female = yes
+		birth_date = 1123.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Hoarfrost"
+		dynasty = "Lolliston"
+		birth_date = 1069.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Kromm"
+		monarch_name = "Kromm"
+		dynasty = "Lolliston"
+		birth_date = 1130.1.1
+		death_date = 1161.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Gregor"
+		dynasty = "Lolliston"
+		birth_date = 1122.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Lolliston"
+		birth_date = 1185.1.1
+		death_date = 1230.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Kennos"
+		dynasty = "Lolliston"
+		birth_date = 1278.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Tallad"
+		monarch_name = "Tallad"
+		dynasty = "Lolliston"
+		birth_date = 1271.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Larence"
+		dynasty = "Lolliston"
+		birth_date = 1266.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Murmison"
+		monarch_name = "Murmison"
+		dynasty = "Lolliston"
+		birth_date = 1282.1.1
+		death_date = 1361.1.1
+		claim = 46
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Lister"
+		dynasty = "Lolliston"
+		birth_date = 1305.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Quort"
+		monarch_name = "Quort"
+		dynasty = "Lolliston"
+		birth_date = 1362.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+

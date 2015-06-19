@@ -1,0 +1,52 @@
+# 670 - Abaj
+
+owner = R95
+add_core = R95
+add_core = R96
+controller = R95
+
+culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+base_tax = 2
+base_production = 2
+trade_goods = iron
+base_manpower =  2
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Abaj"
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}
+
+1000.2.1 = {
+	remove_core = R95
+	owner = R96
+	controller = R96
+}
+
+1000.2.2 = {
+	owner = R95
+	add_core = R95
+	controller = R95
+}

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 266
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ayrmidon"
+		dynasty = "Willum"
+		birth_date = 966.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Andrey"
+		monarch_name = "Andrey"
+		dynasty = "Willum"
+		birth_date = 974.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1007.1.1 = {
+
+	monarch = {
+		name = "Armond"
+		dynasty = "Willum"
+		birth_date = 989.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Willum"
+		birth_date = 996.1.1
+		death_date = 1052.1.1
+		claim = 7
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1022.1.1 = {
+
+	monarch = {
+		name = "Erik"
+		dynasty = "Willum"
+		birth_date = 987.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Dykk"
+		monarch_name = "Dykk"
+		dynasty = "Willum"
+		birth_date = 1002.1.1
+		death_date = 1037.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Ryger"
+		dynasty = "Willum"
+		birth_date = 973.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Willum"
+		birth_date = 1028.1.1
+		death_date = 1097.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Damion"
+		dynasty = "Willum"
+		birth_date = 1033.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Willum"
+		birth_date = 1069.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Merrett"
+		dynasty = "Willum"
+		birth_date = 1109.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Lewis"
+		monarch_name = "Lewis"
+		dynasty = "Willum"
+		birth_date = 1172.1.1
+		death_date = 1260.1.1
+		claim = 11
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1258.1.1 = {
+
+	monarch = {
+		name = "Gerold"
+		dynasty = "Willum"
+		birth_date = 1207.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Raynald"
+		monarch_name = "Raynald"
+		dynasty = "Willum"
+		birth_date = 1229.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Willum"
+		birth_date = 1246.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Hop-Robin"
+		monarch_name = "Hop-Robin"
+		dynasty = "Willum"
+		birth_date = 1293.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Willum"
+		birth_date = 1308.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Emrick"
+		monarch_name = "Emrick"
+		dynasty = "Willum"
+		birth_date = 1305.1.1
+		death_date = 1386.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Eddison"
+		dynasty = "Willum"
+		birth_date = 1257.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Lorcas"
+		monarch_name = "Lorcas"
+		dynasty = "Willum"
+		birth_date = 1312.1.1
+		death_date = 1392.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+

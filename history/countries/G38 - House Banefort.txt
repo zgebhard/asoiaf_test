@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+historical_friend = A06
+
+capital = 163
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Donnor"
+		dynasty = "Banefort"
+		birth_date = 929.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Norren"
+		monarch_name = "Norren"
+		dynasty = "Banefort"
+		birth_date = 979.1.1
+		death_date = 1081.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Manfred"
+		dynasty = "Banefort"
+		birth_date = 969.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Banefort"
+		birth_date = 1025.1.1
+		death_date = 1062.1.1
+		claim = 11
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Dennet"
+		dynasty = "Banefort"
+		birth_date = 1034.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ambrose"
+		monarch_name = "Ambrose"
+		dynasty = "Banefort"
+		birth_date = 1098.1.1
+		death_date = 1186.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Harmund"
+		dynasty = "Banefort"
+		birth_date = 1073.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan"
+		dynasty = "Banefort"
+		birth_date = 1115.1.1
+		death_date = 1213.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Otho"
+		dynasty = "Banefort"
+		birth_date = 1140.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Mandon"
+		monarch_name = "Mandon"
+		dynasty = "Banefort"
+		birth_date = 1176.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1242.1.1 = {
+
+	monarch = {
+		name = "Ulmer"
+		dynasty = "Banefort"
+		birth_date = 1202.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Banefort"
+		birth_date = 1214.1.1
+		death_date = 1274.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Criston"
+		dynasty = "Banefort"
+		birth_date = 1251.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Dennis"
+		monarch_name = "Dennis"
+		dynasty = "Banefort"
+		birth_date = 1263.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Quenten"
+		dynasty = "Banefort"
+		birth_date = 1264.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Banefort"
+		birth_date = 1303.1.1
+		death_date = 1363.1.1
+		claim = 8
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1391.1.1 = {
+
+	monarch = {
+		name = "Kella"
+		dynasty = "Banefort"
+		birth_date = 1334.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Clement"
+		monarch_name = "Clement"
+		dynasty = "Banefort"
+		birth_date = 1376.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+

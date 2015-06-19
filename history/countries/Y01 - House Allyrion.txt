@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 349
+
+1000.1.1 = {
+	monarch = {
+		name = "Asha"
+		dynasty = "Allyrion"
+		female = yes
+		birth_date = 923.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Goodwin"
+		monarch_name = "Goodwin"
+		dynasty = "Allyrion"
+		birth_date = 993.1.1
+		death_date = 1084.1.1
+		claim = 79
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Allyrion"
+		birth_date = 990.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Jarl"
+		monarch_name = "Jarl"
+		dynasty = "Allyrion"
+		birth_date = 983.1.1
+		death_date = 1044.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Gorghan"
+		dynasty = "Allyrion"
+		birth_date = 959.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Dagmer"
+		monarch_name = "Dagmer"
+		dynasty = "Allyrion"
+		birth_date = 990.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Allyrion"
+		birth_date = 1043.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Monford"
+		monarch_name = "Monford"
+		dynasty = "Allyrion"
+		birth_date = 1080.1.1
+		death_date = 1189.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1154.1.1 = {
+
+	monarch = {
+		name = "Crawn"
+		dynasty = "Allyrion"
+		birth_date = 1120.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Oznak"
+		monarch_name = "Oznak"
+		dynasty = "Allyrion"
+		birth_date = 1142.1.1
+		death_date = 1230.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Dagon"
+		dynasty = "Allyrion"
+		birth_date = 1134.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Gyloro"
+		monarch_name = "Gyloro"
+		dynasty = "Allyrion"
+		birth_date = 1163.1.1
+		death_date = 1243.1.1
+		claim = 11
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Karyl"
+		dynasty = "Allyrion"
+		birth_date = 1208.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Lester"
+		monarch_name = "Lester"
+		dynasty = "Allyrion"
+		birth_date = 1235.1.1
+		death_date = 1287.1.1
+		claim = 87
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Hendry"
+		dynasty = "Allyrion"
+		birth_date = 1237.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Eldiss"
+		monarch_name = "Eldiss"
+		dynasty = "Allyrion"
+		birth_date = 1282.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Ayrmidon"
+		dynasty = "Allyrion"
+		birth_date = 1242.1.1
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Allyrion"
+		birth_date = 1299.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Yorkel"
+		dynasty = "Allyrion"
+		birth_date = 1277.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Sylas"
+		monarch_name = "Sylas"
+		dynasty = "Allyrion"
+		birth_date = 1330.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Amabel"
+		dynasty = "Allyrion"
+		birth_date = 1301.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ben"
+		monarch_name = "Ben"
+		dynasty = "Allyrion"
+		birth_date = 1369.1.1
+		death_date = 1465.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+

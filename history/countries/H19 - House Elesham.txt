@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 122
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Wendel"
+		dynasty = "Elesham"
+		birth_date = 959.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Ryon"
+		monarch_name = "Ryon"
+		dynasty = "Elesham"
+		birth_date = 993.1.1
+		death_date = 1080.1.1
+		claim = 58
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1009.1.1 = {
+
+	monarch = {
+		name = "Yandry"
+		dynasty = "Elesham"
+		birth_date = 923.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Bandy"
+		monarch_name = "Bandy"
+		dynasty = "Elesham"
+		birth_date = 1000.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Bernarr"
+		dynasty = "Elesham"
+		birth_date = 1041.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Ulmer"
+		monarch_name = "Ulmer"
+		dynasty = "Elesham"
+		birth_date = 1085.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Elesham"
+		birth_date = 1014.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Gwin"
+		monarch_name = "Gwin"
+		dynasty = "Elesham"
+		birth_date = 1090.1.1
+		death_date = 1153.1.1
+		claim = 90
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Sherrit"
+		dynasty = "Elesham"
+		birth_date = 1114.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Maekar"
+		monarch_name = "Maekar"
+		dynasty = "Elesham"
+		birth_date = 1147.1.1
+		death_date = 1232.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Elesham"
+		birth_date = 1130.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Lorimer"
+		monarch_name = "Lorimer"
+		dynasty = "Elesham"
+		birth_date = 1212.1.1
+		death_date = 1248.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Vaellyn"
+		dynasty = "Elesham"
+		birth_date = 1188.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Tarber"
+		monarch_name = "Tarber"
+		dynasty = "Elesham"
+		birth_date = 1228.1.1
+		death_date = 1304.1.1
+		claim = 61
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Raynald"
+		dynasty = "Elesham"
+		birth_date = 1181.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Pearse"
+		monarch_name = "Pearse"
+		dynasty = "Elesham"
+		birth_date = 1226.1.1
+		death_date = 1330.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Henk"
+		dynasty = "Elesham"
+		birth_date = 1232.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Elesham"
+		birth_date = 1300.1.1
+		death_date = 1352.1.1
+		claim = 1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Kurleket"
+		dynasty = "Elesham"
+		birth_date = 1294.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Quaithe"
+		monarch_name = "Quaithe"
+		dynasty = "Elesham"
+		birth_date = 1312.1.1
+		death_date = 1411.1.1
+		claim = 32
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Raymund"
+		dynasty = "Elesham"
+		birth_date = 1256.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Satin"
+		monarch_name = "Satin"
+		dynasty = "Elesham"
+		birth_date = 1323.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Lorimer"
+		dynasty = "Elesham"
+		birth_date = 1361.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Miklaz"
+		monarch_name = "Miklaz"
+		dynasty = "Elesham"
+		birth_date = 1387.1.1
+		death_date = 1416.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+

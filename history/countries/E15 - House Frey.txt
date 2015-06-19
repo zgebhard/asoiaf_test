@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 77
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lucion"
+		dynasty = "Frey"
+		birth_date = 981.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Frey"
+		birth_date = 988.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Selmond"
+		dynasty = "Frey"
+		birth_date = 1070.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Symeon"
+		monarch_name = "Symeon"
+		dynasty = "Frey"
+		birth_date = 1072.1.1
+		death_date = 1169.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1116.1.1 = {
+
+	monarch = {
+		name = "Urzen"
+		dynasty = "Frey"
+		birth_date = 1079.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Nage"
+		monarch_name = "Nage"
+		dynasty = "Frey"
+		birth_date = 1116.1.1
+		death_date = 1191.1.1
+		claim = 20
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Tom"
+		dynasty = "Frey"
+		birth_date = 1141.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Symeon"
+		monarch_name = "Symeon"
+		dynasty = "Frey"
+		birth_date = 1151.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Ulwyck"
+		dynasty = "Frey"
+		birth_date = 1216.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Holger"
+		monarch_name = "Holger"
+		dynasty = "Frey"
+		birth_date = 1231.1.1
+		death_date = 1314.1.1
+		claim = 32
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1316.1.1 = {
+
+	monarch = {
+		name = "Jeffory"
+		dynasty = "Frey"
+		birth_date = 1270.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Visenya"
+		monarch_name = "Visenya"
+		dynasty = "Frey"
+		birth_date = 1307.1.1
+		death_date = 1380.1.1
+		claim = 8
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1354.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Frey"
+		birth_date = 1266.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Quill"
+		monarch_name = "Quill"
+		dynasty = "Frey"
+		birth_date = 1336.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+

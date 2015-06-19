@@ -1,0 +1,289 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = elyrian
+religion = asoiaf_mixed_worship
+
+capital = 602
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Bael"
+		dynasty = "Ilvar"
+		birth_date = 951.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Farman"
+		monarch_name = "Farman"
+		dynasty = "Ilvar"
+		birth_date = 985.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Ilvar"
+		birth_date = 1002.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Fralegg"
+		monarch_name = "Fralegg"
+		dynasty = "Ilvar"
+		birth_date = 1057.1.1
+		death_date = 1162.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Arthur"
+		dynasty = "Ilvar"
+		birth_date = 1092.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Toregg"
+		monarch_name = "Toregg"
+		dynasty = "Ilvar"
+		birth_date = 1115.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1161.1.1 = {
+
+	monarch = {
+		name = "Zei"
+		dynasty = "Ilvar"
+		birth_date = 1108.1.1
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Wex"
+		monarch_name = "Wex"
+		dynasty = "Ilvar"
+		birth_date = 1134.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1163.1.1 = {
+
+	monarch = {
+		name = "Balman"
+		dynasty = "Ilvar"
+		birth_date = 1110.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Maric"
+		monarch_name = "Maric"
+		dynasty = "Ilvar"
+		birth_date = 1140.1.1
+		death_date = 1228.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Bryce"
+		dynasty = "Ilvar"
+		birth_date = 1121.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Belaquo"
+		monarch_name = "Belaquo"
+		dynasty = "Ilvar"
+		birth_date = 1185.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Ordello"
+		dynasty = "Ilvar"
+		birth_date = 1201.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Ilvar"
+		birth_date = 1218.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1319.1.1 = {
+
+	monarch = {
+		name = "Guyne"
+		dynasty = "Ilvar"
+		birth_date = 1271.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Dalbridge"
+		monarch_name = "Dalbridge"
+		dynasty = "Ilvar"
+		birth_date = 1308.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1331.1.1 = {
+
+	monarch = {
+		name = "Halys"
+		dynasty = "Ilvar"
+		birth_date = 1283.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Tymor"
+		monarch_name = "Tymor"
+		dynasty = "Ilvar"
+		birth_date = 1329.1.1
+		death_date = 1410.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Ilvar"
+		birth_date = 1293.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Timett"
+		monarch_name = "Timett"
+		dynasty = "Ilvar"
+		birth_date = 1355.1.1
+		death_date = 1404.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Tybero"
+		dynasty = "Ilvar"
+		birth_date = 1301.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Ned"
+		monarch_name = "Ned"
+		dynasty = "Ilvar"
+		birth_date = 1373.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+

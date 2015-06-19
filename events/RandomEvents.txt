@@ -1,0 +1,813 @@
+namespace = RANDOM_EVENTS
+
+#t: Child of the Forest sighted!
+#d: One of our envoys reports seeing an child of the forest during his journeys. He says the creature had nut-brown skin with large ears, and that it stared at him directly with it's huge golden eyes. Nevertheless, the envoy believes such a sighting is a blessing upon our realm.
+#1: Dismiss this fool.
+#2: Inquire.
+
+country_event = {
+	id = RANDOM_EVENTS.1
+	title = "RANDOM_EVENTS.1t"
+	desc = "RANDOM_EVENTS.1d"
+	picture = PAINTER_ARTIST_eventPicture
+	
+	trigger = {
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.1a"
+		
+		add_prestige = -5
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.1b"
+		
+		add_legitimacy = -10
+		
+		random_list = {
+			25 = {
+				add_stability = 1
+			}
+			25 = {
+				add_adm_power = 10
+			}
+			25 = {
+				add_dip_power = 10
+			}
+			25 = {
+				add_mil_power = 10
+			}
+			50 = {
+			}
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Crannogmen disappearances
+#d: The crannogmen in our realm are reporting numerous suspicious disappearances, with alarming frequency. It would be wise to investigate these occurances, or we risk angering the local peasants.
+#1: Investigate.
+#2: Ignore these rumours.
+
+country_event = {
+	id = RANDOM_EVENTS.2
+	title = "RANDOM_EVENTS.2t"
+	desc = "RANDOM_EVENTS.2d"
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+		any_owned_province = {
+			culture = crannogmen
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.2a"
+		
+		add_legitimacy = 5
+		
+		random_list = {
+			25 = {
+				add_stability = -1
+			}
+			25 = {
+				add_adm_power = 25
+			}
+			25 = {
+				add_dip_power = 25
+			}
+			25 = {
+				add_mil_power = 25
+			}
+		}
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.2b"
+		
+		random = {
+			chance = 50
+			random_owned_province = {
+				limit = {
+					culture = crannogmen
+				}
+				add_unrest = 10
+			}
+		}
+		
+		add_prestige = -10
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Angry Nobles
+#d: Our recent actions have angered local nobles in our realm, and now they threaten a revolt unless we placate them. 
+#1: Placate them.
+#2: Teach them a harsh lesson in manners.
+
+country_event = {
+	id = RANDOM_EVENTS.3
+	title = "RANDOM_EVENTS.3t"
+	desc = "RANDOM_EVENTS.3d"
+	picture = OVEREXTENSION_eventPicture
+	
+	trigger = {
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.3a"
+		
+		add_legitimacy = -5
+		add_years_of_income = -0.1
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.3b"
+		
+		random_owned_province = {
+			noble_rebels = 1
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Angry Magisters
+#d: Our recent actions have angered local magisters in our realm, and now they threaten a revolt unless we placate them. 
+#1: Placate them.
+#2: Teach them a harsh lesson in manners.
+country_event = {
+	id = RANDOM_EVENTS.4
+	title = "RANDOM_EVENTS.4t"
+	desc = "RANDOM_EVENTS.4d"
+	picture = OVEREXTENSION_eventPicture
+	
+	trigger = {
+		technology_group = eastern
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.4a"
+		
+		add_republican_tradition = -0.05
+		add_years_of_income = -0.1
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.4b"
+		
+		random_owned_province = {
+			noble_rebels = 1
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Angry Slavers
+#d: Our recent actions have angered slavers in our realm, and now they threaten a revolt unless we placate them. 
+#1: Placate them.
+#2: Teach them a harsh lesson in manners.
+country_event = {
+	id = RANDOM_EVENTS.5
+	title = "RANDOM_EVENTS.5t"
+	desc = "RANDOM_EVENTS.5d"
+	picture = OVEREXTENSION_eventPicture
+
+	trigger = {
+		has_country_modifier = permits_slavery
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.5a"
+		
+		add_legitimacy = -5
+		add_years_of_income = -0.1
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.5b"
+		
+		random_owned_province = {
+			noble_rebels = 1
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Exotic Merchant
+#d: A merchant from the Summer Islands has visited our court, and presented various artefacts to our [Root.Monarch.GetTitle]. Perhaps purchasing one of these artefacts will bring good fortune to our realm?
+#1: A bolt of silk.
+#2: A dusty tome.
+#3: A sextant.
+#4: A goldenheart bow.
+#5: Nothing.
+
+country_event = {
+	id = RANDOM_EVENTS.6
+	title = "RANDOM_EVENTS.6t"
+	desc = "RANDOM_EVENTS.6d"
+	picture = MERCHANTS_TALKING_eventPicture
+
+	trigger = {
+		technology_group = western
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.6a"
+		
+		add_years_of_income = -0.25
+		
+		add_adm_power = 50
+		add_dip_power = 50
+		add_mil_power = 50
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.6b"
+		
+		add_years_of_income = -0.50
+		
+		change_adm = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.6c"
+		
+		add_years_of_income = -0.50
+		
+		change_dip = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.6do"
+		
+		add_years_of_income = -0.50
+
+		change_mil = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.6e"
+		
+		add_prestige = -5
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+
+#t: Westerosi Merchant
+#d: A merchant from Westeros has visited our court, and presented various artefacts to our [Root.Monarch.GetTitle]. Perhaps purchasing one of these artefacts will bring good fortune to our realm?
+#1: A tapestry.
+#2: A maester's diary.
+#3: A Ironborn galley.
+#4: A knight's armour.
+#5: Nothing.
+
+country_event = {
+	id = RANDOM_EVENTS.7
+	title = "RANDOM_EVENTS.7t"
+	desc = "RANDOM_EVENTS.7d"
+	picture = MERCHANTS_TALKING_eventPicture
+	
+	trigger = {
+		NOT = { technology_group = western }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.7a"
+		
+		add_years_of_income = -0.25
+		
+		add_adm_power = 50
+		add_dip_power = 50
+		add_mil_power = 50
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.7b"
+		
+		add_years_of_income = -0.50
+		
+		change_adm = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.7c"
+		
+		add_years_of_income = -0.50
+		
+		change_dip = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.7do"
+		
+		add_years_of_income = -0.50
+
+		change_mil = 1
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.7e"
+		
+		add_prestige = -5
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+
+#t: Peasants demand local rule
+#d: Peasants in our realm have begun demanding more local governance, and threaten revolt if we do not cede them more autonomy.
+#1: Give in.
+#2: Resist.
+
+country_event = {
+	id = RANDOM_EVENTS.8
+	title = "RANDOM_EVENTS.8t"
+	desc = "RANDOM_EVENTS.8d"
+	picture = ANGRY_MOB_eventPicture
+	
+	trigger = {
+		NOT = { stability = 0 }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.8a"
+		
+		random_owned_province = {
+			add_local_autonomy = 25
+		}
+
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.8b"
+		
+		random_owned_province = {
+			anti_tax_rebels = 1
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Grand Tournament
+#d: We are hosting a grand tournament, and knights from across our realm have been invited. A tournament will bring prestige to our [Root.Monarch.GetTitle] and help our realm prosper.
+#1: Joust!
+#2: Duel!
+
+country_event = {
+	id = RANDOM_EVENTS.9
+	title = "RANDOM_EVENTS.9t"
+	desc = "RANDOM_EVENTS.9d"
+	picture = TOURNAMENT_eventPicture
+	
+	trigger = {
+		technology_group = western
+		# Check for any leader
+		has_leader_with = {
+			shock = 1
+			manuever = 1
+			fire = 1
+			siege = 1
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.9a"
+		
+		add_prestige = 25
+		
+		random = {
+			chance = 10
+			
+			kill_leader = random
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.9b"
+		
+		add_prestige = 50
+		
+		random = {
+			chance = 75
+			
+			kill_leader = random
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#t: Hand of the Father
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the hand of the Father today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.10
+	title = "RANDOM_EVENTS.10t"
+	desc = "RANDOM_EVENTS.10d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.10a"
+		
+		add_prestige = 10
+	}
+}
+
+#t: Embrace of the Mother
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the embrace of the Mother today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.11
+	title = "RANDOM_EVENTS.11t"
+	desc = "RANDOM_EVENTS.11d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.11a"
+		
+		add_stability = 1
+	}
+}
+
+#t: Fury of the Warrior
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the fury of the Warrior today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.12
+	title = "RANDOM_EVENTS.12t"
+	desc = "RANDOM_EVENTS.12d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.12a"
+		
+		add_yearly_manpower = 1
+	}
+}
+
+#t: Purity of the Maiden
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the purity of the Maiden today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.13
+	title = "RANDOM_EVENTS.13t"
+	desc = "RANDOM_EVENTS.13d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.13a"
+		
+		add_legitimacy = 10
+	}
+}
+
+#t: Hammer of the Smith
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the heat of the Smith today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.14
+	title = "RANDOM_EVENTS.14t"
+	desc = "RANDOM_EVENTS.14d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.14a"
+		
+		add_years_of_income = 0.5
+	}
+}
+
+#t: Whispers of the Crone
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the whispers of the Crone today. The septons and septas regard this as a good omen for [Root.Monarch.GetHerHis] rule.
+#1: Joyous.
+
+country_event = {
+	id = RANDOM_EVENTS.15
+	title = "RANDOM_EVENTS.15t"
+	desc = "RANDOM_EVENTS.15d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.15a"
+		
+		add_adm_power = 33
+		add_dip_power = 33
+		add_mil_power = 33
+	}
+}
+
+#t: Presence of the Stranger
+#d: Our ruler, [Root.Monarch.GetTitle] [Root.GetName] has felt the presence of the Stranger today. The septons and septas regard this as a poor omen for [Root.Monarch.GetHerHis] rule.
+#1: Damnation.
+
+country_event = {
+	id = RANDOM_EVENTS.16
+	title = "RANDOM_EVENTS.16t"
+	desc = "RANDOM_EVENTS.16d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.16a"
+		
+		random_list = {
+			10 = {
+				add_adm_power = -100
+			}
+			10 = {
+				add_dip_power = -100
+			}
+			10 = {
+				add_mil_power = -100
+			}
+			10 = {
+				add_legitimacy = -25
+			}
+			10 = {
+				add_yearly_manpower = -0.5
+			}
+			10 = {
+				add_stability = -1
+			}
+			10 = {
+				add_prestige = -25
+			}
+		}
+	}
+}
+
+#t: The Song of the Seven
+#d: Today is a day of worship, and the Song of the Seven can be heard from the local sept, and [Root.Monarch.GetTitle] [Root.Monarch.GetName] feels the light of the Seven upon [Root.Monarch.GetHerHis] skin.
+#1: The warmth of the light enlightens me.
+country_event = {
+	id = RANDOM_EVENTS.17
+	title = "RANDOM_EVENTS.17t"
+	desc = "RANDOM_EVENTS.17d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		religion = asoiaf_faith_of_the_seven
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.17a"
+		
+		add_papal_influence = 10
+	}
+}
+
+#t: [Root.Heir.GetName] adores whores!
+#d: Our heir, [Root.Heir.GetName] has been visiting brothels, and makes little effort to hide [Root.Heir.GetHerHis] love of whores.
+#1: Such a dissapointment.
+#2: Well, who doesn't?
+country_event = {
+	id = RANDOM_EVENTS.18
+	title = "RANDOM_EVENTS.18t"
+	desc = "RANDOM_EVENTS.18d"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		has_heir = yes
+		heir_age = 13
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.18a"
+		
+		add_heir_claim = -25
+		add_dip_power = 50
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.18b"
+		
+		add_prestige = -10
+		add_legitimacy = -10
+	}
+}
+
+#t: War calls!
+#d: Our realm has been at war, and our officers are calling for our ruler, [Root.Monarch.GetTitle] [Root.Monarch.GetName] to step up and lead [Root.Monarch.GetHerHis] soldiers.
+#1: Step up.
+#2: Send your heir, [Root.Heir.GetName]
+country_event = {
+	id = RANDOM_EVENTS.19
+	title = "RANDOM_EVENTS.19t"
+	desc = "RANDOM_EVENTS.19d"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		has_heir = yes
+		heir_age = 13
+		is_at_war = yes
+		has_regency = no
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.19a"
+		
+		add_prestige = 10
+		convert_ruler_to_general = yes
+	}
+	
+	option = {
+		name = "RANDOM_EVENTS.19b"
+		
+		add_prestige = -10
+		convert_heir_to_general = yes
+	}
+}

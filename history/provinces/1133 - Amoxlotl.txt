@@ -1,0 +1,12 @@
+# 1133 - Soim
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+religion = asoiaf_mixed_worship
+is_city = no
+hre = no
+
+native_size = 20
+native_ferocity = 5
+native_hostileness = 2

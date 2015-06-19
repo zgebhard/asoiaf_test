@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 786
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Kurleket"
+		dynasty = "Zambarra"
+		birth_date = 957.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Coratt"
+		monarch_name = "Coratt"
+		dynasty = "Zambarra"
+		birth_date = 977.1.1
+		death_date = 1020.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1024.1.1 = {
+
+	monarch = {
+		name = "Donnis"
+		dynasty = "Zambarra"
+		birth_date = 957.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Uller"
+		monarch_name = "Uller"
+		dynasty = "Zambarra"
+		birth_date = 998.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1039.1.1 = {
+
+	monarch = {
+		name = "Selwyn"
+		dynasty = "Zambarra"
+		birth_date = 960.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Lyman"
+		monarch_name = "Lyman"
+		dynasty = "Zambarra"
+		birth_date = 1024.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Kennos"
+		dynasty = "Zambarra"
+		birth_date = 1091.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Wenda"
+		monarch_name = "Wenda"
+		dynasty = "Zambarra"
+		female = yes
+		birth_date = 1116.1.1
+		death_date = 1208.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Alerie"
+		dynasty = "Zambarra"
+		birth_date = 1142.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Steffon"
+		monarch_name = "Steffon"
+		dynasty = "Zambarra"
+		birth_date = 1189.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Zambarra"
+		birth_date = 1171.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Rafford"
+		monarch_name = "Rafford"
+		dynasty = "Zambarra"
+		birth_date = 1202.1.1
+		death_date = 1274.1.1
+		claim = 23
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Gillam"
+		dynasty = "Zambarra"
+		birth_date = 1237.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Chiswyck"
+		monarch_name = "Chiswyck"
+		dynasty = "Zambarra"
+		birth_date = 1275.1.1
+		death_date = 1334.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Ronald"
+		dynasty = "Zambarra"
+		birth_date = 1323.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Hazrak"
+		monarch_name = "Hazrak"
+		dynasty = "Zambarra"
+		birth_date = 1335.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Fralegg"
+		dynasty = "Zambarra"
+		birth_date = 1350.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Daeron"
+		monarch_name = "Daeron"
+		dynasty = "Zambarra"
+		birth_date = 1380.1.1
+		death_date = 1436.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+

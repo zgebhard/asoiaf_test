@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 338
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Chella"
+		dynasty = "Uller"
+		birth_date = 953.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Uller"
+		birth_date = 995.1.1
+		death_date = 1026.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Lucion"
+		dynasty = "Uller"
+		birth_date = 1011.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Guyne"
+		monarch_name = "Guyne"
+		dynasty = "Uller"
+		birth_date = 1033.1.1
+		death_date = 1131.1.1
+		claim = 11
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Tom"
+		dynasty = "Uller"
+		birth_date = 1048.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Emphyria"
+		monarch_name = "Emphyria"
+		dynasty = "Uller"
+		birth_date = 1107.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1172.1.1 = {
+
+	monarch = {
+		name = "Harle"
+		dynasty = "Uller"
+		birth_date = 1126.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Cayn"
+		monarch_name = "Cayn"
+		dynasty = "Uller"
+		birth_date = 1165.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Willum"
+		dynasty = "Uller"
+		birth_date = 1161.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Arthor"
+		monarch_name = "Arthor"
+		dynasty = "Uller"
+		birth_date = 1178.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Willis"
+		dynasty = "Uller"
+		birth_date = 1163.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Yormwell"
+		monarch_name = "Yormwell"
+		dynasty = "Uller"
+		birth_date = 1194.1.1
+		death_date = 1234.1.1
+		claim = 65
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1294.1.1 = {
+
+	monarch = {
+		name = "Harlon"
+		dynasty = "Uller"
+		birth_date = 1265.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Benfrey"
+		monarch_name = "Benfrey"
+		dynasty = "Uller"
+		birth_date = 1285.1.1
+		death_date = 1324.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1310.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Uller"
+		birth_date = 1243.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Ocley"
+		monarch_name = "Ocley"
+		dynasty = "Uller"
+		birth_date = 1301.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1382.1.1 = {
+
+	monarch = {
+		name = "Wyl"
+		dynasty = "Uller"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Rennifer"
+		monarch_name = "Rennifer"
+		dynasty = "Uller"
+		birth_date = 1363.1.1
+		death_date = 1411.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+

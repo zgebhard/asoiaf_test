@@ -1,0 +1,352 @@
+namespace = GOVERNMENT_EVENTS
+
+#title: Grand Magister of [Root.GetName]
+#desc: The previous [Root.Monarch.GetTitle] has passed away, so it is time for [Root.GetName] to pick a new [Root.Monarch.GetTitle]. However, if the people think ill of the chosen [Root.Monarch.GetTitle], there is likely to be pretenders to the position.
+#1: An administrative [Root.Monarch.GetTitle]
+#2: A diplomatic [Root.Monarch.GetTitle]
+#3: A militaristic [Root.Monarch.GetTitle]
+
+country_event = {
+	id = GOVERNMENT_EVENTS.1
+	title = "GOVERNMENT_EVENTS.1t"
+	desc = "GOVERNMENT_EVENTS.1d"
+	picture = IMPORTANT_STATUE_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			government = braavosi_city
+			government = pentoshi_city
+			government = lorath_city
+			government = tyrosh_city
+			government = myr_city
+			government = norvos_city
+			government = qohor_city
+			government = lysene_city
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.1a"
+
+		define_ruler = {
+			adm = 4
+			dip = 1
+			mil = 1
+			dynasty = ROOT
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.1b"
+
+		define_ruler = {
+			adm = 1
+			dip = 4
+			mil = 1
+			dynasty = ROOT
+		}
+
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.1c"
+
+		define_ruler = {
+			adm = 1
+			dip = 1
+			mil = 4
+			dynasty = ROOT
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+}
+
+#title: [Root.Monarch.GetTitle] of [Root.GetName]
+#desc: The previous [Root.Monarch.GetTitle] has passed away, so it is time for [Root.GetName] to pick a new [Root.Monarch.GetTitle]. However, if the people think ill of the chosen [Root.Monarch.GetTitle], there is likely to be pretenders to the position.
+#1: A candidate from the Tiger Party
+#2: A candidate from the Elephant Party
+#3: Re-elect [Root.Monarch.GetName]
+
+country_event = {
+	id = GOVERNMENT_EVENTS.2
+	title = "GOVERNMENT_EVENTS.2t"
+	desc = "GOVERNMENT_EVENTS.2d"
+	picture = IMPORTANT_STATUE_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		government = volanteane_republic
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.2a"
+
+		clr_country_flag = ruler_buff
+		
+		define_ruler = {
+			adm = 1
+			dip = 0
+			mil = 2
+		}
+		
+		if = {
+			limit = {
+				faction_in_power = faction_elephants
+			}
+			add_faction_influence = { faction = faction_elephants influence = -25 }
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.2b"
+
+		clr_country_flag = ruler_buff
+		
+		define_ruler = {
+			adm = 1
+			dip = 2
+			mil = 0
+		}
+		
+		if = {
+			limit = {
+				faction_in_power = faction_tigers
+			}
+			add_faction_influence = { faction = faction_tigers influence = -25 }
+		}
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.2c"
+		
+		if = {
+			limit = { NOT = { has_country_flag = ruler_buff } }
+			set_country_flag = ruler_buff
+		}
+		
+		if = {
+			limit = {
+				had_country_flag = {
+					flag = ruler_buff 
+					days = 1825
+				} 
+			}
+			clr_country_flag = ruler_buff
+			change_adm = 1
+			change_dip = 1
+			change_mil = 1
+		}
+		
+		add_republican_tradition = -0.05
+		
+		custom_tooltip = RE_ELECTION_TOOLTIP
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+}
+
+#title: [Root.Monarch.GetTitle] [Root.Monarch.GetName] has died!
+#desc: The great and mighty [Root.Monarch.GetTitle] [Root.Monarch.GetName] has passed on! [Root.Monarch.GetSheHe] led our realm through many challenges and helped forge the realm, making it stronger, and more fair. [Root.Monarch.GetSheHe] will not be forgotten.
+#1: Death comes to us all...
+
+country_event = {
+	id = GOVERNMENT_EVENTS.3
+	title = "GOVERNMENT_EVENTS.3t"
+	desc = "GOVERNMENT_EVENTS.3d"
+	picture = KING_SICK_IN_BED_eventPicture
+	
+	trigger = {
+		has_regency = no
+		NOT = { government = republic }
+		NOT = { has_country_flag = daenerys_death_check }
+	}
+	
+	mean_time_to_happen = {
+		months = 840
+		
+		modifier = {
+			factor = 0.9
+			is_monarch_leader = yes
+		}
+		modifier = {
+			factor = 0.9
+			is_nomad = yes
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { legitimacy = 50 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { legitimacy = 25 }
+		}
+		modifier = {
+			factor = 0.9
+			ruler_age = 70
+		}
+		modifier = {
+			factor = 0.9
+			ruler_age = 75
+		}
+		modifier = {
+			factor = 0.9
+			ruler_age = 80
+		}
+		modifier = {
+			factor = 0.9
+			ruler_age = 85
+		}
+		modifier = {
+			factor = 0.9
+			ruler_age = 90
+		}
+		modifier = {
+			factor = 0.5
+			ruler_age = 95
+		}
+		modifier = {
+			factor = 0.1
+			ruler_age = 100
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.3a"
+		
+		kill_ruler = yes
+	}
+}
+
+
+#t: The Education of [Root.Monarch.GetName]
+#d: Whilst preparing to rule, [Root.Monarch.GetName] was taught the lessons of administration, diplomacy, and military organisation. However, [Root.Monarch.GetSheHe] was far more adept at...
+#1: Administration!
+#2: Diplomacy!
+#3: Military Organisation!
+
+country_event = {
+	id = GOVERNMENT_EVENTS.4
+	title = "GOVERNMENT_EVENTS.4t"
+	desc = "GOVERNMENT_EVENTS.4d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	is_triggered_only = yes
+		
+	option = {
+		name = "GOVERNMENT_EVENTS.4a"
+		
+		random_list = {
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_adm_1
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_adm_2
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_adm_3
+					duration = -1
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "GOVERNMENT_EVENTS.4b"
+		
+		random_list = {
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_dip_1
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_dip_2
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_dip_3
+					duration = -1
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.4c"
+		
+		random_list = {
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_mil_1
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_mil_2
+					duration = -1
+				}
+			}
+			33 = {
+				add_ruler_modifier = {
+					name = ruler_education_mil_3
+					duration = -1
+				}
+			}
+		}
+	}
+}
+
+# Sanity check event - Kill ruler if over 150.
+country_event = {
+	id = GOVERNMENT_EVENTS.5
+	title = "GOVERNMENT_EVENTS.5t"
+	desc = "GOVERNMENT_EVENTS.5d"
+	picture = KING_SICK_IN_BED_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		ruler_age = 150
+	}
+	
+	option = {
+		name = "GOVERNMENT_EVENTS.5a"
+		
+		kill_ruler = yes
+	}
+}

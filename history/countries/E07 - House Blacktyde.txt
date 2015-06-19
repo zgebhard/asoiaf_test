@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 155
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Azzak"
+		dynasty = "Blacktyde"
+		birth_date = 920.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Barbara"
+		monarch_name = "Barbara"
+		dynasty = "Blacktyde"
+		female = yes
+		birth_date = 988.1.1
+		death_date = 1041.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1055.1.1 = {
+
+	monarch = {
+		name = "Tim"
+		dynasty = "Blacktyde"
+		birth_date = 1024.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Rumund"
+		monarch_name = "Rumund"
+		dynasty = "Blacktyde"
+		birth_date = 1047.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1136.1.1 = {
+	monarch = {
+		name = "Shella"
+		dynasty = "Blacktyde"
+		female = yes
+		birth_date = 1077.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Ronald"
+		monarch_name = "Ronald"
+		dynasty = "Blacktyde"
+		birth_date = 1110.1.1
+		death_date = 1209.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Maric"
+		dynasty = "Blacktyde"
+		birth_date = 1112.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Blacktyde"
+		birth_date = 1131.1.1
+		death_date = 1176.1.1
+		claim = 34
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Creighton"
+		dynasty = "Blacktyde"
+		birth_date = 1191.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Selwyn"
+		monarch_name = "Selwyn"
+		dynasty = "Blacktyde"
+		birth_date = 1197.1.1
+		death_date = 1269.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1241.1.1 = {
+
+	monarch = {
+		name = "Duncan"
+		dynasty = "Blacktyde"
+		birth_date = 1198.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Selwyn"
+		monarch_name = "Selwyn"
+		dynasty = "Blacktyde"
+		birth_date = 1238.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Blacktyde"
+		birth_date = 1242.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Amabel"
+		monarch_name = "Amabel"
+		dynasty = "Blacktyde"
+		birth_date = 1268.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Franklyn"
+		dynasty = "Blacktyde"
+		birth_date = 1305.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Valarr"
+		monarch_name = "Valarr"
+		dynasty = "Blacktyde"
+		birth_date = 1313.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1339.1.1 = {
+
+	monarch = {
+		name = "Aenys"
+		dynasty = "Blacktyde"
+		birth_date = 1262.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Samwell"
+		monarch_name = "Samwell"
+		dynasty = "Blacktyde"
+		birth_date = 1336.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Ternesio"
+		dynasty = "Blacktyde"
+		birth_date = 1367.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Theobald"
+		monarch_name = "Theobald"
+		dynasty = "Blacktyde"
+		birth_date = 1384.1.1
+		death_date = 1445.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Blacktyde"
+		birth_date = 1314.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Rolder"
+		monarch_name = "Rolder"
+		dynasty = "Blacktyde"
+		birth_date = 1379.1.1
+		death_date = 1404.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 68
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Timeon"
+		dynasty = "Blackmyre"
+		birth_date = 923.1.1
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Lynesse"
+		monarch_name = "Lynesse"
+		dynasty = "Blackmyre"
+		female = yes
+		birth_date = 996.1.1
+		death_date = 1062.1.1
+		claim = 66
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1015.1.1 = {
+	monarch = {
+		name = "Osha"
+		dynasty = "Blackmyre"
+		female = yes
+		birth_date = 969.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Nage"
+		monarch_name = "Nage"
+		dynasty = "Blackmyre"
+		birth_date = 986.1.1
+		death_date = 1046.1.1
+		claim = 89
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Qalen"
+		dynasty = "Blackmyre"
+		birth_date = 990.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Vickon"
+		monarch_name = "Vickon"
+		dynasty = "Blackmyre"
+		birth_date = 1028.1.1
+		death_date = 1105.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Jonothor"
+		dynasty = "Blackmyre"
+		birth_date = 1089.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Blackmyre"
+		birth_date = 1090.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Harrion"
+		dynasty = "Blackmyre"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonnel"
+		monarch_name = "Jonnel"
+		dynasty = "Blackmyre"
+		birth_date = 1158.1.1
+		death_date = 1216.1.1
+		claim = 5
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1176.1.1 = {
+
+	monarch = {
+		name = "Terrence"
+		dynasty = "Blackmyre"
+		birth_date = 1120.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryen"
+		monarch_name = "Bryen"
+		dynasty = "Blackmyre"
+		birth_date = 1164.1.1
+		death_date = 1212.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1210.1.1 = {
+
+	monarch = {
+		name = "Renly"
+		dynasty = "Blackmyre"
+		birth_date = 1124.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Maegelle"
+		monarch_name = "Maegelle"
+		dynasty = "Blackmyre"
+		birth_date = 1206.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Gydayn"
+		dynasty = "Blackmyre"
+		birth_date = 1210.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Wex"
+		monarch_name = "Wex"
+		dynasty = "Blackmyre"
+		birth_date = 1235.1.1
+		death_date = 1281.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Tothmure"
+		dynasty = "Blackmyre"
+		birth_date = 1215.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Kyle"
+		monarch_name = "Kyle"
+		dynasty = "Blackmyre"
+		birth_date = 1236.1.1
+		death_date = 1325.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1335.1.1 = {
+
+	monarch = {
+		name = "Kurleket"
+		dynasty = "Blackmyre"
+		birth_date = 1275.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Utherydes"
+		monarch_name = "Utherydes"
+		dynasty = "Blackmyre"
+		birth_date = 1313.1.1
+		death_date = 1352.1.1
+		claim = 3
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1391.1.1 = {
+
+	monarch = {
+		name = "Barsena"
+		dynasty = "Blackmyre"
+		birth_date = 1308.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Prendahl"
+		monarch_name = "Prendahl"
+		dynasty = "Blackmyre"
+		birth_date = 1375.1.1
+		death_date = 1457.1.1
+		claim = 18
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+

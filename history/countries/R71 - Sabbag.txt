@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 766
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bharbo"
+		dynasty = "Sabbag"
+		birth_date = 973.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Bayard"
+		monarch_name = "Bayard"
+		dynasty = "Sabbag"
+		birth_date = 972.1.1
+		death_date = 1065.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Gerris"
+		dynasty = "Sabbag"
+		birth_date = 1031.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Yandry"
+		monarch_name = "Yandry"
+		dynasty = "Sabbag"
+		birth_date = 1033.1.1
+		death_date = 1066.1.1
+		claim = 81
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1132.1.1 = {
+
+	monarch = {
+		name = "Castos"
+		dynasty = "Sabbag"
+		birth_date = 1044.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Sabbag"
+		birth_date = 1131.1.1
+		death_date = 1167.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Sabbag"
+		birth_date = 1163.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Othell"
+		monarch_name = "Othell"
+		dynasty = "Sabbag"
+		birth_date = 1192.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Andros"
+		dynasty = "Sabbag"
+		birth_date = 1205.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Rollam"
+		monarch_name = "Rollam"
+		dynasty = "Sabbag"
+		birth_date = 1210.1.1
+		death_date = 1286.1.1
+		claim = 1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1251.1.1 = {
+
+	monarch = {
+		name = "Norjen"
+		dynasty = "Sabbag"
+		birth_date = 1210.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Elyana"
+		monarch_name = "Elyana"
+		dynasty = "Sabbag"
+		female = yes
+		birth_date = 1246.1.1
+		death_date = 1327.1.1
+		claim = 74
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Redwyn"
+		dynasty = "Sabbag"
+		birth_date = 1217.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Sabbag"
+		birth_date = 1260.1.1
+		death_date = 1293.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Larys"
+		dynasty = "Sabbag"
+		birth_date = 1238.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Tion"
+		monarch_name = "Tion"
+		dynasty = "Sabbag"
+		birth_date = 1278.1.1
+		death_date = 1341.1.1
+		claim = 96
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Mullin"
+		dynasty = "Sabbag"
+		birth_date = 1246.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Ethan"
+		monarch_name = "Ethan"
+		dynasty = "Sabbag"
+		birth_date = 1306.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Rickon"
+		dynasty = "Sabbag"
+		birth_date = 1295.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Galt"
+		monarch_name = "Galt"
+		dynasty = "Sabbag"
+		birth_date = 1348.1.1
+		death_date = 1419.1.1
+		claim = 9
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 189
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bhakaz"
+		dynasty = "Myatt"
+		birth_date = 927.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Barre"
+		monarch_name = "Barre"
+		dynasty = "Myatt"
+		birth_date = 973.1.1
+		death_date = 1033.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Dudley"
+		dynasty = "Myatt"
+		birth_date = 972.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Pylos"
+		monarch_name = "Pylos"
+		dynasty = "Myatt"
+		birth_date = 990.1.1
+		death_date = 1084.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1020.1.1 = {
+
+	monarch = {
+		name = "Goodwin"
+		dynasty = "Myatt"
+		birth_date = 972.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Erryk"
+		monarch_name = "Erryk"
+		dynasty = "Myatt"
+		birth_date = 1014.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1045.1.1 = {
+
+	monarch = {
+		name = "Rast"
+		dynasty = "Myatt"
+		birth_date = 984.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Lyessa"
+		monarch_name = "Lyessa"
+		dynasty = "Myatt"
+		birth_date = 1023.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1111.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Myatt"
+		birth_date = 1083.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Denyo"
+		monarch_name = "Denyo"
+		dynasty = "Myatt"
+		birth_date = 1086.1.1
+		death_date = 1143.1.1
+		claim = 99
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1126.1.1 = {
+
+	monarch = {
+		name = "Karyl"
+		dynasty = "Myatt"
+		birth_date = 1082.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Albett"
+		monarch_name = "Albett"
+		dynasty = "Myatt"
+		birth_date = 1102.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Myatt"
+		birth_date = 1120.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Enger"
+		monarch_name = "Enger"
+		dynasty = "Myatt"
+		birth_date = 1136.1.1
+		death_date = 1195.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Kennos"
+		dynasty = "Myatt"
+		birth_date = 1167.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Perra"
+		monarch_name = "Perra"
+		dynasty = "Myatt"
+		female = yes
+		birth_date = 1192.1.1
+		death_date = 1277.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1244.1.1 = {
+
+	monarch = {
+		name = "Davos"
+		dynasty = "Myatt"
+		birth_date = 1164.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Joseth"
+		monarch_name = "Joseth"
+		dynasty = "Myatt"
+		birth_date = 1227.1.1
+		death_date = 1282.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Porridge"
+		dynasty = "Myatt"
+		birth_date = 1197.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Goady"
+		monarch_name = "Goady"
+		dynasty = "Myatt"
+		birth_date = 1258.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Mord"
+		dynasty = "Myatt"
+		birth_date = 1298.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Maron"
+		monarch_name = "Maron"
+		dynasty = "Myatt"
+		birth_date = 1345.1.1
+		death_date = 1429.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+

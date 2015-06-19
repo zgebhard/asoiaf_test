@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 85
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Beldecar"
+		dynasty = "Grell"
+		birth_date = 957.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Lyessa"
+		monarch_name = "Lyessa"
+		dynasty = "Grell"
+		birth_date = 973.1.1
+		death_date = 1082.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1018.1.1 = {
+
+	monarch = {
+		name = "Roggo"
+		dynasty = "Grell"
+		birth_date = 972.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Ryam"
+		monarch_name = "Ryam"
+		dynasty = "Grell"
+		birth_date = 1018.1.1
+		death_date = 1081.1.1
+		claim = 17
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Harry"
+		dynasty = "Grell"
+		birth_date = 1029.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Harys"
+		monarch_name = "Harys"
+		dynasty = "Grell"
+		birth_date = 1043.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Hamish"
+		dynasty = "Grell"
+		birth_date = 1074.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Zarabelo"
+		monarch_name = "Zarabelo"
+		dynasty = "Grell"
+		birth_date = 1099.1.1
+		death_date = 1164.1.1
+		claim = 18
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Urzen"
+		dynasty = "Grell"
+		birth_date = 1093.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Warren"
+		monarch_name = "Warren"
+		dynasty = "Grell"
+		birth_date = 1150.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Belgrave"
+		dynasty = "Grell"
+		birth_date = 1148.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Grell"
+		birth_date = 1162.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Torren"
+		dynasty = "Grell"
+		birth_date = 1108.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Grell"
+		birth_date = 1179.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1241.1.1 = {
+
+	monarch = {
+		name = "Goady"
+		dynasty = "Grell"
+		birth_date = 1216.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Jhaqo"
+		monarch_name = "Jhaqo"
+		dynasty = "Grell"
+		birth_date = 1238.1.1
+		death_date = 1267.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Ollidor"
+		dynasty = "Grell"
+		birth_date = 1266.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert"
+		dynasty = "Grell"
+		birth_date = 1310.1.1
+		death_date = 1369.1.1
+		claim = 83
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1374.1.1 = {
+
+	monarch = {
+		name = "Jarmen"
+		dynasty = "Grell"
+		birth_date = 1338.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Donnor"
+		monarch_name = "Donnor"
+		dynasty = "Grell"
+		birth_date = 1364.1.1
+		death_date = 1433.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Draqaz"
+		dynasty = "Grell"
+		birth_date = 1334.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Wallace"
+		monarch_name = "Wallace"
+		dynasty = "Grell"
+		birth_date = 1378.1.1
+		death_date = 1457.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+

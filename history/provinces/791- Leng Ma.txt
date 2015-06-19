@@ -1,0 +1,41 @@
+# 791- Leng Ma
+
+owner = R65
+add_core = R65
+controller = R65
+
+culture = lengii
+religion = asoiaf_lion_of_the_night
+
+base_tax = 8
+base_production = 8
+trade_goods = cotton
+base_manpower =  6
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+
+capital = "Leng Ma"
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}

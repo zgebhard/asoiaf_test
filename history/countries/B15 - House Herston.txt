@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 317
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Tristifer"
+		dynasty = "Herston"
+		birth_date = 910.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Lotho"
+		monarch_name = "Lotho"
+		dynasty = "Herston"
+		birth_date = 982.1.1
+		death_date = 1079.1.1
+		claim = 9
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1024.1.1 = {
+
+	monarch = {
+		name = "Enger"
+		dynasty = "Herston"
+		birth_date = 1004.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Annara"
+		monarch_name = "Annara"
+		dynasty = "Herston"
+		birth_date = 994.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Narbert"
+		dynasty = "Herston"
+		birth_date = 1009.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Martyn"
+		monarch_name = "Martyn"
+		dynasty = "Herston"
+		birth_date = 1069.1.1
+		death_date = 1111.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Emberlei"
+		dynasty = "Herston"
+		birth_date = 1046.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Herston"
+		birth_date = 1119.1.1
+		death_date = 1203.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Ygon"
+		dynasty = "Herston"
+		birth_date = 1181.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Gwin"
+		monarch_name = "Gwin"
+		dynasty = "Herston"
+		birth_date = 1205.1.1
+		death_date = 1225.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Jeor"
+		dynasty = "Herston"
+		birth_date = 1219.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Andros"
+		monarch_name = "Andros"
+		dynasty = "Herston"
+		birth_date = 1263.1.1
+		death_date = 1287.1.1
+		claim = 44
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Jeffory"
+		dynasty = "Herston"
+		birth_date = 1280.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Barba"
+		monarch_name = "Barba"
+		dynasty = "Herston"
+		birth_date = 1319.1.1
+		death_date = 1394.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Timett"
+		dynasty = "Herston"
+		birth_date = 1321.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Herston"
+		birth_date = 1380.1.1
+		death_date = 1453.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+

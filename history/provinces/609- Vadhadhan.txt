@@ -1,0 +1,45 @@
+# 609- Vadhadhan
+
+owner = R23
+add_core = R23
+add_core = R26
+controller = R23
+
+culture = yunkai
+religion = asoiaf_graces
+
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower =  1
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Vadhadhan"
+
+1000.2.1 = {
+	remove_core = R23
+	owner = R26
+	controller = R26
+}
+
+1000.2.2 = {
+	owner = R23
+	add_core = R23
+	controller = R23
+}

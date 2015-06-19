@@ -1,0 +1,264 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 80
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sawane"
+		dynasty = "Rushmoor"
+		birth_date = 985.1.1
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Rushmoor"
+		birth_date = 974.1.1
+		death_date = 1082.1.1
+		claim = 25
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Azor"
+		dynasty = "Rushmoor"
+		birth_date = 957.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Joanna"
+		monarch_name = "Joanna"
+		dynasty = "Rushmoor"
+		female = yes
+		birth_date = 988.1.1
+		death_date = 1104.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1083.1.1 = {
+
+	monarch = {
+		name = "Narbo"
+		dynasty = "Rushmoor"
+		birth_date = 1050.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Dryn"
+		monarch_name = "Dryn"
+		dynasty = "Rushmoor"
+		birth_date = 1065.1.1
+		death_date = 1104.1.1
+		claim = 6
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Timeon"
+		dynasty = "Rushmoor"
+		birth_date = 1041.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Arson"
+		monarch_name = "Arson"
+		dynasty = "Rushmoor"
+		birth_date = 1102.1.1
+		death_date = 1133.1.1
+		claim = 76
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Wendel"
+		dynasty = "Rushmoor"
+		birth_date = 1097.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Bellegere"
+		monarch_name = "Bellegere"
+		dynasty = "Rushmoor"
+		female = yes
+		birth_date = 1144.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1163.1.1 = {
+
+	monarch = {
+		name = "Lomas"
+		dynasty = "Rushmoor"
+		birth_date = 1126.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Harmund"
+		monarch_name = "Harmund"
+		dynasty = "Rushmoor"
+		birth_date = 1158.1.1
+		death_date = 1227.1.1
+		claim = 9
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Flement"
+		dynasty = "Rushmoor"
+		birth_date = 1083.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Theobald"
+		monarch_name = "Theobald"
+		dynasty = "Rushmoor"
+		birth_date = 1146.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Larence"
+		dynasty = "Rushmoor"
+		birth_date = 1149.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "Rushmoor"
+		birth_date = 1223.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1280.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Rushmoor"
+		birth_date = 1257.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Frelegg"
+		monarch_name = "Frelegg"
+		dynasty = "Rushmoor"
+		birth_date = 1275.1.1
+		death_date = 1307.1.1
+		claim = 74
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Rushmoor"
+		birth_date = 1253.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Qhorin"
+		monarch_name = "Qhorin"
+		dynasty = "Rushmoor"
+		birth_date = 1318.1.1
+		death_date = 1376.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+

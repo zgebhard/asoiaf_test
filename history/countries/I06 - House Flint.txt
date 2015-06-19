@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 74
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Flint"
+		birth_date = 923.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Archibald"
+		monarch_name = "Archibald"
+		dynasty = "Flint"
+		birth_date = 1000.1.1
+		death_date = 1029.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Bedwyck"
+		dynasty = "Flint"
+		birth_date = 1060.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Hodor"
+		monarch_name = "Hodor"
+		dynasty = "Flint"
+		birth_date = 1061.1.1
+		death_date = 1102.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Orbert"
+		dynasty = "Flint"
+		birth_date = 1070.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Flint"
+		birth_date = 1083.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1148.1.1 = {
+
+	monarch = {
+		name = "Endrew"
+		dynasty = "Flint"
+		birth_date = 1120.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Flint"
+		birth_date = 1145.1.1
+		death_date = 1215.1.1
+		claim = 50
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1191.1.1 = {
+	monarch = {
+		name = "Olenna"
+		dynasty = "Flint"
+		female = yes
+		birth_date = 1158.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Xhondo"
+		monarch_name = "Xhondo"
+		dynasty = "Flint"
+		birth_date = 1163.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Skittrick"
+		dynasty = "Flint"
+		birth_date = 1193.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Reynard"
+		monarch_name = "Reynard"
+		dynasty = "Flint"
+		birth_date = 1212.1.1
+		death_date = 1269.1.1
+		claim = 32
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Royce"
+		dynasty = "Flint"
+		birth_date = 1269.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Torrek"
+		monarch_name = "Torrek"
+		dynasty = "Flint"
+		birth_date = 1283.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Leo"
+		dynasty = "Flint"
+		birth_date = 1245.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Alester"
+		monarch_name = "Alester"
+		dynasty = "Flint"
+		birth_date = 1309.1.1
+		death_date = 1337.1.1
+		claim = 91
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Osmynd"
+		dynasty = "Flint"
+		birth_date = 1315.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Raynald"
+		monarch_name = "Raynald"
+		dynasty = "Flint"
+		birth_date = 1387.1.1
+		death_date = 1411.1.1
+		claim = 78
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+

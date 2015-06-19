@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 267
+
+1000.1.1 = {
+	monarch = {
+		name = "Tyana"
+		dynasty = "Rambton"
+		female = yes
+		birth_date = 920.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Zollo"
+		monarch_name = "Zollo"
+		dynasty = "Rambton"
+		birth_date = 986.1.1
+		death_date = 1058.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Rakharo"
+		dynasty = "Rambton"
+		birth_date = 1034.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Gheal"
+		monarch_name = "Gheal"
+		dynasty = "Rambton"
+		birth_date = 1054.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Drogo"
+		dynasty = "Rambton"
+		birth_date = 1135.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Jhiqui"
+		monarch_name = "Jhiqui"
+		dynasty = "Rambton"
+		birth_date = 1134.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Symon"
+		dynasty = "Rambton"
+		birth_date = 1180.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Hullen"
+		monarch_name = "Hullen"
+		dynasty = "Rambton"
+		birth_date = 1221.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Galtry"
+		dynasty = "Rambton"
+		birth_date = 1227.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Rambton"
+		birth_date = 1248.1.1
+		death_date = 1340.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1305.1.1 = {
+
+	monarch = {
+		name = "Halys"
+		dynasty = "Rambton"
+		birth_date = 1249.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Yandry"
+		monarch_name = "Yandry"
+		dynasty = "Rambton"
+		birth_date = 1287.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Prendahl"
+		dynasty = "Rambton"
+		birth_date = 1289.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Bandy"
+		monarch_name = "Bandy"
+		dynasty = "Rambton"
+		birth_date = 1325.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Gylbert"
+		dynasty = "Rambton"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Trebor"
+		monarch_name = "Trebor"
+		dynasty = "Rambton"
+		birth_date = 1367.1.1
+		death_date = 1474.1.1
+		claim = 76
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+

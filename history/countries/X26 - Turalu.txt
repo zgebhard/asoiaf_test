@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = mo
+religion = asoiaf_summer_gods
+
+capital = 508
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Turalu"
+		birth_date = 938.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lorent"
+		monarch_name = "Lorent"
+		dynasty = "Turalu"
+		birth_date = 970.1.1
+		death_date = 1059.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1040.1.1 = {
+
+	monarch = {
+		name = "Lucas"
+		dynasty = "Turalu"
+		birth_date = 1004.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Turalu"
+		birth_date = 1036.1.1
+		death_date = 1087.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Toregg"
+		dynasty = "Turalu"
+		birth_date = 1024.1.1
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Amabel"
+		monarch_name = "Amabel"
+		dynasty = "Turalu"
+		birth_date = 1078.1.1
+		death_date = 1189.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1145.1.1 = {
+
+	monarch = {
+		name = "Jammos"
+		dynasty = "Turalu"
+		birth_date = 1071.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Hodor"
+		monarch_name = "Hodor"
+		dynasty = "Turalu"
+		birth_date = 1117.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Theobald"
+		dynasty = "Turalu"
+		birth_date = 1113.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Zia"
+		monarch_name = "Zia"
+		dynasty = "Turalu"
+		birth_date = 1175.1.1
+		death_date = 1215.1.1
+		claim = 11
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Orell"
+		dynasty = "Turalu"
+		birth_date = 1149.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Tyana"
+		monarch_name = "Tyana"
+		dynasty = "Turalu"
+		female = yes
+		birth_date = 1190.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Hilmar"
+		dynasty = "Turalu"
+		birth_date = 1149.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Turalu"
+		birth_date = 1200.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Luke"
+		dynasty = "Turalu"
+		birth_date = 1279.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Urek"
+		monarch_name = "Urek"
+		dynasty = "Turalu"
+		birth_date = 1271.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1378.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Turalu"
+		birth_date = 1308.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Poxy"
+		monarch_name = "Poxy"
+		dynasty = "Turalu"
+		birth_date = 1353.1.1
+		death_date = 1462.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+

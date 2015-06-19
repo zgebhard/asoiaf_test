@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 360
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Boy"
+		dynasty = "Saan"
+		birth_date = 970.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Pyg"
+		monarch_name = "Pyg"
+		dynasty = "Saan"
+		birth_date = 990.1.1
+		death_date = 1019.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Bluetooh"
+		dynasty = "Saan"
+		birth_date = 987.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Galazza"
+		monarch_name = "Galazza"
+		dynasty = "Saan"
+		birth_date = 1010.1.1
+		death_date = 1098.1.1
+		claim = 97
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1094.1.1 = {
+	monarch = {
+		name = "Frenya"
+		dynasty = "Saan"
+		female = yes
+		birth_date = 1079.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Asha"
+		monarch_name = "Asha"
+		dynasty = "Saan"
+		female = yes
+		birth_date = 1084.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1110.1.1 = {
+
+	monarch = {
+		name = "Rugen"
+		dynasty = "Saan"
+		birth_date = 1063.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Hamish"
+		monarch_name = "Hamish"
+		dynasty = "Saan"
+		birth_date = 1085.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1145.1.1 = {
+
+	monarch = {
+		name = "Belwas"
+		dynasty = "Saan"
+		birth_date = 1123.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Penny"
+		monarch_name = "Penny"
+		dynasty = "Saan"
+		birth_date = 1132.1.1
+		death_date = 1174.1.1
+		claim = 54
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1148.1.1 = {
+
+	monarch = {
+		name = "Lennocks"
+		dynasty = "Saan"
+		birth_date = 1071.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Lucimore"
+		monarch_name = "Lucimore"
+		dynasty = "Saan"
+		birth_date = 1132.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1187.1.1 = {
+
+	monarch = {
+		name = "Tobbot"
+		dynasty = "Saan"
+		birth_date = 1172.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Boros"
+		monarch_name = "Boros"
+		dynasty = "Saan"
+		birth_date = 1170.1.1
+		death_date = 1204.1.1
+		claim = 43
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Saan"
+		birth_date = 1193.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Bloodbeard"
+		monarch_name = "Bloodbeard"
+		dynasty = "Saan"
+		birth_date = 1249.1.1
+		death_date = 1344.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Godry"
+		dynasty = "Saan"
+		birth_date = 1289.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Elmar"
+		monarch_name = "Elmar"
+		dynasty = "Saan"
+		birth_date = 1341.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1374.1.1 = {
+
+	monarch = {
+		name = "Cafferen"
+		dynasty = "Saan"
+		birth_date = 1285.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Aubury"
+		monarch_name = "Aubury"
+		dynasty = "Saan"
+		female = yes
+		birth_date = 1365.1.1
+		death_date = 1456.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+

@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 63
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Blane"
+		dynasty = "Ramsgate"
+		birth_date = 961.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Donnis"
+		monarch_name = "Donnis"
+		dynasty = "Ramsgate"
+		birth_date = 970.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1032.1.1 = {
+
+	monarch = {
+		name = "Bryon"
+		dynasty = "Ramsgate"
+		birth_date = 975.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Victor"
+		monarch_name = "Victor"
+		dynasty = "Ramsgate"
+		birth_date = 1014.1.1
+		death_date = 1060.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Ramsgate"
+		birth_date = 1076.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Harmen"
+		monarch_name = "Harmen"
+		dynasty = "Ramsgate"
+		birth_date = 1070.1.1
+		death_date = 1164.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Daryn"
+		dynasty = "Ramsgate"
+		birth_date = 1132.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Mathis"
+		monarch_name = "Mathis"
+		dynasty = "Ramsgate"
+		birth_date = 1163.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Pyke"
+		dynasty = "Ramsgate"
+		birth_date = 1128.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Drogo"
+		monarch_name = "Drogo"
+		dynasty = "Ramsgate"
+		birth_date = 1173.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Grigg"
+		dynasty = "Ramsgate"
+		birth_date = 1243.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Ramsgate"
+		birth_date = 1230.1.1
+		death_date = 1304.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Bhakaz"
+		dynasty = "Ramsgate"
+		birth_date = 1232.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Barba"
+		monarch_name = "Barba"
+		dynasty = "Ramsgate"
+		birth_date = 1281.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Grunt"
+		dynasty = "Ramsgate"
+		birth_date = 1299.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Matt"
+		monarch_name = "Matt"
+		dynasty = "Ramsgate"
+		birth_date = 1353.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Dake"
+		dynasty = "Ramsgate"
+		birth_date = 1290.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Cerenna"
+		monarch_name = "Cerenna"
+		dynasty = "Ramsgate"
+		female = yes
+		birth_date = 1373.1.1
+		death_date = 1423.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+

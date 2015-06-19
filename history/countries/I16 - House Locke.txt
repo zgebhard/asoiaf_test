@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 65
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Locke"
+		birth_date = 910.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Dontos"
+		monarch_name = "Dontos"
+		dynasty = "Locke"
+		birth_date = 991.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Mallador"
+		dynasty = "Locke"
+		birth_date = 962.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Quentyn"
+		monarch_name = "Quentyn"
+		dynasty = "Locke"
+		birth_date = 1005.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1068.1.1 = {
+
+	monarch = {
+		name = "Gerion"
+		dynasty = "Locke"
+		birth_date = 1022.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Rob"
+		monarch_name = "Rob"
+		dynasty = "Locke"
+		birth_date = 1059.1.1
+		death_date = 1109.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Locke"
+		birth_date = 1078.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Podrick"
+		monarch_name = "Podrick"
+		dynasty = "Locke"
+		birth_date = 1131.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Locke"
+		birth_date = 1175.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Cedric"
+		monarch_name = "Cedric"
+		dynasty = "Locke"
+		birth_date = 1226.1.1
+		death_date = 1304.1.1
+		claim = 66
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Nage"
+		dynasty = "Locke"
+		birth_date = 1303.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Gariss"
+		monarch_name = "Gariss"
+		dynasty = "Locke"
+		birth_date = 1298.1.1
+		death_date = 1379.1.1
+		claim = 78
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Locke"
+		birth_date = 1345.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Willis"
+		monarch_name = "Willis"
+		dynasty = "Locke"
+		birth_date = 1365.1.1
+		death_date = 1415.1.1
+		claim = 44
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+

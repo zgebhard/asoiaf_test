@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 232
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Wendwater"
+		birth_date = 930.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Argilac"
+		monarch_name = "Argilac"
+		dynasty = "Wendwater"
+		birth_date = 975.1.1
+		death_date = 1024.1.1
+		claim = 19
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1035.1.1 = {
+
+	monarch = {
+		name = "Gallard"
+		dynasty = "Wendwater"
+		birth_date = 1009.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Fornio"
+		monarch_name = "Fornio"
+		dynasty = "Wendwater"
+		birth_date = 1026.1.1
+		death_date = 1121.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Timeon"
+		dynasty = "Wendwater"
+		birth_date = 1076.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Miklaz"
+		monarch_name = "Miklaz"
+		dynasty = "Wendwater"
+		birth_date = 1112.1.1
+		death_date = 1198.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Joss"
+		dynasty = "Wendwater"
+		birth_date = 1059.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Oberyn"
+		monarch_name = "Oberyn"
+		dynasty = "Wendwater"
+		birth_date = 1115.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1221.1.1 = {
+	monarch = {
+		name = "Leona"
+		dynasty = "Wendwater"
+		female = yes
+		birth_date = 1197.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Rast"
+		monarch_name = "Rast"
+		dynasty = "Wendwater"
+		birth_date = 1221.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Alyn"
+		dynasty = "Wendwater"
+		birth_date = 1235.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Runcel"
+		monarch_name = "Runcel"
+		dynasty = "Wendwater"
+		birth_date = 1249.1.1
+		death_date = 1326.1.1
+		claim = 75
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Robert"
+		dynasty = "Wendwater"
+		birth_date = 1253.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Reynard"
+		monarch_name = "Reynard"
+		dynasty = "Wendwater"
+		birth_date = 1318.1.1
+		death_date = 1411.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+

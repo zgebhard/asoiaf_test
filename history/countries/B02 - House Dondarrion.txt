@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+historical_friend = B37
+
+capital = 311
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Thormor"
+		dynasty = "Dondarrion"
+		birth_date = 976.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Franklyn"
+		monarch_name = "Franklyn"
+		dynasty = "Dondarrion"
+		birth_date = 979.1.1
+		death_date = 1026.1.1
+		claim = 63
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1032.1.1 = {
+
+	monarch = {
+		name = "Maegelle"
+		dynasty = "Dondarrion"
+		birth_date = 959.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Alvyn"
+		monarch_name = "Alvyn"
+		dynasty = "Dondarrion"
+		birth_date = 1010.1.1
+		death_date = 1092.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Murenmure"
+		dynasty = "Dondarrion"
+		birth_date = 1083.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Lennocks"
+		monarch_name = "Lennocks"
+		dynasty = "Dondarrion"
+		birth_date = 1099.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1163.1.1 = {
+
+	monarch = {
+		name = "Visenya"
+		dynasty = "Dondarrion"
+		birth_date = 1083.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Theon"
+		monarch_name = "Theon"
+		dynasty = "Dondarrion"
+		birth_date = 1138.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Dondarrion"
+		birth_date = 1119.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Haldon"
+		monarch_name = "Haldon"
+		dynasty = "Dondarrion"
+		birth_date = 1155.1.1
+		death_date = 1234.1.1
+		claim = 19
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Blane"
+		dynasty = "Dondarrion"
+		birth_date = 1220.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Hali"
+		monarch_name = "Hali"
+		dynasty = "Dondarrion"
+		birth_date = 1219.1.1
+		death_date = 1290.1.1
+		claim = 25
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1326.1.1 = {
+
+	monarch = {
+		name = "Waldon"
+		dynasty = "Dondarrion"
+		birth_date = 1288.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Jafer"
+		monarch_name = "Jafer"
+		dynasty = "Dondarrion"
+		birth_date = 1298.1.1
+		death_date = 1399.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Briar"
+		dynasty = "Dondarrion"
+		birth_date = 1238.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Donal"
+		monarch_name = "Donal"
+		dynasty = "Dondarrion"
+		birth_date = 1320.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+}
+

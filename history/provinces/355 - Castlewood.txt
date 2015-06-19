@@ -1,0 +1,59 @@
+# 355 - Castlewood
+
+owner = E01
+add_core = E01
+controller = E01
+add_core = E35
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_the_drowned_god
+culture = men_of_the_riverlands
+
+base_tax = 5
+base_production = 5
+base_manpower =  2
+
+trade_goods = wool
+
+capital = "Castlewood"
+
+1000.2.1 = {
+	remove_core = E01
+	owner = E35
+	controller = E35
+	religion = asoiaf_faith_of_the_seven
+}
+
+1000.2.2 = {
+	owner = E01
+	add_core = E01
+	controller = E01
+	religion = asoiaf_the_drowned_god
+}
+
+1005.1.1 = {
+    hre = yes
+	
+	remove_core = E01
+	controller = A03
+	add_core = A03
+	owner = A03
+	religion = asoiaf_faith_of_the_seven
+}

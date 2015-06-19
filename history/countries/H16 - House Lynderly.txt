@@ -1,0 +1,336 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 131
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sigrin"
+		dynasty = "Lynderly"
+		birth_date = 957.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Mance"
+		monarch_name = "Mance"
+		dynasty = "Lynderly"
+		birth_date = 997.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1008.1.1 = {
+
+	monarch = {
+		name = "Merrit"
+		dynasty = "Lynderly"
+		birth_date = 955.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Rafe"
+		monarch_name = "Rafe"
+		dynasty = "Lynderly"
+		birth_date = 999.1.1
+		death_date = 1031.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1049.1.1 = {
+
+	monarch = {
+		name = "Bryan"
+		dynasty = "Lynderly"
+		birth_date = 969.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Edwyrn"
+		monarch_name = "Edwyrn"
+		dynasty = "Lynderly"
+		birth_date = 1026.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Jack"
+		dynasty = "Lynderly"
+		birth_date = 1031.1.1
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert"
+		dynasty = "Lynderly"
+		birth_date = 1061.1.1
+		death_date = 1166.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1115.1.1 = {
+
+	monarch = {
+		name = "Theodore"
+		dynasty = "Lynderly"
+		birth_date = 1038.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Delp"
+		monarch_name = "Delp"
+		dynasty = "Lynderly"
+		birth_date = 1089.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Fogo"
+		dynasty = "Lynderly"
+		birth_date = 1088.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Hullen"
+		monarch_name = "Hullen"
+		dynasty = "Lynderly"
+		birth_date = 1142.1.1
+		death_date = 1183.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Sloey"
+		dynasty = "Lynderly"
+		birth_date = 1174.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Cragorn"
+		monarch_name = "Cragorn"
+		dynasty = "Lynderly"
+		birth_date = 1189.1.1
+		death_date = 1288.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1239.1.1 = {
+	monarch = {
+		name = "Della"
+		dynasty = "Lynderly"
+		female = yes
+		birth_date = 1167.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Grisil"
+		monarch_name = "Grisil"
+		dynasty = "Lynderly"
+		birth_date = 1238.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Cetheres"
+		dynasty = "Lynderly"
+		birth_date = 1199.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Harlen"
+		monarch_name = "Harlen"
+		dynasty = "Lynderly"
+		birth_date = 1246.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Jorgen"
+		dynasty = "Lynderly"
+		birth_date = 1274.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Pylos"
+		monarch_name = "Pylos"
+		dynasty = "Lynderly"
+		birth_date = 1310.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Notch"
+		dynasty = "Lynderly"
+		birth_date = 1321.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Ebben"
+		monarch_name = "Ebben"
+		dynasty = "Lynderly"
+		birth_date = 1358.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Alebelly"
+		dynasty = "Lynderly"
+		birth_date = 1349.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Erreck"
+		monarch_name = "Erreck"
+		dynasty = "Lynderly"
+		birth_date = 1379.1.1
+		death_date = 1475.1.1
+		claim = 77
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Walys"
+		dynasty = "Lynderly"
+		birth_date = 1338.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Dalbridge"
+		monarch_name = "Dalbridge"
+		dynasty = "Lynderly"
+		birth_date = 1388.1.1
+		death_date = 1463.1.1
+		claim = 30
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 244
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harmen"
+		dynasty = "Wythers"
+		birth_date = 953.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Weese"
+		monarch_name = "Weese"
+		dynasty = "Wythers"
+		birth_date = 975.1.1
+		death_date = 1081.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1049.1.1 = {
+
+	monarch = {
+		name = "Harmond"
+		dynasty = "Wythers"
+		birth_date = 964.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ashford"
+		monarch_name = "Ashford"
+		dynasty = "Wythers"
+		birth_date = 1034.1.1
+		death_date = 1124.1.1
+		claim = 3
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Maelys"
+		dynasty = "Wythers"
+		birth_date = 1007.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Elron"
+		monarch_name = "Elron"
+		dynasty = "Wythers"
+		birth_date = 1074.1.1
+		death_date = 1175.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Desmond"
+		dynasty = "Wythers"
+		birth_date = 1094.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Wythers"
+		birth_date = 1110.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Grubbs"
+		dynasty = "Wythers"
+		birth_date = 1154.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Gerion"
+		monarch_name = "Gerion"
+		dynasty = "Wythers"
+		birth_date = 1172.1.1
+		death_date = 1224.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Ben"
+		dynasty = "Wythers"
+		birth_date = 1173.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Dilly"
+		monarch_name = "Dilly"
+		dynasty = "Wythers"
+		birth_date = 1252.1.1
+		death_date = 1339.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Morros"
+		dynasty = "Wythers"
+		birth_date = 1242.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Azzak"
+		monarch_name = "Azzak"
+		dynasty = "Wythers"
+		birth_date = 1234.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Dickon"
+		dynasty = "Wythers"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Eroeh"
+		monarch_name = "Eroeh"
+		dynasty = "Wythers"
+		birth_date = 1317.1.1
+		death_date = 1420.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Belgrave"
+		dynasty = "Wythers"
+		birth_date = 1358.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Terro"
+		monarch_name = "Terro"
+		dynasty = "Wythers"
+		birth_date = 1348.1.1
+		death_date = 1421.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+

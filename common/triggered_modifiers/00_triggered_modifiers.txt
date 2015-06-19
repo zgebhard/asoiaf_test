@@ -1,0 +1,104 @@
+##################################################
+# Triggered Modifiers
+##################################################
+
+# Daenerys
+dothraki_haste = {
+	potential = {
+		government = khas
+		tag = S23
+	}
+	
+	trigger = {
+		government = khas
+		tag = S23
+	}
+	
+	migration_cooldown = -0.75
+}
+
+# Dothraki
+living_off_the_land = {
+	potential = {
+		OR = {
+			government = khas_city
+			government = khas
+		}
+	}
+	
+	trigger = {
+		OR = {
+			government = khas_city
+			government = khas
+		}
+	}
+	
+	global_tax_income = 64
+}
+
+dothraki_looters = {
+	potential = {
+		OR = {
+			government = khas_city
+			government = khas
+		}
+	}
+	
+	trigger = {
+		OR = {
+			government = khas_city
+			government = khas
+		}
+		is_at_war = yes
+	}
+	
+	global_tax_income = 64
+}
+
+# Night's Watch
+doing_our_duty = {
+	potential = {
+		government = nw_government
+	}
+	
+	trigger = {
+		government = nw_government
+		any_neighbor_country = {  
+			government = wildling_clan
+			war_with = ROOT
+		}
+	}
+	
+	discipline = 0.05
+	land_morale = 0.1
+	reinforce_speed = 0.25
+}
+
+failing_our_duty = {
+	potential = {
+		government = nw_government
+	}
+	
+	trigger = {
+		government = nw_government
+		any_neighbor_country = {  
+			NOT = { government = wildling_clan }
+			war_with = ROOT
+		}
+	}
+	
+	discipline = -0.05
+	land_morale = -0.1
+}
+
+shattered_world_boost = {
+	potential = {
+		has_country_flag = shattered_world
+	}
+	
+	trigger = {
+		has_country_flag = shattered_world
+	}
+	
+	global_tax_income = 36
+}

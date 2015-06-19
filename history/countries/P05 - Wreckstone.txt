@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 365
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Todric"
+		dynasty = "Wreckstone"
+		birth_date = 958.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Elron"
+		monarch_name = "Elron"
+		dynasty = "Wreckstone"
+		birth_date = 991.1.1
+		death_date = 1081.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Benjen"
+		dynasty = "Wreckstone"
+		birth_date = 1073.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Marghaz"
+		monarch_name = "Marghaz"
+		dynasty = "Wreckstone"
+		birth_date = 1087.1.1
+		death_date = 1162.1.1
+		claim = 37
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Jate"
+		dynasty = "Wreckstone"
+		birth_date = 1067.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Tyrion"
+		monarch_name = "Tyrion"
+		dynasty = "Wreckstone"
+		birth_date = 1097.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1146.1.1 = {
+
+	monarch = {
+		name = "Parmen"
+		dynasty = "Wreckstone"
+		birth_date = 1084.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Rycherd"
+		monarch_name = "Rycherd"
+		dynasty = "Wreckstone"
+		birth_date = 1137.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Kaeth"
+		dynasty = "Wreckstone"
+		birth_date = 1152.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Rolfe"
+		monarch_name = "Rolfe"
+		dynasty = "Wreckstone"
+		birth_date = 1192.1.1
+		death_date = 1227.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Ryles"
+		dynasty = "Wreckstone"
+		birth_date = 1163.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Myles"
+		monarch_name = "Myles"
+		dynasty = "Wreckstone"
+		birth_date = 1208.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1267.1.1 = {
+
+	monarch = {
+		name = "Eldred"
+		dynasty = "Wreckstone"
+		birth_date = 1221.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Maekar"
+		monarch_name = "Maekar"
+		dynasty = "Wreckstone"
+		birth_date = 1263.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "Megga"
+		dynasty = "Wreckstone"
+		female = yes
+		birth_date = 1318.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Alester"
+		monarch_name = "Alester"
+		dynasty = "Wreckstone"
+		birth_date = 1324.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Sawane"
+		dynasty = "Wreckstone"
+		birth_date = 1360.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Shella"
+		monarch_name = "Shella"
+		dynasty = "Wreckstone"
+		female = yes
+		birth_date = 1375.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+

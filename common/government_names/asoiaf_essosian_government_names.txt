@@ -1,0 +1,575 @@
+# For specific government types
+# Will pick the first valid one it finds in list
+
+gov_volanteane_republic = {
+	rank = {
+		1 = VOLANTEANE_REPUBLIC
+		2 = VOLANTEANE_REPUBLIC
+		3 = VOLANTEANE_REPUBLIC
+		4 = VOLANTEANE_REPUBLIC
+		5 = VOLANTEANE_REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = TRIARCH
+		2 = TRIARCH
+		3 = TRIARCH
+		4 = TRIARCH
+		5 = TRIARCH
+	}
+	
+	ruler_female = {
+		1 = TRIARCH
+		2 = TRIARCH
+		3 = TRIARCH
+		4 = TRIARCH
+		5 = TRIARCH
+	}
+	
+	trigger = {
+		government = volanteane_republic
+	}
+}
+
+gov_pirate_haven = {
+	rank = {
+		1 = PIRATE_HAVEN
+		2 = PIRATE_HAVEN
+		3 = PIRATE_HAVEN
+		4 = PIRATE_HAVEN
+		5 = PIRATE_HAVEN
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = LORD
+		3 = LORD
+		4 = LORD
+		5 = LORD
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = LADY
+		3 = LADY
+		4 = LADY
+		5 = LADY
+	}
+	
+	trigger = {
+		government = pirate_haven
+	}
+}
+
+gov_wildling_clan = {
+	rank = {
+		1 = WILDLING_CLAN
+		2 = WILDLING_CLAN
+		3 = WILDLING_CLAN
+		4 = WILDLING_CLAN
+		5 = WILDLING_CLAN
+	}
+	
+	ruler_male = {
+		1 = CHIEF
+		2 = CHIEF
+		3 = CHIEF
+		4 = CHIEF
+		5 = CHIEF
+	}
+	
+	ruler_female = {
+		1 = CHEIFESS
+		2 = CHEIFESS
+		3 = CHEIFESS
+		4 = CHEIFESS
+		5 = CHEIFESS
+	}
+	
+	trigger = {
+		government = wildling_clan
+	}
+}
+
+gov_khas_city = {
+	rank = {
+		1 = KHAS_CITY
+		2 = KHAS_CITY
+		3 = KHAS_CITY
+		4 = KHAS_CITY
+		5 = KHAS_CITY
+	}
+	
+	ruler_male = {
+		1 = DOSH_KHALEEN
+		2 = DOSH_KHALEEN
+		3 = DOSH_KHALEEN
+		4 = DOSH_KHALEEN
+		5 = DOSH_KHALEEN
+	}
+	
+	ruler_female = {
+		1 = DOSH_KHALEEN
+		2 = DOSH_KHALEEN
+		3 = DOSH_KHALEEN
+		4 = DOSH_KHALEEN
+		5 = DOSH_KHALEEN
+	}
+	
+	trigger = {
+		government = khas_city
+	}
+}
+
+gov_khas = {
+	rank = {
+		1 = KHAS
+		2 = KHAS
+		3 = KHAS
+		4 = KHAS
+		5 = KHAS
+	}
+	
+	ruler_male = {
+		1 = KHAL
+		2 = KHAL
+		3 = KHAL
+		4 = KHAL
+		5 = KHAL
+	}
+	
+	ruler_female = {
+		1 = KHALEESI
+		2 = KHALEESI
+		3 = KHALEESI
+		4 = KHALEESI
+		5 = KHALEESI
+	}
+	
+	trigger = {
+		government = khas
+	}
+}
+
+gov_kingdom_astapor = {
+	rank = {
+		1 = KINGDOM
+		2 = KINGDOM
+		3 = KINGDOM
+		4 = KINGDOM
+		5 = KINGDOM
+	}
+	
+	ruler_male = {
+		1 = GOOD_MASTER
+		2 = GOOD_MASTER
+		3 = GOOD_MASTER
+		4 = GOOD_MASTER
+		5 = GOOD_MASTER
+	}
+	
+	ruler_female = {
+		1 = GOOD_MISTRESS
+		2 = GOOD_MISTRESS
+		3 = GOOD_MISTRESS
+		4 = GOOD_MISTRESS
+		5 = GOOD_MISTRESS
+	}
+	
+	trigger = {
+		government = kingdom
+		primary_culture = astapor
+	}
+}
+
+gov_kingdom_yunkai = {
+	rank = {
+		1 = KINGDOM
+		2 = KINGDOM
+		3 = KINGDOM
+		4 = KINGDOM
+		5 = KINGDOM
+	}
+	
+	ruler_male = {
+		1 = WISE_MASTER
+		2 = WISE_MASTER
+		3 = WISE_MASTER
+		4 = WISE_MASTER
+		5 = WISE_MASTER
+	}
+	
+	ruler_female = {
+		1 = WISE_MISTRESS
+		2 = WISE_MISTRESS
+		3 = WISE_MISTRESS
+		4 = WISE_MISTRESS
+		5 = WISE_MISTRESS
+	}
+	
+	trigger = {
+		government = kingdom
+		primary_culture = yunkai
+	}
+}
+
+gov_kingdom_meereen = {
+	rank = {
+		1 = KINGDOM
+		2 = KINGDOM
+		3 = KINGDOM
+		4 = KINGDOM
+		5 = KINGDOM
+	}
+	
+	ruler_male = {
+		1 = GREAT_MASTER
+		2 = GREAT_MASTER
+		3 = GREAT_MASTER
+		4 = GREAT_MASTER
+		5 = GREAT_MASTER
+	}
+	
+	ruler_female = {
+		1 = GREAT_MISTRESS
+		2 = GREAT_MISTRESS
+		3 = GREAT_MISTRESS
+		4 = GREAT_MISTRESS
+		5 = GREAT_MISTRESS
+	}
+	
+	trigger = {
+		government = kingdom
+		primary_culture = meereen
+	}
+}
+
+gov_kingdom = {
+	rank = {
+		1 = KINGDOM
+		2 = KINGDOM
+		3 = KINGDOM
+		4 = KINGDOM
+		5 = KINGDOM
+	}
+	
+	ruler_male = {
+		1 = KING
+		2 = KING
+		3 = KING
+		4 = KING
+		5 = KING
+	}
+	
+	ruler_female = {
+		1 = QUEEN
+		2 = QUEEN
+		3 = QUEEN
+		4 = QUEEN
+		5 = QUEEN
+	}
+	
+	trigger = {
+		government = kingdom
+	}
+}
+
+gov_ancient_city = {
+	rank = {
+		1 = QARTH
+		2 = QARTH
+		3 = QARTH
+		4 = QARTH
+		5 = QARTH
+	}
+	
+	ruler_male = {
+		1 = PUREBORN
+		2 = PUREBORN
+		3 = PUREBORN
+		4 = PUREBORN
+		5 = PUREBORN
+	}
+	
+	ruler_female = {
+		1 = PUREBORN
+		2 = PUREBORN
+		3 = PUREBORN
+		4 = PUREBORN
+		5 = PUREBORN
+	}
+	
+	trigger = {
+		government = ancient_city
+	}
+}
+
+gov_empire = {
+	rank = {
+		1 = EMPIRE
+		2 = EMPIRE
+		3 = EMPIRE
+		4 = EMPIRE
+		5 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = EMPEROR
+		2 = EMPEROR
+		3 = EMPEROR
+		4 = EMPEROR
+		5 = EMPEROR
+	}
+	
+	ruler_female = {
+		1 = EMPRESS
+		2 = EMPRESS
+		3 = EMPRESS
+		4 = EMPRESS
+		5 = EMPRESS
+	}
+	
+	trigger = {
+		government = empire
+	}
+}
+
+gov_pentoshi_city = {
+	rank = {
+		1 = PENTOSHI_CITY
+		2 = PENTOSHI_CITY
+		3 = PENTOSHI_CITY
+		4 = PENTOSHI_CITY
+		5 = PENTOSHI_CITY
+	}
+	
+	ruler_male = {
+		1 = PRINCE
+		2 = PRINCE
+		3 = PRINCE
+		4 = PRINCE
+		5 = PRINCE
+	}
+	
+	ruler_female = {
+		1 = PRINCESS
+		2 = PRINCESS
+		3 = PRINCESS
+		4 = PRINCESS
+		5 = PRINCESS
+	}
+	
+	trigger = {
+		government = pentoshi_city
+	}
+}
+
+gov_braavosi_city = {
+	rank = {
+		1 = BRAAVOSI_CITY
+		2 = BRAAVOSI_CITY
+		3 = BRAAVOSI_CITY
+		4 = BRAAVOSI_CITY
+		5 = BRAAVOSI_CITY
+	}
+	
+	ruler_male = {
+		1 = SEALORD
+		2 = SEALORD
+		3 = SEALORD
+		4 = SEALORD
+		5 = SEALORD
+	}
+	
+	ruler_female = {
+		1 = SEALADY
+		2 = SEALADY
+		3 = SEALADY
+		4 = SEALADY
+		5 = SEALADY
+	}
+	
+	trigger = {
+		government = braavosi_city
+	}
+}
+
+gov_lysene_city = {
+	rank = {
+		1 = LYSENE_CITY
+		2 = LYSENE_CITY
+		3 = LYSENE_CITY
+		4 = LYSENE_CITY
+		5 = LYSENE_CITY
+	}
+	
+	ruler_male = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	ruler_female = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	trigger = {
+		government = lysene_city
+	}
+}
+
+gov_qohor_city = {
+	rank = {
+		1 = QOHORIK_CITY
+		2 = QOHORIK_CITY
+		3 = QOHORIK_CITY
+		4 = QOHORIK_CITY
+		5 = QOHORIK_CITY
+	}
+	
+	ruler_male = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	ruler_female = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	trigger = {
+		government = qohor_city
+	}
+}
+
+gov_norvos_city = {
+	rank = {
+		1 = NORVOS_CITY
+		2 = NORVOS_CITY
+		3 = NORVOS_CITY
+		4 = NORVOS_CITY
+		5 = NORVOS_CITY
+	}
+	
+	ruler_male = {
+		1 = HIGH_MAGISTER
+		2 = HIGH_MAGISTER
+		3 = HIGH_MAGISTER
+		4 = HIGH_MAGISTER
+		5 = HIGH_MAGISTER
+	}
+	
+	ruler_female = {
+		1 = HIGH_MAGISTER
+		2 = HIGH_MAGISTER
+		3 = HIGH_MAGISTER
+		4 = HIGH_MAGISTER
+		5 = HIGH_MAGISTER
+	}
+	
+	trigger = {
+		government = norvos_city
+	}
+}
+
+gov_myr_city = {
+	rank = {
+		1 = MYR_CITY
+		2 = MYR_CITY
+		3 = MYR_CITY
+		4 = MYR_CITY
+		5 = MYR_CITY
+	}
+	
+	ruler_male = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	ruler_female = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	trigger = {
+		government = myr_city
+	}
+}
+
+gov_tyrosh_city = {
+	rank = {
+		1 = TYROSHI_CITY
+		2 = TYROSHI_CITY
+		3 = TYROSHI_CITY
+		4 = TYROSHI_CITY
+		5 = TYROSHI_CITY
+	}
+	
+	ruler_male = {
+		1 = ARCHON
+		2 = ARCHON
+		3 = ARCHON
+		4 = ARCHON
+		5 = ARCHON
+	}
+	
+	ruler_female = {
+		1 = ARCHONESS
+		2 = ARCHONESS
+		3 = ARCHONESS
+		4 = ARCHONESS
+		5 = ARCHONESS
+	}
+	
+	trigger = {
+		government = tyrosh_city
+	}
+}
+
+gov_lorath_city = {
+	rank = {
+		1 = LORATHI_CITY
+		2 = LORATHI_CITY
+		3 = LORATHI_CITY
+		4 = LORATHI_CITY
+		5 = LORATHI_CITY
+	}
+	
+	ruler_male = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	ruler_female = {
+		1 = GRAND_MAGISTER
+		2 = GRAND_MAGISTER
+		3 = GRAND_MAGISTER
+		4 = GRAND_MAGISTER
+		5 = GRAND_MAGISTER
+	}
+	
+	trigger = {
+		government = lorath_city
+	}
+}

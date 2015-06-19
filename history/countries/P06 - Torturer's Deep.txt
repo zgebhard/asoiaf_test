@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 362
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Howd"
+		dynasty = "Shimmer"
+		birth_date = 926.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Meizo"
+		monarch_name = "Meizo"
+		dynasty = "Shimmer"
+		birth_date = 974.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Elwood"
+		dynasty = "Shimmer"
+		birth_date = 1014.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Shimmer"
+		birth_date = 1024.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Rymolf"
+		dynasty = "Shimmer"
+		birth_date = 1034.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Zei"
+		monarch_name = "Zei"
+		dynasty = "Shimmer"
+		birth_date = 1084.1.1
+		death_date = 1189.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Ronnel"
+		dynasty = "Shimmer"
+		birth_date = 1093.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Portifer"
+		monarch_name = "Portifer"
+		dynasty = "Shimmer"
+		birth_date = 1157.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1220.1.1 = {
+
+	monarch = {
+		name = "Cedric"
+		dynasty = "Shimmer"
+		birth_date = 1194.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Shimmer"
+		birth_date = 1201.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1229.1.1 = {
+	monarch = {
+		name = "Myrtle"
+		dynasty = "Shimmer"
+		female = yes
+		birth_date = 1179.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Andar"
+		monarch_name = "Andar"
+		dynasty = "Shimmer"
+		birth_date = 1199.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Ossy"
+		dynasty = "Shimmer"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Rylene"
+		monarch_name = "Rylene"
+		dynasty = "Shimmer"
+		female = yes
+		birth_date = 1273.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Belaquo"
+		dynasty = "Shimmer"
+		birth_date = 1236.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Andrey"
+		monarch_name = "Andrey"
+		dynasty = "Shimmer"
+		birth_date = 1259.1.1
+		death_date = 1375.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Nolla"
+		dynasty = "Shimmer"
+		female = yes
+		birth_date = 1261.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Owen"
+		monarch_name = "Owen"
+		dynasty = "Shimmer"
+		birth_date = 1281.1.1
+		death_date = 1341.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Othell"
+		dynasty = "Shimmer"
+		birth_date = 1308.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Qezza"
+		monarch_name = "Qezza"
+		dynasty = "Shimmer"
+		birth_date = 1382.1.1
+		death_date = 1468.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+

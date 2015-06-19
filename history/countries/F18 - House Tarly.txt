@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 280
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Tarly"
+		birth_date = 946.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Tarly"
+		birth_date = 994.1.1
+		death_date = 1042.1.1
+		claim = 56
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1029.1.1 = {
+
+	monarch = {
+		name = "Quence"
+		dynasty = "Tarly"
+		birth_date = 1006.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Donnis"
+		monarch_name = "Donnis"
+		dynasty = "Tarly"
+		birth_date = 1001.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Tarly"
+		birth_date = 1002.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Belwas"
+		monarch_name = "Belwas"
+		dynasty = "Tarly"
+		birth_date = 1026.1.1
+		death_date = 1120.1.1
+		claim = 8
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1095.1.1 = {
+	monarch = {
+		name = "Rhae"
+		dynasty = "Tarly"
+		female = yes
+		birth_date = 1068.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Gared"
+		monarch_name = "Gared"
+		dynasty = "Tarly"
+		birth_date = 1069.1.1
+		death_date = 1124.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Hallyne"
+		dynasty = "Tarly"
+		birth_date = 1083.1.1
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Eddara"
+		monarch_name = "Eddara"
+		dynasty = "Tarly"
+		female = yes
+		birth_date = 1112.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Mark"
+		dynasty = "Tarly"
+		birth_date = 1165.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Tarly"
+		birth_date = 1201.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1281.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Tarly"
+		birth_date = 1221.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Falena"
+		monarch_name = "Falena"
+		dynasty = "Tarly"
+		female = yes
+		birth_date = 1257.1.1
+		death_date = 1316.1.1
+		claim = 98
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Bryon"
+		dynasty = "Tarly"
+		birth_date = 1272.1.1
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Godwyn"
+		monarch_name = "Godwyn"
+		dynasty = "Tarly"
+		birth_date = 1262.1.1
+		death_date = 1336.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1307.1.1 = {
+
+	monarch = {
+		name = "Sigfryd"
+		dynasty = "Tarly"
+		birth_date = 1239.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Cossomo"
+		monarch_name = "Cossomo"
+		dynasty = "Tarly"
+		birth_date = 1302.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Del"
+		dynasty = "Tarly"
+		birth_date = 1324.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ulwyck"
+		monarch_name = "Ulwyck"
+		dynasty = "Tarly"
+		birth_date = 1368.1.1
+		death_date = 1483.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+

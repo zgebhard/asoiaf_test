@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 158
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Victor"
+		dynasty = "Harlaw"
+		birth_date = 980.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Harlaw"
+		birth_date = 997.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1073.1.1 = {
+	monarch = {
+		name = "Bethany"
+		dynasty = "Harlaw"
+		female = yes
+		birth_date = 1047.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Beldecar"
+		monarch_name = "Beldecar"
+		dynasty = "Harlaw"
+		birth_date = 1050.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1160.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Harlaw"
+		birth_date = 1136.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Stygg"
+		monarch_name = "Stygg"
+		dynasty = "Harlaw"
+		birth_date = 1160.1.1
+		death_date = 1231.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1218.1.1 = {
+
+	monarch = {
+		name = "Xaro"
+		dynasty = "Harlaw"
+		birth_date = 1142.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Watty"
+		monarch_name = "Watty"
+		dynasty = "Harlaw"
+		birth_date = 1216.1.1
+		death_date = 1241.1.1
+		claim = 46
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1254.1.1 = {
+
+	monarch = {
+		name = "Aerys"
+		dynasty = "Harlaw"
+		birth_date = 1226.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Wendel"
+		monarch_name = "Wendel"
+		dynasty = "Harlaw"
+		birth_date = 1246.1.1
+		death_date = 1300.1.1
+		claim = 40
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1293.1.1 = {
+
+	monarch = {
+		name = "Roryn"
+		dynasty = "Harlaw"
+		birth_date = 1235.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Emmond"
+		monarch_name = "Emmond"
+		dynasty = "Harlaw"
+		birth_date = 1282.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Lancel"
+		dynasty = "Harlaw"
+		birth_date = 1259.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Doran"
+		monarch_name = "Doran"
+		dynasty = "Harlaw"
+		birth_date = 1322.1.1
+		death_date = 1398.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+

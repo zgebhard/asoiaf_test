@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 106
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Edwyle"
+		dynasty = "Goodbrook"
+		birth_date = 954.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Vylarr"
+		monarch_name = "Vylarr"
+		dynasty = "Goodbrook"
+		birth_date = 988.1.1
+		death_date = 1077.1.1
+		claim = 64
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Myles"
+		dynasty = "Goodbrook"
+		birth_date = 992.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Alannys"
+		monarch_name = "Alannys"
+		dynasty = "Goodbrook"
+		birth_date = 1050.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Ronel"
+		dynasty = "Goodbrook"
+		birth_date = 1059.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Myles"
+		monarch_name = "Myles"
+		dynasty = "Goodbrook"
+		birth_date = 1071.1.1
+		death_date = 1157.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1121.1.1 = {
+
+	monarch = {
+		name = "Kaeth"
+		dynasty = "Goodbrook"
+		birth_date = 1033.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Mychel"
+		monarch_name = "Mychel"
+		dynasty = "Goodbrook"
+		birth_date = 1113.1.1
+		death_date = 1146.1.1
+		claim = 18
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Chayle"
+		dynasty = "Goodbrook"
+		birth_date = 1108.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Goodbrook"
+		birth_date = 1175.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Cassa"
+		dynasty = "Goodbrook"
+		birth_date = 1186.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Brienne"
+		monarch_name = "Brienne"
+		dynasty = "Goodbrook"
+		female = yes
+		birth_date = 1242.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1256.1.1 = {
+
+	monarch = {
+		name = "Cedrik"
+		dynasty = "Goodbrook"
+		birth_date = 1225.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lewis"
+		monarch_name = "Lewis"
+		dynasty = "Goodbrook"
+		birth_date = 1256.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1260.1.1 = {
+
+	monarch = {
+		name = "Arron"
+		dynasty = "Goodbrook"
+		birth_date = 1175.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Gormond"
+		monarch_name = "Gormond"
+		dynasty = "Goodbrook"
+		birth_date = 1243.1.1
+		death_date = 1290.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1282.1.1 = {
+
+	monarch = {
+		name = "Porridge"
+		dynasty = "Goodbrook"
+		birth_date = 1255.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Goodbrook"
+		birth_date = 1282.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Bhakaz"
+		dynasty = "Goodbrook"
+		birth_date = 1308.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Lister"
+		monarch_name = "Lister"
+		dynasty = "Goodbrook"
+		birth_date = 1366.1.1
+		death_date = 1443.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Jayde"
+		dynasty = "Goodbrook"
+		birth_date = 1352.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Jonnel"
+		monarch_name = "Jonnel"
+		dynasty = "Goodbrook"
+		birth_date = 1342.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+

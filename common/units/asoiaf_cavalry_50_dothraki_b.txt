@@ -1,0 +1,11 @@
+#Cavalry 50 B 
+type = cavalry
+unit_type = dothraki
+
+maneuver = 2 
+offensive_morale = 7 
+defensive_morale = 8 
+offensive_fire = 5 
+defensive_fire = 5 
+offensive_shock = 8 
+defensive_shock = 9 

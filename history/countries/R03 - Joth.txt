@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ibbenese
+primary_culture = ibbenese
+religion = asoiaf_gods_of_ibben
+
+capital = 594
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jojen"
+		dynasty = "Joth"
+		birth_date = 946.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Andrey"
+		monarch_name = "Andrey"
+		dynasty = "Joth"
+		birth_date = 983.1.1
+		death_date = 1025.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1025.1.1 = {
+
+	monarch = {
+		name = "Harmune"
+		dynasty = "Joth"
+		birth_date = 1003.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Joth"
+		birth_date = 1011.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Barre"
+		dynasty = "Joth"
+		birth_date = 985.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Howd"
+		monarch_name = "Howd"
+		dynasty = "Joth"
+		birth_date = 1051.1.1
+		death_date = 1082.1.1
+		claim = 89
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Dareon"
+		dynasty = "Joth"
+		birth_date = 1091.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Steffon"
+		monarch_name = "Steffon"
+		dynasty = "Joth"
+		birth_date = 1117.1.1
+		death_date = 1153.1.1
+		claim = 56
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1198.1.1 = {
+
+	monarch = {
+		name = "Jorquen"
+		dynasty = "Joth"
+		birth_date = 1128.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Romny"
+		monarch_name = "Romny"
+		dynasty = "Joth"
+		birth_date = 1183.1.1
+		death_date = 1230.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Mance"
+		dynasty = "Joth"
+		birth_date = 1254.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Armen"
+		monarch_name = "Armen"
+		dynasty = "Joth"
+		birth_date = 1270.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1334.1.1 = {
+
+	monarch = {
+		name = "Timeon"
+		dynasty = "Joth"
+		birth_date = 1273.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ossy"
+		monarch_name = "Ossy"
+		dynasty = "Joth"
+		birth_date = 1320.1.1
+		death_date = 1401.1.1
+		claim = 30
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1354.1.1 = {
+
+	monarch = {
+		name = "Garlan"
+		dynasty = "Joth"
+		birth_date = 1318.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Ragnor"
+		monarch_name = "Ragnor"
+		dynasty = "Joth"
+		birth_date = 1331.1.1
+		death_date = 1423.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Joth"
+		birth_date = 1347.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tystane"
+		monarch_name = "Tystane"
+		dynasty = "Joth"
+		birth_date = 1384.1.1
+		death_date = 1470.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+

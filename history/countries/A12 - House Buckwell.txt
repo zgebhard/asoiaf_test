@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 207
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Boremund"
+		dynasty = "Buckwell"
+		birth_date = 923.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Jorquen"
+		monarch_name = "Jorquen"
+		dynasty = "Buckwell"
+		birth_date = 979.1.1
+		death_date = 1019.1.1
+		claim = 3
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1034.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Buckwell"
+		birth_date = 949.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Mychel"
+		monarch_name = "Mychel"
+		dynasty = "Buckwell"
+		birth_date = 1022.1.1
+		death_date = 1064.1.1
+		claim = 48
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Tystane"
+		dynasty = "Buckwell"
+		birth_date = 1076.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Vortimer"
+		monarch_name = "Vortimer"
+		dynasty = "Buckwell"
+		birth_date = 1119.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1206.1.1 = {
+
+	monarch = {
+		name = "Gormond"
+		dynasty = "Buckwell"
+		birth_date = 1151.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Gyles"
+		monarch_name = "Gyles"
+		dynasty = "Buckwell"
+		birth_date = 1184.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Ebben"
+		dynasty = "Buckwell"
+		birth_date = 1232.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Daereyssa"
+		monarch_name = "Daereyssa"
+		dynasty = "Buckwell"
+		female = yes
+		birth_date = 1234.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Rorge"
+		dynasty = "Buckwell"
+		birth_date = 1192.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Rufus"
+		monarch_name = "Rufus"
+		dynasty = "Buckwell"
+		birth_date = 1269.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Reynard"
+		dynasty = "Buckwell"
+		birth_date = 1271.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Naerys"
+		monarch_name = "Naerys"
+		dynasty = "Buckwell"
+		birth_date = 1298.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Buckwell"
+		birth_date = 1345.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Arthor"
+		monarch_name = "Arthor"
+		dynasty = "Buckwell"
+		birth_date = 1349.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+

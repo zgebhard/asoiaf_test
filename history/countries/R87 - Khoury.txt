@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 779
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qotho"
+		dynasty = "Khoury"
+		birth_date = 968.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Triston"
+		monarch_name = "Triston"
+		dynasty = "Khoury"
+		birth_date = 978.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1037.1.1 = {
+
+	monarch = {
+		name = "Denestan"
+		dynasty = "Khoury"
+		birth_date = 986.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Bonifer"
+		monarch_name = "Bonifer"
+		dynasty = "Khoury"
+		birth_date = 1032.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Maelys"
+		dynasty = "Khoury"
+		birth_date = 1010.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucias"
+		monarch_name = "Lucias"
+		dynasty = "Khoury"
+		birth_date = 1029.1.1
+		death_date = 1126.1.1
+		claim = 74
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Rhaegar"
+		dynasty = "Khoury"
+		birth_date = 1032.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Chett"
+		monarch_name = "Chett"
+		dynasty = "Khoury"
+		birth_date = 1064.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1144.1.1 = {
+
+	monarch = {
+		name = "Bowen"
+		dynasty = "Khoury"
+		birth_date = 1078.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Harry"
+		monarch_name = "Harry"
+		dynasty = "Khoury"
+		birth_date = 1115.1.1
+		death_date = 1193.1.1
+		claim = 68
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1206.1.1 = {
+
+	monarch = {
+		name = "Ardrian"
+		dynasty = "Khoury"
+		birth_date = 1164.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Karyl"
+		monarch_name = "Karyl"
+		dynasty = "Khoury"
+		birth_date = 1198.1.1
+		death_date = 1232.1.1
+		claim = 83
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Daeron"
+		dynasty = "Khoury"
+		birth_date = 1233.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ballabar"
+		monarch_name = "Ballabar"
+		dynasty = "Khoury"
+		birth_date = 1244.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Emrick"
+		dynasty = "Khoury"
+		birth_date = 1262.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Jaehaerys"
+		monarch_name = "Jaehaerys"
+		dynasty = "Khoury"
+		birth_date = 1315.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Runcel"
+		dynasty = "Khoury"
+		birth_date = 1336.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Khoury"
+		birth_date = 1371.1.1
+		death_date = 1414.1.1
+		claim = 77
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+

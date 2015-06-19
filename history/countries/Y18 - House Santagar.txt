@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 348
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gavin"
+		dynasty = "Santagar"
+		birth_date = 934.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Ygon"
+		monarch_name = "Ygon"
+		dynasty = "Santagar"
+		birth_date = 984.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1043.1.1 = {
+
+	monarch = {
+		name = "Aermon"
+		dynasty = "Santagar"
+		birth_date = 1000.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Zollo"
+		monarch_name = "Zollo"
+		dynasty = "Santagar"
+		birth_date = 1043.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Paxter"
+		dynasty = "Santagar"
+		birth_date = 1043.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Barristan"
+		monarch_name = "Barristan"
+		dynasty = "Santagar"
+		birth_date = 1081.1.1
+		death_date = 1135.1.1
+		claim = 9
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Dunstan"
+		dynasty = "Santagar"
+		birth_date = 1086.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Mallor"
+		monarch_name = "Mallor"
+		dynasty = "Santagar"
+		birth_date = 1103.1.1
+		death_date = 1184.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1165.1.1 = {
+
+	monarch = {
+		name = "Jorquen"
+		dynasty = "Santagar"
+		birth_date = 1085.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Elia"
+		monarch_name = "Elia"
+		dynasty = "Santagar"
+		female = yes
+		birth_date = 1145.1.1
+		death_date = 1212.1.1
+		claim = 58
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Harodon"
+		dynasty = "Santagar"
+		birth_date = 1156.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Raymun"
+		monarch_name = "Raymun"
+		dynasty = "Santagar"
+		birth_date = 1203.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Weese"
+		dynasty = "Santagar"
+		birth_date = 1220.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Mace"
+		monarch_name = "Mace"
+		dynasty = "Santagar"
+		birth_date = 1267.1.1
+		death_date = 1325.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1360.1.1 = {
+
+	monarch = {
+		name = "Jaremy"
+		dynasty = "Santagar"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Iggo"
+		monarch_name = "Iggo"
+		dynasty = "Santagar"
+		birth_date = 1347.1.1
+		death_date = 1428.1.1
+		claim = 99
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+

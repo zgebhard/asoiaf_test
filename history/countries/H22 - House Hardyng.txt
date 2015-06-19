@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 125
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rollam"
+		dynasty = "Hardyng"
+		birth_date = 939.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Castos"
+		monarch_name = "Castos"
+		dynasty = "Hardyng"
+		birth_date = 991.1.1
+		death_date = 1079.1.1
+		claim = 70
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Orland"
+		dynasty = "Hardyng"
+		birth_date = 1056.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Meryn"
+		monarch_name = "Meryn"
+		dynasty = "Hardyng"
+		birth_date = 1054.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1100.1.1 = {
+
+	monarch = {
+		name = "Penny"
+		dynasty = "Hardyng"
+		birth_date = 1015.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Artys"
+		monarch_name = "Artys"
+		dynasty = "Hardyng"
+		birth_date = 1096.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Jeor"
+		dynasty = "Hardyng"
+		birth_date = 1112.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Helman"
+		monarch_name = "Helman"
+		dynasty = "Hardyng"
+		birth_date = 1149.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Hullen"
+		dynasty = "Hardyng"
+		birth_date = 1125.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Quincy"
+		monarch_name = "Quincy"
+		dynasty = "Hardyng"
+		birth_date = 1200.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "William"
+		dynasty = "Hardyng"
+		birth_date = 1232.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Enderick"
+		monarch_name = "Enderick"
+		dynasty = "Hardyng"
+		birth_date = 1281.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Dobber"
+		dynasty = "Hardyng"
+		birth_date = 1245.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Lennocks"
+		monarch_name = "Lennocks"
+		dynasty = "Hardyng"
+		birth_date = 1280.1.1
+		death_date = 1382.1.1
+		claim = 40
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Roland"
+		dynasty = "Hardyng"
+		birth_date = 1330.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Quaithe"
+		monarch_name = "Quaithe"
+		dynasty = "Hardyng"
+		birth_date = 1342.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+
+}
+

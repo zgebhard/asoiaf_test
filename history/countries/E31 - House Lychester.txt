@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 96
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Pyat"
+		dynasty = "Lychester"
+		birth_date = 931.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Cerrick"
+		monarch_name = "Cerrick"
+		dynasty = "Lychester"
+		birth_date = 972.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Qhorin"
+		dynasty = "Lychester"
+		birth_date = 1028.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Garrison"
+		monarch_name = "Garrison"
+		dynasty = "Lychester"
+		birth_date = 1056.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Lorimer"
+		dynasty = "Lychester"
+		birth_date = 1078.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Luthor"
+		monarch_name = "Luthor"
+		dynasty = "Lychester"
+		birth_date = 1149.1.1
+		death_date = 1242.1.1
+		claim = 80
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Lychester"
+		birth_date = 1213.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Uller"
+		monarch_name = "Uller"
+		dynasty = "Lychester"
+		birth_date = 1212.1.1
+		death_date = 1256.1.1
+		claim = 87
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Torwyld"
+		dynasty = "Lychester"
+		birth_date = 1211.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Elwood"
+		monarch_name = "Elwood"
+		dynasty = "Lychester"
+		birth_date = 1237.1.1
+		death_date = 1288.1.1
+		claim = 88
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1267.1.1 = {
+
+	monarch = {
+		name = "Qhorin"
+		dynasty = "Lychester"
+		birth_date = 1194.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Dunstan"
+		monarch_name = "Dunstan"
+		dynasty = "Lychester"
+		birth_date = 1245.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Reysen"
+		dynasty = "Lychester"
+		birth_date = 1235.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Janos"
+		monarch_name = "Janos"
+		dynasty = "Lychester"
+		birth_date = 1275.1.1
+		death_date = 1362.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1372.1.1 = {
+
+	monarch = {
+		name = "Goghor"
+		dynasty = "Lychester"
+		birth_date = 1299.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Rugen"
+		monarch_name = "Rugen"
+		dynasty = "Lychester"
+		birth_date = 1365.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+}
+

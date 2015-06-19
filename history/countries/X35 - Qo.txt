@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = qo
+religion = asoiaf_summer_gods
+
+capital = 518
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Pollitor"
+		dynasty = "Qo"
+		birth_date = 913.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Goodwin"
+		monarch_name = "Goodwin"
+		dynasty = "Qo"
+		birth_date = 973.1.1
+		death_date = 1023.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1031.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Qo"
+		birth_date = 1016.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Benedar"
+		monarch_name = "Benedar"
+		dynasty = "Qo"
+		birth_date = 1003.1.1
+		death_date = 1115.1.1
+		claim = 71
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Qo"
+		birth_date = 1081.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Danwell"
+		monarch_name = "Danwell"
+		dynasty = "Qo"
+		birth_date = 1076.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Qo"
+		birth_date = 1093.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Erik"
+		monarch_name = "Erik"
+		dynasty = "Qo"
+		birth_date = 1129.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Manfred"
+		dynasty = "Qo"
+		birth_date = 1147.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Alvyn"
+		monarch_name = "Alvyn"
+		dynasty = "Qo"
+		birth_date = 1197.1.1
+		death_date = 1292.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1275.1.1 = {
+
+	monarch = {
+		name = "Urras"
+		dynasty = "Qo"
+		birth_date = 1232.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Nymos"
+		monarch_name = "Nymos"
+		dynasty = "Qo"
+		birth_date = 1269.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Hop-Robin"
+		dynasty = "Qo"
+		birth_date = 1315.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Clement"
+		monarch_name = "Clement"
+		dynasty = "Qo"
+		birth_date = 1328.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+

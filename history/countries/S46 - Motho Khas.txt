@@ -1,0 +1,216 @@
+
+government_rank = 1
+government = khas
+mercantilism = 0.1
+
+technology_group = dothraki
+primary_culture = dothraki
+religion = asoiaf_the_great_stallion
+
+capital = 712
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = permits_slavery
+		duration = -1
+	}
+	monarch = {
+		name = "Berena"
+		dynasty = "Motho"
+		female = yes
+		birth_date = 950.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Aerion"
+		monarch_name = "Aerion"
+		dynasty = "Motho"
+		birth_date = 985.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Calon"
+		dynasty = "Motho"
+		birth_date = 1018.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Bors"
+		monarch_name = "Bors"
+		dynasty = "Motho"
+		birth_date = 1033.1.1
+		death_date = 1077.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1079.1.1 = {
+
+	monarch = {
+		name = "Qarro"
+		dynasty = "Motho"
+		birth_date = 1005.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucias"
+		monarch_name = "Lucias"
+		dynasty = "Motho"
+		birth_date = 1053.1.1
+		death_date = 1156.1.1
+		claim = 46
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Patrek"
+		dynasty = "Motho"
+		birth_date = 1071.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Harrion"
+		monarch_name = "Harrion"
+		dynasty = "Motho"
+		birth_date = 1133.1.1
+		death_date = 1184.1.1
+		claim = 61
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1159.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Motho"
+		birth_date = 1085.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Motho"
+		birth_date = 1156.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Motho"
+		birth_date = 1197.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Egon"
+		monarch_name = "Egon"
+		dynasty = "Motho"
+		birth_date = 1213.1.1
+		death_date = 1304.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1310.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Motho"
+		birth_date = 1243.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Cyrenna"
+		monarch_name = "Cyrenna"
+		dynasty = "Motho"
+		female = yes
+		birth_date = 1300.1.1
+		death_date = 1359.1.1
+		claim = 48
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1337.1.1 = {
+
+	monarch = {
+		name = "Mallador"
+		dynasty = "Motho"
+		birth_date = 1255.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Euron"
+		monarch_name = "Euron"
+		dynasty = "Motho"
+		birth_date = 1318.1.1
+		death_date = 1410.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+

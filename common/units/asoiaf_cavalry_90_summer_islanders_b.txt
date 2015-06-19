@@ -1,0 +1,11 @@
+#Cavalry 90 B 
+type = cavalry
+unit_type = summer_islanders
+
+maneuver = 2 
+offensive_morale = 10 
+defensive_morale = 11 
+offensive_fire = 9 
+defensive_fire = 9 
+offensive_shock = 10 
+defensive_shock = 11 

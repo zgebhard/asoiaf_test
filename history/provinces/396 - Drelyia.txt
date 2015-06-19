@@ -1,0 +1,67 @@
+# 396 - Drelyia
+
+add_core = U01
+owner = U01
+controller = U01
+
+add_core = U04
+
+culture = myrish
+religion = asoiaf_rhllor
+
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower =  4
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Drelyia"
+
+1000.2.1 = {
+	remove_core = U01
+	owner = U04
+	controller = U04
+}
+
+1000.2.2 = {
+	owner = U01
+	add_core = U01
+	controller = U01
+}
+
+1260.1.1 = {
+	controller = AB2
+	add_core = AB2
+	owner = AB2
+}
+
+1281.1.1 = {
+	remove_core = AB2
+	controller = U04
+	add_core = U04
+	owner = U04
+}
+
+1298.1.1 = {
+	remove_core = U04
+	owner = A43
+	add_core = A43
+	controller = A43
+	religion = asoiaf_faith_of_the_seven
+}

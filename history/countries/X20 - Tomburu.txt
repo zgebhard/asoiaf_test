@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = tomburu
+religion = asoiaf_summer_gods
+
+capital = 503
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Willas"
+		dynasty = "Tomburu"
+		birth_date = 964.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Pylos"
+		monarch_name = "Pylos"
+		dynasty = "Tomburu"
+		birth_date = 973.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1030.1.1 = {
+
+	monarch = {
+		name = "Mallor"
+		dynasty = "Tomburu"
+		birth_date = 981.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Uller"
+		monarch_name = "Uller"
+		dynasty = "Tomburu"
+		birth_date = 1016.1.1
+		death_date = 1069.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Dywen"
+		dynasty = "Tomburu"
+		birth_date = 1055.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Garizon"
+		monarch_name = "Garizon"
+		dynasty = "Tomburu"
+		birth_date = 1085.1.1
+		death_date = 1170.1.1
+		claim = 56
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Beric"
+		dynasty = "Tomburu"
+		birth_date = 1145.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Gunthor"
+		monarch_name = "Gunthor"
+		dynasty = "Tomburu"
+		birth_date = 1176.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1231.1.1 = {
+
+	monarch = {
+		name = "Khorane"
+		dynasty = "Tomburu"
+		birth_date = 1172.1.1
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Tomburu"
+		birth_date = 1204.1.1
+		death_date = 1315.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1261.1.1 = {
+
+	monarch = {
+		name = "Ben"
+		dynasty = "Tomburu"
+		birth_date = 1215.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Olyvar"
+		monarch_name = "Olyvar"
+		dynasty = "Tomburu"
+		birth_date = 1241.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Oswell"
+		dynasty = "Tomburu"
+		birth_date = 1209.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Wolmer"
+		monarch_name = "Wolmer"
+		dynasty = "Tomburu"
+		birth_date = 1263.1.1
+		death_date = 1348.1.1
+		claim = 17
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1304.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Tomburu"
+		birth_date = 1230.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Cloen"
+		monarch_name = "Cloen"
+		dynasty = "Tomburu"
+		birth_date = 1284.1.1
+		death_date = 1360.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Jacelyn"
+		dynasty = "Tomburu"
+		birth_date = 1318.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Denys"
+		monarch_name = "Denys"
+		dynasty = "Tomburu"
+		birth_date = 1317.1.1
+		death_date = 1416.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Rhaegar"
+		dynasty = "Tomburu"
+		birth_date = 1362.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Conwy"
+		monarch_name = "Conwy"
+		dynasty = "Tomburu"
+		birth_date = 1355.1.1
+		death_date = 1421.1.1
+		claim = 96
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+}
+

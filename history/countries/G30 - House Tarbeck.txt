@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 171
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rossart"
+		dynasty = "Tarbeck"
+		birth_date = 911.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Timon"
+		monarch_name = "Timon"
+		dynasty = "Tarbeck"
+		birth_date = 994.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Ollidor"
+		dynasty = "Tarbeck"
+		birth_date = 996.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Caswell"
+		monarch_name = "Caswell"
+		dynasty = "Tarbeck"
+		birth_date = 1042.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1106.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Tarbeck"
+		birth_date = 1022.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Gariss"
+		monarch_name = "Gariss"
+		dynasty = "Tarbeck"
+		birth_date = 1090.1.1
+		death_date = 1159.1.1
+		claim = 31
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Roggo"
+		dynasty = "Tarbeck"
+		birth_date = 1109.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Tarbeck"
+		birth_date = 1100.1.1
+		death_date = 1187.1.1
+		claim = 63
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Rymolf"
+		dynasty = "Tarbeck"
+		birth_date = 1097.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Myrielle"
+		monarch_name = "Myrielle"
+		dynasty = "Tarbeck"
+		female = yes
+		birth_date = 1145.1.1
+		death_date = 1202.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Ronel"
+		dynasty = "Tarbeck"
+		birth_date = 1081.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lucan"
+		monarch_name = "Lucan"
+		dynasty = "Tarbeck"
+		birth_date = 1169.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Rob"
+		dynasty = "Tarbeck"
+		birth_date = 1234.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Jommy"
+		monarch_name = "Jommy"
+		dynasty = "Tarbeck"
+		birth_date = 1239.1.1
+		death_date = 1303.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1311.1.1 = {
+
+	monarch = {
+		name = "Cohollo"
+		dynasty = "Tarbeck"
+		birth_date = 1271.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Ogo"
+		monarch_name = "Ogo"
+		dynasty = "Tarbeck"
+		birth_date = 1286.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Ocley"
+		dynasty = "Tarbeck"
+		birth_date = 1372.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Trebor"
+		monarch_name = "Trebor"
+		dynasty = "Tarbeck"
+		birth_date = 1393.1.1
+		death_date = 1472.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+

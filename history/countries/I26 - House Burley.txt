@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 50
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Randyll"
+		dynasty = "Burley"
+		birth_date = 959.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Morros"
+		monarch_name = "Morros"
+		dynasty = "Burley"
+		birth_date = 981.1.1
+		death_date = 1047.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Barth"
+		dynasty = "Burley"
+		birth_date = 1029.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Ben"
+		monarch_name = "Ben"
+		dynasty = "Burley"
+		birth_date = 1073.1.1
+		death_date = 1094.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Annara"
+		dynasty = "Burley"
+		birth_date = 1021.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Tycho"
+		monarch_name = "Tycho"
+		dynasty = "Burley"
+		birth_date = 1080.1.1
+		death_date = 1162.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Brusco"
+		dynasty = "Burley"
+		birth_date = 1167.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Lann"
+		monarch_name = "Lann"
+		dynasty = "Burley"
+		birth_date = 1187.1.1
+		death_date = 1237.1.1
+		claim = 71
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Urswyck"
+		dynasty = "Burley"
+		birth_date = 1142.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Herbert"
+		monarch_name = "Herbert"
+		dynasty = "Burley"
+		birth_date = 1177.1.1
+		death_date = 1267.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1258.1.1 = {
+
+	monarch = {
+		name = "Wyl"
+		dynasty = "Burley"
+		birth_date = 1170.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Yorko"
+		monarch_name = "Yorko"
+		dynasty = "Burley"
+		birth_date = 1228.1.1
+		death_date = 1291.1.1
+		claim = 30
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Bannen"
+		dynasty = "Burley"
+		birth_date = 1292.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Justin"
+		monarch_name = "Justin"
+		dynasty = "Burley"
+		birth_date = 1321.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Tanton"
+		dynasty = "Burley"
+		birth_date = 1301.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Maslyn"
+		monarch_name = "Maslyn"
+		dynasty = "Burley"
+		birth_date = 1342.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+

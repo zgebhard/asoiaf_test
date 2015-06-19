@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 248
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Alequo"
+		dynasty = "Orme"
+		birth_date = 945.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Enger"
+		monarch_name = "Enger"
+		dynasty = "Orme"
+		birth_date = 984.1.1
+		death_date = 1044.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Samwell"
+		dynasty = "Orme"
+		birth_date = 999.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Hali"
+		monarch_name = "Hali"
+		dynasty = "Orme"
+		birth_date = 1060.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1169.1.1 = {
+
+	monarch = {
+		name = "Quenton"
+		dynasty = "Orme"
+		birth_date = 1119.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Arneld"
+		monarch_name = "Arneld"
+		dynasty = "Orme"
+		birth_date = 1160.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1178.1.1 = {
+
+	monarch = {
+		name = "Peter"
+		dynasty = "Orme"
+		birth_date = 1112.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Argrave"
+		monarch_name = "Argrave"
+		dynasty = "Orme"
+		birth_date = 1172.1.1
+		death_date = 1253.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Orme"
+		birth_date = 1152.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Orme"
+		birth_date = 1222.1.1
+		death_date = 1246.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Wyman"
+		dynasty = "Orme"
+		birth_date = 1232.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Enderhar"
+		monarch_name = "Enderhar"
+		dynasty = "Orme"
+		birth_date = 1263.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Gascoyne"
+		dynasty = "Orme"
+		birth_date = 1254.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Osfryd"
+		monarch_name = "Osfryd"
+		dynasty = "Orme"
+		birth_date = 1285.1.1
+		death_date = 1356.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Eroeh"
+		dynasty = "Orme"
+		birth_date = 1278.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Orme"
+		birth_date = 1327.1.1
+		death_date = 1382.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1371.1.1 = {
+
+	monarch = {
+		name = "Plummer"
+		dynasty = "Orme"
+		birth_date = 1303.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Alekyne"
+		monarch_name = "Alekyne"
+		dynasty = "Orme"
+		birth_date = 1345.1.1
+		death_date = 1453.1.1
+		claim = 33
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+

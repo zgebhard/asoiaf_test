@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 255
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qezza"
+		dynasty = "Varner"
+		birth_date = 969.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Varner"
+		birth_date = 1000.1.1
+		death_date = 1040.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1073.1.1 = {
+	monarch = {
+		name = "Sylwa"
+		dynasty = "Varner"
+		female = yes
+		birth_date = 1039.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Eroeh"
+		monarch_name = "Eroeh"
+		dynasty = "Varner"
+		birth_date = 1053.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1118.1.1 = {
+
+	monarch = {
+		name = "Aladale"
+		dynasty = "Varner"
+		birth_date = 1092.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Grance"
+		monarch_name = "Grance"
+		dynasty = "Varner"
+		birth_date = 1114.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Goodwin"
+		dynasty = "Varner"
+		birth_date = 1057.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Preston"
+		monarch_name = "Preston"
+		dynasty = "Varner"
+		birth_date = 1108.1.1
+		death_date = 1187.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1134.1.1 = {
+
+	monarch = {
+		name = "Matarys"
+		dynasty = "Varner"
+		birth_date = 1112.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Danny"
+		monarch_name = "Danny"
+		dynasty = "Varner"
+		birth_date = 1119.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Dilly"
+		dynasty = "Varner"
+		birth_date = 1173.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Lenwood"
+		monarch_name = "Lenwood"
+		dynasty = "Varner"
+		birth_date = 1166.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Gariss"
+		dynasty = "Varner"
+		birth_date = 1183.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Joss"
+		monarch_name = "Joss"
+		dynasty = "Varner"
+		birth_date = 1242.1.1
+		death_date = 1351.1.1
+		claim = 85
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1305.1.1 = {
+
+	monarch = {
+		name = "Lenwood"
+		dynasty = "Varner"
+		birth_date = 1273.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Lucas"
+		monarch_name = "Lucas"
+		dynasty = "Varner"
+		birth_date = 1296.1.1
+		death_date = 1325.1.1
+		claim = 26
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Chayle"
+		dynasty = "Varner"
+		birth_date = 1284.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Sebaston"
+		monarch_name = "Sebaston"
+		dynasty = "Varner"
+		birth_date = 1345.1.1
+		death_date = 1446.1.1
+		claim = 72
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Polliver"
+		dynasty = "Varner"
+		birth_date = 1312.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Meryn"
+		monarch_name = "Meryn"
+		dynasty = "Varner"
+		birth_date = 1372.1.1
+		death_date = 1426.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+

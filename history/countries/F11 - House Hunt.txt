@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 288
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Philip"
+		dynasty = "Hunt"
+		birth_date = 914.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Umfred"
+		monarch_name = "Umfred"
+		dynasty = "Hunt"
+		birth_date = 984.1.1
+		death_date = 1028.1.1
+		claim = 7
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Igon"
+		dynasty = "Hunt"
+		birth_date = 1023.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Hunt"
+		birth_date = 1022.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Donal"
+		dynasty = "Hunt"
+		birth_date = 1054.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Harmund"
+		monarch_name = "Harmund"
+		dynasty = "Hunt"
+		birth_date = 1085.1.1
+		death_date = 1177.1.1
+		claim = 73
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Rumund"
+		dynasty = "Hunt"
+		birth_date = 1151.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Bors"
+		monarch_name = "Bors"
+		dynasty = "Hunt"
+		birth_date = 1156.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1225.1.1 = {
+
+	monarch = {
+		name = "Ottyn"
+		dynasty = "Hunt"
+		birth_date = 1210.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Yna"
+		monarch_name = "Yna"
+		dynasty = "Hunt"
+		female = yes
+		birth_date = 1223.1.1
+		death_date = 1257.1.1
+		claim = 15
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Sigrin"
+		dynasty = "Hunt"
+		birth_date = 1203.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Harraq"
+		monarch_name = "Harraq"
+		dynasty = "Hunt"
+		birth_date = 1248.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Qyle"
+		dynasty = "Hunt"
+		birth_date = 1255.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Puddingfoot"
+		monarch_name = "Puddingfoot"
+		dynasty = "Hunt"
+		birth_date = 1334.1.1
+		death_date = 1354.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1398.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Hunt"
+		birth_date = 1318.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Lucion"
+		monarch_name = "Lucion"
+		dynasty = "Hunt"
+		birth_date = 1398.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+

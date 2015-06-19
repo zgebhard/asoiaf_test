@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 228
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mern"
+		dynasty = "Blout"
+		birth_date = 958.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Errok"
+		monarch_name = "Errok"
+		dynasty = "Blout"
+		birth_date = 1000.1.1
+		death_date = 1086.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1019.1.1 = {
+
+	monarch = {
+		name = "Lister"
+		dynasty = "Blout"
+		birth_date = 996.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Halder"
+		monarch_name = "Halder"
+		dynasty = "Blout"
+		birth_date = 1019.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Lythene"
+		dynasty = "Blout"
+		birth_date = 1036.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Erreg"
+		monarch_name = "Erreg"
+		dynasty = "Blout"
+		birth_date = 1040.1.1
+		death_date = 1115.1.1
+		claim = 45
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1092.1.1 = {
+
+	monarch = {
+		name = "Lymond"
+		dynasty = "Blout"
+		birth_date = 1034.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Oznak"
+		monarch_name = "Oznak"
+		dynasty = "Blout"
+		birth_date = 1066.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Bronn"
+		dynasty = "Blout"
+		birth_date = 1118.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Chella"
+		monarch_name = "Chella"
+		dynasty = "Blout"
+		birth_date = 1149.1.1
+		death_date = 1241.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1179.1.1 = {
+
+	monarch = {
+		name = "Omer"
+		dynasty = "Blout"
+		birth_date = 1112.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Erena"
+		monarch_name = "Erena"
+		dynasty = "Blout"
+		birth_date = 1157.1.1
+		death_date = 1245.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1230.1.1 = {
+
+	monarch = {
+		name = "Steffon"
+		dynasty = "Blout"
+		birth_date = 1147.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Manfred"
+		monarch_name = "Manfred"
+		dynasty = "Blout"
+		birth_date = 1220.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1270.1.1 = {
+
+	monarch = {
+		name = "Zachery"
+		dynasty = "Blout"
+		birth_date = 1216.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Moribold"
+		monarch_name = "Moribold"
+		dynasty = "Blout"
+		birth_date = 1266.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1346.1.1 = {
+
+	monarch = {
+		name = "Jacks"
+		dynasty = "Blout"
+		birth_date = 1284.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Vayon"
+		monarch_name = "Vayon"
+		dynasty = "Blout"
+		birth_date = 1344.1.1
+		death_date = 1427.1.1
+		claim = 74
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+

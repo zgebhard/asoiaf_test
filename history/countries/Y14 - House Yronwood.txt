@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+historical_friend = A09
+
+capital = 334
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jammos"
+		dynasty = "Yronwood"
+		birth_date = 983.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Yronwood"
+		birth_date = 976.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1024.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Yronwood"
+		birth_date = 944.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Easy"
+		monarch_name = "Easy"
+		dynasty = "Yronwood"
+		birth_date = 1024.1.1
+		death_date = 1112.1.1
+		claim = 84
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Allar"
+		dynasty = "Yronwood"
+		birth_date = 1052.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Watt"
+		monarch_name = "Watt"
+		dynasty = "Yronwood"
+		birth_date = 1053.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1125.1.1 = {
+
+	monarch = {
+		name = "Hubard"
+		dynasty = "Yronwood"
+		birth_date = 1094.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Caswell"
+		monarch_name = "Caswell"
+		dynasty = "Yronwood"
+		birth_date = 1099.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1167.1.1 = {
+
+	monarch = {
+		name = "Ryger"
+		dynasty = "Yronwood"
+		birth_date = 1096.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Geraradys"
+		monarch_name = "Geraradys"
+		dynasty = "Yronwood"
+		birth_date = 1153.1.1
+		death_date = 1207.1.1
+		claim = 82
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Gendel"
+		dynasty = "Yronwood"
+		birth_date = 1139.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Petyr"
+		monarch_name = "Petyr"
+		dynasty = "Yronwood"
+		birth_date = 1157.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Holly"
+		dynasty = "Yronwood"
+		female = yes
+		birth_date = 1161.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Blane"
+		monarch_name = "Blane"
+		dynasty = "Yronwood"
+		birth_date = 1241.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1272.1.1 = {
+
+	monarch = {
+		name = "Rickon"
+		dynasty = "Yronwood"
+		birth_date = 1199.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Glendon"
+		monarch_name = "Glendon"
+		dynasty = "Yronwood"
+		birth_date = 1258.1.1
+		death_date = 1316.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1344.1.1 = {
+
+	monarch = {
+		name = "Hamish"
+		dynasty = "Yronwood"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Sigfryd"
+		monarch_name = "Sigfryd"
+		dynasty = "Yronwood"
+		birth_date = 1344.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1362.1.1 = {
+
+	monarch = {
+		name = "Baelor"
+		dynasty = "Yronwood"
+		birth_date = 1294.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Raymond"
+		monarch_name = "Raymond"
+		dynasty = "Yronwood"
+		birth_date = 1362.1.1
+		death_date = 1447.1.1
+		claim = 7
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+

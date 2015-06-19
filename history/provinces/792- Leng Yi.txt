@@ -1,0 +1,35 @@
+# 792- Leng Yi
+
+owner = R65
+add_core = R65
+add_core = R66
+controller = R65
+
+culture = lengii
+religion = asoiaf_lion_of_the_night
+
+base_tax = 10
+base_production = 10
+trade_goods = fish
+base_manpower =  8
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+
+capital = "Leng Yi"

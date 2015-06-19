@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 783
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Vylarr"
+		dynasty = "Asker"
+		birth_date = 959.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ilyn"
+		monarch_name = "Ilyn"
+		dynasty = "Asker"
+		birth_date = 993.1.1
+		death_date = 1043.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1036.1.1 = {
+
+	monarch = {
+		name = "Kirth"
+		dynasty = "Asker"
+		birth_date = 1001.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Selyse"
+		monarch_name = "Selyse"
+		dynasty = "Asker"
+		female = yes
+		birth_date = 1012.1.1
+		death_date = 1105.1.1
+		claim = 44
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Dafyn"
+		dynasty = "Asker"
+		birth_date = 996.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Andrik"
+		monarch_name = "Andrik"
+		dynasty = "Asker"
+		birth_date = 1027.1.1
+		death_date = 1095.1.1
+		claim = 0
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Notch"
+		dynasty = "Asker"
+		birth_date = 1048.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Jafer"
+		monarch_name = "Jafer"
+		dynasty = "Asker"
+		birth_date = 1121.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1206.1.1 = {
+
+	monarch = {
+		name = "Lucimore"
+		dynasty = "Asker"
+		birth_date = 1162.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Lharys"
+		monarch_name = "Lharys"
+		dynasty = "Asker"
+		birth_date = 1199.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1295.1.1 = {
+
+	monarch = {
+		name = "Kym"
+		dynasty = "Asker"
+		birth_date = 1236.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert"
+		dynasty = "Asker"
+		birth_date = 1289.1.1
+		death_date = 1369.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Gowan"
+		dynasty = "Asker"
+		birth_date = 1238.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Quaro"
+		monarch_name = "Quaro"
+		dynasty = "Asker"
+		birth_date = 1294.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Ramsey"
+		dynasty = "Asker"
+		birth_date = 1330.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Garin"
+		monarch_name = "Garin"
+		dynasty = "Asker"
+		birth_date = 1331.1.1
+		death_date = 1431.1.1
+		claim = 87
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1364.1.1 = {
+
+	monarch = {
+		name = "Kevan"
+		dynasty = "Asker"
+		birth_date = 1349.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Clarence"
+		monarch_name = "Clarence"
+		dynasty = "Asker"
+		birth_date = 1352.1.1
+		death_date = 1403.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,46 @@
+# 387 - Lake of Myrth
+
+add_core = U16
+add_core = U12
+owner = U12
+controller = U12
+
+
+culture = pentoshi
+religion = asoiaf_rhllor
+
+base_tax = 4
+base_production = 4
+trade_goods = fish
+base_manpower =  3
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Lake of Myrth"
+
+1000.2.1 = {
+	remove_core = U12
+	owner = U16
+	controller = U16
+}
+
+1000.2.2 = {
+	owner = U12
+	add_core = U12
+	controller = U12
+}

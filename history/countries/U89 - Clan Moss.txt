@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = wildling_clan
+mercantilism = 0.1
+
+technology_group = wildling
+primary_culture = free_folk
+religion = asoiaf_the_old_gods
+
+capital = 14
+
+historical_rival = A02
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Osfryd"
+		dynasty = "Moss"
+		birth_date = 974.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Utt"
+		monarch_name = "Utt"
+		dynasty = "Moss"
+		birth_date = 995.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Cohollo"
+		dynasty = "Moss"
+		birth_date = 1041.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Artys"
+		monarch_name = "Artys"
+		dynasty = "Moss"
+		birth_date = 1072.1.1
+		death_date = 1148.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1121.1.1 = {
+
+	monarch = {
+		name = "Erreck"
+		dynasty = "Moss"
+		birth_date = 1074.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Kedge"
+		monarch_name = "Kedge"
+		dynasty = "Moss"
+		birth_date = 1095.1.1
+		death_date = 1136.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Ulmer"
+		dynasty = "Moss"
+		birth_date = 1182.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Guncer"
+		monarch_name = "Guncer"
+		dynasty = "Moss"
+		birth_date = 1194.1.1
+		death_date = 1300.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Quenten"
+		dynasty = "Moss"
+		birth_date = 1245.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Rafford"
+		monarch_name = "Rafford"
+		dynasty = "Moss"
+		birth_date = 1260.1.1
+		death_date = 1286.1.1
+		claim = 30
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Dunaver"
+		dynasty = "Moss"
+		birth_date = 1240.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Luwin"
+		monarch_name = "Luwin"
+		dynasty = "Moss"
+		birth_date = 1296.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Moss"
+		birth_date = 1257.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Cleyton"
+		monarch_name = "Cleyton"
+		dynasty = "Moss"
+		birth_date = 1313.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Andar"
+		dynasty = "Moss"
+		birth_date = 1344.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Cedra"
+		monarch_name = "Cedra"
+		dynasty = "Moss"
+		birth_date = 1378.1.1
+		death_date = 1422.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+

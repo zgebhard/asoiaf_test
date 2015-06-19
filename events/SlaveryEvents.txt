@@ -1,0 +1,105 @@
+namespace = SLAVERY_EVENTS
+
+# Legalising Slavery
+# An abhorred concept, slavery is often reviled by the people it is subjected to. However, for the slaver owners, it is a very profitable venture and can help fund and create empires.
+# Legalise slavery
+country_event = {
+	id = SLAVERY_EVENTS.1
+	title = SLAVERY_EVENTS.1.title
+	desc = SLAVERY_EVENTS.1.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = SLAVERY_EVENTS.1.option.a
+		
+		add_prestige = -50
+	}
+}
+
+# Success!
+# The people of your realm have given in, and now accept slavery as part of their existance. This will bring the realm numerous benefits, although the people will still be more rebellious than their free counterparts.
+# Wonderful...
+country_event = {
+	id = SLAVERY_EVENTS.2
+	title = SLAVERY_EVENTS.2.title
+	desc = SLAVERY_EVENTS.2.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = SLAVERY_EVENTS.2.option.a
+		
+		add_prestige = 50
+		clr_country_flag = attempting_to_legalise_slavery
+		set_country_flag = legalised_slavery
+	}
+}
+
+# Our Nobles...
+# Many of our aristocracy are pleased with the introduction of slavery, but are too meek to support our cause directly. Let us grease their palms a little, and proclaim their support openly!
+# Money is always the best motivator... 
+# We cannot afford such an action!
+country_event = {
+	id = SLAVERY_EVENTS.3
+	title = SLAVERY_EVENTS.3.title
+	desc = SLAVERY_EVENTS.3.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = SLAVERY_EVENTS.3.option.a
+		
+		add_years_of_income = -2
+		set_country_flag = slavery_placated_nobles
+	}
+	
+	option = {
+		name = SLAVERY_EVENTS.3.option.b
+		
+		add_legitimacy = -25
+	}
+}
+
+# Our Peasants...
+# The peasants of our realm feel under attack by our proclamation of legal slavery. It would be wise to crush such dissidents before it grows into a movement against the crown!
+# Crush them!
+# Pay them off...
+# Ignore them
+country_event = {
+	id = SLAVERY_EVENTS.4
+	title = SLAVERY_EVENTS.4.title
+	desc = SLAVERY_EVENTS.4.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = SLAVERY_EVENTS.4.option.a
+		
+		capital_scope = {
+			anti_tax_rebels = 2
+		}
+		
+		set_country_flag = slavery_angered_nobles
+	}
+	
+	option = {
+		name = SLAVERY_EVENTS.4.option.b
+		
+		add_years_of_income = -1
+		set_country_flag = slavery_placated_peasants
+	}
+	
+	option = {
+		name = SLAVERY_EVENTS.4.option.b
+		
+		add_adm_power = -33
+		add_dip_power = -33
+		add_mil_power = -33
+	}
+}
+

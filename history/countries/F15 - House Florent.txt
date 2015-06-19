@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 274
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Rhogoro"
+		dynasty = "Florent"
+		birth_date = 911.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Ferny"
+		monarch_name = "Ferny"
+		dynasty = "Florent"
+		birth_date = 983.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1010.1.1 = {
+
+	monarch = {
+		name = "Oznak"
+		dynasty = "Florent"
+		birth_date = 948.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Beric"
+		monarch_name = "Beric"
+		dynasty = "Florent"
+		birth_date = 984.1.1
+		death_date = 1027.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Cetheres"
+		dynasty = "Florent"
+		birth_date = 1029.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Clarence"
+		monarch_name = "Clarence"
+		dynasty = "Florent"
+		birth_date = 1035.1.1
+		death_date = 1098.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Hoarfrost"
+		dynasty = "Florent"
+		birth_date = 1095.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Lorent"
+		monarch_name = "Lorent"
+		dynasty = "Florent"
+		birth_date = 1097.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1124.1.1 = {
+
+	monarch = {
+		name = "Edmure"
+		dynasty = "Florent"
+		birth_date = 1085.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Morosh"
+		monarch_name = "Morosh"
+		dynasty = "Florent"
+		birth_date = 1112.1.1
+		death_date = 1160.1.1
+		claim = 19
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Florent"
+		birth_date = 1130.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Florent"
+		birth_date = 1199.1.1
+		death_date = 1286.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1238.1.1 = {
+
+	monarch = {
+		name = "Medgar"
+		dynasty = "Florent"
+		birth_date = 1222.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Whalen"
+		monarch_name = "Whalen"
+		dynasty = "Florent"
+		birth_date = 1217.1.1
+		death_date = 1259.1.1
+		claim = 62
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Sarra"
+		dynasty = "Florent"
+		female = yes
+		birth_date = 1187.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Perra"
+		monarch_name = "Perra"
+		dynasty = "Florent"
+		female = yes
+		birth_date = 1215.1.1
+		death_date = 1284.1.1
+		claim = 84
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1326.1.1 = {
+
+	monarch = {
+		name = "Hal"
+		dynasty = "Florent"
+		birth_date = 1251.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Forley"
+		monarch_name = "Forley"
+		dynasty = "Florent"
+		birth_date = 1299.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Tristimun"
+		dynasty = "Florent"
+		birth_date = 1330.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Pate"
+		monarch_name = "Pate"
+		dynasty = "Florent"
+		birth_date = 1374.1.1
+		death_date = 1426.1.1
+		claim = 35
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+

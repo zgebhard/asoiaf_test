@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 215
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Utherydes"
+		dynasty = "Cave"
+		birth_date = 963.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Aemond"
+		monarch_name = "Aemond"
+		dynasty = "Cave"
+		birth_date = 978.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Arrec"
+		dynasty = "Cave"
+		birth_date = 990.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Erreg"
+		monarch_name = "Erreg"
+		dynasty = "Cave"
+		birth_date = 1035.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Prendahl"
+		dynasty = "Cave"
+		birth_date = 1082.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Jhaqo"
+		monarch_name = "Jhaqo"
+		dynasty = "Cave"
+		birth_date = 1124.1.1
+		death_date = 1200.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1153.1.1 = {
+	monarch = {
+		name = "Meredyth"
+		dynasty = "Cave"
+		female = yes
+		birth_date = 1085.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Meredyth"
+		monarch_name = "Meredyth"
+		dynasty = "Cave"
+		female = yes
+		birth_date = 1138.1.1
+		death_date = 1234.1.1
+		claim = 88
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Aemon"
+		dynasty = "Cave"
+		birth_date = 1180.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Steffon"
+		monarch_name = "Steffon"
+		dynasty = "Cave"
+		birth_date = 1206.1.1
+		death_date = 1250.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1305.1.1 = {
+
+	monarch = {
+		name = "Mallador"
+		dynasty = "Cave"
+		birth_date = 1287.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Uthor"
+		monarch_name = "Uthor"
+		dynasty = "Cave"
+		birth_date = 1281.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1326.1.1 = {
+
+	monarch = {
+		name = "Tybolt"
+		dynasty = "Cave"
+		birth_date = 1278.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Jeor"
+		monarch_name = "Jeor"
+		dynasty = "Cave"
+		birth_date = 1315.1.1
+		death_date = 1396.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Sarella"
+		dynasty = "Cave"
+		female = yes
+		birth_date = 1308.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Rast"
+		monarch_name = "Rast"
+		dynasty = "Cave"
+		birth_date = 1376.1.1
+		death_date = 1420.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+

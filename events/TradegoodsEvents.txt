@@ -1,0 +1,560 @@
+namespace = TRADEGOODS_EVENTS
+
+province_event = {
+	id = TRADEGOODS_EVENTS.1
+	title = "TRADEGOODS_EVENTS.1.title"
+	desc = "TRADEGOODS_EVENTS.1.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.1.option.1"
+
+		set_province_flag = set_tradegood
+		change_trade_goods = grain
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.2
+	title = "TRADEGOODS_EVENTS.2.title"
+	desc = "TRADEGOODS_EVENTS.2.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+		
+		modifier = {
+			factor = 0.5
+			region = region_the_reach
+		}
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.2.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = wine
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.3
+	title = "TRADEGOODS_EVENTS.3.title"
+	desc = "TRADEGOODS_EVENTS.3.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.3.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = wool
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.4
+	title = "TRADEGOODS_EVENTS.4.title"
+	desc = "TRADEGOODS_EVENTS.4.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+		modifier = {
+			factor = 0.5
+			base_tax = 5
+		}
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.4.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = cloth
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.5
+	title = "TRADEGOODS_EVENTS.5.title"
+	desc = "TRADEGOODS_EVENTS.5.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+		has_port = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.5.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = fish
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.6
+	title = "TRADEGOODS_EVENTS.6.title"
+	desc = "TRADEGOODS_EVENTS.6.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+		owner = { has_country_modifier = permits_slavery }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.6.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = slaves
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.7
+	title = "TRADEGOODS_EVENTS.7.title"
+	desc = "TRADEGOODS_EVENTS.7.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.7.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = fur
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.8
+	title = "TRADEGOODS_EVENTS.8.title"
+	desc = "TRADEGOODS_EVENTS.8.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+		has_port = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.8.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = salt
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.9
+	title = "TRADEGOODS_EVENTS.9.title"
+	desc = "TRADEGOODS_EVENTS.9.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.9.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = naval_supplies
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.10
+	title = "TRADEGOODS_EVENTS.10.title"
+	desc = "TRADEGOODS_EVENTS.10.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.10.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = copper
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.11
+	title = "TRADEGOODS_EVENTS.11.title"
+	desc = "TRADEGOODS_EVENTS.11.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.11.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = iron
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.12
+	title = "TRADEGOODS_EVENTS.12.title"
+	desc = "TRADEGOODS_EVENTS.12.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.12.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = gold
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.13
+	title = "TRADEGOODS_EVENTS.13.title"
+	desc = "TRADEGOODS_EVENTS.13.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.13.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = tea
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.14
+	title = "TRADEGOODS_EVENTS.14.title"
+	desc = "TRADEGOODS_EVENTS.14.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.14.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = ivory
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.15
+	title = "TRADEGOODS_EVENTS.15.title"
+	desc = "TRADEGOODS_EVENTS.15.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.15.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = spices
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.16
+	title = "TRADEGOODS_EVENTS.16.title"
+	desc = "TRADEGOODS_EVENTS.16.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.16.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = coffee
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.17
+	title = "TRADEGOODS_EVENTS.17.title"
+	desc = "TRADEGOODS_EVENTS.17.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.17.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = cotton
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.18
+	title = "TRADEGOODS_EVENTS.18.title"
+	desc = "TRADEGOODS_EVENTS.18.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.18.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = sugar
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.19
+	title = "TRADEGOODS_EVENTS.19.title"
+	desc = "TRADEGOODS_EVENTS.19.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.19.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = tobacco
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.20
+	title = "TRADEGOODS_EVENTS.20.title"
+	desc = "TRADEGOODS_EVENTS.20.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.20.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = cocoa
+	}
+}
+
+province_event = {
+	id = TRADEGOODS_EVENTS.21
+	title = "TRADEGOODS_EVENTS.21.title"
+	desc = "TRADEGOODS_EVENTS.21.desc"
+	picture = TRADEGOODS_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		is_colony = no
+		trade_goods = unknown
+		
+		NOT = { has_province_flag = set_tradegood }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "TRADEGOODS_EVENTS.21.option.1"
+		set_province_flag = set_tradegood
+		change_trade_goods = fruit
+	}
+}

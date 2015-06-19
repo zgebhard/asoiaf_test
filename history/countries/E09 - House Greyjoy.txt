@@ -1,0 +1,97 @@
+
+government_rank = 1
+government = great_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 162
+
+1000.1.1 = {
+	monarch = {
+		name = "Vickon"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 971.1.1
+	}
+
+	elector = yes
+}
+
+# Faith Militant Uprising
+1041.1.1 = {
+	monarch = {
+		name = "Harren"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 993.1.1
+	}
+}
+
+# The Dance of the Dragons
+1129.1.1 = {
+	monarch = {
+		name = "Dalton"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1113.1.1
+	}
+}
+
+# The Conquest of Dorne
+
+# Blackfyre Rebellion
+1196.1.1 = {
+	monarch = {
+		name = "Victarion"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1140.1.1
+	}
+}
+
+# War of the Ninepenny Kings
+1260.1.1 = {
+	monarch = {
+		name = "Quellon"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1224.1.1
+	}
+}
+
+# Robert's Rebellion
+1281.1.1 = {
+	monarch = {
+		name = "Balon II"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1248.1.1
+	}
+}
+
+# Greyjoy Rebellion
+1289.1.1 = {
+	monarch = {
+		name = "Balon IX"
+		dynasty = "Greyjoy"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1240.1.1
+	}
+}

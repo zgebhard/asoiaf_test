@@ -1,0 +1,113 @@
+namespace = META_EVENTS
+
+# Decision: Personal Reflection - Cleanup
+country_event = {
+	id = META_EVENTS.1
+	title = "META_EVENTS.1.title"
+	desc = "META_EVENTS.1.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		had_country_flag = {
+			flag = reflected_on_life
+			days = 3650
+		}
+	}
+	
+	option = {
+		name = "META_EVENTS.1.option.1"
+		
+		clr_country_flag = reflected_on_life
+	}
+}
+
+# Decision: Alchemist Guild - Cleanup
+country_event = {
+	id = META_EVENTS.2
+	title = "META_EVENTS.2.title"
+	desc = "META_EVENTS.2.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		had_country_flag = {
+			flag = consulted_the_alchemists_guild
+			days = 1600
+		}
+	}
+	
+	option = {
+		name = "META_EVENTS.2.option.1"
+		
+		clr_country_flag = consulted_the_alchemists_guild
+	}
+}
+
+# Seven Kingdoms
+country_event = {
+	id = META_EVENTS.5
+	title = "META_EVENTS.5.title"
+	desc = "META_EVENTS.5.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	is_triggered_only = yes
+	
+	hidden = yes
+	
+	option = {
+		name = "META_EVENTS.5.option.1"
+		
+		hre_inheritable = yes
+		imperial_ban_allowed = yes
+	}
+}
+
+country_event = {
+	id = META_EVENTS.6
+	title = "META_EVENTS.6.title"
+	desc = "META_EVENTS.6.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+	
+	hidden = yes
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "META_EVENTS.6.option.1"
+		
+		FAT = {
+			kill_ruler = yes
+		}
+	}
+}
+
+# Picture test event
+
+country_event = {
+	id = META_EVENTS.7
+	title = "META_EVENTS.7.title"
+	desc = "META_EVENTS.7.desc"
+	picture = KINGS_LANDING_eventPicture
+
+	#hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		has_global_flag = shattered_world
+	}
+	
+	option = {
+		name = "META_EVENTS.7.option.1"
+		
+		every_province = {
+			add_local_autonomy = 100
+		}
+	}
+}

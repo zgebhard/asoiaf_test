@@ -1,0 +1,25 @@
+# province id = rotation in degrees, 0 is pointing right, then ccw)
+# can be reloaded ingame by cmd: reloadtradewinds
+
+# Winds in the north
+1019 = 180
+1018 = 190
+1017 = 240
+1046 = 180
+1045 = 190
+1044 = 200
+1043 = 200
+1048 = 130
+1007 = 110
+1005 = 180
+1004 = 230
+1051 = 180
+886 = 200
+887 = 180
+888 = 120
+894 = 120
+902 = 90
+962 = 90
+906 = 90
+907 = 90
+908 = 150

@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 281
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Quenten"
+		dynasty = "Sloane"
+		birth_date = 921.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Dacks"
+		monarch_name = "Dacks"
+		dynasty = "Sloane"
+		birth_date = 996.1.1
+		death_date = 1028.1.1
+		claim = 29
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1022.1.1 = {
+
+	monarch = {
+		name = "Aethelmure"
+		dynasty = "Sloane"
+		birth_date = 937.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Barsena"
+		monarch_name = "Barsena"
+		dynasty = "Sloane"
+		birth_date = 1012.1.1
+		death_date = 1080.1.1
+		claim = 16
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Puddingfoot"
+		dynasty = "Sloane"
+		birth_date = 999.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Bennarion"
+		monarch_name = "Bennarion"
+		dynasty = "Sloane"
+		birth_date = 1051.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1102.1.1 = {
+
+	monarch = {
+		name = "Hugh"
+		dynasty = "Sloane"
+		birth_date = 1058.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan"
+		dynasty = "Sloane"
+		birth_date = 1095.1.1
+		death_date = 1128.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Jhaqo"
+		dynasty = "Sloane"
+		birth_date = 1125.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Harmond"
+		monarch_name = "Harmond"
+		dynasty = "Sloane"
+		birth_date = 1136.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Sloane"
+		birth_date = 1143.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Sloane"
+		birth_date = 1171.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Sloane"
+		birth_date = 1207.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Ulf"
+		monarch_name = "Ulf"
+		dynasty = "Sloane"
+		birth_date = 1255.1.1
+		death_date = 1300.1.1
+		claim = 41
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Ashford"
+		dynasty = "Sloane"
+		birth_date = 1267.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Colemon"
+		monarch_name = "Colemon"
+		dynasty = "Sloane"
+		birth_date = 1308.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1388.1.1 = {
+
+	monarch = {
+		name = "Marghaz"
+		dynasty = "Sloane"
+		birth_date = 1341.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Obella"
+		monarch_name = "Obella"
+		dynasty = "Sloane"
+		female = yes
+		birth_date = 1371.1.1
+		death_date = 1458.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+}
+

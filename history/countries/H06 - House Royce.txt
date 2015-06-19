@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 150
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Garth"
+		dynasty = "Royce"
+		birth_date = 950.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Jack"
+		monarch_name = "Jack"
+		dynasty = "Royce"
+		birth_date = 971.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Gorold"
+		dynasty = "Royce"
+		birth_date = 1000.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Rhaegar"
+		monarch_name = "Rhaegar"
+		dynasty = "Royce"
+		birth_date = 1055.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Collio"
+		dynasty = "Royce"
+		birth_date = 1080.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Rolfe"
+		monarch_name = "Rolfe"
+		dynasty = "Royce"
+		birth_date = 1119.1.1
+		death_date = 1157.1.1
+		claim = 69
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1223.1.1 = {
+	monarch = {
+		name = "Danelle"
+		dynasty = "Royce"
+		female = yes
+		birth_date = 1147.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Lew"
+		monarch_name = "Lew"
+		dynasty = "Royce"
+		birth_date = 1212.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1278.1.1 = {
+
+	monarch = {
+		name = "Mathos"
+		dynasty = "Royce"
+		birth_date = 1263.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Gyles"
+		monarch_name = "Gyles"
+		dynasty = "Royce"
+		birth_date = 1255.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Royce"
+		birth_date = 1282.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Chayle"
+		monarch_name = "Chayle"
+		dynasty = "Royce"
+		birth_date = 1304.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Lucos"
+		dynasty = "Royce"
+		birth_date = 1286.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Royce"
+		birth_date = 1359.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Hallis"
+		dynasty = "Royce"
+		birth_date = 1356.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Perwyn"
+		monarch_name = "Perwyn"
+		dynasty = "Royce"
+		birth_date = 1357.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+

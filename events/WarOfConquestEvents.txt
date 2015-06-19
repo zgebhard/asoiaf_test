@@ -1,0 +1,396 @@
+namespace = WOC_EVENTS
+
+# War of Conquest
+# AI Targs will attack House Hoare whilst their vassals rebel.
+country_event = {
+	id = WOC_EVENTS.1
+	title = "WOC_EVENTS.1t"
+	desc = "WOC_EVENTS.1d"
+	picture = BATTLE_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		NOT = { is_year = 1002 }
+		E01 = {
+			ai = yes
+			is_at_war = yes
+		}
+		tag = A10
+		ai = yes
+		NOT = { has_country_modifier = war_of_conquest }
+	}
+	
+	option = {
+		name = "WOC_EVENTS.1a"
+		
+		declare_war = E01
+		
+		add_country_modifier = {
+			name = war_of_conquest
+			duration = 3650
+		}
+		
+		add_casus_belli = {	
+			target = A01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A04
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = F01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A09
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = B37
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = E01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A06
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_country_modifier = {
+			name = war_of_conquest
+			duration = 3650
+		}
+	}
+}
+
+# War of Conquest
+# Harren the Black has grown greedy throughout the years. If we attack him now, we can gain a foothold on Westeros and start our war of conquest in earnest.
+# War!
+country_event = {
+	id = WOC_EVENTS.2
+	title = "WOC_EVENTS.2t"
+	desc = "WOC_EVENTS.2d"
+	picture = BATTLE_eventPicture
+	
+	trigger = {
+		NOT = { is_year = 1002 }
+		E01 = {
+			ai = yes
+			is_at_war = yes
+		}
+		tag = A10
+		ai = no
+		NOT = { has_country_modifier = war_of_conquest }
+	}
+	
+	option = {
+		name = "WOC_EVENTS.2a"
+		
+		add_country_modifier = {
+			name = war_of_conquest
+			duration = 3650
+		}
+		
+		add_casus_belli = {	
+			target = A01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A04
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = F01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A09
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = B37
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = E01
+			type = cb_insult
+			months = 1200
+		}
+		
+		add_casus_belli = {	
+			target = A06
+			type = cb_insult
+			months = 1200
+		}
+		
+		random_owned_province = {
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			infantry = ROOT
+			cavalry = ROOT
+			cavalry = ROOT
+			cavalry = ROOT
+			cavalry = ROOT
+			heavy_ship = ROOT
+			heavy_ship = ROOT
+			heavy_ship = ROOT
+			heavy_ship = ROOT
+			heavy_ship = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			transport = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+			galley = ROOT
+		}
+	}
+}
+
+# House Durrandon has fallen!
+# Argilac the Arrogant was arrogant enough to believe he could defeat us on the open field. He has been slain by our commander, Orys Baratheon, and his daughter Argella has been presented to our Orys thanks to Stormlander cowardice.
+# Grant Orys the lands of Argilac the Arrogant.
+country_event = {
+	id = WOC_EVENTS.3
+	title = "WOC_EVENTS.3t"
+	desc = "WOC_EVENTS.3d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	trigger = {
+		NOT = { is_year = 1015 }
+		B37 = {
+			ai = yes
+			war_with = ROOT
+			
+		}
+		tag = A10
+		war_score_against = {
+			who = B37
+			value = 75
+		}
+		ai = no
+	}
+	
+	option = {
+		name = "WOC_EVENTS.3a"
+		
+		B37 = {
+			add_truce_with = ROOT
+			change_tag = A07
+			
+			define_ruler = {
+				name = "Orys"
+				dynasty = "Baratheon"
+				ADM = 4
+				DIP = 4	
+				MIL = 6
+				attach_leader = "Orys Baratheon"
+			}
+			
+			kill_heir = yes
+		}
+	}
+}
+
+# House Gardener has fallen!
+# Mern IX Gardener in his arrogance has fallen in battle fighting our superior forces. Let us bequeath his land to a loyal lord of the Reach and continue our conquests.
+# Grant House Tyrell the Reach
+country_event = {
+	id = WOC_EVENTS.6
+	title = "WOC_EVENTS.6t"
+	desc = "WOC_EVENTS.6d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	trigger = {
+		NOT = { is_year = 1015 }
+		F01 = {
+			ai = yes
+			war_with = ROOT
+			
+		}
+		tag = A10
+		war_score_against = {
+			who = F01
+			value = 75
+		}
+		ai = no
+	}
+	
+	option = {
+		name = "WOC_EVENTS.6a"
+		
+		F01 = {
+			add_truce_with = ROOT
+			change_tag = F20
+
+			define_ruler = {
+				name = "Harlan"
+				dynasty = "Tyrell"
+				ADM = 4
+				DIP = 5	
+				MIL = 2
+			}
+			
+			kill_heir = yes
+		}
+	}
+}
+
+# Harren the Black
+# Our march towards to Gods Eye has resulted in Harren the Black hiding in Harrenhal. Aegon himself approached Harrenhal to parley, and in response he got 'I built in stone. Stone does not burn.'. Let us teach Harren what it means to refuse a Dragonlord's offer.
+# Burn Harrenhal to the ground!
+country_event = {
+	id = WOC_EVENTS.4
+	title = "WOC_EVENTS.4t"
+	desc = "WOC_EVENTS.4d"
+	picture = COMET_SIGHTED_eventPicture
+	
+	trigger = {
+		NOT = { is_year = 1015 }
+		E01 = {
+			ai = yes
+			war_with = ROOT
+		}
+		tag = A10
+		war_score_against = {
+			who = E01
+			value = 25
+		}
+		107 = {
+			owned_by = E01
+			OR = {
+				sieged_by = A10
+				controlled_by = A10
+			}
+		}
+		
+		ai = no
+	}
+	
+	option = {
+		name = "WOC_EVENTS.4a"
+		
+		set_global_flag = harren_dead
+		
+		every_country = {
+			limit = { war_with = E01 }
+			add_truce_with = E01
+		}
+		
+		E01 = {
+			release_all_subjects = yes
+		}
+		
+		E01 = {
+			every_owned_province = {
+				limit = { region = region_iron_islands }
+				
+				cede_province = E09
+				add_core = E09
+			}
+		}
+		
+		E01 = {
+			every_owned_province = {
+				limit = { region = region_the_riverlands }
+				
+				cede_province = A03
+				add_core = A03
+			}
+		}
+		
+		E01 = {
+			every_owned_province = {
+				limit = { 
+					AND = {
+						NOT = { region = region_the_riverlands }
+						NOT = { region = region_iron_islands }
+					}
+				}
+				
+				cede_province = ROOT
+				add_core = ROOT
+			}
+		}
+	}
+}
+
+# $PROVINCENAME$ has returned to the Faith of the Seven
+# After years of Harren the Black and his persecution, people are flocking back to the Faith of the Seven thanks to his death.
+# Joyous!
+province_event = {
+	id = WOC_EVENTS.5
+	title = "WOC_EVENTS.5t"
+	desc = "WOC_EVENTS.5d"
+	picture = POPE_PREACHING_eventPicture
+	
+	trigger = {
+		NOT = { is_year = 1050 }
+		has_global_flag = harren_dead
+		
+		religion = asoiaf_the_drowned_god
+		
+		OR = {
+			region = region_the_riverlands
+			region = region_iron_islands
+			region = region_crownlands
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = "WOC_EVENTS.5a"
+	
+		change_religion = asoiaf_faith_of_the_seven
+	}
+}

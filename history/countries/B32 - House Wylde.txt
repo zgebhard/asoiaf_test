@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 323
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Quaro"
+		dynasty = "Wylde"
+		birth_date = 932.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Cassa"
+		monarch_name = "Cassa"
+		dynasty = "Wylde"
+		birth_date = 992.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Norne"
+		dynasty = "Wylde"
+		birth_date = 1042.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Alesander"
+		monarch_name = "Alesander"
+		dynasty = "Wylde"
+		birth_date = 1051.1.1
+		death_date = 1100.1.1
+		claim = 31
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Galyeon"
+		dynasty = "Wylde"
+		birth_date = 1086.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Quincy"
+		monarch_name = "Quincy"
+		dynasty = "Wylde"
+		birth_date = 1096.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Gheal"
+		dynasty = "Wylde"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Pollitor"
+		monarch_name = "Pollitor"
+		dynasty = "Wylde"
+		birth_date = 1127.1.1
+		death_date = 1207.1.1
+		claim = 78
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Sedgekins"
+		dynasty = "Wylde"
+		birth_date = 1174.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Dorren"
+		monarch_name = "Dorren"
+		dynasty = "Wylde"
+		birth_date = 1212.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Khrazz"
+		dynasty = "Wylde"
+		birth_date = 1284.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Gydayn"
+		monarch_name = "Gydayn"
+		dynasty = "Wylde"
+		birth_date = 1302.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1311.1.1 = {
+
+	monarch = {
+		name = "Bharbo"
+		dynasty = "Wylde"
+		birth_date = 1228.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Prendahl"
+		monarch_name = "Prendahl"
+		dynasty = "Wylde"
+		birth_date = 1296.1.1
+		death_date = 1394.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1376.1.1 = {
+
+	monarch = {
+		name = "Bedwyck"
+		dynasty = "Wylde"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Dennis"
+		monarch_name = "Dennis"
+		dynasty = "Wylde"
+		birth_date = 1364.1.1
+		death_date = 1462.1.1
+		claim = 11
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+

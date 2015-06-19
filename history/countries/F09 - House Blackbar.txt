@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 282
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Anvil"
+		dynasty = "Blackbar"
+		birth_date = 954.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Cafferen"
+		monarch_name = "Cafferen"
+		dynasty = "Blackbar"
+		birth_date = 972.1.1
+		death_date = 1021.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1076.1.1 = {
+
+	monarch = {
+		name = "Guncer"
+		dynasty = "Blackbar"
+		birth_date = 1041.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Alester"
+		monarch_name = "Alester"
+		dynasty = "Blackbar"
+		birth_date = 1055.1.1
+		death_date = 1165.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Blackbar"
+		birth_date = 1068.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Cleyton"
+		monarch_name = "Cleyton"
+		dynasty = "Blackbar"
+		birth_date = 1102.1.1
+		death_date = 1182.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Timon"
+		dynasty = "Blackbar"
+		birth_date = 1120.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Lothar"
+		monarch_name = "Lothar"
+		dynasty = "Blackbar"
+		birth_date = 1176.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Ardrian"
+		dynasty = "Blackbar"
+		birth_date = 1120.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Stannis"
+		monarch_name = "Stannis"
+		dynasty = "Blackbar"
+		birth_date = 1179.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1214.1.1 = {
+
+	monarch = {
+		name = "Bandy"
+		dynasty = "Blackbar"
+		birth_date = 1184.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Medger"
+		monarch_name = "Medger"
+		dynasty = "Blackbar"
+		birth_date = 1203.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Hubard"
+		dynasty = "Blackbar"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Jhaqo"
+		monarch_name = "Jhaqo"
+		dynasty = "Blackbar"
+		birth_date = 1207.1.1
+		death_date = 1255.1.1
+		claim = 33
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Satin"
+		dynasty = "Blackbar"
+		birth_date = 1212.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Castos"
+		monarch_name = "Castos"
+		dynasty = "Blackbar"
+		birth_date = 1210.1.1
+		death_date = 1312.1.1
+		claim = 35
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Deziel"
+		dynasty = "Blackbar"
+		birth_date = 1248.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Elia"
+		monarch_name = "Elia"
+		dynasty = "Blackbar"
+		female = yes
+		birth_date = 1309.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Brusco"
+		dynasty = "Blackbar"
+		birth_date = 1254.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Zia"
+		monarch_name = "Zia"
+		dynasty = "Blackbar"
+		birth_date = 1322.1.1
+		death_date = 1422.1.1
+		claim = 34
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Rennifer"
+		dynasty = "Blackbar"
+		birth_date = 1329.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Stygg"
+		monarch_name = "Stygg"
+		dynasty = "Blackbar"
+		birth_date = 1379.1.1
+		death_date = 1416.1.1
+		claim = 83
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+}
+

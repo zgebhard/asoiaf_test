@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_faith_of_the_seven
+
+capital = 62
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Mullin"
+		dynasty = "Manderly"
+		birth_date = 915.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Garth"
+		monarch_name = "Garth"
+		dynasty = "Manderly"
+		birth_date = 990.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Rolph"
+		dynasty = "Manderly"
+		birth_date = 1055.1.1
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Grisil"
+		monarch_name = "Grisil"
+		dynasty = "Manderly"
+		birth_date = 1060.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1121.1.1 = {
+	monarch = {
+		name = "Nightingale"
+		dynasty = "Manderly"
+		female = yes
+		birth_date = 1058.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Haegon"
+		monarch_name = "Haegon"
+		dynasty = "Manderly"
+		birth_date = 1121.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Elmar"
+		dynasty = "Manderly"
+		birth_date = 1141.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Manderly"
+		birth_date = 1190.1.1
+		death_date = 1240.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Barth"
+		dynasty = "Manderly"
+		birth_date = 1189.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Ilyrio"
+		monarch_name = "Ilyrio"
+		dynasty = "Manderly"
+		birth_date = 1187.1.1
+		death_date = 1269.1.1
+		claim = 36
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Selmond"
+		dynasty = "Manderly"
+		birth_date = 1218.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Chiswyck"
+		monarch_name = "Chiswyck"
+		dynasty = "Manderly"
+		birth_date = 1257.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Manderly"
+		birth_date = 1300.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Manderly"
+		birth_date = 1313.1.1
+		death_date = 1351.1.1
+		claim = 24
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1371.1.1 = {
+
+	monarch = {
+		name = "Nage"
+		dynasty = "Manderly"
+		birth_date = 1294.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Ebben"
+		monarch_name = "Ebben"
+		dynasty = "Manderly"
+		birth_date = 1361.1.1
+		death_date = 1460.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 108
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Darry"
+		birth_date = 920.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Darry"
+		birth_date = 994.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1007.1.1 = {
+
+	monarch = {
+		name = "Quence"
+		dynasty = "Darry"
+		birth_date = 964.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gyloro"
+		monarch_name = "Gyloro"
+		dynasty = "Darry"
+		birth_date = 988.1.1
+		death_date = 1083.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1046.1.1 = {
+
+	monarch = {
+		name = "Aladale"
+		dynasty = "Darry"
+		birth_date = 1009.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Jyck"
+		monarch_name = "Jyck"
+		dynasty = "Darry"
+		birth_date = 1041.1.1
+		death_date = 1131.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Nestor"
+		dynasty = "Darry"
+		birth_date = 1016.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Pree"
+		monarch_name = "Pree"
+		dynasty = "Darry"
+		birth_date = 1078.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Morrec"
+		dynasty = "Darry"
+		birth_date = 1084.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Lyle"
+		monarch_name = "Lyle"
+		dynasty = "Darry"
+		birth_date = 1113.1.1
+		death_date = 1212.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1172.1.1 = {
+
+	monarch = {
+		name = "Hosteen"
+		dynasty = "Darry"
+		birth_date = 1134.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Vardis"
+		monarch_name = "Vardis"
+		dynasty = "Darry"
+		birth_date = 1172.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Darry"
+		birth_date = 1151.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Cellador"
+		monarch_name = "Cellador"
+		dynasty = "Darry"
+		birth_date = 1155.1.1
+		death_date = 1273.1.1
+		claim = 65
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Qos"
+		dynasty = "Darry"
+		birth_date = 1171.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Thormor"
+		monarch_name = "Thormor"
+		dynasty = "Darry"
+		birth_date = 1219.1.1
+		death_date = 1243.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Herbert"
+		dynasty = "Darry"
+		birth_date = 1215.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Rhae"
+		monarch_name = "Rhae"
+		dynasty = "Darry"
+		female = yes
+		birth_date = 1286.1.1
+		death_date = 1382.1.1
+		claim = 28
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Osfryd"
+		dynasty = "Darry"
+		birth_date = 1277.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Royce"
+		monarch_name = "Royce"
+		dynasty = "Darry"
+		birth_date = 1291.1.1
+		death_date = 1365.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1345.1.1 = {
+
+	monarch = {
+		name = "Stevron"
+		dynasty = "Darry"
+		birth_date = 1273.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Jaehaerys"
+		monarch_name = "Jaehaerys"
+		dynasty = "Darry"
+		birth_date = 1328.1.1
+		death_date = 1400.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Willow"
+		dynasty = "Darry"
+		female = yes
+		birth_date = 1325.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Arron"
+		monarch_name = "Arron"
+		dynasty = "Darry"
+		birth_date = 1345.1.1
+		death_date = 1441.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+

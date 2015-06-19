@@ -1,0 +1,263 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 25
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Arthur"
+		dynasty = "Umber"
+		birth_date = 984.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jaqen"
+		monarch_name = "Jaqen"
+		dynasty = "Umber"
+		birth_date = 982.1.1
+		death_date = 1025.1.1
+		claim = 63
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Mark"
+		dynasty = "Umber"
+		birth_date = 978.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon"
+		dynasty = "Umber"
+		birth_date = 1051.1.1
+		death_date = 1119.1.1
+		claim = 44
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Maekar"
+		dynasty = "Umber"
+		birth_date = 1078.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Joanna"
+		monarch_name = "Joanna"
+		dynasty = "Umber"
+		female = yes
+		birth_date = 1083.1.1
+		death_date = 1168.1.1
+		claim = 62
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Amarei"
+		dynasty = "Umber"
+		birth_date = 1143.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Eldon"
+		monarch_name = "Eldon"
+		dynasty = "Umber"
+		birth_date = 1155.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1199.1.1 = {
+
+	monarch = {
+		name = "Gergen"
+		dynasty = "Umber"
+		birth_date = 1125.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Clayton"
+		monarch_name = "Clayton"
+		dynasty = "Umber"
+		birth_date = 1180.1.1
+		death_date = 1259.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1222.1.1 = {
+
+	monarch = {
+		name = "Mortimer"
+		dynasty = "Umber"
+		birth_date = 1190.1.1
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Egon"
+		monarch_name = "Egon"
+		dynasty = "Umber"
+		birth_date = 1201.1.1
+		death_date = 1275.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1232.1.1 = {
+
+	monarch = {
+		name = "Ralf"
+		dynasty = "Umber"
+		birth_date = 1193.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Tregar"
+		monarch_name = "Tregar"
+		dynasty = "Umber"
+		birth_date = 1203.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Belaquo"
+		dynasty = "Umber"
+		birth_date = 1224.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Antario"
+		monarch_name = "Antario"
+		dynasty = "Umber"
+		birth_date = 1256.1.1
+		death_date = 1315.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Josua"
+		dynasty = "Umber"
+		birth_date = 1210.1.1
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Brogg"
+		monarch_name = "Brogg"
+		dynasty = "Umber"
+		birth_date = 1277.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1365.1.1 = {
+
+	monarch = {
+		name = "Archibald"
+		dynasty = "Umber"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Sylwa"
+		monarch_name = "Sylwa"
+		dynasty = "Umber"
+		female = yes
+		birth_date = 1344.1.1
+		death_date = 1405.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 27
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Lake"
+		birth_date = 977.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Kenned"
+		monarch_name = "Kenned"
+		dynasty = "Lake"
+		birth_date = 997.1.1
+		death_date = 1080.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Lem"
+		dynasty = "Lake"
+		birth_date = 1064.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Larys"
+		monarch_name = "Larys"
+		dynasty = "Lake"
+		birth_date = 1068.1.1
+		death_date = 1173.1.1
+		claim = 76
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Hallis"
+		dynasty = "Lake"
+		birth_date = 1094.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Goady"
+		monarch_name = "Goady"
+		dynasty = "Lake"
+		birth_date = 1101.1.1
+		death_date = 1137.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Wallen"
+		dynasty = "Lake"
+		birth_date = 1126.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Lake"
+		birth_date = 1172.1.1
+		death_date = 1242.1.1
+		claim = 15
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1200.1.1 = {
+
+	monarch = {
+		name = "Zollo"
+		dynasty = "Lake"
+		birth_date = 1182.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Patrek"
+		monarch_name = "Patrek"
+		dynasty = "Lake"
+		birth_date = 1172.1.1
+		death_date = 1285.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Marwyn"
+		dynasty = "Lake"
+		birth_date = 1183.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Kojja"
+		monarch_name = "Kojja"
+		dynasty = "Lake"
+		birth_date = 1173.1.1
+		death_date = 1258.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1206.1.1 = {
+
+	monarch = {
+		name = "Haegon"
+		dynasty = "Lake"
+		birth_date = 1149.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Colemon"
+		monarch_name = "Colemon"
+		dynasty = "Lake"
+		birth_date = 1198.1.1
+		death_date = 1255.1.1
+		claim = 53
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1273.1.1 = {
+	monarch = {
+		name = "Joanna"
+		dynasty = "Lake"
+		female = yes
+		birth_date = 1204.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Davos"
+		monarch_name = "Davos"
+		dynasty = "Lake"
+		birth_date = 1261.1.1
+		death_date = 1304.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Joy"
+		dynasty = "Lake"
+		female = yes
+		birth_date = 1281.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Moredo"
+		monarch_name = "Moredo"
+		dynasty = "Lake"
+		birth_date = 1313.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Rhaego"
+		dynasty = "Lake"
+		birth_date = 1334.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Mollander"
+		monarch_name = "Mollander"
+		dynasty = "Lake"
+		birth_date = 1346.1.1
+		death_date = 1440.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Plummer"
+		dynasty = "Lake"
+		birth_date = 1314.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Clarence"
+		monarch_name = "Clarence"
+		dynasty = "Lake"
+		birth_date = 1361.1.1
+		death_date = 1397.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+

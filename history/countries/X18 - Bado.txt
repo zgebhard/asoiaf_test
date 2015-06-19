@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = xhaxos
+religion = asoiaf_summer_gods
+
+capital = 492
+
+1000.1.1 = {
+	monarch = {
+		name = "Rylene"
+		dynasty = "Bado"
+		female = yes
+		birth_date = 923.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Daven"
+		monarch_name = "Daven"
+		dynasty = "Bado"
+		birth_date = 979.1.1
+		death_date = 1062.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Pree"
+		dynasty = "Bado"
+		birth_date = 983.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Haegon"
+		monarch_name = "Haegon"
+		dynasty = "Bado"
+		birth_date = 1055.1.1
+		death_date = 1087.1.1
+		claim = 38
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1128.1.1 = {
+
+	monarch = {
+		name = "Malwyn"
+		dynasty = "Bado"
+		birth_date = 1058.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Harlon"
+		monarch_name = "Harlon"
+		dynasty = "Bado"
+		birth_date = 1119.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1176.1.1 = {
+
+	monarch = {
+		name = "Harghaz"
+		dynasty = "Bado"
+		birth_date = 1091.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Rolder"
+		monarch_name = "Rolder"
+		dynasty = "Bado"
+		birth_date = 1156.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Dacks"
+		dynasty = "Bado"
+		birth_date = 1103.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Rorge"
+		monarch_name = "Rorge"
+		dynasty = "Bado"
+		birth_date = 1153.1.1
+		death_date = 1218.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1190.1.1 = {
+
+	monarch = {
+		name = "Rhaego"
+		dynasty = "Bado"
+		birth_date = 1170.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Bado"
+		birth_date = 1189.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Stygg"
+		dynasty = "Bado"
+		birth_date = 1158.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Denyo"
+		monarch_name = "Denyo"
+		dynasty = "Bado"
+		birth_date = 1189.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1231.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Bado"
+		birth_date = 1145.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Grazdan"
+		monarch_name = "Grazdan"
+		dynasty = "Bado"
+		birth_date = 1203.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Eon"
+		dynasty = "Bado"
+		birth_date = 1235.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Garin"
+		monarch_name = "Garin"
+		dynasty = "Bado"
+		birth_date = 1230.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1261.1.1 = {
+
+	monarch = {
+		name = "Poul"
+		dynasty = "Bado"
+		birth_date = 1189.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rob"
+		monarch_name = "Rob"
+		dynasty = "Bado"
+		birth_date = 1251.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1351.1.1 = {
+
+	monarch = {
+		name = "Gilwood"
+		dynasty = "Bado"
+		birth_date = 1328.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Walder"
+		monarch_name = "Walder"
+		dynasty = "Bado"
+		birth_date = 1329.1.1
+		death_date = 1425.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+

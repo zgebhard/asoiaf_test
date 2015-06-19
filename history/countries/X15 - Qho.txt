@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = qho
+religion = asoiaf_summer_gods
+
+capital = 495
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Qho"
+		birth_date = 938.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Ryam"
+		monarch_name = "Ryam"
+		dynasty = "Qho"
+		birth_date = 989.1.1
+		death_date = 1016.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1007.1.1 = {
+
+	monarch = {
+		name = "Qalen"
+		dynasty = "Qho"
+		birth_date = 953.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Grisella"
+		monarch_name = "Grisella"
+		dynasty = "Qho"
+		female = yes
+		birth_date = 1002.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1085.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Qho"
+		birth_date = 1024.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Tarber"
+		monarch_name = "Tarber"
+		dynasty = "Qho"
+		birth_date = 1079.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1145.1.1 = {
+
+	monarch = {
+		name = "Kezmya"
+		dynasty = "Qho"
+		birth_date = 1122.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Murmison"
+		monarch_name = "Murmison"
+		dynasty = "Qho"
+		birth_date = 1122.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1172.1.1 = {
+
+	monarch = {
+		name = "Lommy"
+		dynasty = "Qho"
+		birth_date = 1117.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Hilmar"
+		monarch_name = "Hilmar"
+		dynasty = "Qho"
+		birth_date = 1171.1.1
+		death_date = 1251.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1188.1.1 = {
+
+	monarch = {
+		name = "Barristan"
+		dynasty = "Qho"
+		birth_date = 1155.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Lymond"
+		monarch_name = "Lymond"
+		dynasty = "Qho"
+		birth_date = 1187.1.1
+		death_date = 1260.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Cloen"
+		dynasty = "Qho"
+		birth_date = 1207.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Rolley"
+		monarch_name = "Rolley"
+		dynasty = "Qho"
+		birth_date = 1211.1.1
+		death_date = 1262.1.1
+		claim = 78
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1278.1.1 = {
+
+	monarch = {
+		name = "Watt"
+		dynasty = "Qho"
+		birth_date = 1212.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Jyzene"
+		monarch_name = "Jyzene"
+		dynasty = "Qho"
+		birth_date = 1265.1.1
+		death_date = 1331.1.1
+		claim = 65
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Jommo"
+		dynasty = "Qho"
+		birth_date = 1312.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Halys"
+		monarch_name = "Halys"
+		dynasty = "Qho"
+		birth_date = 1314.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1347.1.1 = {
+
+	monarch = {
+		name = "Robert"
+		dynasty = "Qho"
+		birth_date = 1296.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Haegon"
+		monarch_name = "Haegon"
+		dynasty = "Qho"
+		birth_date = 1322.1.1
+		death_date = 1402.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+

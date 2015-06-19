@@ -1,0 +1,13 @@
+# 1092 - Wou
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+religion = asoiaf_mixed_worship
+is_city = no
+hre = no
+
+
+native_size = 87
+native_ferocity = 1
+native_hostileness = 3

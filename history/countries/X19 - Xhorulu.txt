@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = xhorulu
+religion = asoiaf_summer_gods
+
+capital = 502
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Larence"
+		dynasty = "Xhorulu"
+		birth_date = 953.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Praed"
+		monarch_name = "Praed"
+		dynasty = "Xhorulu"
+		birth_date = 1000.1.1
+		death_date = 1036.1.1
+		claim = 47
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Lyman"
+		dynasty = "Xhorulu"
+		birth_date = 1010.1.1
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Albar"
+		monarch_name = "Albar"
+		dynasty = "Xhorulu"
+		birth_date = 1069.1.1
+		death_date = 1169.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Roggo"
+		dynasty = "Xhorulu"
+		birth_date = 1088.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Pia"
+		monarch_name = "Pia"
+		dynasty = "Xhorulu"
+		female = yes
+		birth_date = 1149.1.1
+		death_date = 1177.1.1
+		claim = 35
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Dermot"
+		dynasty = "Xhorulu"
+		birth_date = 1082.1.1
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Warryn"
+		monarch_name = "Warryn"
+		dynasty = "Xhorulu"
+		birth_date = 1155.1.1
+		death_date = 1205.1.1
+		claim = 39
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1192.1.1 = {
+
+	monarch = {
+		name = "Bryce"
+		dynasty = "Xhorulu"
+		birth_date = 1114.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Beldecar"
+		monarch_name = "Beldecar"
+		dynasty = "Xhorulu"
+		birth_date = 1180.1.1
+		death_date = 1263.1.1
+		claim = 43
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1230.1.1 = {
+	monarch = {
+		name = "Munciter"
+		dynasty = "Xhorulu"
+		female = yes
+		birth_date = 1204.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Bernarr"
+		monarch_name = "Bernarr"
+		dynasty = "Xhorulu"
+		birth_date = 1200.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Wynafryd"
+		dynasty = "Xhorulu"
+		female = yes
+		birth_date = 1162.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Gylbert"
+		monarch_name = "Gylbert"
+		dynasty = "Xhorulu"
+		birth_date = 1223.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1310.1.1 = {
+
+	monarch = {
+		name = "Ardrian"
+		dynasty = "Xhorulu"
+		birth_date = 1255.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Xhorulu"
+		birth_date = 1298.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Cadwyl"
+		dynasty = "Xhorulu"
+		birth_date = 1333.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Beldecar"
+		monarch_name = "Beldecar"
+		dynasty = "Xhorulu"
+		birth_date = 1340.1.1
+		death_date = 1386.1.1
+		claim = 73
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+}
+

@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = wildling_clan
+mercantilism = 0.1
+
+technology_group = wildling
+primary_culture = free_folk
+religion = asoiaf_the_old_gods
+
+capital = 2
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gunthor"
+		dynasty = "Thenn"
+		birth_date = 931.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Warren"
+		monarch_name = "Warren"
+		dynasty = "Thenn"
+		birth_date = 994.1.1
+		death_date = 1025.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Roro"
+		dynasty = "Thenn"
+		birth_date = 1007.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Dunsen"
+		monarch_name = "Dunsen"
+		dynasty = "Thenn"
+		birth_date = 1022.1.1
+		death_date = 1103.1.1
+		claim = 65
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1062.1.1 = {
+
+	monarch = {
+		name = "Visenya"
+		dynasty = "Thenn"
+		birth_date = 1022.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Harra"
+		monarch_name = "Harra"
+		dynasty = "Thenn"
+		birth_date = 1044.1.1
+		death_date = 1092.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Pyg"
+		dynasty = "Thenn"
+		birth_date = 1041.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Cregan"
+		monarch_name = "Cregan"
+		dynasty = "Thenn"
+		birth_date = 1071.1.1
+		death_date = 1145.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Joseran"
+		dynasty = "Thenn"
+		birth_date = 1020.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Ezzelnyo"
+		monarch_name = "Ezzelnyo"
+		dynasty = "Thenn"
+		birth_date = 1089.1.1
+		death_date = 1168.1.1
+		claim = 7
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1188.1.1 = {
+
+	monarch = {
+		name = "Bennarion"
+		dynasty = "Thenn"
+		birth_date = 1154.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Thenn"
+		birth_date = 1176.1.1
+		death_date = 1210.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1223.1.1 = {
+
+	monarch = {
+		name = "Royce"
+		dynasty = "Thenn"
+		birth_date = 1186.1.1
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Harlan"
+		monarch_name = "Harlan"
+		dynasty = "Thenn"
+		birth_date = 1206.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Ashford"
+		dynasty = "Thenn"
+		birth_date = 1243.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Kym"
+		monarch_name = "Kym"
+		dynasty = "Thenn"
+		birth_date = 1309.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1348.1.1 = {
+
+	monarch = {
+		name = "Quort"
+		dynasty = "Thenn"
+		birth_date = 1331.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Bennarion"
+		monarch_name = "Bennarion"
+		dynasty = "Thenn"
+		birth_date = 1320.1.1
+		death_date = 1417.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Godwyn"
+		dynasty = "Thenn"
+		birth_date = 1297.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gared"
+		monarch_name = "Gared"
+		dynasty = "Thenn"
+		birth_date = 1348.1.1
+		death_date = 1371.1.1
+		claim = 37
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+

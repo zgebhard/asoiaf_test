@@ -1,0 +1,188 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 168
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Prester"
+		birth_date = 978.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Syrio"
+		monarch_name = "Syrio"
+		dynasty = "Prester"
+		birth_date = 991.1.1
+		death_date = 1043.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Prester"
+		birth_date = 971.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Elbert"
+		monarch_name = "Elbert"
+		dynasty = "Prester"
+		birth_date = 1040.1.1
+		death_date = 1106.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Harodon"
+		dynasty = "Prester"
+		birth_date = 1042.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Gilly"
+		monarch_name = "Gilly"
+		dynasty = "Prester"
+		female = yes
+		birth_date = 1106.1.1
+		death_date = 1151.1.1
+		claim = 72
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Greydon"
+		dynasty = "Prester"
+		birth_date = 1178.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Iggo"
+		monarch_name = "Iggo"
+		dynasty = "Prester"
+		birth_date = 1189.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1236.1.1 = {
+
+	monarch = {
+		name = "Zei"
+		dynasty = "Prester"
+		birth_date = 1215.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Samwell"
+		monarch_name = "Samwell"
+		dynasty = "Prester"
+		birth_date = 1211.1.1
+		death_date = 1267.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Roryn"
+		dynasty = "Prester"
+		birth_date = 1265.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Prester"
+		birth_date = 1272.1.1
+		death_date = 1366.1.1
+		claim = 54
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1337.1.1 = {
+
+	monarch = {
+		name = "Tybolt"
+		dynasty = "Prester"
+		birth_date = 1261.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Rowan"
+		monarch_name = "Rowan"
+		dynasty = "Prester"
+		birth_date = 1316.1.1
+		death_date = 1417.1.1
+		claim = 45
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+}
+

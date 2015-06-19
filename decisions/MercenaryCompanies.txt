@@ -1,0 +1,226 @@
+country_decisions = {
+
+	# Add events involving disputed which can cut short the modifier
+	# Limited to one country in the world at once
+	employ_the_golden_company = {
+		potential = {
+			NOT = { has_country_modifier = employing_the_golden_company }
+			OR = {
+				technology_group = eastern
+				technology_group = western
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = employing_the_golden_company }
+			treasury = 1000
+			all_country = {  
+				NOT = { has_country_modifier = employing_the_golden_company }
+			}
+		}
+		effect = {
+			add_treasury = -1000
+			add_country_modifier = {
+				name = employing_the_golden_company
+				duration = 365 
+			}
+			capital_scope = {
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 2000 }
+			}
+		}
+	}
+	
+	employ_the_brave_companions = {
+		potential = {
+			NOT = { has_country_modifier = employing_the_brave_companions }
+			OR = {
+				technology_group = eastern
+				technology_group = western
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = employing_the_brave_companions }
+			treasury = 250
+			all_country = {  
+				NOT = { has_country_modifier = employing_the_brave_companions }
+			}
+		}
+		effect = {
+			add_treasury = -250
+			add_country_modifier = {
+				name = employing_the_brave_companions
+				duration = 365 
+			}
+			capital_scope = {
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_cavalry = ROOT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 1000 }
+			}
+		}
+	}
+	
+	employ_the_second_sons = {
+		potential = {
+			NOT = { has_country_modifier = employing_the_second_sons }
+			OR = {
+				technology_group = eastern
+				technology_group = western
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = employing_the_second_sons }
+			treasury = 500
+			all_country = {  
+				NOT = { has_country_modifier = employing_the_second_sons }
+			}
+		}
+		effect = {
+			add_treasury = -500
+			add_country_modifier = {
+				name = employing_the_second_sons
+				duration = 365 
+			}
+			capital_scope = {
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 1000 }
+			}
+		}
+	}
+	
+	employ_the_stormcrows = {
+		potential = {
+			NOT = { has_country_modifier = employing_the_stormcrows }
+			OR = {
+				technology_group = eastern
+				technology_group = western
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = employing_the_stormcrows }
+			treasury = 500
+			all_country = {  
+				NOT = { has_country_modifier = employing_the_stormcrows }
+			}
+		}
+		effect = {
+			add_treasury = -500
+			add_country_modifier = {
+				name = employing_the_stormcrows
+				duration = 365 
+			}
+			capital_scope = {
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 1000 }
+			}
+		}
+	}
+	
+	employ_the_windblown = {
+		potential = {
+			NOT = { has_country_modifier = employing_the_windblown }
+			OR = {
+				technology_group = eastern
+				technology_group = western
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = employing_the_windblown }
+			treasury = 500
+			all_country = {  
+				NOT = { has_country_modifier = employing_the_windblown }
+			}
+		}
+		effect = {
+			add_treasury = -500
+			add_country_modifier = {
+				name = employing_the_windblown
+				duration = 365 
+			}
+			capital_scope = {
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_infantry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+				mercenary_cavalry = ROOT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 1000 }
+			}
+		}
+	}
+}

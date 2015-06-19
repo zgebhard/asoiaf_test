@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+	monarch = {
+		name = "Adam"
+		dynasty = "Brune"
+		female = yes
+		birth_date = 969.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Jothos"
+		monarch_name = "Jothos"
+		dynasty = "Brune"
+		birth_date = 971.1.1
+		death_date = 1044.1.1
+		claim = 67
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Temmo"
+		dynasty = "Brune"
+		birth_date = 1001.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Domeric"
+		monarch_name = "Domeric"
+		dynasty = "Brune"
+		birth_date = 1014.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1109.1.1 = {
+
+	monarch = {
+		name = "Duram"
+		dynasty = "Brune"
+		birth_date = 1087.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Vaellyn"
+		monarch_name = "Vaellyn"
+		dynasty = "Brune"
+		birth_date = 1089.1.1
+		death_date = 1164.1.1
+		claim = 74
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Sloey"
+		dynasty = "Brune"
+		birth_date = 1076.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Meribold"
+		monarch_name = "Meribold"
+		dynasty = "Brune"
+		birth_date = 1121.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Theomar"
+		dynasty = "Brune"
+		birth_date = 1138.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Leyton"
+		monarch_name = "Leyton"
+		dynasty = "Brune"
+		birth_date = 1149.1.1
+		death_date = 1220.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1228.1.1 = {
+
+	monarch = {
+		name = "Ossifer"
+		dynasty = "Brune"
+		birth_date = 1166.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Lorren"
+		monarch_name = "Lorren"
+		dynasty = "Brune"
+		birth_date = 1225.1.1
+		death_date = 1278.1.1
+		claim = 94
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Edmure"
+		dynasty = "Brune"
+		birth_date = 1164.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Brune"
+		birth_date = 1218.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Brune"
+		birth_date = 1215.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Vylarr"
+		monarch_name = "Vylarr"
+		dynasty = "Brune"
+		birth_date = 1235.1.1
+		death_date = 1301.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1331.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Brune"
+		birth_date = 1289.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Waldon"
+		monarch_name = "Waldon"
+		dynasty = "Brune"
+		birth_date = 1304.1.1
+		death_date = 1357.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Melaquin"
+		dynasty = "Brune"
+		female = yes
+		birth_date = 1304.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Bernarr"
+		monarch_name = "Bernarr"
+		dynasty = "Brune"
+		birth_date = 1318.1.1
+		death_date = 1372.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Tyland"
+		dynasty = "Brune"
+		birth_date = 1299.1.1
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Brune"
+		birth_date = 1382.1.1
+		death_date = 1443.1.1
+		claim = 96
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+

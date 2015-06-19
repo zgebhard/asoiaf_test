@@ -1,0 +1,297 @@
+# country
+on_startup = {
+	events = {
+		META_EVENTS.5
+	}
+}
+
+# country
+on_religion_change = {
+	
+}
+
+# country. Spawned when Enforcing Rebel Demands through a Support Rebels-war.
+on_enforce_rebel_demands = {
+	# ROOT = The winning country
+	# FROM = The loosing country
+	set_country_flag = helped_rebels_win_war
+}
+
+# country
+on_colonial_liberation = {
+
+}
+
+# country
+on_colonial_reintegration = {
+
+}
+
+# country
+on_peace_actor = {
+
+}
+
+# country
+on_peace_recipient = {
+
+}
+
+# country
+# root = winning country, from = loser country
+on_war_won = {
+}
+
+# country
+# root = loser country, from = winner country
+on_war_lost = {
+}
+
+# country
+# root = winning country, from = loser country
+on_battle_won_country = {
+	random_events = {
+		100 = BATTLE_EVENTS.1
+		10000 = 0
+	}
+}
+
+# country
+# root = loser country, from = winner country
+on_battle_lost_country = {
+	random_events = {
+		100 = BATTLE_EVENTS.2
+		10000 = 0
+	}
+}
+
+# province
+# root = location, from = loser country
+on_battle_won_province = {
+	
+}
+
+# province
+# root = location, from = country doing it
+on_added_to_trade_company ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_removed_from_company ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_company_formed ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_company_disolved ={
+
+}
+
+# province
+# root = location, from = winner country
+on_battle_lost_province = {
+
+}
+
+# country
+# root = winning country, from = location
+on_siege_won_country = {
+
+}
+
+# country
+# root = losing country, from = location
+on_siege_lost_country = {
+}
+
+# province
+# root = location, from = losing country
+on_siege_won_province = {
+}
+
+# province
+# root = location, from = winning country
+on_siege_lost_province =  {
+
+}
+
+# province
+# root = location, from = country that abandons colony
+# Fired right before the colony is abandoned.
+on_abandon_colony = {
+}
+
+# country 
+on_new_monarch = {
+	events = {
+		GOVERNMENT_EVENTS.4
+	}
+}
+
+# country 
+on_regent = {
+
+}
+
+# country 
+on_new_term_election = {
+	events = {
+		GOVERNMENT_EVENTS.1
+		GOVERNMENT_EVENTS.2
+	}
+}
+
+# country 
+on_death_election = {
+	events = {
+		GOVERNMENT_EVENTS.1
+		GOVERNMENT_EVENTS.2
+	}
+}
+
+# country (country annexing, root = target)
+on_diplomatic_annex = {
+	events = {
+		610
+	}
+}
+
+# country 
+on_weak_heir_claim = {
+	events = {
+		611
+	}
+}
+
+# Emperor from same dynasty
+on_successive_emperor = {
+
+}
+
+# HRE Prince released by the emperor
+on_released_hre_member = {
+
+}
+
+# HRE Prince converts to non-Emperor religion
+on_hre_member_false_religion = {
+
+}
+
+# HRE Prince converts to Emperor religion
+on_hre_member_true_religion = {
+
+}
+
+# Emperor wins HRE defensive war
+on_hre_wins_defensive_war = {
+
+}
+
+# HRE member annexed by non-HRE country
+on_hre_member_annexed = {
+
+}
+
+# HRE member released from non-HRE vassalage
+on_hre_released_vassal = {
+
+}
+
+# Emperor coming to the defense of a HRE member
+on_hre_defense = {
+
+}
+
+# Emperor NOT coming to the defense of a HRE member
+on_hre_non_defense = {
+
+}
+
+# HRE Member takes a HRE province from an outs100e country in a peace (province scope)
+on_hre_province_reconquest = {
+
+}
+
+# When a native changes government after filling all their advancement groups.
+on_native_change_government = {
+}
+
+# Nation is integrated after being in union
+on_integrate = {
+
+}
+
+# Nation annexed
+on_annexed = {
+
+}
+
+# Nation westernized
+# root = country
+on_westernized = {
+
+}
+
+on_dismantle_revolution = {
+	set_revolution_target = xxx
+}
+
+on_lock_hre_religion = {
+
+}
+
+on_change_hre_religion = {
+
+}
+
+on_hre_religion_white_peace = {
+
+}
+
+on_overextension_pulse = {
+
+}
+
+on_westernisation_pulse = {
+
+}
+
+on_colonial_pulse = {
+
+}
+
+# country random events
+on_bi_yearly_pulse = {
+	
+}
+
+
+# country random events
+on_thri_yearly_pulse = {
+	
+}
+
+on_five_year_pulse = {
+	
+}
+
+on_conquistador_native = {
+	
+}
+
+on_buy_religious_reform = {
+	
+}
+
+on_circumnavigation = {
+	
+}

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 262
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harsley"
+		dynasty = "Grimm"
+		birth_date = 938.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Royce"
+		monarch_name = "Royce"
+		dynasty = "Grimm"
+		birth_date = 1000.1.1
+		death_date = 1036.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1014.1.1 = {
+
+	monarch = {
+		name = "Perriane"
+		dynasty = "Grimm"
+		birth_date = 992.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Warren"
+		monarch_name = "Warren"
+		dynasty = "Grimm"
+		birth_date = 1006.1.1
+		death_date = 1056.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1044.1.1 = {
+
+	monarch = {
+		name = "Kromm"
+		dynasty = "Grimm"
+		birth_date = 1010.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Grimm"
+		birth_date = 1023.1.1
+		death_date = 1129.1.1
+		claim = 61
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Sumner"
+		dynasty = "Grimm"
+		birth_date = 1022.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Kraznys"
+		monarch_name = "Kraznys"
+		dynasty = "Grimm"
+		birth_date = 1065.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1155.1.1 = {
+
+	monarch = {
+		name = "Harle"
+		dynasty = "Grimm"
+		birth_date = 1081.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Betharious"
+		monarch_name = "Betharious"
+		dynasty = "Grimm"
+		birth_date = 1143.1.1
+		death_date = 1236.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Qarro"
+		dynasty = "Grimm"
+		birth_date = 1168.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Willit"
+		monarch_name = "Willit"
+		dynasty = "Grimm"
+		birth_date = 1208.1.1
+		death_date = 1272.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1253.1.1 = {
+
+	monarch = {
+		name = "Garin"
+		dynasty = "Grimm"
+		birth_date = 1210.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Roland"
+		monarch_name = "Roland"
+		dynasty = "Grimm"
+		birth_date = 1227.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Lharys"
+		dynasty = "Grimm"
+		birth_date = 1246.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Waymar"
+		monarch_name = "Waymar"
+		dynasty = "Grimm"
+		birth_date = 1312.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1354.1.1 = {
+
+	monarch = {
+		name = "Rafe"
+		dynasty = "Grimm"
+		birth_date = 1338.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Grance"
+		monarch_name = "Grance"
+		dynasty = "Grimm"
+		birth_date = 1338.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+

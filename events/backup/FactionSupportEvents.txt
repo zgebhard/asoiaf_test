@@ -1,0 +1,768 @@
+namespace = FACTION_SUPPORT_EVENTS
+
+# Monarchy
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.1
+	title = "FACTION_SUPPORT_EVENTS.1.title"
+	desc = "FACTION_SUPPORT_EVENTS.1.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_monarchy_maesters value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = monarchy_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+		
+		add_dip_power = -25
+		change_variable = { which = faction_monarchy_merchants value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = monarchy_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_monarchy_soldiers value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = monarchy_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.4"
+		
+		trigger = {
+			adm_power = 10
+			dip_power = 10
+			mil_power = 10
+		}
+		
+		add_adm_power = -10
+		add_dip_power = -10
+		add_mil_power = -10
+		
+		change_variable = { which = faction_monarchy_nobles value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = monarchy_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.5"
+		
+		trigger = {
+			years_of_income = 0.5
+		}
+		
+		add_years_of_income = -0.5
+		change_variable = { which = faction_monarchy_peasants value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = monarchy_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.1.option.6"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Republic
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.2
+	title = "FACTION_SUPPORT_EVENTS.2.title"
+	desc = "FACTION_SUPPORT_EVENTS.2.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_republic_magisters value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = republic_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+		
+		add_dip_power = -25
+		change_variable = { which = faction_republic_merchants value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = republic_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_republic_soldiers value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = republic_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.4"
+		
+		trigger = {
+			adm_power = 10
+			dip_power = 10
+			mil_power = 10
+		}
+		
+		add_adm_power = -10
+		add_dip_power = -10
+		add_mil_power = -10
+		
+		change_variable = { which = faction_republic_nobles value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = republic_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.5"
+		
+		trigger = {
+			years_of_income = 0.5
+		}
+		
+		add_years_of_income = -0.5
+		change_variable = { which = faction_republic_peasants value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = republic_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.2.option.6"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Qarth
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.3
+	title = "FACTION_SUPPORT_EVENTS.3.title"
+	desc = "FACTION_SUPPORT_EVENTS.3.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.3.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_qarth_thirteen value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = qarth_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.3.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+		
+		add_dip_power = -25
+		change_variable = { which = faction_qarth_ancient_guild value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = qarth_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.3.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_qarth_tourmaline value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = qarth_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.3.option.4"
+		
+		trigger = {
+			years_of_income = 1
+		}
+		
+		add_years_of_income = -1
+		change_variable = { which = faction_qarth_pureborn value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = qarth_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.3.option.5"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Tribal
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.4
+	title = "FACTION_SUPPORT_EVENTS.4.title"
+	desc = "FACTION_SUPPORT_EVENTS.4.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.4.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_tribal_elders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = tribal_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.4.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+		
+		add_dip_power = -25
+		change_variable = { which = faction_tribal_craftsmen value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = tribal_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.4.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_tribal_warriors value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = tribal_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.4.option.4"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Khas
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.5
+	title = "FACTION_SUPPORT_EVENTS.5.title"
+	desc = "FACTION_SUPPORT_EVENTS.5.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.5.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_khas_dosh_khaleen value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = khas_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.5.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+
+		add_dip_power = -25
+		change_variable = { which = faction_khas_traders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = khas_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.5.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_khas_bloodriders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = khas_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.5.option.4"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Night's Watch
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.6
+	title = "FACTION_SUPPORT_EVENTS.6.title"
+	desc = "FACTION_SUPPORT_EVENTS.6.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.6.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_nw_stewards value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = nw_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.6.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+
+		add_dip_power = -25
+		change_variable = { which = faction_nw_builders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = nw_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.6.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_nw_rangers value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = nw_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.5.option.4"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+# Pirates
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.7
+	title = "FACTION_SUPPORT_EVENTS.7.title"
+	desc = "FACTION_SUPPORT_EVENTS.7.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.7.option.1"
+		
+		trigger = {
+			adm_power = 25
+		}
+		
+		add_adm_power = -25
+		change_variable = { which = faction_pirate_spenders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = pirate_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.7.option.2"
+		
+		trigger = {
+			dip_power = 25
+		}
+
+		add_dip_power = -25
+		change_variable = { which = faction_pirate_traders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = pirate_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.7.option.3"
+		
+		trigger = {
+			mil_power = 25
+		}
+		
+		add_mil_power = -25
+		change_variable = { which = faction_pirate_raiders value = 1 }
+		
+		hidden_effect = {
+			add_country_modifier = {
+				name = pirate_faction_timer
+				duration = 365
+			}
+		}
+		
+		ai_chance = { 
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.7.option.4"
+		
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	id = FACTION_SUPPORT_EVENTS.100
+	title = "FACTION_SUPPORT_EVENTS.100.title"
+	desc = "FACTION_SUPPORT_EVENTS.100.desc"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	hidden = yes
+	
+	option = {
+		name = "FACTION_SUPPORT_EVENTS.100.option.1"
+		
+		# Monarchy
+		set_variable = { which = faction_monarchy_maesters value = 0 }
+		set_variable = { which = faction_monarchy_merchants value = 0 }
+		set_variable = { which = faction_monarchy_soldiers value = 0 }
+		set_variable = { which = faction_monarchy_nobles value = 0 }
+		set_variable = { which = faction_monarchy_peasants value = 0 }
+		
+		# Republic
+		set_variable = { which = faction_republic_magisters value = 0 }
+		set_variable = { which = faction_republic_merchants value = 0 }
+		set_variable = { which = faction_republic_soldiers value = 0 }
+		set_variable = { which = faction_republic_nobles value = 0 }
+		set_variable = { which = faction_republic_peasants value = 0 }
+		
+		# Qarth
+		set_variable = { which = faction_qarth_thirteen value = 0 }
+		set_variable = { which = faction_qarth_ancient_guild value = 0 }
+		set_variable = { which = faction_qarth_tourmaline value = 0 }
+		set_variable = { which = faction_qarth_pureborn value = 0 }
+		
+		# Tribal
+		set_variable = { which = faction_tribal_elders value = 0 }
+		set_variable = { which = faction_tribal_craftsmen value = 0 }
+		set_variable = { which = faction_tribal_warriors value = 0 }
+		
+		# Khas
+		set_variable = { which = faction_khas_dosh_khaleen value = 0 }
+		set_variable = { which = faction_khas_traders value = 0 }
+		set_variable = { which = faction_khas_bloodriders value = 0 }
+		
+		# Night's Watch
+		set_variable = { which = faction_nw_stewards value = 0 }
+		set_variable = { which = faction_nw_builders value = 0 }
+		set_variable = { which = faction_nw_rangers value = 0 }
+		
+		# Pirates
+		set_variable = { which = faction_pirate_spenders value = 0 }
+		set_variable = { which = faction_pirate_traders value = 0 }
+		set_variable = { which = faction_pirate_raiders value = 0 }
+	}
+}
+
+
+

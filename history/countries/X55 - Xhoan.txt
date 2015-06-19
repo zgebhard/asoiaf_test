@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = moyne
+religion = asoiaf_summer_gods
+
+capital = 514
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gyloro"
+		dynasty = "Xhoan"
+		birth_date = 928.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Beck"
+		monarch_name = "Beck"
+		dynasty = "Xhoan"
+		birth_date = 999.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1078.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Xhoan"
+		birth_date = 1051.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Alerie"
+		monarch_name = "Alerie"
+		dynasty = "Xhoan"
+		birth_date = 1049.1.1
+		death_date = 1131.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1095.1.1 = {
+
+	monarch = {
+		name = "Amell"
+		dynasty = "Xhoan"
+		birth_date = 1019.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Kella"
+		monarch_name = "Kella"
+		dynasty = "Xhoan"
+		birth_date = 1073.1.1
+		death_date = 1165.1.1
+		claim = 21
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Ned"
+		dynasty = "Xhoan"
+		birth_date = 1026.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Rosey"
+		monarch_name = "Rosey"
+		dynasty = "Xhoan"
+		female = yes
+		birth_date = 1083.1.1
+		death_date = 1127.1.1
+		claim = 24
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1183.1.1 = {
+	monarch = {
+		name = "Nysterica"
+		dynasty = "Xhoan"
+		female = yes
+		birth_date = 1152.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Hyle"
+		monarch_name = "Hyle"
+		dynasty = "Xhoan"
+		birth_date = 1167.1.1
+		death_date = 1227.1.1
+		claim = 67
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Godric"
+		dynasty = "Xhoan"
+		birth_date = 1167.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Edric"
+		monarch_name = "Edric"
+		dynasty = "Xhoan"
+		birth_date = 1197.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1239.1.1 = {
+
+	monarch = {
+		name = "Rhogoro"
+		dynasty = "Xhoan"
+		birth_date = 1154.1.1
+		adm = 6
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Narbo"
+		monarch_name = "Narbo"
+		dynasty = "Xhoan"
+		birth_date = 1219.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Meizo"
+		dynasty = "Xhoan"
+		birth_date = 1250.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Otter"
+		monarch_name = "Otter"
+		dynasty = "Xhoan"
+		birth_date = 1274.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1329.1.1 = {
+
+	monarch = {
+		name = "Salladhor"
+		dynasty = "Xhoan"
+		birth_date = 1310.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Jafer"
+		monarch_name = "Jafer"
+		dynasty = "Xhoan"
+		birth_date = 1315.1.1
+		death_date = 1377.1.1
+		claim = 34
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+

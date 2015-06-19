@@ -1,0 +1,501 @@
+country_decisions = {
+
+	hold_a_feast = {
+		potential = {
+			NOT = { has_country_modifier = held_a_feast }
+			any_country = {
+				technology_group = ROOT
+			}
+			years_of_income = 1
+			always = no
+		}
+		allow = {
+			NOT = { has_country_modifier = held_a_feast }
+			any_country = {
+				technology_group = ROOT
+			}
+			dip_power = 50
+		}
+		effect = {
+			add_dip_power = -50
+			every_country = {
+				limit = { 
+					AND = {
+						technology_group = ROOT 
+						NOT = { is_rival = ROOT }
+						NOT = { is_enemy = ROOT }
+					}
+					NOT = { tag = REB }
+					NOT = { tag = NAT }
+					NOT = { tag = PIR }
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = held_a_feast
+				}	
+			}
+			add_country_modifier = {
+				name = held_a_feast
+				duration = 365
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				NOT = { dip_power = 500 }
+			}
+		}
+	}
+	
+	practice_the_act_of_lovemaking = {
+		potential = {
+			culture_group = culture_summer_isles
+			NOT = { has_ruler_modifier = act_of_lovemaking }
+		}
+		allow = {
+			culture_group = culture_summer_isles
+			NOT = { has_ruler_modifier = act_of_lovemaking }
+			adm_power = 50
+		}
+		effect = {
+			add_adm_power = -50
+			add_ruler_modifier = {
+				name = act_of_lovemaking
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { adm_power = 600 }
+			}
+		}
+	}
+	
+	construct_swan_ships = {
+		potential = {
+			culture_group = culture_summer_isles
+			NOT = { has_country_modifier = constructing_swan_ships }
+			OR = { 	
+				has_idea_group = naval_ideas
+				has_idea_group = maritime_ideas
+			}
+		}
+		allow = {
+			culture_group = culture_summer_isles
+			NOT = { has_country_modifier = constructing_swan_ships }
+			OR = { 	
+				has_idea_group = naval_ideas
+				has_idea_group = maritime_ideas
+			}
+			dip_power = 50
+		}
+		effect = {
+			add_dip_power = -50
+			add_country_modifier = {
+				name = constructing_swan_ships
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { dip_power = 400 }
+			}
+		}
+	}
+	
+	export_goldenwood_bows = {
+		potential = {
+			culture_group = culture_summer_isles
+			has_idea_group = trade_ideas
+			NOT = { has_ruler_modifier = exported_goldenwood_bows }
+		}
+		allow = {
+			culture_group = culture_summer_isles
+			has_idea_group = trade_ideas
+			dip_power = 100
+			NOT = { has_ruler_modifier = exported_goldenwood_bows }
+		}
+		effect = {
+			add_dip_power = -100
+			add_ruler_modifier = {
+				name = exported_goldenwood_bows
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { dip_power = 600 }
+			}
+		}
+	}
+	
+	bar_the_passes = {
+		potential = {
+			primary_culture = sand_dornish 
+			AND = {
+				owns = 328
+				owns = 330
+			}
+		}
+		allow = {
+			primary_culture = sand_dornish
+			AND = {
+				owns = 328
+				owns = 330
+			}
+			mil_power = 100
+		}
+		effect = {
+			328 = {
+				add_province_modifier = {
+					name = fortified_pass
+					duration = 720
+				}
+			}
+			330 = {
+				add_province_modifier = {
+					name = fortified_pass
+					duration = 720
+				}
+			}
+			add_mil_power = -100
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { mil_power = 400 }
+				NOT = { is_at_war = yes }
+			}
+		}
+	}
+	
+	cultivate_sand_steeds = {
+		potential = {
+			primary_culture = sand_dornish 
+			NOT = { has_country_modifier = cultivating_sand_steeds }
+		}
+		allow = {
+			primary_culture = sand_dornish
+			NOT = { has_country_modifier = cultivating_sand_steeds }
+			adm_power = 100
+			mil_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			add_mil_power = -100
+			add_country_modifier = {
+				name = cultivating_sand_steeds
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				NOT = { is_at_war = yes }
+			}
+		}
+	}
+	
+	strengthen_trade_with_essos = {
+		potential = {
+			technology_group = western
+			any_active_trade_node = {  
+				continent = continent_essos
+				is_strongest_trade_power = ROOT
+			}
+		}
+		allow = {
+			technology_group = western
+			dip_power = 100
+			any_active_trade_node = {  
+				continent = continent_essos
+				is_strongest_trade_power = ROOT
+			}
+		}
+		effect = {
+			add_dip_power = -100
+			add_country_modifier = {
+				name = trade_links_with_essos
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 0
+				
+				NOT = { dip_power = 400 }
+			}
+		}
+	}
+	
+	chop_down_the_forests = {
+		potential = {
+			any_owned_province = {  
+				has_terrain = forest
+			}
+			NOT = { has_country_modifier = abundant_timber }
+			always = no
+		}
+		allow = {
+			any_owned_province = {  
+				has_terrain = forest
+			}
+			NOT = { has_country_modifier = abundant_timber }
+			adm_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			
+			random_owned_province = {
+				limit = {
+					has_terrain = forest
+				}
+				add_unrest = 2
+			}
+			
+			add_country_modifier = {
+				name = abundant_timber
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 0
+				
+				NOT = { adm_power = 400 }
+			}
+		}
+	}
+	
+	repair_the_roads = {
+		potential = {
+			NOT = {
+				OR = {
+					technology_group = dothraki
+					technology_group = wildling
+				}
+			}
+			total_base_tax = 40
+			NOT = { has_country_modifier = repaired_roads }
+		}
+		allow = {
+			adm_power = 100
+			treasury = 250
+			NOT = { has_country_modifier = repaired_roads }
+		}
+		effect = {
+			add_adm_power = -100
+			add_treasury = -250
+			
+			add_country_modifier = {
+				name = repaired_roads
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 0
+				
+				NOT = { adm_power = 400 }
+				NOT = { treasury = 1000 }
+			}
+		}
+	}
+	
+	consult_the_alchemists_guild = {
+		potential = {
+			technology_group = western
+			treasury = 500
+			NOT = { has_country_flag = consulted_the_alchemists_guild }
+		}
+		allow = {
+			treasury = 500
+			226 = {
+				owner = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+			NOT = { has_country_flag = consulted_the_alchemists_guild }
+		}
+		effect = {
+			add_treasury = -500
+			set_country_flag = consulted_the_alchemists_guild
+			
+			random = {
+				chance = 33
+				
+				add_country_modifier = {
+					name = alchemists_fire
+					duration = 720
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 0
+				
+				NOT = { treasury = 10000 }
+			}
+		}
+	}
+	
+	commision_runestone = {
+		potential = {
+			technology_group = wildling
+			NOT = { has_country_modifier = commissioned_runestone }
+		}
+		allow = {
+			technology_group = wildling
+			years_of_income = 1
+			NOT = { has_country_modifier = commissioned_runestone }
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_adm_power = -25
+			add_dip_power = -25
+			add_mil_power = -25
+			
+			add_country_modifier = {
+				name = commissioned_runestone
+				duration = 365
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { adm_power = 100 }
+				NOT = { dip_power = 100 }
+				NOT = { mil_power = 100 }
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	build_more_pleasure_houses = {
+		potential = {
+			OR = {
+				technology_group = western
+				technology_group = eastern
+			}
+		}
+		allow = {
+			OR = {
+				technology_group = western
+				technology_group = eastern
+			}
+			NOT = { has_country_modifier = built_pleasure_houses }
+			adm_power = 100
+		}
+		effect = {	
+			add_country_modifier = {
+				name = built_pleasure_houses
+				duration = 3650
+			}
+			add_adm_power = -100
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				NOT = { monthly_income = 10 }
+			}
+		}
+	}
+	
+	negotiate_with_the_iron_bank = {
+		potential = {
+			NOT = { has_country_flag = talked_to_the_iron_bank }
+		}
+		allow = {
+			NOT = { has_country_flag = talked_to_the_iron_bank }
+			NOT = { primary_culture = braavosi }
+			has_global_modifier_value = {
+				which = diplomatic_reputation
+				value = 5
+			}
+			dip_power = 100
+		}
+		effect = {
+			add_dip_power = -100
+			loan_size = 240
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				NOT = { dip_power = 600 }
+			}
+		}
+	}
+	
+	enlist_privateers = {
+		potential = {
+			NOT = { has_country_modifier = hire_privateers }
+			num_of_ports = 1
+		}
+		allow = {
+			navy_size_percentage = 0.5
+			full_idea_group = maritime_ideas
+			mil = 3
+		}
+		effect = {
+			add_country_modifier = {
+				name = "hire_privateers"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

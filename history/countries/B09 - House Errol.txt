@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 298
+
+1000.1.1 = {
+	monarch = {
+		name = "Helya"
+		dynasty = "Errol"
+		female = yes
+		birth_date = 954.1.1
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Qhorin"
+		monarch_name = "Qhorin"
+		dynasty = "Errol"
+		birth_date = 994.1.1
+		death_date = 1080.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Vickon"
+		dynasty = "Errol"
+		birth_date = 1030.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Artys"
+		monarch_name = "Artys"
+		dynasty = "Errol"
+		birth_date = 1040.1.1
+		death_date = 1124.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Grubbs"
+		dynasty = "Errol"
+		birth_date = 1084.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Illifer"
+		monarch_name = "Illifer"
+		dynasty = "Errol"
+		birth_date = 1126.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Errol"
+		birth_date = 1130.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Andros"
+		monarch_name = "Andros"
+		dynasty = "Errol"
+		birth_date = 1153.1.1
+		death_date = 1256.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Leobald"
+		dynasty = "Errol"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Clarence"
+		monarch_name = "Clarence"
+		dynasty = "Errol"
+		birth_date = 1245.1.1
+		death_date = 1313.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1285.1.1 = {
+
+	monarch = {
+		name = "Duram"
+		dynasty = "Errol"
+		birth_date = 1239.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Errol"
+		birth_date = 1264.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Ronnel"
+		dynasty = "Errol"
+		birth_date = 1291.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Dennis"
+		monarch_name = "Dennis"
+		dynasty = "Errol"
+		birth_date = 1343.1.1
+		death_date = 1444.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1367.1.1 = {
+
+	monarch = {
+		name = "Cohollo"
+		dynasty = "Errol"
+		birth_date = 1281.1.1
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Colen"
+		monarch_name = "Colen"
+		dynasty = "Errol"
+		birth_date = 1366.1.1
+		death_date = 1437.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+

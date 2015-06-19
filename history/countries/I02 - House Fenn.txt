@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 70
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Daeron"
+		dynasty = "Fenn"
+		birth_date = 917.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Wate"
+		monarch_name = "Wate"
+		dynasty = "Fenn"
+		birth_date = 991.1.1
+		death_date = 1036.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1068.1.1 = {
+
+	monarch = {
+		name = "Del"
+		dynasty = "Fenn"
+		birth_date = 979.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Loreza"
+		monarch_name = "Loreza"
+		dynasty = "Fenn"
+		birth_date = 1068.1.1
+		death_date = 1127.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1128.1.1 = {
+
+	monarch = {
+		name = "Osbert"
+		dynasty = "Fenn"
+		birth_date = 1077.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Stiv"
+		monarch_name = "Stiv"
+		dynasty = "Fenn"
+		birth_date = 1107.1.1
+		death_date = 1192.1.1
+		claim = 94
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Wendello"
+		dynasty = "Fenn"
+		birth_date = 1126.1.1
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Sigrin"
+		monarch_name = "Sigrin"
+		dynasty = "Fenn"
+		birth_date = 1214.1.1
+		death_date = 1237.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Ottyn"
+		dynasty = "Fenn"
+		birth_date = 1219.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Dormund"
+		monarch_name = "Dormund"
+		dynasty = "Fenn"
+		birth_date = 1286.1.1
+		death_date = 1362.1.1
+		claim = 45
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1349.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Fenn"
+		birth_date = 1271.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Terrence"
+		monarch_name = "Terrence"
+		dynasty = "Fenn"
+		birth_date = 1344.1.1
+		death_date = 1427.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Rohanne"
+		dynasty = "Fenn"
+		female = yes
+		birth_date = 1346.1.1
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Jommy"
+		monarch_name = "Jommy"
+		dynasty = "Fenn"
+		birth_date = 1389.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+

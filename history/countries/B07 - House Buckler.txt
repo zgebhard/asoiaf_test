@@ -1,0 +1,362 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 296
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Benedar"
+		dynasty = "Buckler"
+		birth_date = 916.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Gilwood"
+		monarch_name = "Gilwood"
+		dynasty = "Buckler"
+		birth_date = 979.1.1
+		death_date = 1066.1.1
+		claim = 68
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1002.1.1 = {
+
+	monarch = {
+		name = "Peter"
+		dynasty = "Buckler"
+		birth_date = 967.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Luke"
+		monarch_name = "Luke"
+		dynasty = "Buckler"
+		birth_date = 999.1.1
+		death_date = 1072.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Raymun"
+		dynasty = "Buckler"
+		birth_date = 1044.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Willam"
+		monarch_name = "Willam"
+		dynasty = "Buckler"
+		birth_date = 1072.1.1
+		death_date = 1119.1.1
+		claim = 39
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Benedar"
+		dynasty = "Buckler"
+		birth_date = 1048.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Conn"
+		monarch_name = "Conn"
+		dynasty = "Buckler"
+		birth_date = 1075.1.1
+		death_date = 1141.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Norne"
+		dynasty = "Buckler"
+		birth_date = 1050.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Jaime"
+		monarch_name = "Jaime"
+		dynasty = "Buckler"
+		birth_date = 1088.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1117.1.1 = {
+
+	monarch = {
+		name = "Aerys"
+		dynasty = "Buckler"
+		birth_date = 1035.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Urron"
+		monarch_name = "Urron"
+		dynasty = "Buckler"
+		birth_date = 1091.1.1
+		death_date = 1176.1.1
+		claim = 22
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Mollos"
+		dynasty = "Buckler"
+		birth_date = 1113.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Tothmure"
+		monarch_name = "Tothmure"
+		dynasty = "Buckler"
+		birth_date = 1108.1.1
+		death_date = 1188.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Cheyk"
+		dynasty = "Buckler"
+		birth_date = 1076.1.1
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Osfryd"
+		monarch_name = "Osfryd"
+		dynasty = "Buckler"
+		birth_date = 1131.1.1
+		death_date = 1163.1.1
+		claim = 15
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Myranda"
+		dynasty = "Buckler"
+		female = yes
+		birth_date = 1078.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Buckler"
+		birth_date = 1140.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Humfrey"
+		dynasty = "Buckler"
+		birth_date = 1097.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Clayton"
+		monarch_name = "Clayton"
+		dynasty = "Buckler"
+		birth_date = 1166.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Ryon"
+		dynasty = "Buckler"
+		birth_date = 1172.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Plummer"
+		monarch_name = "Plummer"
+		dynasty = "Buckler"
+		birth_date = 1221.1.1
+		death_date = 1273.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1307.1.1 = {
+	monarch = {
+		name = "Pia"
+		dynasty = "Buckler"
+		female = yes
+		birth_date = 1258.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Jyanna"
+		monarch_name = "Jyanna"
+		dynasty = "Buckler"
+		female = yes
+		birth_date = 1301.1.1
+		death_date = 1354.1.1
+		claim = 58
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Buckler"
+		birth_date = 1240.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Wendamyr"
+		monarch_name = "Wendamyr"
+		dynasty = "Buckler"
+		birth_date = 1309.1.1
+		death_date = 1365.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1341.1.1 = {
+
+	monarch = {
+		name = "Preston"
+		dynasty = "Buckler"
+		birth_date = 1289.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Eddard"
+		monarch_name = "Eddard"
+		dynasty = "Buckler"
+		birth_date = 1317.1.1
+		death_date = 1404.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+

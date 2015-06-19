@@ -1,0 +1,311 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = bayasabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 671
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Hamish"
+		dynasty = "Asghar"
+		birth_date = 946.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Robb"
+		monarch_name = "Robb"
+		dynasty = "Asghar"
+		birth_date = 986.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Quill"
+		dynasty = "Asghar"
+		birth_date = 968.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Notch"
+		monarch_name = "Notch"
+		dynasty = "Asghar"
+		birth_date = 999.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1033.1.1 = {
+
+	monarch = {
+		name = "Marillion"
+		dynasty = "Asghar"
+		birth_date = 1005.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Devan"
+		monarch_name = "Devan"
+		dynasty = "Asghar"
+		birth_date = 1004.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1059.1.1 = {
+	monarch = {
+		name = "Janna"
+		dynasty = "Asghar"
+		female = yes
+		birth_date = 974.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ketter"
+		monarch_name = "Ketter"
+		dynasty = "Asghar"
+		birth_date = 1036.1.1
+		death_date = 1141.1.1
+		claim = 28
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Brogg"
+		dynasty = "Asghar"
+		birth_date = 1026.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Asghar"
+		birth_date = 1073.1.1
+		death_date = 1114.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1084.1.1 = {
+	monarch = {
+		name = "Becca"
+		dynasty = "Asghar"
+		female = yes
+		birth_date = 1052.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Andrey"
+		monarch_name = "Andrey"
+		dynasty = "Asghar"
+		birth_date = 1083.1.1
+		death_date = 1128.1.1
+		claim = 39
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1131.1.1 = {
+
+	monarch = {
+		name = "Narbert"
+		dynasty = "Asghar"
+		birth_date = 1058.1.1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Pyke"
+		monarch_name = "Pyke"
+		dynasty = "Asghar"
+		birth_date = 1111.1.1
+		death_date = 1189.1.1
+		claim = 38
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1150.1.1 = {
+
+	monarch = {
+		name = "Harmond"
+		dynasty = "Asghar"
+		birth_date = 1069.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Walton"
+		monarch_name = "Walton"
+		dynasty = "Asghar"
+		birth_date = 1126.1.1
+		death_date = 1215.1.1
+		claim = 39
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1180.1.1 = {
+
+	monarch = {
+		name = "Harbert"
+		dynasty = "Asghar"
+		birth_date = 1130.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Harle"
+		monarch_name = "Harle"
+		dynasty = "Asghar"
+		birth_date = 1160.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1247.1.1 = {
+
+	monarch = {
+		name = "Mandon"
+		dynasty = "Asghar"
+		birth_date = 1164.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Asghar"
+		birth_date = 1227.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1289.1.1 = {
+
+	monarch = {
+		name = "Grisil"
+		dynasty = "Asghar"
+		birth_date = 1237.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Gergen"
+		monarch_name = "Gergen"
+		dynasty = "Asghar"
+		birth_date = 1277.1.1
+		death_date = 1348.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Lythene"
+		dynasty = "Asghar"
+		birth_date = 1288.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Dale"
+		monarch_name = "Dale"
+		dynasty = "Asghar"
+		birth_date = 1295.1.1
+		death_date = 1334.1.1
+		claim = 13
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+

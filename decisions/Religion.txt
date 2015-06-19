@@ -1,0 +1,254 @@
+country_decisions = {
+	
+	promote_worship = {
+		potential = {
+			OR = { 
+				religion = asoiaf_the_old_gods
+				religion = asoiaf_the_drowned_god
+				religion = asoiaf_the_great_stallion
+				religion = asoiaf_summer_gods
+				religion = asoiaf_god_of_harmony
+				religion = asoiaf_gods_of_sarnor
+				religion = asoiaf_gods_of_omber
+				religion = asoiaf_gods_of_ifeqevron
+				religion = asoiaf_gods_of_hyrkoon
+				religion = asoiaf_gods_of_jogos_nhai
+				religion = asoiaf_gods_of_nghai
+				religion = asoiaf_shadowbinders
+				religion = asoiaf_graces
+				religion = asoiaf_great_shepherd
+				religion = asoiaf_lion_of_the_night
+				religion = asoiaf_stone_cow_of_faros
+				religion = asoiaf_gods_of_ibben
+				religion = asoiaf_lady_of_the_waves
+				religion = asoiaf_mother_rhoyne
+				religion = asoiaf_trios
+				religion = asoiaf_bearded_priests
+				religion = asoiaf_gods_of_lorath
+				religion = asoiaf_black_goat_of_qohor
+			}
+			NOT = { patriarch_authority = 1 }
+		}
+		allow = {
+			adm_power = 50
+			dip_power = 50
+			mil_power = 50
+		}
+		effect = {
+			add_adm_power = -50
+			add_dip_power = -50
+			add_mil_power = -50
+			
+			add_patriarch_authority = 0.1
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	restrict_worship = {
+		potential = {
+			OR = { 
+				religion = asoiaf_the_old_gods
+				religion = asoiaf_the_drowned_god
+				religion = asoiaf_the_great_stallion
+				religion = asoiaf_summer_gods
+				religion = asoiaf_god_of_harmony
+				religion = asoiaf_gods_of_sarnor
+				religion = asoiaf_gods_of_omber
+				religion = asoiaf_gods_of_ifeqevron
+				religion = asoiaf_gods_of_hyrkoon
+				religion = asoiaf_gods_of_jogos_nhai
+				religion = asoiaf_gods_of_nghai
+				religion = asoiaf_shadowbinders
+				religion = asoiaf_graces
+				religion = asoiaf_great_shepherd
+				religion = asoiaf_lion_of_the_night
+				religion = asoiaf_stone_cow_of_faros
+				religion = asoiaf_gods_of_ibben
+				religion = asoiaf_lady_of_the_waves
+				religion = asoiaf_mother_rhoyne
+				religion = asoiaf_trios
+				religion = asoiaf_bearded_priests
+				religion = asoiaf_gods_of_lorath
+				religion = asoiaf_black_goat_of_qohor
+			}
+			patriarch_authority = 0.01
+		}
+		allow = {
+			adm_power = 50
+			dip_power = 50
+			mil_power = 50
+		}
+		effect = {
+			add_adm_power = -50
+			add_dip_power = -50
+			add_mil_power = -50
+			
+			add_patriarch_authority = -0.1
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	promote_sept_attendance = {
+		potential = {
+			NOT = { has_country_modifier = promoted_sept_attendance }
+			religion = asoiaf_faith_of_the_seven
+		}
+		allow = {
+			NOT = { has_country_modifier = promoted_sept_attendance }
+			years_of_income = 1
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_country_modifier = {
+				name = promoted_sept_attendance
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 1
+				NOT = { religious_unity = 0.75 }
+			}
+		}
+	}
+	
+	promote_weirwood_attendance = {
+		potential = {
+			NOT = { has_country_modifier = promoted_weirwood_attendance }
+			religion = asoiaf_the_old_gods
+		}
+		allow = {
+			NOT = { has_country_modifier = promoted_weirwood_attendance }
+			years_of_income = 1
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_country_modifier = {
+				name = promoted_weirwood_attendance
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 1
+				NOT = { religious_unity = 0.75 }
+			}
+		}
+	}
+	
+	promote_drowning = {
+		potential = {
+			NOT = { has_country_modifier = promoted_drowning }
+			religion = asoiaf_the_drowned_god
+		}
+		allow = {
+			NOT = { has_country_modifier = promoted_drowning }
+			years_of_income = 1
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_country_modifier = {
+				name = promoted_drowning
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 1
+				NOT = { religious_unity = 0.75 }
+			}
+		}
+	}
+	
+	promote_the_great_stallion = {
+		potential = {
+			NOT = { has_country_modifier = promoted_the_great_stallion }
+			religion = asoiaf_the_great_stallion
+		}
+		allow = {
+			NOT = { has_country_modifier = promoted_the_great_stallion }
+			years_of_income = 1
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_country_modifier = {
+				name = promoted_the_great_stallion
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 1
+				NOT = { religious_unity = 0.75 }
+			}
+		}
+	}
+	
+	promote_temple_attendance = {
+		potential = {
+			NOT = { has_country_modifier = promoted_temple_attendance }
+			OR = {	
+				religion = asoiaf_summer_gods
+				religion = asoiaf_god_of_harmony
+				religion = asoiaf_gods_of_sarnor
+				religion = asoiaf_gods_of_omber
+				religion = asoiaf_gods_of_ifeqevron
+				religion = asoiaf_gods_of_hyrkoon
+				religion = asoiaf_gods_of_jogos_nhai
+				religion = asoiaf_gods_of_nghai
+				religion = asoiaf_shadowbinders
+				religion = asoiaf_graces
+				religion = asoiaf_great_shepherd
+				religion = asoiaf_lion_of_the_night
+				religion = asoiaf_stone_cow_of_faros
+				religion = asoiaf_rhllor
+				religion = asoiaf_gods_of_ibben
+				religion = asoiaf_mother_rhoyne
+				religion = asoiaf_trios
+				religion = asoiaf_bearded_priests
+				religion = asoiaf_gods_of_lorath
+				religion = asoiaf_black_goat_of_qohor
+				religion = asoiaf_lady_of_the_waves
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = promoted_temple_attendance }
+			years_of_income = 1
+		}
+		effect = {
+			add_years_of_income = -1
+			
+			add_country_modifier = {
+				name = promoted_temple_attendance
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 1
+				NOT = { religious_unity = 0.75 }
+			}
+		}
+	}
+
+}

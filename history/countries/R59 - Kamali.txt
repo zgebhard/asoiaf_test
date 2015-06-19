@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = vahari
+religion = asoiaf_stone_cow_of_faros
+
+capital = 731
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Criston"
+		dynasty = "Kamali"
+		birth_date = 931.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Daemon"
+		monarch_name = "Daemon"
+		dynasty = "Kamali"
+		birth_date = 977.1.1
+		death_date = 1089.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Jorquen"
+		dynasty = "Kamali"
+		birth_date = 972.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Ralf"
+		monarch_name = "Ralf"
+		dynasty = "Kamali"
+		birth_date = 1031.1.1
+		death_date = 1113.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Craster"
+		dynasty = "Kamali"
+		birth_date = 1002.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Quenton"
+		monarch_name = "Quenton"
+		dynasty = "Kamali"
+		birth_date = 1042.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1158.1.1 = {
+
+	monarch = {
+		name = "Torrhen"
+		dynasty = "Kamali"
+		birth_date = 1094.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Dan"
+		monarch_name = "Dan"
+		dynasty = "Kamali"
+		birth_date = 1140.1.1
+		death_date = 1243.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Orbelo"
+		dynasty = "Kamali"
+		birth_date = 1158.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Melessa"
+		monarch_name = "Melessa"
+		dynasty = "Kamali"
+		female = yes
+		birth_date = 1191.1.1
+		death_date = 1280.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1226.1.1 = {
+
+	monarch = {
+		name = "Danny"
+		dynasty = "Kamali"
+		birth_date = 1210.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Jayde"
+		monarch_name = "Jayde"
+		dynasty = "Kamali"
+		birth_date = 1221.1.1
+		death_date = 1308.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Alaric"
+		dynasty = "Kamali"
+		birth_date = 1226.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Aemond"
+		monarch_name = "Aemond"
+		dynasty = "Kamali"
+		birth_date = 1251.1.1
+		death_date = 1310.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Artys"
+		dynasty = "Kamali"
+		birth_date = 1184.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Rolph"
+		monarch_name = "Rolph"
+		dynasty = "Kamali"
+		birth_date = 1268.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Turquin"
+		dynasty = "Kamali"
+		birth_date = 1266.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Cadwyn"
+		monarch_name = "Cadwyn"
+		dynasty = "Kamali"
+		birth_date = 1288.1.1
+		death_date = 1376.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Quort"
+		dynasty = "Kamali"
+		birth_date = 1243.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Perros"
+		monarch_name = "Perros"
+		dynasty = "Kamali"
+		birth_date = 1288.1.1
+		death_date = 1335.1.1
+		claim = 48
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1381.1.1 = {
+	monarch = {
+		name = "Pia"
+		dynasty = "Kamali"
+		female = yes
+		birth_date = 1341.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Ellery"
+		monarch_name = "Ellery"
+		dynasty = "Kamali"
+		birth_date = 1377.1.1
+		death_date = 1419.1.1
+		claim = 94
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1395.1.1 = {
+
+	monarch = {
+		name = "Syrio"
+		dynasty = "Kamali"
+		birth_date = 1350.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Carrot"
+		monarch_name = "Carrot"
+		dynasty = "Kamali"
+		birth_date = 1395.1.1
+		death_date = 1476.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+

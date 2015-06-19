@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 130
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Theodore"
+		dynasty = "Hersy"
+		birth_date = 942.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Urrigon"
+		monarch_name = "Urrigon"
+		dynasty = "Hersy"
+		birth_date = 979.1.1
+		death_date = 1076.1.1
+		claim = 85
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Hersy"
+		birth_date = 1002.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Tormund"
+		monarch_name = "Tormund"
+		dynasty = "Hersy"
+		birth_date = 1052.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1086.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Hersy"
+		birth_date = 1005.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Ferret"
+		monarch_name = "Ferret"
+		dynasty = "Hersy"
+		birth_date = 1080.1.1
+		death_date = 1118.1.1
+		claim = 50
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1142.1.1 = {
+
+	monarch = {
+		name = "Bernarr"
+		dynasty = "Hersy"
+		birth_date = 1110.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk"
+		dynasty = "Hersy"
+		birth_date = 1132.1.1
+		death_date = 1161.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Torrhen"
+		dynasty = "Hersy"
+		birth_date = 1164.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Duram"
+		monarch_name = "Duram"
+		dynasty = "Hersy"
+		birth_date = 1176.1.1
+		death_date = 1277.1.1
+		claim = 99
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Timeon"
+		dynasty = "Hersy"
+		birth_date = 1251.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Osbert"
+		monarch_name = "Osbert"
+		dynasty = "Hersy"
+		birth_date = 1261.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1305.1.1 = {
+
+	monarch = {
+		name = "Tywin"
+		dynasty = "Hersy"
+		birth_date = 1228.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Lucos"
+		monarch_name = "Lucos"
+		dynasty = "Hersy"
+		birth_date = 1294.1.1
+		death_date = 1332.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1316.1.1 = {
+
+	monarch = {
+		name = "Lomas"
+		dynasty = "Hersy"
+		birth_date = 1294.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Gillam"
+		monarch_name = "Gillam"
+		dynasty = "Hersy"
+		birth_date = 1306.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Maekar"
+		dynasty = "Hersy"
+		birth_date = 1311.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Leyla"
+		monarch_name = "Leyla"
+		dynasty = "Hersy"
+		female = yes
+		birth_date = 1375.1.1
+		death_date = 1413.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+

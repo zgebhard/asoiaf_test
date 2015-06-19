@@ -1,0 +1,37 @@
+# 342 - Ghaston Grey
+
+owner = A09
+add_core = A09
+controller = A09
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+religion = asoiaf_faith_of_the_seven
+culture = sand_dornish
+
+base_tax = 3
+base_production = 3
+base_manpower =  3
+
+trade_goods = cloth
+
+capital = "Ghaston Grey"
+
+1157.1.1 = {
+	hre = yes
+}

@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_riverlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 115
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Roggo"
+		dynasty = "Wode"
+		birth_date = 969.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Crawn"
+		monarch_name = "Crawn"
+		dynasty = "Wode"
+		birth_date = 986.1.1
+		death_date = 1073.1.1
+		claim = 39
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1012.1.1 = {
+
+	monarch = {
+		name = "Hother"
+		dynasty = "Wode"
+		birth_date = 950.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Ebben"
+		monarch_name = "Ebben"
+		dynasty = "Wode"
+		birth_date = 1003.1.1
+		death_date = 1034.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1092.1.1 = {
+	monarch = {
+		name = "Margot"
+		dynasty = "Wode"
+		female = yes
+		birth_date = 1064.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Tomard"
+		monarch_name = "Tomard"
+		dynasty = "Wode"
+		birth_date = 1068.1.1
+		death_date = 1125.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Aegor"
+		dynasty = "Wode"
+		birth_date = 1129.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Aglantine"
+		monarch_name = "Aglantine"
+		dynasty = "Wode"
+		birth_date = 1146.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Kurz"
+		dynasty = "Wode"
+		birth_date = 1189.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Brella"
+		monarch_name = "Brella"
+		dynasty = "Wode"
+		female = yes
+		birth_date = 1192.1.1
+		death_date = 1241.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Monterys"
+		dynasty = "Wode"
+		birth_date = 1140.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Belgrave"
+		monarch_name = "Belgrave"
+		dynasty = "Wode"
+		birth_date = 1207.1.1
+		death_date = 1264.1.1
+		claim = 19
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Pyg"
+		dynasty = "Wode"
+		birth_date = 1188.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Igon"
+		monarch_name = "Igon"
+		dynasty = "Wode"
+		birth_date = 1259.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Otho"
+		dynasty = "Wode"
+		birth_date = 1293.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Pearse"
+		monarch_name = "Pearse"
+		dynasty = "Wode"
+		birth_date = 1345.1.1
+		death_date = 1388.1.1
+		claim = 21
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Harys"
+		dynasty = "Wode"
+		birth_date = 1291.1.1
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Nage"
+		monarch_name = "Nage"
+		dynasty = "Wode"
+		birth_date = 1346.1.1
+		death_date = 1444.1.1
+		claim = 30
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+

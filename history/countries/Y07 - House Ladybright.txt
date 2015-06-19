@@ -1,0 +1,287 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 341
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Qarl"
+		dynasty = "Ladybright"
+		birth_date = 961.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Zachery"
+		monarch_name = "Zachery"
+		dynasty = "Ladybright"
+		birth_date = 995.1.1
+		death_date = 1079.1.1
+		claim = 69
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1018.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Ladybright"
+		birth_date = 971.1.1
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Ladybright"
+		birth_date = 1000.1.1
+		death_date = 1079.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1092.1.1 = {
+
+	monarch = {
+		name = "Colemon"
+		dynasty = "Ladybright"
+		birth_date = 1068.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Haggon"
+		monarch_name = "Haggon"
+		dynasty = "Ladybright"
+		birth_date = 1067.1.1
+		death_date = 1147.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1103.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Ladybright"
+		birth_date = 1068.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Eyron"
+		monarch_name = "Eyron"
+		dynasty = "Ladybright"
+		birth_date = 1102.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1128.1.1 = {
+	monarch = {
+		name = "Munda"
+		dynasty = "Ladybright"
+		female = yes
+		birth_date = 1105.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Aermon"
+		monarch_name = "Aermon"
+		dynasty = "Ladybright"
+		birth_date = 1118.1.1
+		death_date = 1175.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Loren"
+		dynasty = "Ladybright"
+		birth_date = 1119.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Normund"
+		monarch_name = "Normund"
+		dynasty = "Ladybright"
+		birth_date = 1134.1.1
+		death_date = 1237.1.1
+		claim = 65
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Carolei"
+		dynasty = "Ladybright"
+		birth_date = 1181.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Janos"
+		monarch_name = "Janos"
+		dynasty = "Ladybright"
+		birth_date = 1175.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Urzen"
+		dynasty = "Ladybright"
+		birth_date = 1220.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Leo"
+		monarch_name = "Leo"
+		dynasty = "Ladybright"
+		birth_date = 1251.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Bonifer"
+		dynasty = "Ladybright"
+		birth_date = 1201.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Matarys"
+		monarch_name = "Matarys"
+		dynasty = "Ladybright"
+		birth_date = 1265.1.1
+		death_date = 1343.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1328.1.1 = {
+
+	monarch = {
+		name = "Jacelyn"
+		dynasty = "Ladybright"
+		birth_date = 1278.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Manfryd"
+		monarch_name = "Manfryd"
+		dynasty = "Ladybright"
+		birth_date = 1318.1.1
+		death_date = 1415.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Romny"
+		dynasty = "Ladybright"
+		birth_date = 1310.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Selyse"
+		monarch_name = "Selyse"
+		dynasty = "Ladybright"
+		female = yes
+		birth_date = 1365.1.1
+		death_date = 1459.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+

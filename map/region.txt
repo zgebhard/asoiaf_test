@@ -1,0 +1,747 @@
+# Island regions - no land path from the continent
+# The AI needs these to optimize path finding
+
+region_mantarys = {
+	599 600 691 601 603 602 1223 1222 1224 1225 1226 1227
+}
+
+region_hazdahn = {
+	698 700 701 699 692
+}
+
+region_meereen = {
+	604 605 606 608 607 637 1228 1229 1231 1230
+}
+
+region_lhazosh = {
+	634 630 640 639 638 646 649 648 647 643
+}
+
+region_yunkai = {
+	615 610 611 609 629 1234 1235 1233 1232
+}
+
+region_astapor = {
+	616 621 622 623 613 614 627 628 612 1237 1238 1236 1239
+}
+
+region_ghis = {
+	617 636 619 618 620 625 624 632 631 633 635 1241 1240 
+}
+
+region_red_waste = {
+	657 652 651 650 641 642 654 655 656
+}
+region_qarth = {
+	1242 1244 1243 665 662 664 1150 1149 1148 1147 663 1151 1245 666 667 1144 1152 721 720 653
+}
+
+region_faros = {
+	719 722 723 724 1250 1246 1153 1143 1249 1154 1247 1248
+}
+
+region_vahar = {
+	729 730 731 1252 1251 1253 1256 1254 1255
+}
+
+region_moraq = {
+	725 727 726 1257 1261 1260 1262 1258 1259 
+}
+
+region_cinnamon_isles = {
+	732
+}
+
+region_zabhad = {
+	1264 1263 728
+}
+
+region_marahai = {
+	788 1146 1145
+}
+
+region_manticore_isles = {
+	789
+}
+
+region_jade_isle = {
+	793
+}
+
+region_leng = {
+	1109 790 791 792 1273 1275 1274 1271 1272 1270 1269 1268 1267 
+}
+
+region_yi_ti = {
+	767 765 764 763 766 776 768 769 770 771 772 773 775 786 785 784 777 774 875 874 869 870 778 779 782 783 781 871 868 867 866 780 865 873 872
+}
+
+region_asabhad = {
+	669 670 668 673 1276 1279 1277 1280 1278
+}
+
+region_bayasabhad = {
+	671 674 676 1281 1284 1282 1283 1285 
+}
+
+region_samyriana = {
+	678 677 679 1287 844 1288 1290 1286 1289
+} 
+
+region_kayakayanaya = {
+	680 682 683 1291 1292 1293 1295 1294 1302
+}
+
+region_trader_town = {
+	848 847 846 1299 1297 1298 861 1296 842
+}
+
+region_jogos_plains = {
+	860 876 859 858 853 850 851 837 838 852
+}
+
+region_nefer = {
+	854 836 835 832 855 862 856 857 864 863 
+}
+
+region_thousand_islands = {
+	1396 1397 1398 1399 1400 1401 1402 1403 1404 1405 1406 1407 1408 1409 1410 1411 1412 1413 1414 1415 1416 1417 834
+}
+
+region_moscovy = {
+	831 833 829 830 827 826 828 825 1395 1387 1381 1382 1383 1384 1385 1388 1386 1389 1390 1391 1474 1473 1471 1472 1470
+}
+
+region_cannibal_sands = {
+	823 824 818 1391 816 1392 819 817 1378  1379 1380 1477 1476 
+}
+
+region_shadowlands = {
+	815 1394 1373 1393 1374 814 1372 1371 1376 1377 1375 1367 1365 1366  1368 1369 810 808 811 809  1364 801 1363 1362 802 803 804 805 797 796 798 1265 1266 795 806 1370 807 812 813 
+	1481 1480 1479 1478
+}
+
+region_five_forts = {
+	822 821 820 
+}
+
+region_dothraki_sea = {
+	690 691 689 537 538 539 540 541 542 694 695 696 693 697 552 553 554 555 556 557 551 550 546 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 645 658 659 660 549 702 644 661 578 577 576 575
+}
+
+region_forests_of_ifeqevron = {
+	575 572 571 568 567 563 566
+}
+
+region_omber = {
+	561 569 559 558 557 551 
+}
+
+region_rhoyne = {
+	405 414 430 429 428 411 410 412 427 482 413 426 486 487 490 
+}
+
+# Used for the Wall events
+region_beyond_the_wall = {
+	1 2 3 4 5 6 7 8 9 10 11 12 13 14 1142 1139 1141 15 1140 31 30 32
+}
+
+region_the_nights_watch = {
+	16 17 18 19
+}
+
+region_saath = {
+	544 548 543 547 545
+}
+
+region_qohor = {
+	476 439 436 431 438 479 480 478 477 437 481
+}
+
+region_norvos = {
+	433 455 442 449 432 434 435 440 441 443 444 472 473 
+}
+
+region_lorath = {
+	471 456 460 445 446 447 448 474 475
+}
+
+region_braavos = {
+	470 458 461 462 464 468 465 466 467 469 457 459 460 463
+}
+
+region_pentos = {
+	406 384 385 386 387 388 389 390 391 451 452 453 409 408 407 454 442
+}
+
+region_myr = {
+	378 375 377 396 395 379 394 381 380 382 393 392 383 
+}
+
+region_volantis = {
+	417 419 762 416 420 421 423 422 415 404 403 424 425 402 401 400 399 483 484 485 418 488 489 598 761
+}
+
+region_lys = {
+	368 372 374 376 397 398
+}
+
+region_tyrosh = {
+	367 366 369 370 373 371 
+}
+
+region_the_north = {
+	71 68 74 72 73 69 70 67 66 61 46 45 43 40 41 42 36 44 57 58 59 62 65 63 64 60 56 55 54 49 47 39 34 35 37 38 48 23 356 22 21 24 27 25 28 
+	50 53 52 51 29 26 33
+}
+
+region_the_wall = {
+	20 19 16 17 18 
+}
+
+region_crownlands = {
+	298 300 297 295 229 228 227 223 222 226 230 231 232 233 234 220 933 225 224 203 204 205 206 207 209 210 211 212 208 213 214 215 217 216 218 219 221 305
+}
+
+region_stormlands = {
+	311 315 316 317 325 319 322 324 326 323 321 320 313 312 302 293 294 301 304 299 296 314 303 318 310 309
+	308 307
+}
+
+region_iron_islands = {
+	158 159 157 156 155 154 151 152 153 160 161 162 357
+}
+
+region_the_vale = {
+	95 98 134 145 146 147 148 144 140 135 133 123 124 129 130 125 126 121 118 119 120 122 128 132 131 137 141 138 139 143 142 149 150
+	136 127 
+}
+
+region_the_reach = {
+	291 290 289 287 286 285 282 272 274 283 284 288 281 275 273 271 276 280 278 279 270 206 260 269 277 
+	267 265 266 241 240 235 238 236 237 239 242 243 246 245 256 268 257 258 259 306 227 255 253 251 250 247 248 249 254 252 263 261 264 262
+}
+
+region_the_westerlands = {
+	244 200 199 198 197 185 186 190 189 195 196 192  191 180 187 188 183 182 184 179 176 174 175 178 170 169 168 171 173 172 165 166 164 163 167
+	1517
+	
+}
+
+region_the_riverlands = {
+	202 194 354 193 201 116 114 112 181 177 110 111 355 113 115 109 108 107 97 106 104 105 103 102 100 101 99 86 85 87 88 90 91 96 93 92 94 84 82 80 
+	81 79 76 77 78 83 89 95 98 75
+}
+
+region_dorne = {
+	327 332 335 336 337 333 328 331 334 339 338 340 341 344 343 345 346 349 342 330 329 347 350 351 352 348 
+}
+
+region_claw_isle = {
+	215 216 217 218 219
+}
+
+region_isle_of_whips = {
+	787
+}
+
+region_isle_of_faces = {
+	117
+}
+
+region_lonely_light = {
+	357
+}
+
+region_dragonstone = {
+	220 221
+}
+
+region_arbor = {
+	292
+}
+
+region_stepstones = {
+	360 361 362 363 364 365 366 359 358 1518
+}
+
+region_stone_head = {
+	491
+}
+
+region_isle_of_women = {
+	492
+}
+
+region_walano = {
+	493 494 495 496 497 498 499 500 501
+}
+
+region_koj = {
+	502
+}
+
+region_isle_of_birds = {
+	503
+}
+
+region_omboru = {
+	504 505 506 507 508 509
+}
+
+region_singing_stones = {
+	510
+}
+
+region_exiles = {
+	511 512 513
+}
+
+region_isle_of_love = {
+	514
+}
+
+region_moluu = {
+	515
+}
+
+region_fragrant_isle = {
+	516
+}
+
+region_jhala = {
+	517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533
+}
+
+region_xon = {
+	534
+}
+
+region_the_bones = {
+	535
+}
+
+region_doquu = {
+	536
+}
+
+region_naath = {
+	626 1300 1301
+}
+
+region_ib = {
+	579 580 581 582 583 584 585 586 587 588 589 
+}
+
+whaler_islands = {
+	590 591 592 593 594 595
+}
+
+valyria = {
+	755 597 756 757 758
+}
+
+region_cedars = {
+	621 622 623
+}
+
+region_elyria = {
+	602
+}
+
+region_yaros = {
+	615
+}
+
+region_ghiscar_island = {
+	636
+}
+
+region_ghaen = {
+	624 625
+}
+
+region_qal = {
+	667
+}
+
+region_abaj = {
+	670
+}
+
+region_lesser_moraq = {
+	730 731
+}
+
+region_nameless_island = {
+	733 734
+}
+
+region_sothoryos = {
+	353 626 735 736 737 738 739 740 741 746 958 959 963 1006 1079 1080 1081 1084 1085 1086 1087 1088 1089 1090 1091 1092 1093 1094 1130 1131 1132 1133 1134 1135 1136 1137 1138 1161 1162 1163 1164 1165 1166 1167 1168 1169 1170 1171 1172 1173 1174 1175 1176 1177 1178 1179 1180 1181 1182 1183 1184 1185 1186 1187 1188 1189 1190 1191 1192 1193 1194 1195 1196 1197 1198 1199 1200 1201 1202 1203 1204 1205 1206 1207 1208 1209 1210 1211 1212 1213 1214 1215 1216 1217 1219 1220 1221 1300 1301 1303 1304 1305 1306 1307 1308 1309 1310 1311 1312 1313 1314 1315 1316 1317 1318 1319 1320 1464 
+	1453 1468 1454 1455 1456 1458 1459 1218 1457 1460 1461 1462 1463 1466 1465 	
+}
+
+region_s_sothoryos_isles =
+{
+	1203 1204 1197 1198 1201 1202 1199 1200 1454
+}
+
+region_se_sothoryos_isle =
+{
+	 1218 1457
+}
+
+region_w_sothoryos_isles =
+{
+	1469 1081 1080
+}
+
+region_ax_isle = {
+	742
+}
+
+region_skull_island = {
+	743
+}
+
+region_isle_of_toads = {
+	744
+}
+
+region_isle_of_tears = {
+	747
+}
+
+region_lice = {
+	748
+}
+
+basilisk_islands = {
+	749 750 751 752 753 754
+}
+
+saffron_archipelago = {
+	800 799
+}
+
+region_ulthos = {
+	794 799 800 1321 1322 1323 1324 1325 1326 1327 1328 1329 1330 1331 1332 1333 1334 1335 1336 1337 1338 1339 1340 1341 1342 1343 1344 1345 1346 1347 1348 1349 1350 1351 1352 1353 1354 1355 1356 1357 1358 1359 1360 1361 
+	1513 1514 1511 1510 1503 1508 1507 1506 1505 1502 1500 1499 1498 1501 1492 1491 1489 1490 1488 1496 1485 1486 
+	1487 1484 1497 1483 1493 1495 1482 1494 
+}
+
+northern_america = { 
+}
+
+northeastern_america = { 
+}
+
+eastern_america = {
+ 
+}
+
+western_america = {
+ 
+}
+
+northwestern_america = {
+	
+}
+
+the_mississippi_region = {
+	
+}
+
+great_plains = {
+	
+}
+
+the_thirteen_colonies = {
+ 
+}
+
+central_america = {
+	 
+}
+
+the_carribean = {
+	
+}
+
+the_spanish_main = {
+	
+}
+
+la_plata_region = {
+	 
+}
+
+brazil_region = {
+	
+}
+
+the_andes = {
+	
+}
+
+amazonas = {
+	 
+}
+
+spanish_region = {
+}
+
+iberian_peninsula = {
+}
+
+andalusia = {
+}
+
+italian_region = {
+}
+
+lombardia = {
+}
+
+two_sicilies = {
+}
+
+the_low_countries = {
+}
+ 
+spanish_netherlands = {
+}
+
+german_region = {
+}
+
+western_balkans = {
+}
+
+eastern_balkans = {
+}
+
+croatian_region = {
+}
+
+serbian_region = {
+}
+
+greece_region = {
+}
+
+dacia = {
+}
+
+bulgarian_region = {
+}
+
+turkey = {
+}
+
+asia_minor = {
+}
+
+anatolia = {
+}
+
+wielkopolska = {
+}
+
+malopolska = {
+}
+
+the_baltics = {
+}
+
+lithuanian_region = {
+}
+
+belarus = {
+}
+
+hungarian_region = {
+}
+
+ukrainian_region = {
+}
+
+icelandic_region = {
+}
+
+shetland_and_faroarna = {
+}
+
+british_isles = {
+}
+
+great_britain_region = {
+}
+
+irish_region = {
+}
+
+highlands = {
+}
+
+lowlands = {
+}
+
+northumbria = {
+}
+
+mercia = {
+}
+
+welsh_region = {
+}
+
+essex = {
+}
+
+french_region = {
+}
+
+gallia = {
+}
+
+breton_region = {
+}
+
+aquitania = {
+}
+
+occitania = {
+}
+
+scandinavian_region = {
+}
+
+swedish_region = {
+}
+
+finnish_region = {
+}
+
+danish_region = {
+}
+
+norwegian_region = {
+}
+
+franconia = {
+}
+
+lotharingia = {
+}
+
+swabia = {
+}
+
+helvetia = {
+}
+
+austrian_region = {
+}
+
+bohemian_region = {
+}
+
+westphalian_region = {
+}
+
+russian_region = {
+}
+
+western_siberia = {
+}
+
+eastern_siberia = {
+}
+
+kaffa_and_azow = {
+}
+
+eastasian_trade_ports = {
+}
+
+mongolia = {
+}
+
+manchuria = {
+}
+
+korean_region = {
+}
+
+chinese_region = {
+}
+
+chinese_coast = {
+}
+
+japanese_region = {
+}
+
+new_zealand_region = {
+}
+
+australian_coast = {
+}
+
+indonesian_region = {
+}
+
+indian_coast = {
+}
+
+indian_region = {
+}
+
+persian_region = {
+}
+
+central_asia = {
+}
+
+middle_east = {
+}
+
+atlantic_ocean_islands = {
+}
+
+mascarene_islands = {
+}
+
+indian_ocean_islands = {
+}
+
+pacific_ocean_islands = {
+}
+
+spice_islands = {
+}
+
+
+
+east_asian_cot = {
+}
+
+west_african_coast = {
+}
+
+south_africa = {
+}
+
+central_africa = {
+}
+
+north_africa = {
+}
+
+kongo = {
+}
+
+funj_spawning_region = {
+}

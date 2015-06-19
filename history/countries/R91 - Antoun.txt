@@ -1,0 +1,235 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 866
+1000.1.1 = {
+
+	monarch = {
+		name = "Pyke"
+		dynasty = "Antoun"
+		birth_date = 951.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Redwyn"
+		monarch_name = "Redwyn"
+		dynasty = "Antoun"
+		birth_date = 999.1.1
+		death_date = 1025.1.1
+		claim = 77
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Rodwell"
+		dynasty = "Antoun"
+		birth_date = 959.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Kezmya"
+		monarch_name = "Kezmya"
+		dynasty = "Antoun"
+		birth_date = 1027.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1087.1.1 = {
+
+	monarch = {
+		name = "Rhaegar"
+		dynasty = "Antoun"
+		birth_date = 1020.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Porthor"
+		monarch_name = "Porthor"
+		dynasty = "Antoun"
+		birth_date = 1084.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1172.1.1 = {
+
+	monarch = {
+		name = "Morrec"
+		dynasty = "Antoun"
+		birth_date = 1130.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Vortimer"
+		monarch_name = "Vortimer"
+		dynasty = "Antoun"
+		birth_date = 1149.1.1
+		death_date = 1239.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1229.1.1 = {
+
+	monarch = {
+		name = "Manfred"
+		dynasty = "Antoun"
+		birth_date = 1158.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Edwynd"
+		monarch_name = "Edwynd"
+		dynasty = "Antoun"
+		birth_date = 1213.1.1
+		death_date = 1309.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1296.1.1 = {
+
+	monarch = {
+		name = "Grazdan"
+		dynasty = "Antoun"
+		birth_date = 1216.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Elys"
+		monarch_name = "Elys"
+		dynasty = "Antoun"
+		birth_date = 1276.1.1
+		death_date = 1367.1.1
+		claim = 58
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Hoke"
+		dynasty = "Antoun"
+		birth_date = 1289.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Bharbo"
+		monarch_name = "Bharbo"
+		dynasty = "Antoun"
+		birth_date = 1321.1.1
+		death_date = 1416.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Cedric"
+		dynasty = "Antoun"
+		birth_date = 1323.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Olymer"
+		monarch_name = "Olymer"
+		dynasty = "Antoun"
+		birth_date = 1354.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1389.1.1 = {
+
+	monarch = {
+		name = "Kaeth"
+		dynasty = "Antoun"
+		birth_date = 1371.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Manfryd"
+		monarch_name = "Manfryd"
+		dynasty = "Antoun"
+		birth_date = 1384.1.1
+		death_date = 1476.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,114 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+33;35;sea;960;-1;-1;-1;-1;Bear Island to Deepwood
+160;152;sea;911;-1;-1;-1;-1;Saltcliffe to Hammerhorn
+153;162;sea;911;-1;-1;-1;-1;Pebbleton to Pyke
+162;157;sea;912;-1;-1;-1;-1;Pyke to Volmark
+153;156;sea;911;-1;-1;-1;-1;Pebbleton to Orkmont
+156;157;sea;912;-1;-1;-1;-1;Orkmont to Volmark
+156;155;sea;912;-1;-1;-1;-1;Orkmont to Blacktyde
+153;154;sea;911;-1;-1;-1;-1;Pebbleton to Oldwyk
+170;167;sea;904;-1;-1;-1;-1;Maunhill to Fair Isle
+271;261;sea;897;-1;-1;-1;-1;Manderford to Greenshield
+261;264;sea;897;-1;-1;-1;-1;Greenshield to Southshield
+261;263;sea;897;-1;-1;-1;-1;Greenshield to Oakenshield
+263;262;sea;897;-1;-1;-1;-1;Oakenshield to Greyshield
+264;262;sea;897;-1;-1;-1;-1;Southshield to Greyshield
+343;342;sea;1082;-1;-1;-1;-1;The Tor to Ghaston Gray
+221;220;sea;933;-1;-1;-1;-1;Dragonstone to Driftmark
+219;218;sea;934;-1;-1;-1;-1;Claw Isle to North Crackclaw Point
+324;325;sea;925;-1;-1;-1;-1;Weeping Tower to Wrathrock
+323;326;sea;924;-1;-1;-1;-1;Rainstone to Estermont
+118;119;sea;942;-1;-1;-1;-1;Longsister to Sweetsister
+119;120;sea;942;-1;-1;-1;-1;Sweetsister to Littlesister
+121;127;sea;941;-1;-1;-1;-1;Pebble to Wycliffe
+471;446;sea;974;-1;-1;-1;-1;Lorath to Lorathi Shore
+367;369;sea;964;-1;-1;-1;-1;Tyroshi Landing to Tyrosh
+366;367;sea;964;-1;-1;-1;-1;Tyrosh to Little Tyrosh
+370;363;sea;964;-1;-1;-1;-1;The Disputed Peninsula to Last Refuge
+363;359;sea;964;-1;-1;-1;-1;Last Refuge to Grey Gallows
+359;364;sea;922;-1;-1;-1;-1;Grey Gallows to Shame Isle
+364;348;sea;922;-1;-1;-1;-1;Shame Isle to Spottswood
+370;362;sea;964;-1;-1;-1;-1;The Disputed Peninsula to Torturers Deep
+369;361;sea;964;-1;-1;-1;-1;Tyroshi Landing to The Skulls
+362;365;sea;923;-1;-1;-1;-1;Torturers Deep to Wreckstone
+365;358;sea;923;-1;-1;-1;-1;Wreckstone to Bloodstone
+361;360;sea;964;-1;-1;-1;-1;The Skulls to Dark Den
+360;358;sea;923;-1;-1;-1;-1;Dark Den to Bloodstone
+358;1518;sea;923;-1;-1;-1;-1;Bloodstone to Sunstone
+1518;348;sea;923;-1;-1;-1;-1;Sunstone to Spottswood
+30;32;sea;955;-1;-1;-1;-1;Driftwood Hall to Deepdown
+610;615;sea;1015;-1;-1;-1;-1;Yunkai to Yaros
+616;622;sea;1014;-1;-1;-1;-1;Ghiscar Point to Velos
+622;623;sea;1012;-1;-1;-1;-1;Velos to Elos
+601;602;sea;1014;-1;-1;-1;-1;Tolos to Elyria
+624;625;sea;1045;-1;-1;-1;-1;Ghaen to New Ghis
+663;1151;sea;1019;-1;-1;-1;-1;Qarth to Qal
+667;1144;sea;1019;-1;-1;-1;-1;Qal to Jade Gate
+667;666;sea;1019;-1;-1;-1;-1;Qal to Jade Point
+666;670;sea;1020;-1;-1;-1;-1;Jade Point to Abaj
+670;763;sea;1020;-1;-1;-1;-1;Abaj to The Jade Road
+729;730;sea;1027;-1;-1;-1;-1;Vahar to Pongar
+729;1154;sea;1027;-1;-1;-1;-1;Vahar to Sielekar
+726;732;sea;1025;-1;-1;-1;-1;Nur Anji to Cinnamon Isles
+792;767;sea;1102;-1;-1;-1;-1;Leng Yi to Cape of Yin
+576;592;sea;985;-1;-1;-1;-1;New Ibbish to Ibben Zok
+592;593;sea;985;-1;-1;-1;-1;Ibben Zok to Ibben Hran
+593;588;sea;985;-1;-1;-1;-1;Ibben Hran to Herse
+592;591;sea;985;-1;-1;-1;-1;Ibben Zok to Ibben Dol
+591;590;sea;985;-1;-1;-1;-1;Ibben Dol to Ibben Thrak
+591;579;sea;985;-1;-1;-1;-1;Ibben Dol to Ibbone
+588;590;sea;985;-1;-1;-1;-1;Ibben Thrak to Herse
+500;503;sea;1055;-1;-1;-1;-1;Tall Trees Town to Isle of Birds
+503;505;sea;1055;-1;-1;-1;-1;Isle of Birds to Heartvale
+502;503;sea;1055;-1;-1;-1;-1;Koj to Isle of Birds
+508;527;sea;1057;-1;-1;-1;-1;Xhala to Indigoshore
+517;534;sea;1061;-1;-1;-1;-1;Xon to Ebonhead
+536;534;sea;1061;-1;-1;-1;-1;Xon to Doquu
+522;516;sea;1058;-1;-1;-1;-1;Bloodwood to Fragrant Isle
+515;516;sea;1058;-1;-1;-1;-1;Moluu to Fragrant Isle
+515;514;sea;1058;-1;-1;-1;-1;Moluu to Isle of Love
+513;512;sea;1068;-1;-1;-1;-1;Orange Exile to Little Exile
+511;512;sea;1068;-1;-1;-1;-1;Golden Exile to Little Exile
+511;510;sea;1068;-1;-1;-1;-1;Golden Exile to The Singing Stones
+11;16;;;-1;-1;-1;-1;
+11;17;;;-1;-1;-1;-1;
+12;17;;;-1;-1;-1;-1;
+13;18;;;-1;-1;-1;-1;
+762;417;;1155;-1;-1;-1;-1;Rhoyne Crossings
+762;416;;1155;-1;-1;-1;-1;Rhoyne Crossings
+418;417;;1155;-1;-1;-1;-1;Rhoyne Crossings
+419;417;;1155;-1;-1;-1;-1;Rhoyne Crossings
+420;417;;1155;-1;-1;-1;-1;Rhoyne Crossings
+421;420;;1156;-1;-1;-1;-1;Rhoyne Crossings
+422;423;;1157;-1;-1;-1;-1;Rhoyne Crossings
+424;423;;1157;-1;-1;-1;-1;Rhoyne Crossings
+424;426;;1158;-1;-1;-1;-1;Rhoyne Crossings
+425;426;;1158;-1;-1;-1;-1;Rhoyne Crossings
+413;426;;1158;-1;-1;-1;-1;Rhoyne Crossings
+413;427;;1158;-1;-1;-1;-1;Rhoyne Crossings
+412;427;;1159;-1;-1;-1;-1;Rhoyne Crossings
+221;217;sea;933;-1;-1;-1;-1;
+-1;-1;;-1;-1;-1;-1;-1;-1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

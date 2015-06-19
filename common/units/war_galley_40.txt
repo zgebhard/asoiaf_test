@@ -1,0 +1,10 @@
+#Galley
+type = galley
+
+hull_size = 16
+base_cannons = 24
+sail_speed = 8
+
+trade_power = 2.0
+
+sprite_level = 2

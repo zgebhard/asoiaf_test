@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 227
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bradamar"
+		dynasty = "Gaunt"
+		birth_date = 943.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Wallen"
+		monarch_name = "Wallen"
+		dynasty = "Gaunt"
+		birth_date = 994.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Jothos"
+		dynasty = "Gaunt"
+		birth_date = 1008.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Rawney"
+		monarch_name = "Rawney"
+		dynasty = "Gaunt"
+		birth_date = 1078.1.1
+		death_date = 1101.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1159.1.1 = {
+	monarch = {
+		name = "Nightingale"
+		dynasty = "Gaunt"
+		female = yes
+		birth_date = 1099.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Marillion"
+		monarch_name = "Marillion"
+		dynasty = "Gaunt"
+		birth_date = 1152.1.1
+		death_date = 1181.1.1
+		claim = 67
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Alyn"
+		dynasty = "Gaunt"
+		birth_date = 1113.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Tom"
+		monarch_name = "Tom"
+		dynasty = "Gaunt"
+		birth_date = 1170.1.1
+		death_date = 1240.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Jeor"
+		dynasty = "Gaunt"
+		birth_date = 1130.1.1
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Beren"
+		monarch_name = "Beren"
+		dynasty = "Gaunt"
+		birth_date = 1174.1.1
+		death_date = 1270.1.1
+		claim = 53
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1189.1.1 = {
+
+	monarch = {
+		name = "Belgrave"
+		dynasty = "Gaunt"
+		birth_date = 1154.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Gaunt"
+		birth_date = 1175.1.1
+		death_date = 1265.1.1
+		claim = 13
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Wynton"
+		dynasty = "Gaunt"
+		birth_date = 1154.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Dudley"
+		monarch_name = "Dudley"
+		dynasty = "Gaunt"
+		birth_date = 1197.1.1
+		death_date = 1255.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Wallace"
+		dynasty = "Gaunt"
+		birth_date = 1231.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Ronel"
+		monarch_name = "Ronel"
+		dynasty = "Gaunt"
+		birth_date = 1216.1.1
+		death_date = 1283.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Ambrose"
+		dynasty = "Gaunt"
+		birth_date = 1242.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Khorane"
+		monarch_name = "Khorane"
+		dynasty = "Gaunt"
+		birth_date = 1266.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1276.1.1 = {
+	monarch = {
+		name = "Walda"
+		dynasty = "Gaunt"
+		female = yes
+		birth_date = 1235.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Lucifer"
+		monarch_name = "Lucifer"
+		dynasty = "Gaunt"
+		birth_date = 1254.1.1
+		death_date = 1307.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Jurne"
+		dynasty = "Gaunt"
+		birth_date = 1269.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Tumco"
+		monarch_name = "Tumco"
+		dynasty = "Gaunt"
+		birth_date = 1301.1.1
+		death_date = 1369.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+

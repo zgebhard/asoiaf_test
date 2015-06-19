@@ -1,0 +1,214 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+historical_friend = A06
+
+capital = 1755
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sandor"
+		dynasty = "Reyne"
+		birth_date = 973.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Bennarion"
+		monarch_name = "Bennarion"
+		dynasty = "Reyne"
+		birth_date = 977.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1068.1.1 = {
+
+	monarch = {
+		name = "Xaro"
+		dynasty = "Reyne"
+		birth_date = 1022.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Reyne"
+		birth_date = 1038.1.1
+		death_date = 1147.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Edmund"
+		dynasty = "Reyne"
+		birth_date = 1047.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Sigrin"
+		monarch_name = "Sigrin"
+		dynasty = "Reyne"
+		birth_date = 1063.1.1
+		death_date = 1136.1.1
+		claim = 90
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Bennet"
+		dynasty = "Reyne"
+		birth_date = 1114.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Bellegere"
+		monarch_name = "Bellegere"
+		dynasty = "Reyne"
+		female = yes
+		birth_date = 1141.1.1
+		death_date = 1198.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Jory"
+		dynasty = "Reyne"
+		birth_date = 1174.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Will"
+		monarch_name = "Will"
+		dynasty = "Reyne"
+		birth_date = 1248.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1312.1.1 = {
+
+	monarch = {
+		name = "Ogo"
+		dynasty = "Reyne"
+		birth_date = 1288.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Bessa"
+		monarch_name = "Bessa"
+		dynasty = "Reyne"
+		female = yes
+		birth_date = 1299.1.1
+		death_date = 1354.1.1
+		claim = 76
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1334.1.1 = {
+
+	monarch = {
+		name = "Rolph"
+		dynasty = "Reyne"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Tanselle"
+		monarch_name = "Tanselle"
+		dynasty = "Reyne"
+		birth_date = 1309.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1355.1.1 = {
+	monarch = {
+		name = "Ashara"
+		dynasty = "Reyne"
+		female = yes
+		birth_date = 1291.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Gerris"
+		monarch_name = "Gerris"
+		dynasty = "Reyne"
+		birth_date = 1335.1.1
+		death_date = 1426.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+

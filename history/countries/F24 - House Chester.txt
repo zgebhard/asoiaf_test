@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 261
+
+1000.1.1 = {
+	monarch = {
+		name = "Tysha"
+		dynasty = "Chester"
+		female = yes
+		birth_date = 959.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Ryella"
+		monarch_name = "Ryella"
+		dynasty = "Chester"
+		female = yes
+		birth_date = 974.1.1
+		death_date = 1021.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1016.1.1 = {
+
+	monarch = {
+		name = "Daeron"
+		dynasty = "Chester"
+		birth_date = 947.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Godric"
+		monarch_name = "Godric"
+		dynasty = "Chester"
+		birth_date = 1013.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1094.1.1 = {
+
+	monarch = {
+		name = "Renly"
+		dynasty = "Chester"
+		birth_date = 1046.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Sedgekins"
+		monarch_name = "Sedgekins"
+		dynasty = "Chester"
+		birth_date = 1071.1.1
+		death_date = 1171.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Jommy"
+		dynasty = "Chester"
+		birth_date = 1058.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Malleon"
+		monarch_name = "Malleon"
+		dynasty = "Chester"
+		birth_date = 1085.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Armen"
+		dynasty = "Chester"
+		birth_date = 1102.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Jhaqo"
+		monarch_name = "Jhaqo"
+		dynasty = "Chester"
+		birth_date = 1156.1.1
+		death_date = 1190.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Chester"
+		birth_date = 1191.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Tarber"
+		monarch_name = "Tarber"
+		dynasty = "Chester"
+		birth_date = 1230.1.1
+		death_date = 1301.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1273.1.1 = {
+
+	monarch = {
+		name = "Gladden"
+		dynasty = "Chester"
+		birth_date = 1202.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Narbert"
+		monarch_name = "Narbert"
+		dynasty = "Chester"
+		birth_date = 1253.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Obella"
+		dynasty = "Chester"
+		female = yes
+		birth_date = 1316.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Joseran"
+		monarch_name = "Joseran"
+		dynasty = "Chester"
+		birth_date = 1347.1.1
+		death_date = 1414.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+

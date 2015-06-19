@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Bluetooh"
+		dynasty = "Slynt"
+		birth_date = 955.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Werlag"
+		monarch_name = "Werlag"
+		dynasty = "Slynt"
+		birth_date = 973.1.1
+		death_date = 1017.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Gowan"
+		dynasty = "Slynt"
+		birth_date = 1049.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Jothos"
+		monarch_name = "Jothos"
+		dynasty = "Slynt"
+		birth_date = 1065.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Michael"
+		dynasty = "Slynt"
+		birth_date = 1133.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Slynt"
+		birth_date = 1157.1.1
+		death_date = 1198.1.1
+		claim = 44
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1208.1.1 = {
+	monarch = {
+		name = "Falena"
+		dynasty = "Slynt"
+		female = yes
+		birth_date = 1161.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Bael"
+		monarch_name = "Bael"
+		dynasty = "Slynt"
+		birth_date = 1188.1.1
+		death_date = 1238.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Lem"
+		dynasty = "Slynt"
+		birth_date = 1212.1.1
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Slynt"
+		birth_date = 1208.1.1
+		death_date = 1306.1.1
+		claim = 66
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1246.1.1 = {
+
+	monarch = {
+		name = "Moribold"
+		dynasty = "Slynt"
+		birth_date = 1162.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Gavin"
+		monarch_name = "Gavin"
+		dynasty = "Slynt"
+		birth_date = 1242.1.1
+		death_date = 1267.1.1
+		claim = 31
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Chiswyck"
+		dynasty = "Slynt"
+		birth_date = 1261.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Hugo"
+		monarch_name = "Hugo"
+		dynasty = "Slynt"
+		birth_date = 1261.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Grisil"
+		dynasty = "Slynt"
+		birth_date = 1278.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Jeren"
+		monarch_name = "Jeren"
+		dynasty = "Slynt"
+		birth_date = 1338.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Slynt"
+		birth_date = 1305.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Manfred"
+		monarch_name = "Manfred"
+		dynasty = "Slynt"
+		birth_date = 1374.1.1
+		death_date = 1422.1.1
+		claim = 73
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Balman"
+		dynasty = "Slynt"
+		birth_date = 1346.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Melisandre"
+		monarch_name = "Melisandre"
+		dynasty = "Slynt"
+		female = yes
+		birth_date = 1371.1.1
+		death_date = 1415.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 0
+	}
+
+}
+

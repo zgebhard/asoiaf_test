@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 264
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Saathos"
+		dynasty = "Serry"
+		birth_date = 976.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Qalen"
+		monarch_name = "Qalen"
+		dynasty = "Serry"
+		birth_date = 980.1.1
+		death_date = 1065.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1006.1.1 = {
+
+	monarch = {
+		name = "Tagganaro"
+		dynasty = "Serry"
+		birth_date = 923.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Manfryd"
+		monarch_name = "Manfryd"
+		dynasty = "Serry"
+		birth_date = 984.1.1
+		death_date = 1041.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Gydayn"
+		dynasty = "Serry"
+		birth_date = 984.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Kenned"
+		monarch_name = "Kenned"
+		dynasty = "Serry"
+		birth_date = 998.1.1
+		death_date = 1116.1.1
+		claim = 39
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Kezmya"
+		dynasty = "Serry"
+		birth_date = 1064.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Armond"
+		monarch_name = "Armond"
+		dynasty = "Serry"
+		birth_date = 1090.1.1
+		death_date = 1139.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Narbert"
+		dynasty = "Serry"
+		birth_date = 1052.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Farlan"
+		monarch_name = "Farlan"
+		dynasty = "Serry"
+		birth_date = 1120.1.1
+		death_date = 1181.1.1
+		claim = 99
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1149.1.1 = {
+
+	monarch = {
+		name = "Barsena"
+		dynasty = "Serry"
+		birth_date = 1113.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Rawney"
+		monarch_name = "Rawney"
+		dynasty = "Serry"
+		birth_date = 1148.1.1
+		death_date = 1235.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1170.1.1 = {
+
+	monarch = {
+		name = "Lucifer"
+		dynasty = "Serry"
+		birth_date = 1083.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Ballabar"
+		monarch_name = "Ballabar"
+		dynasty = "Serry"
+		birth_date = 1161.1.1
+		death_date = 1257.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Lyessa"
+		dynasty = "Serry"
+		birth_date = 1141.1.1
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Gorold"
+		monarch_name = "Gorold"
+		dynasty = "Serry"
+		birth_date = 1179.1.1
+		death_date = 1249.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Erreg"
+		dynasty = "Serry"
+		birth_date = 1164.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Hoster"
+		monarch_name = "Hoster"
+		dynasty = "Serry"
+		birth_date = 1205.1.1
+		death_date = 1263.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Harma"
+		dynasty = "Serry"
+		birth_date = 1200.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Hotho"
+		monarch_name = "Hotho"
+		dynasty = "Serry"
+		birth_date = 1273.1.1
+		death_date = 1329.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1290.1.1 = {
+
+	monarch = {
+		name = "Harrion"
+		dynasty = "Serry"
+		birth_date = 1229.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Dennis"
+		monarch_name = "Dennis"
+		dynasty = "Serry"
+		birth_date = 1273.1.1
+		death_date = 1351.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Erreck"
+		dynasty = "Serry"
+		birth_date = 1290.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Mullin"
+		monarch_name = "Mullin"
+		dynasty = "Serry"
+		birth_date = 1340.1.1
+		death_date = 1391.1.1
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1375.1.1 = {
+
+	monarch = {
+		name = "Red"
+		dynasty = "Serry"
+		birth_date = 1343.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Serry"
+		birth_date = 1354.1.1
+		death_date = 1464.1.1
+		claim = 93
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Aegor"
+		dynasty = "Serry"
+		birth_date = 1321.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Lomys"
+		monarch_name = "Lomys"
+		dynasty = "Serry"
+		birth_date = 1389.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+

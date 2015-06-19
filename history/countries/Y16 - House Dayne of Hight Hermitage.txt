@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+
+capital = 335
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Hod"
+		dynasty = "Dayne"
+		birth_date = 949.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Edmure"
+		monarch_name = "Edmure"
+		dynasty = "Dayne"
+		birth_date = 973.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1024.1.1 = {
+	monarch = {
+		name = "Ygitte"
+		dynasty = "Dayne"
+		female = yes
+		birth_date = 966.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Helya"
+		monarch_name = "Helya"
+		dynasty = "Dayne"
+		female = yes
+		birth_date = 996.1.1
+		death_date = 1073.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1028.1.1 = {
+
+	monarch = {
+		name = "Perwyn"
+		dynasty = "Dayne"
+		birth_date = 1011.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Vardis"
+		monarch_name = "Vardis"
+		dynasty = "Dayne"
+		birth_date = 1021.1.1
+		death_date = 1052.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Bayard"
+		dynasty = "Dayne"
+		birth_date = 992.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Enger"
+		monarch_name = "Enger"
+		dynasty = "Dayne"
+		birth_date = 1027.1.1
+		death_date = 1096.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Harmond"
+		dynasty = "Dayne"
+		birth_date = 1104.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Orys"
+		monarch_name = "Orys"
+		dynasty = "Dayne"
+		birth_date = 1113.1.1
+		death_date = 1182.1.1
+		claim = 92
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1140.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Dayne"
+		birth_date = 1099.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Gorghan"
+		monarch_name = "Gorghan"
+		dynasty = "Dayne"
+		birth_date = 1133.1.1
+		death_date = 1205.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Argrave"
+		dynasty = "Dayne"
+		birth_date = 1158.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Osmund"
+		monarch_name = "Osmund"
+		dynasty = "Dayne"
+		birth_date = 1166.1.1
+		death_date = 1248.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Alfyn"
+		dynasty = "Dayne"
+		birth_date = 1188.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Tristifer"
+		monarch_name = "Tristifer"
+		dynasty = "Dayne"
+		birth_date = 1236.1.1
+		death_date = 1318.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Lyanna"
+		dynasty = "Dayne"
+		female = yes
+		birth_date = 1251.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Chayle"
+		monarch_name = "Chayle"
+		dynasty = "Dayne"
+		birth_date = 1312.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1381.1.1 = {
+
+	monarch = {
+		name = "Harra"
+		dynasty = "Dayne"
+		birth_date = 1328.1.1
+		adm = 1
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Paxter"
+		monarch_name = "Paxter"
+		dynasty = "Dayne"
+		birth_date = 1372.1.1
+		death_date = 1429.1.1
+		claim = 7
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+

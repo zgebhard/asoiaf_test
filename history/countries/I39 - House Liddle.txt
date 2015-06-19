@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 23
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sybell"
+		dynasty = "Liddle"
+		birth_date = 964.1.1
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Hother"
+		monarch_name = "Hother"
+		dynasty = "Liddle"
+		birth_date = 995.1.1
+		death_date = 1061.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1030.1.1 = {
+
+	monarch = {
+		name = "Cedrik"
+		dynasty = "Liddle"
+		birth_date = 1004.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Cragorn"
+		monarch_name = "Cragorn"
+		dynasty = "Liddle"
+		birth_date = 1018.1.1
+		death_date = 1047.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Farlan"
+		dynasty = "Liddle"
+		birth_date = 1019.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonnel"
+		monarch_name = "Jonnel"
+		dynasty = "Liddle"
+		birth_date = 1085.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Beck"
+		dynasty = "Liddle"
+		birth_date = 1147.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Pudding"
+		monarch_name = "Pudding"
+		dynasty = "Liddle"
+		birth_date = 1180.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1217.1.1 = {
+
+	monarch = {
+		name = "Tumco"
+		dynasty = "Liddle"
+		birth_date = 1155.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Kraznys"
+		monarch_name = "Kraznys"
+		dynasty = "Liddle"
+		birth_date = 1211.1.1
+		death_date = 1284.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1275.1.1 = {
+
+	monarch = {
+		name = "Eon"
+		dynasty = "Liddle"
+		birth_date = 1244.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Quaithe"
+		monarch_name = "Quaithe"
+		dynasty = "Liddle"
+		birth_date = 1267.1.1
+		death_date = 1347.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1280.1.1 = {
+
+	monarch = {
+		name = "Horas"
+		dynasty = "Liddle"
+		birth_date = 1265.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Nella"
+		monarch_name = "Nella"
+		dynasty = "Liddle"
+		female = yes
+		birth_date = 1256.1.1
+		death_date = 1352.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1303.1.1 = {
+
+	monarch = {
+		name = "Mychel"
+		dynasty = "Liddle"
+		birth_date = 1238.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Liddle"
+		birth_date = 1302.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1308.1.1 = {
+
+	monarch = {
+		name = "Wendell"
+		dynasty = "Liddle"
+		birth_date = 1221.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Sefton"
+		monarch_name = "Sefton"
+		dynasty = "Liddle"
+		birth_date = 1304.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1313.1.1 = {
+
+	monarch = {
+		name = "Orys"
+		dynasty = "Liddle"
+		birth_date = 1260.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Tarle"
+		monarch_name = "Tarle"
+		dynasty = "Liddle"
+		birth_date = 1285.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Liddle"
+		birth_date = 1248.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Donel"
+		monarch_name = "Donel"
+		dynasty = "Liddle"
+		birth_date = 1287.1.1
+		death_date = 1341.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Zarabelo"
+		dynasty = "Liddle"
+		birth_date = 1365.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Harmune"
+		monarch_name = "Harmune"
+		dynasty = "Liddle"
+		birth_date = 1374.1.1
+		death_date = 1427.1.1
+		claim = 73
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+

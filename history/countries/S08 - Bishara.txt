@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = samyriana
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 678
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Morros"
+		dynasty = "Bishara"
+		birth_date = 945.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Amarei"
+		monarch_name = "Amarei"
+		dynasty = "Bishara"
+		birth_date = 985.1.1
+		death_date = 1038.1.1
+		claim = 77
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1088.1.1 = {
+
+	monarch = {
+		name = "Archibald"
+		dynasty = "Bishara"
+		birth_date = 1058.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Lotho"
+		monarch_name = "Lotho"
+		dynasty = "Bishara"
+		birth_date = 1063.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1101.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Bishara"
+		birth_date = 1058.1.1
+		adm = 6
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Bishara"
+		birth_date = 1098.1.1
+		death_date = 1153.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Gerald"
+		dynasty = "Bishara"
+		birth_date = 1062.1.1
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Cellador"
+		monarch_name = "Cellador"
+		dynasty = "Bishara"
+		birth_date = 1097.1.1
+		death_date = 1150.1.1
+		claim = 88
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Ayrmidon"
+		dynasty = "Bishara"
+		birth_date = 1141.1.1
+		adm = 2
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Arlan"
+		monarch_name = "Arlan"
+		dynasty = "Bishara"
+		birth_date = 1191.1.1
+		death_date = 1225.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1267.1.1 = {
+
+	monarch = {
+		name = "Allar"
+		dynasty = "Bishara"
+		birth_date = 1196.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Rhonda"
+		monarch_name = "Rhonda"
+		dynasty = "Bishara"
+		female = yes
+		birth_date = 1260.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1333.1.1 = {
+
+	monarch = {
+		name = "Duram"
+		dynasty = "Bishara"
+		birth_date = 1245.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Courtenay"
+		monarch_name = "Courtenay"
+		dynasty = "Bishara"
+		birth_date = 1308.1.1
+		death_date = 1379.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1356.1.1 = {
+
+	monarch = {
+		name = "Conwy"
+		dynasty = "Bishara"
+		birth_date = 1337.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Kirby"
+		monarch_name = "Kirby"
+		dynasty = "Bishara"
+		birth_date = 1339.1.1
+		death_date = 1393.1.1
+		claim = 64
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Urzen"
+		dynasty = "Bishara"
+		birth_date = 1362.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Ollo"
+		monarch_name = "Ollo"
+		dynasty = "Bishara"
+		birth_date = 1367.1.1
+		death_date = 1447.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+

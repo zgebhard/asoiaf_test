@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 60
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Manfred"
+		dynasty = "Hornwood"
+		birth_date = 925.1.1
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Gerion"
+		monarch_name = "Gerion"
+		dynasty = "Hornwood"
+		birth_date = 973.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1051.1.1 = {
+
+	monarch = {
+		name = "Ottyn"
+		dynasty = "Hornwood"
+		birth_date = 1029.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Paxter"
+		monarch_name = "Paxter"
+		dynasty = "Hornwood"
+		birth_date = 1027.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1127.1.1 = {
+
+	monarch = {
+		name = "Ebrose"
+		dynasty = "Hornwood"
+		birth_date = 1052.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Praed"
+		monarch_name = "Praed"
+		dynasty = "Hornwood"
+		birth_date = 1116.1.1
+		death_date = 1201.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Ossy"
+		dynasty = "Hornwood"
+		birth_date = 1197.1.1
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Tyrion"
+		monarch_name = "Tyrion"
+		dynasty = "Hornwood"
+		birth_date = 1203.1.1
+		death_date = 1271.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Danwell"
+		dynasty = "Hornwood"
+		birth_date = 1204.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Chataya"
+		monarch_name = "Chataya"
+		dynasty = "Hornwood"
+		female = yes
+		birth_date = 1214.1.1
+		death_date = 1299.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1252.1.1 = {
+
+	monarch = {
+		name = "Joss"
+		dynasty = "Hornwood"
+		birth_date = 1216.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem"
+		dynasty = "Hornwood"
+		birth_date = 1226.1.1
+		death_date = 1269.1.1
+		claim = 40
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Mohor"
+		dynasty = "Hornwood"
+		birth_date = 1257.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Watty"
+		monarch_name = "Watty"
+		dynasty = "Hornwood"
+		birth_date = 1316.1.1
+		death_date = 1359.1.1
+		claim = 48
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+

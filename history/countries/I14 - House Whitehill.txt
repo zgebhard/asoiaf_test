@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 58
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Whitehill"
+		birth_date = 960.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Belaquo"
+		monarch_name = "Belaquo"
+		dynasty = "Whitehill"
+		birth_date = 982.1.1
+		death_date = 1020.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1023.1.1 = {
+
+	monarch = {
+		name = "Devan"
+		dynasty = "Whitehill"
+		birth_date = 979.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Harwin"
+		monarch_name = "Harwin"
+		dynasty = "Whitehill"
+		birth_date = 1003.1.1
+		death_date = 1091.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1046.1.1 = {
+
+	monarch = {
+		name = "Lucas"
+		dynasty = "Whitehill"
+		birth_date = 1028.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Walys"
+		monarch_name = "Walys"
+		dynasty = "Whitehill"
+		birth_date = 1038.1.1
+		death_date = 1135.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1057.1.1 = {
+
+	monarch = {
+		name = "Liane"
+		dynasty = "Whitehill"
+		birth_date = 995.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Pono"
+		monarch_name = "Pono"
+		dynasty = "Whitehill"
+		birth_date = 1050.1.1
+		death_date = 1143.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1099.1.1 = {
+
+	monarch = {
+		name = "Jory"
+		dynasty = "Whitehill"
+		birth_date = 1080.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Wyman"
+		monarch_name = "Wyman"
+		dynasty = "Whitehill"
+		birth_date = 1075.1.1
+		death_date = 1180.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1159.1.1 = {
+
+	monarch = {
+		name = "Lyonel"
+		dynasty = "Whitehill"
+		birth_date = 1092.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Vickon"
+		monarch_name = "Vickon"
+		dynasty = "Whitehill"
+		birth_date = 1146.1.1
+		death_date = 1226.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Tarber"
+		dynasty = "Whitehill"
+		birth_date = 1198.1.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Whitehill"
+		birth_date = 1195.1.1
+		death_date = 1272.1.1
+		claim = 57
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1219.1.1 = {
+
+	monarch = {
+		name = "Waltyr"
+		dynasty = "Whitehill"
+		birth_date = 1162.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Gelmarr"
+		monarch_name = "Gelmarr"
+		dynasty = "Whitehill"
+		birth_date = 1207.1.1
+		death_date = 1242.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1233.1.1 = {
+
+	monarch = {
+		name = "Calon"
+		dynasty = "Whitehill"
+		birth_date = 1218.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Tytos"
+		monarch_name = "Tytos"
+		dynasty = "Whitehill"
+		birth_date = 1216.1.1
+		death_date = 1248.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1265.1.1 = {
+
+	monarch = {
+		name = "Drennan"
+		dynasty = "Whitehill"
+		birth_date = 1204.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Elys"
+		monarch_name = "Elys"
+		dynasty = "Whitehill"
+		birth_date = 1261.1.1
+		death_date = 1312.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Ulrick"
+		dynasty = "Whitehill"
+		birth_date = 1328.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Osmynd"
+		monarch_name = "Osmynd"
+		dynasty = "Whitehill"
+		birth_date = 1348.1.1
+		death_date = 1430.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,57 @@
+# 221 - Dragonstone
+
+owner = A10
+add_core = A10
+controller = A10
+is_city = yes
+hre = no
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_crownlands
+
+base_tax = 8
+base_production = 8
+base_manpower =  4
+
+trade_goods = copper
+
+capital = "Dragonstone"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = A10
+	add_core = A39
+	owner = A39
+	controller = A39
+}
+
+1000.2.2 = {
+	owner = A10
+	add_core = A10
+	controller = A10
+}
+
+1005.1.1 = {
+	hre = yes
+}
+
+1298.1.1 = {
+	controller = A39
+	add_core = A39
+	owner = A39
+	religion = asoiaf_rhllor
+}

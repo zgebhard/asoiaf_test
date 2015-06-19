@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 233
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Willis"
+		dynasty = "Massey"
+		birth_date = 956.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Sybassion"
+		monarch_name = "Sybassion"
+		dynasty = "Massey"
+		birth_date = 1000.1.1
+		death_date = 1071.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Fornio"
+		dynasty = "Massey"
+		birth_date = 1000.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Bors"
+		monarch_name = "Bors"
+		dynasty = "Massey"
+		birth_date = 1048.1.1
+		death_date = 1110.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Drennan"
+		dynasty = "Massey"
+		birth_date = 1081.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Quenten"
+		monarch_name = "Quenten"
+		dynasty = "Massey"
+		birth_date = 1134.1.1
+		death_date = 1186.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1242.1.1 = {
+
+	monarch = {
+		name = "Andrey"
+		dynasty = "Massey"
+		birth_date = 1176.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Zhoe"
+		monarch_name = "Zhoe"
+		dynasty = "Massey"
+		birth_date = 1231.1.1
+		death_date = 1332.1.1
+		claim = 34
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1318.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Massey"
+		birth_date = 1294.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Larys"
+		monarch_name = "Larys"
+		dynasty = "Massey"
+		birth_date = 1310.1.1
+		death_date = 1359.1.1
+		claim = 66
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Stevron"
+		dynasty = "Massey"
+		birth_date = 1356.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Rolly"
+		monarch_name = "Rolly"
+		dynasty = "Massey"
+		birth_date = 1381.1.1
+		death_date = 1472.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Ryella"
+		dynasty = "Massey"
+		female = yes
+		birth_date = 1364.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Galt"
+		monarch_name = "Galt"
+		dynasty = "Massey"
+		birth_date = 1378.1.1
+		death_date = 1420.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+

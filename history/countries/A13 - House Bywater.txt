@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 231
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Norren"
+		dynasty = "Bywater"
+		birth_date = 982.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Orton"
+		monarch_name = "Orton"
+		dynasty = "Bywater"
+		birth_date = 972.1.1
+		death_date = 1017.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Hosman"
+		dynasty = "Bywater"
+		birth_date = 1009.1.1
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Prendahl"
+		monarch_name = "Prendahl"
+		dynasty = "Bywater"
+		birth_date = 1054.1.1
+		death_date = 1107.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Moribold"
+		dynasty = "Bywater"
+		birth_date = 1017.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Malleon"
+		monarch_name = "Malleon"
+		dynasty = "Bywater"
+		birth_date = 1066.1.1
+		death_date = 1134.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Torwold"
+		dynasty = "Bywater"
+		birth_date = 1076.1.1
+		adm = 0
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Harlan"
+		monarch_name = "Harlan"
+		dynasty = "Bywater"
+		birth_date = 1123.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Jason"
+		dynasty = "Bywater"
+		birth_date = 1179.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Bonifer"
+		monarch_name = "Bonifer"
+		dynasty = "Bywater"
+		birth_date = 1173.1.1
+		death_date = 1265.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1263.1.1 = {
+
+	monarch = {
+		name = "Danos"
+		dynasty = "Bywater"
+		birth_date = 1207.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Garse"
+		monarch_name = "Garse"
+		dynasty = "Bywater"
+		birth_date = 1258.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Manfryd"
+		dynasty = "Bywater"
+		birth_date = 1294.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Wex"
+		monarch_name = "Wex"
+		dynasty = "Bywater"
+		birth_date = 1342.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+

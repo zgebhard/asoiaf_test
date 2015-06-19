@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 245
+
+1000.1.1 = {
+	monarch = {
+		name = "Nissa"
+		dynasty = "Shermer"
+		female = yes
+		birth_date = 977.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Alerie"
+		monarch_name = "Alerie"
+		dynasty = "Shermer"
+		birth_date = 978.1.1
+		death_date = 1054.1.1
+		claim = 46
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Matthar"
+		dynasty = "Shermer"
+		birth_date = 1039.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Waltyr"
+		monarch_name = "Waltyr"
+		dynasty = "Shermer"
+		birth_date = 1052.1.1
+		death_date = 1098.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Murch"
+		dynasty = "Shermer"
+		birth_date = 1078.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Varamyr"
+		monarch_name = "Varamyr"
+		dynasty = "Shermer"
+		birth_date = 1117.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1162.1.1 = {
+
+	monarch = {
+		name = "Erryk"
+		dynasty = "Shermer"
+		birth_date = 1102.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Dennis"
+		monarch_name = "Dennis"
+		dynasty = "Shermer"
+		birth_date = 1161.1.1
+		death_date = 1177.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Nage"
+		dynasty = "Shermer"
+		birth_date = 1208.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon"
+		dynasty = "Shermer"
+		birth_date = 1227.1.1
+		death_date = 1253.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Baelor"
+		dynasty = "Shermer"
+		birth_date = 1225.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Chayle"
+		monarch_name = "Chayle"
+		dynasty = "Shermer"
+		birth_date = 1289.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1367.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Shermer"
+		birth_date = 1332.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Shermer"
+		birth_date = 1351.1.1
+		death_date = 1393.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+

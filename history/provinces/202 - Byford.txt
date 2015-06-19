@@ -1,0 +1,66 @@
+# 202 - Byford
+
+owner = E01
+controller = E01
+add_core = E01
+add_core = A24
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_the_drowned_god
+culture = men_of_the_crownlands
+
+base_tax = 3
+base_production = 3
+base_manpower =  2
+
+trade_goods = cloth
+
+capital = "Byford"
+
+1000.2.1 = {
+	remove_core = E01
+	owner = A24
+	controller = A24
+	religion = asoiaf_faith_of_the_seven
+}
+
+1000.2.2 = {
+	owner = E01
+	add_core = E01
+	controller = E01
+	religion = asoiaf_the_drowned_god
+}
+
+
+1005.1.1 = {
+    hre = yes
+	
+	owner = A10
+	controller = A10
+	add_core = A10
+	religion = asoiaf_faith_of_the_seven
+}
+
+1289.1.1 = {
+	remove_core = A10
+	owner = A07
+	controller = A07
+	add_core = A07
+}

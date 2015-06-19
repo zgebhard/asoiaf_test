@@ -1,0 +1,44 @@
+# 1242 - Qar Maath
+
+owner = R41
+add_core = R41
+add_core = R46
+controller = R41
+is_city = yes
+
+culture = qartheen
+religion = asoiaf_mixed_worship
+
+base_tax = 4
+base_production = 4
+base_manpower =  4
+
+trade_goods = spices
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1000.2.1 = {
+	remove_core = R41
+	owner = R46
+	controller = R46
+}
+
+1000.2.2 = {
+	owner = R41
+	add_core = R41
+	controller = R41
+}

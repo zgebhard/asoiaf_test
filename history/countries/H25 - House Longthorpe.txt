@@ -1,0 +1,237 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+historical_friend = A04
+
+capital = 118
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Stiv"
+		dynasty = "Longthorpe"
+		birth_date = 974.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Karyl"
+		monarch_name = "Karyl"
+		dynasty = "Longthorpe"
+		birth_date = 975.1.1
+		death_date = 1088.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Longthorpe"
+		birth_date = 1016.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Luceon"
+		monarch_name = "Luceon"
+		dynasty = "Longthorpe"
+		birth_date = 1053.1.1
+		death_date = 1143.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1107.1.1 = {
+
+	monarch = {
+		name = "Maege"
+		dynasty = "Longthorpe"
+		birth_date = 1021.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Domeric"
+		monarch_name = "Domeric"
+		dynasty = "Longthorpe"
+		birth_date = 1098.1.1
+		death_date = 1148.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Mullin"
+		dynasty = "Longthorpe"
+		birth_date = 1067.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Amarei"
+		monarch_name = "Amarei"
+		dynasty = "Longthorpe"
+		birth_date = 1124.1.1
+		death_date = 1221.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1184.1.1 = {
+
+	monarch = {
+		name = "Cayn"
+		dynasty = "Longthorpe"
+		birth_date = 1165.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Longthorpe"
+		birth_date = 1180.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Tion"
+		dynasty = "Longthorpe"
+		birth_date = 1172.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Mern"
+		monarch_name = "Mern"
+		dynasty = "Longthorpe"
+		birth_date = 1223.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Damon"
+		dynasty = "Longthorpe"
+		birth_date = 1205.1.1
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+
+	heir = {
+		name = "Quent"
+		monarch_name = "Quent"
+		dynasty = "Longthorpe"
+		birth_date = 1238.1.1
+		death_date = 1345.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1332.1.1 = {
+
+	monarch = {
+		name = "Tomard"
+		dynasty = "Longthorpe"
+		birth_date = 1302.1.1
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Meha"
+		monarch_name = "Meha"
+		dynasty = "Longthorpe"
+		birth_date = 1306.1.1
+		death_date = 1419.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1390.1.1 = {
+
+	monarch = {
+		name = "Wendello"
+		dynasty = "Longthorpe"
+		birth_date = 1368.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Belis"
+		monarch_name = "Belis"
+		dynasty = "Longthorpe"
+		birth_date = 1367.1.1
+		death_date = 1446.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+
+}
+

@@ -1,0 +1,312 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+historical_friend = F01
+
+capital = 235
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Hyle"
+		dynasty = "Oldheart"
+		birth_date = 945.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Meha"
+		monarch_name = "Meha"
+		dynasty = "Oldheart"
+		birth_date = 982.1.1
+		death_date = 1028.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Larraq"
+		dynasty = "Oldheart"
+		birth_date = 995.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Danwell"
+		monarch_name = "Danwell"
+		dynasty = "Oldheart"
+		birth_date = 1078.1.1
+		death_date = 1115.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1105.1.1 = {
+
+	monarch = {
+		name = "Enderick"
+		dynasty = "Oldheart"
+		birth_date = 1059.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Theo"
+		monarch_name = "Theo"
+		dynasty = "Oldheart"
+		birth_date = 1082.1.1
+		death_date = 1123.1.1
+		claim = 5
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1129.1.1 = {
+
+	monarch = {
+		name = "Rast"
+		dynasty = "Oldheart"
+		birth_date = 1101.1.1
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Theomor"
+		monarch_name = "Theomor"
+		dynasty = "Oldheart"
+		birth_date = 1122.1.1
+		death_date = 1165.1.1
+		claim = 24
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1133.1.1 = {
+
+	monarch = {
+		name = "Morosh"
+		dynasty = "Oldheart"
+		birth_date = 1050.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Conwy"
+		monarch_name = "Conwy"
+		dynasty = "Oldheart"
+		birth_date = 1127.1.1
+		death_date = 1160.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1152.1.1 = {
+
+	monarch = {
+		name = "Redwyn"
+		dynasty = "Oldheart"
+		birth_date = 1099.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Oldheart"
+		birth_date = 1145.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1176.1.1 = {
+
+	monarch = {
+		name = "Raymun"
+		dynasty = "Oldheart"
+		birth_date = 1152.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Craster"
+		monarch_name = "Craster"
+		dynasty = "Oldheart"
+		birth_date = 1148.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1249.1.1 = {
+
+	monarch = {
+		name = "Daario"
+		dynasty = "Oldheart"
+		birth_date = 1172.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Grenn"
+		monarch_name = "Grenn"
+		dynasty = "Oldheart"
+		birth_date = 1221.1.1
+		death_date = 1301.1.1
+		claim = 68
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Gormon"
+		dynasty = "Oldheart"
+		birth_date = 1231.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Grubbs"
+		monarch_name = "Grubbs"
+		dynasty = "Oldheart"
+		birth_date = 1265.1.1
+		death_date = 1296.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1284.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Oldheart"
+		birth_date = 1233.1.1
+		adm = 0
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Tion"
+		monarch_name = "Tion"
+		dynasty = "Oldheart"
+		birth_date = 1265.1.1
+		death_date = 1315.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1300.1.1 = {
+
+	monarch = {
+		name = "Godric"
+		dynasty = "Oldheart"
+		birth_date = 1272.1.1
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Dermot"
+		monarch_name = "Dermot"
+		dynasty = "Oldheart"
+		birth_date = 1290.1.1
+		death_date = 1331.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1347.1.1 = {
+
+	monarch = {
+		name = "Forley"
+		dynasty = "Oldheart"
+		birth_date = 1257.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Cheyk"
+		monarch_name = "Cheyk"
+		dynasty = "Oldheart"
+		birth_date = 1327.1.1
+		death_date = 1377.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+

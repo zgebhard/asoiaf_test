@@ -1,0 +1,251 @@
+namespace = DEVOTION_EVENTS
+
+# Our Faith Renewed!
+# Our country men have maintained their faith, and thus we have been rewarded as a nation. Let our faith empower are actions for evermore.
+# Joyous!
+country_event = {
+	id = DEVOTION_EVENTS.1
+	title = "DEVOTION_EVENTS.1.title"
+	desc = "DEVOTION_EVENTS.1.desc"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		OR = { 
+			religion = asoiaf_the_old_gods
+			religion = asoiaf_the_drowned_god
+			religion = asoiaf_the_great_stallion
+			religion = asoiaf_summer_gods
+			religion = asoiaf_god_of_harmony
+			religion = asoiaf_gods_of_sarnor
+			religion = asoiaf_gods_of_omber
+			religion = asoiaf_gods_of_ifeqevron
+			religion = asoiaf_gods_of_hyrkoon
+			religion = asoiaf_gods_of_jogos_nhai
+			religion = asoiaf_gods_of_nghai
+			religion = asoiaf_shadowbinders
+			religion = asoiaf_graces
+			religion = asoiaf_great_shepherd
+			religion = asoiaf_lion_of_the_night
+			religion = asoiaf_stone_cow_of_faros
+			religion = asoiaf_gods_of_ibben
+			religion = asoiaf_lady_of_the_waves
+			religion = asoiaf_mother_rhoyne
+			religion = asoiaf_trios
+			religion = asoiaf_bearded_priests
+			religion = asoiaf_gods_of_lorath
+			religion = asoiaf_black_goat_of_qohor
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "DEVOTION_EVENTS.1.option.a"
+		
+		add_patriarch_authority = 0.1
+	}
+}
+
+# Our Faith Declines!
+# Our country men have failed to maintain their faith, and thus we have been punished as a nation. We must re-double our efforts towards worship, lest our people become heathenish.
+# Damnation!
+country_event = {
+	id = DEVOTION_EVENTS.2
+	title = "DEVOTION_EVENTS.2.title"
+	desc = "DEVOTION_EVENTS.2.desc"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		OR = { 
+			religion = asoiaf_the_old_gods
+			religion = asoiaf_the_drowned_god
+			religion = asoiaf_the_great_stallion
+			religion = asoiaf_summer_gods
+			religion = asoiaf_god_of_harmony
+			religion = asoiaf_gods_of_sarnor
+			religion = asoiaf_gods_of_omber
+			religion = asoiaf_gods_of_ifeqevron
+			religion = asoiaf_gods_of_hyrkoon
+			religion = asoiaf_gods_of_jogos_nhai
+			religion = asoiaf_gods_of_nghai
+			religion = asoiaf_shadowbinders
+			religion = asoiaf_graces
+			religion = asoiaf_great_shepherd
+			religion = asoiaf_lion_of_the_night
+			religion = asoiaf_stone_cow_of_faros
+			religion = asoiaf_gods_of_ibben
+			religion = asoiaf_lady_of_the_waves
+			religion = asoiaf_mother_rhoyne
+			religion = asoiaf_trios
+			religion = asoiaf_bearded_priests
+			religion = asoiaf_gods_of_lorath
+			religion = asoiaf_black_goat_of_qohor
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "DEVOTION_EVENTS.2.option.a"
+		
+		add_patriarch_authority = -0.1
+	}
+}
+
+# Stability brings Faith
+# Our country is stable, and it's people content. Their faith has been validated, and as such the gods look upon favourably.
+# Wonderful!
+country_event = {
+	id = DEVOTION_EVENTS.3
+	title = "DEVOTION_EVENTS.3.title"
+	desc = "DEVOTION_EVENTS.3.desc"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		OR = { 
+			religion = asoiaf_the_old_gods
+			religion = asoiaf_the_drowned_god
+			religion = asoiaf_the_great_stallion
+			religion = asoiaf_summer_gods
+			religion = asoiaf_god_of_harmony
+			religion = asoiaf_gods_of_sarnor
+			religion = asoiaf_gods_of_omber
+			religion = asoiaf_gods_of_ifeqevron
+			religion = asoiaf_gods_of_hyrkoon
+			religion = asoiaf_gods_of_jogos_nhai
+			religion = asoiaf_gods_of_nghai
+			religion = asoiaf_shadowbinders
+			religion = asoiaf_graces
+			religion = asoiaf_great_shepherd
+			religion = asoiaf_lion_of_the_night
+			religion = asoiaf_stone_cow_of_faros
+			religion = asoiaf_gods_of_ibben
+			religion = asoiaf_lady_of_the_waves
+			religion = asoiaf_mother_rhoyne
+			religion = asoiaf_trios
+			religion = asoiaf_bearded_priests
+			religion = asoiaf_gods_of_lorath
+			religion = asoiaf_black_goat_of_qohor
+		}
+		stability = 1
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "DEVOTION_EVENTS.3.option.a"
+		
+		add_patriarch_authority = 0.1
+	}
+}
+
+# Loss of Faith
+# Our country is unstable, and it's people angry and riotous. Their leaders must validate their faith, lest our country fall deepen into damnation.
+# Wonderful!
+country_event = {
+	id = DEVOTION_EVENTS.4
+	title = "DEVOTION_EVENTS.4.title"
+	desc = "DEVOTION_EVENTS.4.desc"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		OR = { 
+			religion = asoiaf_the_old_gods
+			religion = asoiaf_the_drowned_god
+			religion = asoiaf_the_great_stallion
+			religion = asoiaf_summer_gods
+			religion = asoiaf_god_of_harmony
+			religion = asoiaf_gods_of_sarnor
+			religion = asoiaf_gods_of_omber
+			religion = asoiaf_gods_of_ifeqevron
+			religion = asoiaf_gods_of_hyrkoon
+			religion = asoiaf_gods_of_jogos_nhai
+			religion = asoiaf_gods_of_nghai
+			religion = asoiaf_shadowbinders
+			religion = asoiaf_graces
+			religion = asoiaf_great_shepherd
+			religion = asoiaf_lion_of_the_night
+			religion = asoiaf_stone_cow_of_faros
+			religion = asoiaf_gods_of_ibben
+			religion = asoiaf_lady_of_the_waves
+			religion = asoiaf_mother_rhoyne
+			religion = asoiaf_trios
+			religion = asoiaf_bearded_priests
+			religion = asoiaf_gods_of_lorath
+			religion = asoiaf_black_goat_of_qohor
+		}
+		stability = 1
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "DEVOTION_EVENTS.4.option.a"
+		
+		add_patriarch_authority = -0.1
+	}
+}
+
+# At a Crossroads
+# Our people straddle the line between faith and damnation. It is up to their leaders to encourage their worship and to empower our nation as a whole.
+# Enforce worship!
+# Faith is useless!
+country_event = {
+	id = DEVOTION_EVENTS.5
+	title = "DEVOTION_EVENTS.5.title"
+	desc = "DEVOTION_EVENTS.5.desc"
+	picture = RELIGION_eventPicture
+	
+	trigger = {
+		OR = { 
+			religion = asoiaf_the_old_gods
+			religion = asoiaf_the_drowned_god
+			religion = asoiaf_the_great_stallion
+			religion = asoiaf_summer_gods
+			religion = asoiaf_god_of_harmony
+			religion = asoiaf_gods_of_sarnor
+			religion = asoiaf_gods_of_omber
+			religion = asoiaf_gods_of_ifeqevron
+			religion = asoiaf_gods_of_hyrkoon
+			religion = asoiaf_gods_of_jogos_nhai
+			religion = asoiaf_gods_of_nghai
+			religion = asoiaf_shadowbinders
+			religion = asoiaf_graces
+			religion = asoiaf_great_shepherd
+			religion = asoiaf_lion_of_the_night
+			religion = asoiaf_stone_cow_of_faros
+			religion = asoiaf_gods_of_ibben
+			religion = asoiaf_lady_of_the_waves
+			religion = asoiaf_mother_rhoyne
+			religion = asoiaf_trios
+			religion = asoiaf_bearded_priests
+			religion = asoiaf_gods_of_lorath
+			religion = asoiaf_black_goat_of_qohor
+		}
+		stability = 1
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = "DEVOTION_EVENTS.5.option.a"
+		
+		add_patriarch_authority = 0.1
+	}
+	
+	option = {
+		name = "DEVOTION_EVENTS.5.option.b"
+		
+		add_patriarch_authority = -0.1
+	}
+}

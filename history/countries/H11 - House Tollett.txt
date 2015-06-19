@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_vale
+religion = asoiaf_faith_of_the_seven
+
+capital = 141
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Artos"
+		dynasty = "Tollett"
+		birth_date = 913.1.1
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Rolfe"
+		monarch_name = "Rolfe"
+		dynasty = "Tollett"
+		birth_date = 984.1.1
+		death_date = 1042.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1004.1.1 = {
+
+	monarch = {
+		name = "Kedge"
+		dynasty = "Tollett"
+		birth_date = 969.1.1
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Tollett"
+		birth_date = 1000.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1069.1.1 = {
+
+	monarch = {
+		name = "Loren"
+		dynasty = "Tollett"
+		birth_date = 999.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Medgar"
+		monarch_name = "Medgar"
+		dynasty = "Tollett"
+		birth_date = 1062.1.1
+		death_date = 1134.1.1
+		claim = 45
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Medger"
+		dynasty = "Tollett"
+		birth_date = 1066.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Boros"
+		monarch_name = "Boros"
+		dynasty = "Tollett"
+		birth_date = 1142.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1231.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Tollett"
+		birth_date = 1182.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Qarlton"
+		monarch_name = "Qarlton"
+		dynasty = "Tollett"
+		birth_date = 1204.1.1
+		death_date = 1279.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Tollett"
+		birth_date = 1263.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Ogo"
+		monarch_name = "Ogo"
+		dynasty = "Tollett"
+		birth_date = 1297.1.1
+		death_date = 1323.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1339.1.1 = {
+
+	monarch = {
+		name = "Ronald"
+		dynasty = "Tollett"
+		birth_date = 1266.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Prendahl"
+		monarch_name = "Prendahl"
+		dynasty = "Tollett"
+		birth_date = 1336.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+
+}
+

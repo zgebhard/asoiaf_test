@@ -1,0 +1,214 @@
+
+government_rank = 1
+government = wildling_clan
+mercantilism = 0.1
+
+technology_group = wildling
+primary_culture = free_folk
+religion = asoiaf_the_old_gods
+
+capital = 12
+
+historical_rival = A02
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Luco"
+		dynasty = "Redbeard"
+		birth_date = 964.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Saathos"
+		monarch_name = "Saathos"
+		dynasty = "Redbeard"
+		birth_date = 978.1.1
+		death_date = 1016.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1084.1.1 = {
+	monarch = {
+		name = "Meldred"
+		dynasty = "Redbeard"
+		female = yes
+		birth_date = 1068.1.1
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Redbeard"
+		birth_date = 1066.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1157.1.1 = {
+
+	monarch = {
+		name = "Vortimer"
+		dynasty = "Redbeard"
+		birth_date = 1081.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Delp"
+		monarch_name = "Delp"
+		dynasty = "Redbeard"
+		birth_date = 1134.1.1
+		death_date = 1246.1.1
+		claim = 78
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1195.1.1 = {
+
+	monarch = {
+		name = "Areo"
+		dynasty = "Redbeard"
+		birth_date = 1123.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Harraq"
+		monarch_name = "Harraq"
+		dynasty = "Redbeard"
+		birth_date = 1174.1.1
+		death_date = 1261.1.1
+		claim = 62
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1224.1.1 = {
+
+	monarch = {
+		name = "Robb"
+		dynasty = "Redbeard"
+		birth_date = 1188.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Joanna"
+		monarch_name = "Joanna"
+		dynasty = "Redbeard"
+		female = yes
+		birth_date = 1195.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1301.1.1 = {
+
+	monarch = {
+		name = "Devan"
+		dynasty = "Redbeard"
+		birth_date = 1275.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Collio"
+		monarch_name = "Collio"
+		dynasty = "Redbeard"
+		birth_date = 1295.1.1
+		death_date = 1376.1.1
+		claim = 4
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1369.1.1 = {
+
+	monarch = {
+		name = "Paxter"
+		dynasty = "Redbeard"
+		birth_date = 1318.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Redbeard"
+		birth_date = 1350.1.1
+		death_date = 1435.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1370.1.1 = {
+
+	monarch = {
+		name = "Androw"
+		dynasty = "Redbeard"
+		birth_date = 1315.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Alannys"
+		monarch_name = "Alannys"
+		dynasty = "Redbeard"
+		birth_date = 1345.1.1
+		death_date = 1385.1.1
+		claim = 1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+

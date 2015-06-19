@@ -1,0 +1,262 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = ghis
+religion = asoiaf_graces
+
+capital = 620
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Edwyle"
+		dynasty = "Taraq"
+		birth_date = 957.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Hod"
+		monarch_name = "Hod"
+		dynasty = "Taraq"
+		birth_date = 972.1.1
+		death_date = 1029.1.1
+		claim = 5
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1003.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Taraq"
+		birth_date = 936.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Othell"
+		monarch_name = "Othell"
+		dynasty = "Taraq"
+		birth_date = 984.1.1
+		death_date = 1074.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1054.1.1 = {
+
+	monarch = {
+		name = "Artys"
+		dynasty = "Taraq"
+		birth_date = 1011.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Leo"
+		monarch_name = "Leo"
+		dynasty = "Taraq"
+		birth_date = 1043.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Taraq"
+		birth_date = 1066.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Kenned"
+		monarch_name = "Kenned"
+		dynasty = "Taraq"
+		birth_date = 1114.1.1
+		death_date = 1194.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Taraq"
+		birth_date = 1131.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Colin"
+		monarch_name = "Colin"
+		dynasty = "Taraq"
+		birth_date = 1191.1.1
+		death_date = 1254.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Torren"
+		dynasty = "Taraq"
+		birth_date = 1180.1.1
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Mellara"
+		monarch_name = "Mellara"
+		dynasty = "Taraq"
+		female = yes
+		birth_date = 1222.1.1
+		death_date = 1305.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Gerren"
+		dynasty = "Taraq"
+		birth_date = 1174.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Godwyn"
+		monarch_name = "Godwyn"
+		dynasty = "Taraq"
+		birth_date = 1254.1.1
+		death_date = 1322.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Cheyk"
+		dynasty = "Taraq"
+		birth_date = 1308.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Marillion"
+		monarch_name = "Marillion"
+		dynasty = "Taraq"
+		birth_date = 1304.1.1
+		death_date = 1361.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1355.1.1 = {
+
+	monarch = {
+		name = "Bronn"
+		dynasty = "Taraq"
+		birth_date = 1272.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Lythene"
+		monarch_name = "Lythene"
+		dynasty = "Taraq"
+		birth_date = 1352.1.1
+		death_date = 1387.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Perros"
+		dynasty = "Taraq"
+		birth_date = 1355.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Mollos"
+		monarch_name = "Mollos"
+		dynasty = "Taraq"
+		birth_date = 1367.1.1
+		death_date = 1453.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+

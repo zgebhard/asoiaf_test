@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "THE_IRON_THRONE"
+	desc = "THE_IRON_THRONE_DESC"
+	date = 1005.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = the_iron_throne
+		}
+	}
+}

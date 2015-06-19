@@ -1,0 +1,31 @@
+# 1250 - Halla
+
+owner = R53
+add_core = R53
+controller = R53
+is_city = yes
+
+culture = farosi
+religion = asoiaf_stone_cow_of_faros
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+hre = no
+trade_goods = grain
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling

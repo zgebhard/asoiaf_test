@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "AFTER_SPRING_NAME"
+	desc = "AFTER_SPRING_DESC"
+	# New Date: 1211.1.1
+	# Old Date: 2006.1.1
+	date = 1211.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = after_spring
+		}
+	}
+}

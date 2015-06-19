@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 1
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Urrigon"
+		dynasty = "Bolling"
+		birth_date = 923.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Cosgrove"
+		monarch_name = "Cosgrove"
+		dynasty = "Bolling"
+		birth_date = 978.1.1
+		death_date = 1081.1.1
+		claim = 0
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1053.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Bolling"
+		birth_date = 1004.1.1
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Gueren"
+		monarch_name = "Gueren"
+		dynasty = "Bolling"
+		birth_date = 1039.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Morgil"
+		dynasty = "Bolling"
+		birth_date = 1022.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Ferny"
+		monarch_name = "Ferny"
+		dynasty = "Bolling"
+		birth_date = 1090.1.1
+		death_date = 1159.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1113.1.1 = {
+
+	monarch = {
+		name = "Alyx"
+		dynasty = "Bolling"
+		birth_date = 1094.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Albar"
+		monarch_name = "Albar"
+		dynasty = "Bolling"
+		birth_date = 1106.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1143.1.1 = {
+
+	monarch = {
+		name = "Harry"
+		dynasty = "Bolling"
+		birth_date = 1089.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Elyas"
+		monarch_name = "Elyas"
+		dynasty = "Bolling"
+		birth_date = 1124.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1215.1.1 = {
+
+	monarch = {
+		name = "Ricasso"
+		dynasty = "Bolling"
+		birth_date = 1159.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Donnel"
+		monarch_name = "Donnel"
+		dynasty = "Bolling"
+		birth_date = 1214.1.1
+		death_date = 1262.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1292.1.1 = {
+	monarch = {
+		name = "Ravella"
+		dynasty = "Bolling"
+		female = yes
+		birth_date = 1237.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Othell"
+		monarch_name = "Othell"
+		dynasty = "Bolling"
+		birth_date = 1291.1.1
+		death_date = 1319.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Merrett"
+		dynasty = "Bolling"
+		birth_date = 1275.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Amolf"
+		monarch_name = "Amolf"
+		dynasty = "Bolling"
+		birth_date = 1350.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+

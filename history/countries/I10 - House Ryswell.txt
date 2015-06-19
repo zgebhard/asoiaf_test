@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 41
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lewis"
+		dynasty = "Ryswell"
+		birth_date = 969.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Bael"
+		monarch_name = "Bael"
+		dynasty = "Ryswell"
+		birth_date = 979.1.1
+		death_date = 1040.1.1
+		claim = 39
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1065.1.1 = {
+
+	monarch = {
+		name = "Qarl"
+		dynasty = "Ryswell"
+		birth_date = 1004.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Larraq"
+		monarch_name = "Larraq"
+		dynasty = "Ryswell"
+		birth_date = 1035.1.1
+		death_date = 1119.1.1
+		claim = 53
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Theon"
+		dynasty = "Ryswell"
+		birth_date = 1018.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Fogo"
+		monarch_name = "Fogo"
+		dynasty = "Ryswell"
+		birth_date = 1082.1.1
+		death_date = 1126.1.1
+		claim = 88
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1186.1.1 = {
+
+	monarch = {
+		name = "Addison"
+		dynasty = "Ryswell"
+		birth_date = 1122.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Ryswell"
+		birth_date = 1165.1.1
+		death_date = 1204.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1245.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Ryswell"
+		birth_date = 1175.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Othor"
+		monarch_name = "Othor"
+		dynasty = "Ryswell"
+		birth_date = 1239.1.1
+		death_date = 1317.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Porridge"
+		dynasty = "Ryswell"
+		birth_date = 1280.1.1
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Hamish"
+		monarch_name = "Hamish"
+		dynasty = "Ryswell"
+		birth_date = 1304.1.1
+		death_date = 1363.1.1
+		claim = 51
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1392.1.1 = {
+
+	monarch = {
+		name = "Wendell"
+		dynasty = "Ryswell"
+		birth_date = 1302.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Daven"
+		monarch_name = "Daven"
+		dynasty = "Ryswell"
+		birth_date = 1382.1.1
+		death_date = 1408.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+

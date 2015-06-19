@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 178
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Theobald"
+		dynasty = "Sarsfield"
+		birth_date = 911.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Sam"
+		monarch_name = "Sam"
+		dynasty = "Sarsfield"
+		birth_date = 973.1.1
+		death_date = 1043.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Maekar"
+		dynasty = "Sarsfield"
+		birth_date = 1024.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Otho"
+		monarch_name = "Otho"
+		dynasty = "Sarsfield"
+		birth_date = 1072.1.1
+		death_date = 1127.1.1
+		claim = 84
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1147.1.1 = {
+
+	monarch = {
+		name = "Umar"
+		dynasty = "Sarsfield"
+		birth_date = 1084.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Sarsfield"
+		birth_date = 1146.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1216.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Sarsfield"
+		birth_date = 1182.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Victor"
+		monarch_name = "Victor"
+		dynasty = "Sarsfield"
+		birth_date = 1210.1.1
+		death_date = 1301.1.1
+		claim = 1
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Royce"
+		dynasty = "Sarsfield"
+		birth_date = 1227.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Rhogoro"
+		monarch_name = "Rhogoro"
+		dynasty = "Sarsfield"
+		birth_date = 1272.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Stevron"
+		dynasty = "Sarsfield"
+		birth_date = 1296.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Jonos"
+		monarch_name = "Jonos"
+		dynasty = "Sarsfield"
+		birth_date = 1305.1.1
+		death_date = 1384.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1393.1.1 = {
+
+	monarch = {
+		name = "Clement"
+		dynasty = "Sarsfield"
+		birth_date = 1337.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Hibald"
+		monarch_name = "Hibald"
+		dynasty = "Sarsfield"
+		birth_date = 1379.1.1
+		death_date = 1473.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+}
+

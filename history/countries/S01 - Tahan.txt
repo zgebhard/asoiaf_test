@@ -1,0 +1,211 @@
+ 
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = hyrkooni
+primary_culture = bayasabhad
+religion = asoiaf_gods_of_hyrkoon
+
+capital = 674
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harwin"
+		dynasty = "Tahan"
+		birth_date = 951.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Marei"
+		monarch_name = "Marei"
+		dynasty = "Tahan"
+		birth_date = 981.1.1
+		death_date = 1076.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1074.1.1 = {
+
+	monarch = {
+		name = "Aegor"
+		dynasty = "Tahan"
+		birth_date = 1000.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Alyn"
+		monarch_name = "Alyn"
+		dynasty = "Tahan"
+		birth_date = 1045.1.1
+		death_date = 1125.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1111.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Tahan"
+		birth_date = 1051.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Gared"
+		monarch_name = "Gared"
+		dynasty = "Tahan"
+		birth_date = 1106.1.1
+		death_date = 1130.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1194.1.1 = {
+
+	monarch = {
+		name = "Gyleno"
+		dynasty = "Tahan"
+		birth_date = 1104.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Redwyn"
+		monarch_name = "Redwyn"
+		dynasty = "Tahan"
+		birth_date = 1179.1.1
+		death_date = 1229.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1250.1.1 = {
+
+	monarch = {
+		name = "Tristimun"
+		dynasty = "Tahan"
+		birth_date = 1197.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Ned"
+		monarch_name = "Ned"
+		dynasty = "Tahan"
+		birth_date = 1240.1.1
+		death_date = 1333.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}
+
+1302.1.1 = {
+
+	monarch = {
+		name = "Elwood"
+		dynasty = "Tahan"
+		birth_date = 1218.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Joseth"
+		monarch_name = "Joseth"
+		dynasty = "Tahan"
+		birth_date = 1295.1.1
+		death_date = 1366.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1368.1.1 = {
+
+	monarch = {
+		name = "Wilbert"
+		dynasty = "Tahan"
+		birth_date = 1279.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Borroq"
+		monarch_name = "Borroq"
+		dynasty = "Tahan"
+		birth_date = 1354.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1396.1.1 = {
+
+	monarch = {
+		name = "Galladon"
+		dynasty = "Tahan"
+		birth_date = 1376.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Qarro"
+		monarch_name = "Qarro"
+		dynasty = "Tahan"
+		birth_date = 1371.1.1
+		death_date = 1429.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+

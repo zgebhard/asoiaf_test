@@ -1,0 +1,212 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 199
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Dunstan"
+		dynasty = "Swyft"
+		birth_date = 933.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Watty"
+		monarch_name = "Watty"
+		dynasty = "Swyft"
+		birth_date = 991.1.1
+		death_date = 1073.1.1
+		claim = 80
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1060.1.1 = {
+
+	monarch = {
+		name = "Jonothor"
+		dynasty = "Swyft"
+		birth_date = 1032.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Sam"
+		monarch_name = "Sam"
+		dynasty = "Swyft"
+		birth_date = 1054.1.1
+		death_date = 1097.1.1
+		claim = 75
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Roggo"
+		dynasty = "Swyft"
+		birth_date = 1104.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Cyrenna"
+		monarch_name = "Cyrenna"
+		dynasty = "Swyft"
+		female = yes
+		birth_date = 1120.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1196.1.1 = {
+
+	monarch = {
+		name = "Halmon"
+		dynasty = "Swyft"
+		birth_date = 1181.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Turquin"
+		monarch_name = "Turquin"
+		dynasty = "Swyft"
+		birth_date = 1171.1.1
+		death_date = 1221.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1259.1.1 = {
+
+	monarch = {
+		name = "Luton"
+		dynasty = "Swyft"
+		birth_date = 1230.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Joramun"
+		monarch_name = "Joramun"
+		dynasty = "Swyft"
+		birth_date = 1240.1.1
+		death_date = 1346.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1276.1.1 = {
+
+	monarch = {
+		name = "Norren"
+		dynasty = "Swyft"
+		birth_date = 1216.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Praed"
+		monarch_name = "Praed"
+		dynasty = "Swyft"
+		birth_date = 1258.1.1
+		death_date = 1347.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1287.1.1 = {
+
+	monarch = {
+		name = "Eyron"
+		dynasty = "Swyft"
+		birth_date = 1223.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Jyzene"
+		monarch_name = "Jyzene"
+		dynasty = "Swyft"
+		birth_date = 1286.1.1
+		death_date = 1373.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1361.1.1 = {
+
+	monarch = {
+		name = "Tobbot"
+		dynasty = "Swyft"
+		birth_date = 1296.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Theodore"
+		monarch_name = "Theodore"
+		dynasty = "Swyft"
+		birth_date = 1349.1.1
+		death_date = 1424.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 5
+	}
+
+}
+

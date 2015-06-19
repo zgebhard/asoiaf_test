@@ -1,0 +1,55 @@
+# 248 - harpshire
+
+owner = F01
+add_core = F01
+controller = F01
+add_core = F38
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 3
+base_production = 3
+base_manpower =  3
+
+trade_goods = wine
+
+capital = "Harpshire"
+
+1000.2.1 = {
+	remove_core = F01
+	owner = F38
+	controller = F38
+}
+
+1000.2.2 = {
+	owner = F01
+	add_core = F01
+	controller = F01
+}
+
+1005.1.1 = {
+	hre = yes
+	
+	controller = F20
+	add_core = F20
+	owner = F20
+}

@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = ironborn
+religion = asoiaf_the_drowned_god
+
+capital = 160
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Eglantine"
+		dynasty = "Saltcliffe"
+		birth_date = 926.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Elwood"
+		monarch_name = "Elwood"
+		dynasty = "Saltcliffe"
+		birth_date = 981.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1087.1.1 = {
+	monarch = {
+		name = "Nissa"
+		dynasty = "Saltcliffe"
+		female = yes
+		birth_date = 1052.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Saltcliffe"
+		birth_date = 1083.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Wun"
+		dynasty = "Saltcliffe"
+		birth_date = 1137.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Mebble"
+		monarch_name = "Mebble"
+		dynasty = "Saltcliffe"
+		birth_date = 1145.1.1
+		death_date = 1215.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Waltyr"
+		dynasty = "Saltcliffe"
+		birth_date = 1174.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Erreck"
+		monarch_name = "Erreck"
+		dynasty = "Saltcliffe"
+		birth_date = 1209.1.1
+		death_date = 1309.1.1
+		claim = 10
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1299.1.1 = {
+
+	monarch = {
+		name = "Lomys"
+		dynasty = "Saltcliffe"
+		birth_date = 1223.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Erreg"
+		monarch_name = "Erreg"
+		dynasty = "Saltcliffe"
+		birth_date = 1273.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Malcolm"
+		dynasty = "Saltcliffe"
+		birth_date = 1289.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Saltcliffe"
+		birth_date = 1307.1.1
+		death_date = 1390.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Rast"
+		dynasty = "Saltcliffe"
+		birth_date = 1310.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Pree"
+		monarch_name = "Pree"
+		dynasty = "Saltcliffe"
+		birth_date = 1380.1.1
+		death_date = 1407.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+
+}
+

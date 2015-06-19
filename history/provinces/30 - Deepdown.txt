@@ -1,0 +1,38 @@
+# 30 - Deepdown
+
+owner = Q01
+add_core = Q01
+controller = Q01
+
+is_city = yes
+hre = no
+
+religion = asoiaf_the_old_gods
+culture = skagosi
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = copper
+
+capital = "Deepdown"
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+1005.1.1 = {
+	hre =  yes
+}

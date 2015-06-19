@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 773
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Quort"
+		dynasty = "Zamesh"
+		birth_date = 922.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Doran"
+		monarch_name = "Doran"
+		dynasty = "Zamesh"
+		birth_date = 978.1.1
+		death_date = 1064.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1075.1.1 = {
+
+	monarch = {
+		name = "Garigus"
+		dynasty = "Zamesh"
+		birth_date = 1022.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+
+	heir = {
+		name = "Tycho"
+		monarch_name = "Tycho"
+		dynasty = "Zamesh"
+		birth_date = 1054.1.1
+		death_date = 1137.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1123.1.1 = {
+	monarch = {
+		name = "Taena"
+		dynasty = "Zamesh"
+		female = yes
+		birth_date = 1034.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Cletus"
+		monarch_name = "Cletus"
+		dynasty = "Zamesh"
+		birth_date = 1117.1.1
+		death_date = 1170.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Nestor"
+		dynasty = "Zamesh"
+		birth_date = 1183.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Zamesh"
+		birth_date = 1207.1.1
+		death_date = 1280.1.1
+		claim = 44
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Marlon"
+		dynasty = "Zamesh"
+		birth_date = 1194.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Walder"
+		monarch_name = "Walder"
+		dynasty = "Zamesh"
+		birth_date = 1231.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1288.1.1 = {
+
+	monarch = {
+		name = "Coratt"
+		dynasty = "Zamesh"
+		birth_date = 1219.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Enderick"
+		monarch_name = "Enderick"
+		dynasty = "Zamesh"
+		birth_date = 1263.1.1
+		death_date = 1353.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1366.1.1 = {
+
+	monarch = {
+		name = "Cerrick"
+		dynasty = "Zamesh"
+		birth_date = 1322.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Todric"
+		monarch_name = "Todric"
+		dynasty = "Zamesh"
+		birth_date = 1355.1.1
+		death_date = 1386.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+

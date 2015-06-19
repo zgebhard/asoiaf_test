@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = farosi
+primary_culture = vahari
+religion = asoiaf_stone_cow_of_faros
+
+capital = 729
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Egon"
+		dynasty = "Hallafa"
+		birth_date = 939.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Medger"
+		monarch_name = "Medger"
+		dynasty = "Hallafa"
+		birth_date = 970.1.1
+		death_date = 1054.1.1
+		claim = 65
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1068.1.1 = {
+
+	monarch = {
+		name = "Bennard"
+		dynasty = "Hallafa"
+		birth_date = 1052.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Leslyn"
+		monarch_name = "Leslyn"
+		dynasty = "Hallafa"
+		birth_date = 1046.1.1
+		death_date = 1153.1.1
+		claim = 77
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1071.1.1 = {
+	monarch = {
+		name = "Ygitte"
+		dynasty = "Hallafa"
+		female = yes
+		birth_date = 1030.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Farlan"
+		monarch_name = "Farlan"
+		dynasty = "Hallafa"
+		birth_date = 1062.1.1
+		death_date = 1117.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Joffery"
+		dynasty = "Hallafa"
+		birth_date = 1027.1.1
+		adm = 6
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Galladon"
+		monarch_name = "Galladon"
+		dynasty = "Hallafa"
+		birth_date = 1078.1.1
+		death_date = 1159.1.1
+		claim = 60
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1098.1.1 = {
+
+	monarch = {
+		name = "Cragorn"
+		dynasty = "Hallafa"
+		birth_date = 1061.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Armond"
+		monarch_name = "Armond"
+		dynasty = "Hallafa"
+		birth_date = 1076.1.1
+		death_date = 1140.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1162.1.1 = {
+
+	monarch = {
+		name = "Gillam"
+		dynasty = "Hallafa"
+		birth_date = 1147.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Axell"
+		monarch_name = "Axell"
+		dynasty = "Hallafa"
+		birth_date = 1133.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 0
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Durran"
+		dynasty = "Hallafa"
+		birth_date = 1162.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Denys"
+		monarch_name = "Denys"
+		dynasty = "Hallafa"
+		birth_date = 1248.1.1
+		death_date = 1277.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1255.1.1 = {
+
+	monarch = {
+		name = "Dirk"
+		dynasty = "Hallafa"
+		birth_date = 1179.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Hallafa"
+		birth_date = 1243.1.1
+		death_date = 1282.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1291.1.1 = {
+
+	monarch = {
+		name = "Rheaegel"
+		dynasty = "Hallafa"
+		birth_date = 1205.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Fern"
+		monarch_name = "Fern"
+		dynasty = "Hallafa"
+		birth_date = 1266.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1327.1.1 = {
+
+	monarch = {
+		name = "Patrek"
+		dynasty = "Hallafa"
+		birth_date = 1259.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Wyman"
+		monarch_name = "Wyman"
+		dynasty = "Hallafa"
+		birth_date = 1320.1.1
+		death_date = 1410.1.1
+		claim = 86
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Brienne"
+		dynasty = "Hallafa"
+		female = yes
+		birth_date = 1322.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Delp"
+		monarch_name = "Delp"
+		dynasty = "Hallafa"
+		birth_date = 1353.1.1
+		death_date = 1388.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+

@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 663
+
+1000.1.1 = {
+	monarch = {
+		name = "Sharna"
+		dynasty = "Mallarawan"
+		female = yes
+		birth_date = 941.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Vardis"
+		monarch_name = "Vardis"
+		dynasty = "Mallarawan"
+		birth_date = 997.1.1
+		death_date = 1078.1.1
+		claim = 32
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1080.1.1 = {
+
+	monarch = {
+		name = "Qyle"
+		dynasty = "Mallarawan"
+		birth_date = 996.1.1
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Sawane"
+		monarch_name = "Sawane"
+		dynasty = "Mallarawan"
+		birth_date = 1067.1.1
+		death_date = 1120.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1097.1.1 = {
+
+	monarch = {
+		name = "Elmar"
+		dynasty = "Mallarawan"
+		birth_date = 1074.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Eggon"
+		monarch_name = "Eggon"
+		dynasty = "Mallarawan"
+		birth_date = 1086.1.1
+		death_date = 1112.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1104.1.1 = {
+
+	monarch = {
+		name = "Gyleno"
+		dynasty = "Mallarawan"
+		birth_date = 1054.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Jason"
+		monarch_name = "Jason"
+		dynasty = "Mallarawan"
+		birth_date = 1083.1.1
+		death_date = 1191.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Jarmen"
+		dynasty = "Mallarawan"
+		birth_date = 1120.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Roro"
+		monarch_name = "Roro"
+		dynasty = "Mallarawan"
+		birth_date = 1181.1.1
+		death_date = 1214.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Courtenay"
+		dynasty = "Mallarawan"
+		birth_date = 1137.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Easy"
+		monarch_name = "Easy"
+		dynasty = "Mallarawan"
+		birth_date = 1198.1.1
+		death_date = 1231.1.1
+		claim = 58
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1282.1.1 = {
+
+	monarch = {
+		name = "Skittrick"
+		dynasty = "Mallarawan"
+		birth_date = 1196.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Grunt"
+		monarch_name = "Grunt"
+		dynasty = "Mallarawan"
+		birth_date = 1256.1.1
+		death_date = 1330.1.1
+		claim = 72
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1357.1.1 = {
+
+	monarch = {
+		name = "Medgar"
+		dynasty = "Mallarawan"
+		birth_date = 1328.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Harodon"
+		monarch_name = "Harodon"
+		dynasty = "Mallarawan"
+		birth_date = 1327.1.1
+		death_date = 1442.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1384.1.1 = {
+
+	monarch = {
+		name = "Bors"
+		dynasty = "Mallarawan"
+		birth_date = 1333.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Tybolt"
+		monarch_name = "Tybolt"
+		dynasty = "Mallarawan"
+		birth_date = 1366.1.1
+		death_date = 1452.1.1
+		claim = 80
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+

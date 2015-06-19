@@ -1,0 +1,238 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+historical_friend = B37
+
+capital = 305
+1000.1.1 = {
+
+	monarch = {
+		name = "Hodor"
+		dynasty = "Tarth"
+		birth_date = 916.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Tim"
+		monarch_name = "Tim"
+		dynasty = "Tarth"
+		birth_date = 992.1.1
+		death_date = 1062.1.1
+		claim = 52
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1070.1.1 = {
+	monarch = {
+		name = "Sarya"
+		dynasty = "Tarth"
+		female = yes
+		birth_date = 1016.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+
+	heir = {
+		name = "Rob"
+		monarch_name = "Rob"
+		dynasty = "Tarth"
+		birth_date = 1051.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1100.1.1 = {
+
+	monarch = {
+		name = "Uller"
+		dynasty = "Tarth"
+		birth_date = 1042.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Willas"
+		monarch_name = "Willas"
+		dynasty = "Tarth"
+		birth_date = 1094.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1173.1.1 = {
+
+	monarch = {
+		name = "Torwold"
+		dynasty = "Tarth"
+		birth_date = 1135.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Willow"
+		monarch_name = "Willow"
+		dynasty = "Tarth"
+		female = yes
+		birth_date = 1160.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Wat"
+		dynasty = "Tarth"
+		birth_date = 1151.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Wendello"
+		monarch_name = "Wendello"
+		dynasty = "Tarth"
+		birth_date = 1184.1.1
+		death_date = 1272.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1246.1.1 = {
+	monarch = {
+		name = "Ezzara"
+		dynasty = "Tarth"
+		female = yes
+		birth_date = 1213.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Cass"
+		monarch_name = "Cass"
+		dynasty = "Tarth"
+		female = yes
+		birth_date = 1246.1.1
+		death_date = 1311.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+}
+
+1260.1.1 = {
+
+	monarch = {
+		name = "Yorko"
+		dynasty = "Tarth"
+		birth_date = 1240.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Khorane"
+		monarch_name = "Khorane"
+		dynasty = "Tarth"
+		birth_date = 1252.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Geraradys"
+		dynasty = "Tarth"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Domeric"
+		monarch_name = "Domeric"
+		dynasty = "Tarth"
+		birth_date = 1308.1.1
+		death_date = 1359.1.1
+		claim = 95
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1394.1.1 = {
+
+	monarch = {
+		name = "Errok"
+		dynasty = "Tarth"
+		birth_date = 1324.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Qotho"
+		monarch_name = "Qotho"
+		dynasty = "Tarth"
+		birth_date = 1387.1.1
+		death_date = 1465.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+

@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_crownlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 222
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Wun"
+		dynasty = "Chelsted"
+		birth_date = 935.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Symond"
+		monarch_name = "Symond"
+		dynasty = "Chelsted"
+		birth_date = 979.1.1
+		death_date = 1090.1.1
+		claim = 100
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1049.1.1 = {
+
+	monarch = {
+		name = "Sybassion"
+		dynasty = "Chelsted"
+		birth_date = 1007.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Daemon"
+		monarch_name = "Daemon"
+		dynasty = "Chelsted"
+		birth_date = 1029.1.1
+		death_date = 1118.1.1
+		claim = 9
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1108.1.1 = {
+
+	monarch = {
+		name = "Jafer"
+		dynasty = "Chelsted"
+		birth_date = 1040.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Umar"
+		monarch_name = "Umar"
+		dynasty = "Chelsted"
+		birth_date = 1086.1.1
+		death_date = 1160.1.1
+		claim = 74
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1137.1.1 = {
+
+	monarch = {
+		name = "Euron"
+		dynasty = "Chelsted"
+		birth_date = 1090.1.1
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Alerie"
+		monarch_name = "Alerie"
+		dynasty = "Chelsted"
+		birth_date = 1111.1.1
+		death_date = 1168.1.1
+		claim = 18
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1146.1.1 = {
+
+	monarch = {
+		name = "Xaro"
+		dynasty = "Chelsted"
+		birth_date = 1126.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Torren"
+		monarch_name = "Torren"
+		dynasty = "Chelsted"
+		birth_date = 1138.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1231.1.1 = {
+
+	monarch = {
+		name = "Camarron"
+		dynasty = "Chelsted"
+		birth_date = 1144.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Chayle"
+		monarch_name = "Chayle"
+		dynasty = "Chelsted"
+		birth_date = 1223.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Easy"
+		dynasty = "Chelsted"
+		birth_date = 1286.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Barth"
+		monarch_name = "Barth"
+		dynasty = "Chelsted"
+		birth_date = 1303.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Walys"
+		dynasty = "Chelsted"
+		birth_date = 1301.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Malliard"
+		monarch_name = "Malliard"
+		dynasty = "Chelsted"
+		birth_date = 1360.1.1
+		death_date = 1445.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+
+}
+

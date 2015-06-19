@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 48
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ryles"
+		dynasty = "Branch"
+		birth_date = 978.1.1
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+	heir = {
+		name = "Aglantine"
+		monarch_name = "Aglantine"
+		dynasty = "Branch"
+		birth_date = 986.1.1
+		death_date = 1087.1.1
+		claim = 58
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1038.1.1 = {
+
+	monarch = {
+		name = "Quentin"
+		dynasty = "Branch"
+		birth_date = 993.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Jafer"
+		monarch_name = "Jafer"
+		dynasty = "Branch"
+		birth_date = 1026.1.1
+		death_date = 1078.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Jarmen"
+		dynasty = "Branch"
+		birth_date = 1078.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Wilbert"
+		monarch_name = "Wilbert"
+		dynasty = "Branch"
+		birth_date = 1114.1.1
+		death_date = 1181.1.1
+		claim = 100
+		adm = 6
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1204.1.1 = {
+
+	monarch = {
+		name = "Galtry"
+		dynasty = "Branch"
+		birth_date = 1127.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Malcolm"
+		monarch_name = "Malcolm"
+		dynasty = "Branch"
+		birth_date = 1181.1.1
+		death_date = 1258.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Eroeh"
+		dynasty = "Branch"
+		birth_date = 1180.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Elyas"
+		monarch_name = "Elyas"
+		dynasty = "Branch"
+		birth_date = 1189.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1262.1.1 = {
+
+	monarch = {
+		name = "Clayton"
+		dynasty = "Branch"
+		birth_date = 1242.1.1
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Jaremy"
+		monarch_name = "Jaremy"
+		dynasty = "Branch"
+		birth_date = 1243.1.1
+		death_date = 1344.1.1
+		claim = 75
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1337.1.1 = {
+
+	monarch = {
+		name = "Dick"
+		dynasty = "Branch"
+		birth_date = 1297.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Dan"
+		monarch_name = "Dan"
+		dynasty = "Branch"
+		birth_date = 1334.1.1
+		death_date = 1383.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1379.1.1 = {
+
+	monarch = {
+		name = "Jack"
+		dynasty = "Branch"
+		birth_date = 1297.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Amolf"
+		monarch_name = "Amolf"
+		dynasty = "Branch"
+		birth_date = 1355.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1380.1.1 = {
+
+	monarch = {
+		name = "Rafford"
+		dynasty = "Branch"
+		birth_date = 1360.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Gorold"
+		monarch_name = "Gorold"
+		dynasty = "Branch"
+		birth_date = 1375.1.1
+		death_date = 1454.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+

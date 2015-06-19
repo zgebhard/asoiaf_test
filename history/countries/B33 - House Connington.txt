@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = knightly_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 303
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Turquin"
+		dynasty = "Connington"
+		birth_date = 970.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Daryn"
+		monarch_name = "Daryn"
+		dynasty = "Connington"
+		birth_date = 996.1.1
+		death_date = 1057.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Gerold"
+		dynasty = "Connington"
+		birth_date = 982.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Endrew"
+		monarch_name = "Endrew"
+		dynasty = "Connington"
+		birth_date = 1058.1.1
+		death_date = 1144.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1120.1.1 = {
+
+	monarch = {
+		name = "Beren"
+		dynasty = "Connington"
+		birth_date = 1074.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Lomas"
+		monarch_name = "Lomas"
+		dynasty = "Connington"
+		birth_date = 1107.1.1
+		death_date = 1154.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1175.1.1 = {
+
+	monarch = {
+		name = "Redwyn"
+		dynasty = "Connington"
+		birth_date = 1145.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Wun"
+		monarch_name = "Wun"
+		dynasty = "Connington"
+		birth_date = 1157.1.1
+		death_date = 1252.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1243.1.1 = {
+
+	monarch = {
+		name = "Cosgrove"
+		dynasty = "Connington"
+		birth_date = 1209.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Harrold"
+		monarch_name = "Harrold"
+		dynasty = "Connington"
+		birth_date = 1224.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1309.1.1 = {
+
+	monarch = {
+		name = "Arwood"
+		dynasty = "Connington"
+		birth_date = 1269.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Maslyn"
+		monarch_name = "Maslyn"
+		dynasty = "Connington"
+		birth_date = 1288.1.1
+		death_date = 1361.1.1
+		claim = 99
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1364.1.1 = {
+
+	monarch = {
+		name = "Kennos"
+		dynasty = "Connington"
+		birth_date = 1301.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Tyrek"
+		monarch_name = "Tyrek"
+		dynasty = "Connington"
+		birth_date = 1345.1.1
+		death_date = 1383.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1387.1.1 = {
+
+	monarch = {
+		name = "Moqorro"
+		dynasty = "Connington"
+		birth_date = 1341.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Erik"
+		monarch_name = "Erik"
+		dynasty = "Connington"
+		birth_date = 1378.1.1
+		death_date = 1476.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+

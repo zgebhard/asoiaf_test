@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = summer_islanders
+primary_culture = jaluru
+religion = asoiaf_summer_gods
+
+capital = 519
+
+1000.1.1 = {
+	monarch = {
+		name = "Tyene"
+		dynasty = "Ekwensu"
+		female = yes
+		birth_date = 970.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Harmen"
+		monarch_name = "Harmen"
+		dynasty = "Ekwensu"
+		birth_date = 994.1.1
+		death_date = 1084.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1084.1.1 = {
+
+	monarch = {
+		name = "Daemon"
+		dynasty = "Ekwensu"
+		birth_date = 1037.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Dryn"
+		monarch_name = "Dryn"
+		dynasty = "Ekwensu"
+		birth_date = 1072.1.1
+		death_date = 1164.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Carrot"
+		dynasty = "Ekwensu"
+		birth_date = 1082.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Fornio"
+		monarch_name = "Fornio"
+		dynasty = "Ekwensu"
+		birth_date = 1129.1.1
+		death_date = 1199.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1164.1.1 = {
+
+	monarch = {
+		name = "Merlon"
+		dynasty = "Ekwensu"
+		birth_date = 1084.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Mycah"
+		monarch_name = "Mycah"
+		dynasty = "Ekwensu"
+		birth_date = 1160.1.1
+		death_date = 1211.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1168.1.1 = {
+
+	monarch = {
+		name = "Cedra"
+		dynasty = "Ekwensu"
+		birth_date = 1119.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Gendry"
+		monarch_name = "Gendry"
+		dynasty = "Ekwensu"
+		birth_date = 1148.1.1
+		death_date = 1206.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1241.1.1 = {
+
+	monarch = {
+		name = "Yormwell"
+		dynasty = "Ekwensu"
+		birth_date = 1222.1.1
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Aurane"
+		monarch_name = "Aurane"
+		dynasty = "Ekwensu"
+		birth_date = 1219.1.1
+		death_date = 1297.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+}
+
+1317.1.1 = {
+
+	monarch = {
+		name = "Goady"
+		dynasty = "Ekwensu"
+		birth_date = 1245.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Dudley"
+		monarch_name = "Dudley"
+		dynasty = "Ekwensu"
+		birth_date = 1294.1.1
+		death_date = 1342.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+

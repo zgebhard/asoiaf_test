@@ -1,0 +1,361 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 871
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Theo"
+		dynasty = "Maharra"
+		birth_date = 941.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Maharra"
+		birth_date = 986.1.1
+		death_date = 1033.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Theodan"
+		dynasty = "Maharra"
+		birth_date = 1029.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gydayn"
+		monarch_name = "Gydayn"
+		dynasty = "Maharra"
+		birth_date = 1054.1.1
+		death_date = 1146.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1082.1.1 = {
+
+	monarch = {
+		name = "Albar"
+		dynasty = "Maharra"
+		birth_date = 1042.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Rumund"
+		monarch_name = "Rumund"
+		dynasty = "Maharra"
+		birth_date = 1055.1.1
+		death_date = 1129.1.1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1104.1.1 = {
+
+	monarch = {
+		name = "Quentyn"
+		dynasty = "Maharra"
+		birth_date = 1027.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Aermon"
+		monarch_name = "Aermon"
+		dynasty = "Maharra"
+		birth_date = 1089.1.1
+		death_date = 1183.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1135.1.1 = {
+
+	monarch = {
+		name = "Jarl"
+		dynasty = "Maharra"
+		birth_date = 1053.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Otter"
+		monarch_name = "Otter"
+		dynasty = "Maharra"
+		birth_date = 1134.1.1
+		death_date = 1185.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1205.1.1 = {
+
+	monarch = {
+		name = "Gysella"
+		dynasty = "Maharra"
+		birth_date = 1148.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Viserys"
+		monarch_name = "Viserys"
+		dynasty = "Maharra"
+		birth_date = 1184.1.1
+		death_date = 1264.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1212.1.1 = {
+
+	monarch = {
+		name = "Ryam"
+		dynasty = "Maharra"
+		birth_date = 1141.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Maharra"
+		birth_date = 1188.1.1
+		death_date = 1247.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Patrek"
+		dynasty = "Maharra"
+		birth_date = 1215.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Vylarr"
+		monarch_name = "Vylarr"
+		dynasty = "Maharra"
+		birth_date = 1259.1.1
+		death_date = 1335.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Jeffory"
+		dynasty = "Maharra"
+		birth_date = 1202.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Danos"
+		monarch_name = "Danos"
+		dynasty = "Maharra"
+		birth_date = 1259.1.1
+		death_date = 1314.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1314.1.1 = {
+
+	monarch = {
+		name = "Alesander"
+		dynasty = "Maharra"
+		birth_date = 1260.1.1
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Walgrave"
+		monarch_name = "Walgrave"
+		dynasty = "Maharra"
+		birth_date = 1288.1.1
+		death_date = 1380.1.1
+		claim = 100
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1320.1.1 = {
+
+	monarch = {
+		name = "Bennet"
+		dynasty = "Maharra"
+		birth_date = 1239.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Mawney"
+		monarch_name = "Mawney"
+		dynasty = "Maharra"
+		birth_date = 1310.1.1
+		death_date = 1367.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1330.1.1 = {
+
+	monarch = {
+		name = "Ogo"
+		dynasty = "Maharra"
+		birth_date = 1311.1.1
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Goodwin"
+		monarch_name = "Goodwin"
+		dynasty = "Maharra"
+		birth_date = 1302.1.1
+		death_date = 1376.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1358.1.1 = {
+
+	monarch = {
+		name = "Hallyne"
+		dynasty = "Maharra"
+		birth_date = 1298.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Joss"
+		monarch_name = "Joss"
+		dynasty = "Maharra"
+		birth_date = 1338.1.1
+		death_date = 1448.1.1
+		claim = 40
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1377.1.1 = {
+
+	monarch = {
+		name = "Dontos"
+		dynasty = "Maharra"
+		birth_date = 1357.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Aethan"
+		monarch_name = "Aethan"
+		dynasty = "Maharra"
+		birth_date = 1371.1.1
+		death_date = 1434.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+
+}
+

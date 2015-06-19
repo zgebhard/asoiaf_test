@@ -1,0 +1,162 @@
+
+government_rank = 1
+government = wildling_clan
+mercantilism = 0.1
+
+technology_group = wildling
+primary_culture = free_folk
+religion = asoiaf_the_old_gods
+
+capital = 3
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Denyo"
+		dynasty = "Thanskull"
+		birth_date = 948.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Galtry"
+		monarch_name = "Galtry"
+		dynasty = "Thanskull"
+		birth_date = 998.1.1
+		death_date = 1064.1.1
+		claim = 56
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+
+}
+
+1090.1.1 = {
+
+	monarch = {
+		name = "Joramun"
+		dynasty = "Thanskull"
+		birth_date = 1051.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Rakharo"
+		monarch_name = "Rakharo"
+		dynasty = "Thanskull"
+		birth_date = 1077.1.1
+		death_date = 1149.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1174.1.1 = {
+
+	monarch = {
+		name = "Orbelo"
+		dynasty = "Thanskull"
+		birth_date = 1145.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Rickard"
+		monarch_name = "Rickard"
+		dynasty = "Thanskull"
+		birth_date = 1147.1.1
+		death_date = 1234.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1237.1.1 = {
+
+	monarch = {
+		name = "Eon"
+		dynasty = "Thanskull"
+		birth_date = 1170.1.1
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Elmar"
+		monarch_name = "Elmar"
+		dynasty = "Thanskull"
+		birth_date = 1235.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1326.1.1 = {
+
+	monarch = {
+		name = "Perriane"
+		dynasty = "Thanskull"
+		birth_date = 1299.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Selyse"
+		monarch_name = "Selyse"
+		dynasty = "Thanskull"
+		female = yes
+		birth_date = 1305.1.1
+		death_date = 1344.1.1
+		claim = 55
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Fogo"
+		dynasty = "Thanskull"
+		birth_date = 1302.1.1
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Talla"
+		monarch_name = "Talla"
+		dynasty = "Thanskull"
+		birth_date = 1363.1.1
+		death_date = 1412.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+
+}
+

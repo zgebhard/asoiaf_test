@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 177
+
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Gared"
+		dynasty = "Bettley"
+		birth_date = 948.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Temmo"
+		monarch_name = "Temmo"
+		dynasty = "Bettley"
+		birth_date = 999.1.1
+		death_date = 1055.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Eggon"
+		dynasty = "Bettley"
+		birth_date = 1011.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Bryan"
+		monarch_name = "Bryan"
+		dynasty = "Bettley"
+		birth_date = 1043.1.1
+		death_date = 1085.1.1
+		claim = 89
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+
+}
+
+1077.1.1 = {
+
+	monarch = {
+		name = "Allar"
+		dynasty = "Bettley"
+		birth_date = 1041.1.1
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Caleotte"
+		monarch_name = "Caleotte"
+		dynasty = "Bettley"
+		female = yes
+		birth_date = 1047.1.1
+		death_date = 1141.1.1
+		claim = 84
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1119.1.1 = {
+
+	monarch = {
+		name = "Eldiss"
+		dynasty = "Bettley"
+		birth_date = 1077.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Qotho"
+		monarch_name = "Qotho"
+		dynasty = "Bettley"
+		birth_date = 1099.1.1
+		death_date = 1142.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+
+}
+
+1141.1.1 = {
+
+	monarch = {
+		name = "Koss"
+		dynasty = "Bettley"
+		birth_date = 1104.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Aegon"
+		monarch_name = "Aegon"
+		dynasty = "Bettley"
+		birth_date = 1118.1.1
+		death_date = 1178.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1179.1.1 = {
+	monarch = {
+		name = "Nymella"
+		dynasty = "Bettley"
+		female = yes
+		birth_date = 1147.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Armen"
+		monarch_name = "Armen"
+		dynasty = "Bettley"
+		birth_date = 1177.1.1
+		death_date = 1222.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1266.1.1 = {
+
+	monarch = {
+		name = "Rossart"
+		dynasty = "Bettley"
+		birth_date = 1247.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Dilly"
+		monarch_name = "Dilly"
+		dynasty = "Bettley"
+		birth_date = 1255.1.1
+		death_date = 1340.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1336.1.1 = {
+
+	monarch = {
+		name = "Lorcas"
+		dynasty = "Bettley"
+		birth_date = 1319.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Crawn"
+		monarch_name = "Crawn"
+		dynasty = "Bettley"
+		birth_date = 1316.1.1
+		death_date = 1374.1.1
+		claim = 73
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+

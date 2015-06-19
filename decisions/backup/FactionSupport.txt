@@ -1,0 +1,291 @@
+country_decisions = {
+
+	monarchy_check_factions = {
+		potential = {
+			government = monarchy
+			NOT = { government = pirate_haven }
+		}
+		allow = {
+			government = monarchy
+			NOT = { has_country_modifier = monarchy_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.1 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	monarchy_faction_info = {
+		potential = {
+			government = monarchy
+			NOT = { government = pirate_haven }
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_monarchy_maesters value = 0 }
+			check_variable = { which = faction_monarchy_merchants value = 0 }
+			check_variable = { which = faction_monarchy_soldiers value = 0 }
+			check_variable = { which = faction_monarchy_nobles value = 0 }
+			check_variable = { which = faction_monarchy_peasants value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	republic_check_factions = {
+		potential = {
+			government = republic
+			NOT = { government = nw_government }
+		}
+		allow = {
+			government = republic
+			NOT = { has_country_modifier = republic_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.2 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	republic_faction_info = {
+		potential = {
+			government = republic
+			NOT = { government = nw_government }
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_republic_magisters value = 0 }
+			check_variable = { which = faction_republic_merchants value = 0 }
+			check_variable = { which = faction_republic_soldiers value = 0 }
+			check_variable = { which = faction_republic_nobles value = 0 }
+			check_variable = { which = faction_republic_peasants value = 0 }	
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	qarth_check_factions = {
+		potential = {
+			government = ancient_city
+		}
+		allow = {
+			government = ancient_city
+			NOT = { has_country_modifier = qarth_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.3 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	qarth_faction_info = {
+		potential = {
+			government = ancient_city
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_qarth_thirteen value = 0 }
+			check_variable = { which = faction_qarth_ancient_guild value = 0 }
+			check_variable = { which = faction_qarth_tourmaline value = 0 }
+			check_variable = { which = faction_qarth_pureborn value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	tribal_check_factions = {
+		potential = {
+			government = wildling_clan
+		}
+		allow = {
+			government = wildling_clan
+			NOT = { has_country_modifier = tribal_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.4 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	tribal_faction_info = {
+		potential = {
+			government = wildling_clan
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_tribal_elders value = 0 }
+			check_variable = { which = faction_tribal_craftsmen value = 0 }
+			check_variable = { which = faction_tribal_warriors value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	khas_check_factions = {
+		potential = {
+			government = khas
+		}
+		allow = {
+			government = khas
+			NOT = { has_country_modifier = khas_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.5 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	khas_faction_info = {
+		potential = {
+			government = khas
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_khas_dosh_khaleen value = 0 }
+			check_variable = { which = faction_khas_traders value = 0 }
+			check_variable = { which = faction_khas_bloodriders value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	nw_check_factions = {
+		potential = {
+			government = nw_government
+		}
+		allow = {
+			government = nw_government
+			NOT = { has_country_modifier = nw_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.6 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	nw_faction_info = {
+		potential = {
+			government = nw_government
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_nw_stewards value = 0 }
+			check_variable = { which = faction_nw_builders value = 0 }
+			check_variable = { which = faction_nw_rangers value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	pirate_check_factions = {
+		potential = {
+			government = pirate_haven
+		}
+		allow = {
+			government = pirate_haven
+			NOT = { has_country_modifier = pirate_faction_timer }
+		}
+		effect = {
+			country_event = { id = FACTION_SUPPORT_EVENTS.7 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { years_of_income = 10 }
+			}
+		}
+	}
+	
+	pirate_faction_info = {
+		potential = {
+			government = pirate_haven
+		}
+		allow = {
+			always = no
+			check_variable = { which = faction_pirate_spenders value = 0 }
+			check_variable = { which = faction_pirate_traders value = 0 }
+			check_variable = { which = faction_pirate_raiders value = 0 }
+		}
+		effect = {
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

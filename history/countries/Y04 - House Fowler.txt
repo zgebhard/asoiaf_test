@@ -1,0 +1,187 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = sand_dornish
+religion = asoiaf_faith_of_the_seven
+historical_friend = A09
+
+capital = 333
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Erik"
+		dynasty = "Fowler"
+		birth_date = 933.1.1
+		adm = 6
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Gerrick"
+		monarch_name = "Gerrick"
+		dynasty = "Fowler"
+		birth_date = 987.1.1
+		death_date = 1054.1.1
+		claim = 100
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1047.1.1 = {
+
+	monarch = {
+		name = "Maron"
+		dynasty = "Fowler"
+		birth_date = 1023.1.1
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Patrek"
+		monarch_name = "Patrek"
+		dynasty = "Fowler"
+		birth_date = 1042.1.1
+		death_date = 1063.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1130.1.1 = {
+
+	monarch = {
+		name = "Marq"
+		dynasty = "Fowler"
+		birth_date = 1094.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Morosh"
+		monarch_name = "Morosh"
+		dynasty = "Fowler"
+		birth_date = 1109.1.1
+		death_date = 1196.1.1
+		claim = 100
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1209.1.1 = {
+
+	monarch = {
+		name = "Puckens"
+		dynasty = "Fowler"
+		birth_date = 1126.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Robin"
+		monarch_name = "Robin"
+		dynasty = "Fowler"
+		birth_date = 1192.1.1
+		death_date = 1266.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1271.1.1 = {
+
+	monarch = {
+		name = "Chayle"
+		dynasty = "Fowler"
+		birth_date = 1242.1.1
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Fralegg"
+		monarch_name = "Fralegg"
+		dynasty = "Fowler"
+		birth_date = 1269.1.1
+		death_date = 1318.1.1
+		claim = 31
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Morosh"
+		dynasty = "Fowler"
+		birth_date = 1253.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Hobber"
+		monarch_name = "Hobber"
+		dynasty = "Fowler"
+		birth_date = 1280.1.1
+		death_date = 1332.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1363.1.1 = {
+
+	monarch = {
+		name = "Simon"
+		dynasty = "Fowler"
+		birth_date = 1299.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Rufus"
+		monarch_name = "Rufus"
+		dynasty = "Fowler"
+		birth_date = 1359.1.1
+		death_date = 1432.1.1
+		claim = 100
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+
+}
+

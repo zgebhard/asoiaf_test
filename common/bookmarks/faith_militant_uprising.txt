@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "THE_FAITH_MILITANT_UPRISING_NAME"
+	desc = "THE_FAITH_MILITANT_UPRISING_DESC"
+	# New Date: 1041.1.1
+	# Old Date: 2002.1.1
+	date = 1041.1.1
+	
+	effect = {
+		A01 = {
+			set_global_flag = faith_militant_uprising
+		}
+	}
+}

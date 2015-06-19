@@ -1,0 +1,286 @@
+
+government_rank = 1
+government = ancient_city
+mercantilism = 0.1
+
+technology_group = quartheen
+primary_culture = qartheen
+religion = asoiaf_mixed_worship
+
+capital = 662
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Aerion"
+		dynasty = "Emeros"
+		birth_date = 951.1.1
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Gilbert"
+		monarch_name = "Gilbert"
+		dynasty = "Emeros"
+		birth_date = 986.1.1
+		death_date = 1070.1.1
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1015.1.1 = {
+
+	monarch = {
+		name = "Bryen"
+		dynasty = "Emeros"
+		birth_date = 954.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Brandon"
+		monarch_name = "Brandon"
+		dynasty = "Emeros"
+		birth_date = 993.1.1
+		death_date = 1039.1.1
+		claim = 1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1067.1.1 = {
+
+	monarch = {
+		name = "Hali"
+		dynasty = "Emeros"
+		birth_date = 1006.1.1
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Emeros"
+		birth_date = 1043.1.1
+		death_date = 1138.1.1
+		claim = 43
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1089.1.1 = {
+
+	monarch = {
+		name = "Roland"
+		dynasty = "Emeros"
+		birth_date = 1006.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Urzen"
+		monarch_name = "Urzen"
+		dynasty = "Emeros"
+		birth_date = 1078.1.1
+		death_date = 1118.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1158.1.1 = {
+	monarch = {
+		name = "Ellaria"
+		dynasty = "Emeros"
+		female = yes
+		birth_date = 1099.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Rhaegar"
+		monarch_name = "Rhaegar"
+		dynasty = "Emeros"
+		birth_date = 1154.1.1
+		death_date = 1223.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1183.1.1 = {
+
+	monarch = {
+		name = "Belis"
+		dynasty = "Emeros"
+		birth_date = 1148.1.1
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Anvil"
+		monarch_name = "Anvil"
+		dynasty = "Emeros"
+		birth_date = 1175.1.1
+		death_date = 1217.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1211.1.1 = {
+
+	monarch = {
+		name = "Wynton"
+		dynasty = "Emeros"
+		birth_date = 1187.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+
+	heir = {
+		name = "Quenten"
+		monarch_name = "Quenten"
+		dynasty = "Emeros"
+		birth_date = 1205.1.1
+		death_date = 1294.1.1
+		claim = 57
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1278.1.1 = {
+
+	monarch = {
+		name = "Pycelle"
+		dynasty = "Emeros"
+		birth_date = 1206.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Bharbo"
+		monarch_name = "Bharbo"
+		dynasty = "Emeros"
+		birth_date = 1252.1.1
+		death_date = 1326.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1340.1.1 = {
+
+	monarch = {
+		name = "Urek"
+		dynasty = "Emeros"
+		birth_date = 1324.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Bandy"
+		monarch_name = "Bandy"
+		dynasty = "Emeros"
+		birth_date = 1329.1.1
+		death_date = 1389.1.1
+		claim = 100
+		adm = 4
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1349.1.1 = {
+
+	monarch = {
+		name = "Benedar"
+		dynasty = "Emeros"
+		birth_date = 1308.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Edmure"
+		monarch_name = "Edmure"
+		dynasty = "Emeros"
+		birth_date = 1327.1.1
+		death_date = 1415.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1359.1.1 = {
+
+	monarch = {
+		name = "Tim"
+		dynasty = "Emeros"
+		birth_date = 1282.1.1
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Lysono"
+		monarch_name = "Lysono"
+		dynasty = "Emeros"
+		birth_date = 1331.1.1
+		death_date = 1439.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+

@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 238
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Sybell"
+		dynasty = "Osgrey"
+		birth_date = 974.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+	heir = {
+		name = "Pylos"
+		monarch_name = "Pylos"
+		dynasty = "Osgrey"
+		birth_date = 986.1.1
+		death_date = 1027.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1049.1.1 = {
+	monarch = {
+		name = "Shireen"
+		dynasty = "Osgrey"
+		female = yes
+		birth_date = 983.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Dick"
+		monarch_name = "Dick"
+		dynasty = "Osgrey"
+		birth_date = 1041.1.1
+		death_date = 1126.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Skittrick"
+		dynasty = "Osgrey"
+		birth_date = 1006.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Pypar"
+		monarch_name = "Pypar"
+		dynasty = "Osgrey"
+		birth_date = 1084.1.1
+		death_date = 1125.1.1
+		claim = 79
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+
+}
+
+1181.1.1 = {
+
+	monarch = {
+		name = "Urron"
+		dynasty = "Osgrey"
+		birth_date = 1156.1.1
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+	heir = {
+		name = "Samwell"
+		monarch_name = "Samwell"
+		dynasty = "Osgrey"
+		birth_date = 1154.1.1
+		death_date = 1220.1.1
+		claim = 100
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+}
+
+1269.1.1 = {
+
+	monarch = {
+		name = "Gwayne"
+		dynasty = "Osgrey"
+		birth_date = 1247.1.1
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Grisil"
+		monarch_name = "Grisil"
+		dynasty = "Osgrey"
+		birth_date = 1263.1.1
+		death_date = 1336.1.1
+		claim = 100
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1343.1.1 = {
+
+	monarch = {
+		name = "Rennifer"
+		dynasty = "Osgrey"
+		birth_date = 1296.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Gendel"
+		monarch_name = "Gendel"
+		dynasty = "Osgrey"
+		birth_date = 1319.1.1
+		death_date = 1359.1.1
+		claim = 100
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1397.1.1 = {
+
+	monarch = {
+		name = "Gevin"
+		dynasty = "Osgrey"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Wallace"
+		monarch_name = "Wallace"
+		dynasty = "Osgrey"
+		birth_date = 1385.1.1
+		death_date = 1481.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+
+}
+

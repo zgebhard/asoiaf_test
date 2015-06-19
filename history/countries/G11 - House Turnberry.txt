@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 196
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Lucamore"
+		dynasty = "Turnberry"
+		birth_date = 957.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Ellery"
+		monarch_name = "Ellery"
+		dynasty = "Turnberry"
+		birth_date = 973.1.1
+		death_date = 1076.1.1
+		claim = 45
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1013.1.1 = {
+
+	monarch = {
+		name = "Chiswyck"
+		dynasty = "Turnberry"
+		birth_date = 957.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+	heir = {
+		name = "Boremund"
+		monarch_name = "Boremund"
+		dynasty = "Turnberry"
+		birth_date = 995.1.1
+		death_date = 1095.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1081.1.1 = {
+
+	monarch = {
+		name = "Rolly"
+		dynasty = "Turnberry"
+		birth_date = 996.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+
+	heir = {
+		name = "Aegor"
+		monarch_name = "Aegor"
+		dynasty = "Turnberry"
+		birth_date = 1055.1.1
+		death_date = 1163.1.1
+		claim = 100
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1083.1.1 = {
+	monarch = {
+		name = "Frenya"
+		dynasty = "Turnberry"
+		female = yes
+		birth_date = 1023.1.1
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Rycherd"
+		monarch_name = "Rycherd"
+		dynasty = "Turnberry"
+		birth_date = 1066.1.1
+		death_date = 1145.1.1
+		claim = 44
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+
+}
+
+1112.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Turnberry"
+		birth_date = 1085.1.1
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Balman"
+		monarch_name = "Balman"
+		dynasty = "Turnberry"
+		birth_date = 1092.1.1
+		death_date = 1169.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1193.1.1 = {
+
+	monarch = {
+		name = "Bodger"
+		dynasty = "Turnberry"
+		birth_date = 1119.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Omer"
+		monarch_name = "Omer"
+		dynasty = "Turnberry"
+		birth_date = 1180.1.1
+		death_date = 1262.1.1
+		claim = 19
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+}
+
+1234.1.1 = {
+
+	monarch = {
+		name = "Guyard"
+		dynasty = "Turnberry"
+		birth_date = 1152.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Eggon"
+		monarch_name = "Eggon"
+		dynasty = "Turnberry"
+		birth_date = 1222.1.1
+		death_date = 1276.1.1
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1268.1.1 = {
+
+	monarch = {
+		name = "Harghaz"
+		dynasty = "Turnberry"
+		birth_date = 1245.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Forley"
+		monarch_name = "Forley"
+		dynasty = "Turnberry"
+		birth_date = 1268.1.1
+		death_date = 1349.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1323.1.1 = {
+
+	monarch = {
+		name = "Edwynd"
+		dynasty = "Turnberry"
+		birth_date = 1268.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Vaellyn"
+		monarch_name = "Vaellyn"
+		dynasty = "Turnberry"
+		birth_date = 1293.1.1
+		death_date = 1358.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+}
+
+1353.1.1 = {
+
+	monarch = {
+		name = "Normund"
+		dynasty = "Turnberry"
+		birth_date = 1322.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Ryles"
+		monarch_name = "Ryles"
+		dynasty = "Turnberry"
+		birth_date = 1339.1.1
+		death_date = 1370.1.1
+		claim = 100
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+
+}
+

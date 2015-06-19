@@ -1,0 +1,45 @@
+# 673 - Asabhadi Hills
+
+owner = R95
+add_core = R95
+add_core = R98
+controller = R95
+
+culture = asabhad
+religion = asoiaf_gods_of_hyrkoon
+
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower =  5
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+capital = "Asabhadi Hills"
+
+1000.2.1 = {
+	remove_core = R95
+	owner = R98
+	controller = R98
+}
+
+1000.2.2 = {
+	owner = R95
+	add_core = R95
+	controller = R95
+}

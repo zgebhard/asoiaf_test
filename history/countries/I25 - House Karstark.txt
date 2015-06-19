@@ -1,0 +1,213 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+historical_friend = A01
+
+capital = 29
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jommy"
+		dynasty = "Karstark"
+		birth_date = 951.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Lew"
+		monarch_name = "Lew"
+		dynasty = "Karstark"
+		birth_date = 971.1.1
+		death_date = 1036.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1049.1.1 = {
+
+	monarch = {
+		name = "Liane"
+		dynasty = "Karstark"
+		birth_date = 1029.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Tanselle"
+		monarch_name = "Tanselle"
+		dynasty = "Karstark"
+		birth_date = 1038.1.1
+		death_date = 1123.1.1
+		claim = 48
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1050.1.1 = {
+
+	monarch = {
+		name = "Dryn"
+		dynasty = "Karstark"
+		birth_date = 971.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Eddison"
+		monarch_name = "Eddison"
+		dynasty = "Karstark"
+		birth_date = 1043.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1096.1.1 = {
+
+	monarch = {
+		name = "Red"
+		dynasty = "Karstark"
+		birth_date = 1018.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Criston"
+		monarch_name = "Criston"
+		dynasty = "Karstark"
+		birth_date = 1092.1.1
+		death_date = 1172.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1163.1.1 = {
+
+	monarch = {
+		name = "Lothar"
+		dynasty = "Karstark"
+		birth_date = 1090.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Cressen"
+		monarch_name = "Cressen"
+		dynasty = "Karstark"
+		birth_date = 1155.1.1
+		death_date = 1215.1.1
+		claim = 86
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Monford"
+		dynasty = "Karstark"
+		birth_date = 1191.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Morra"
+		monarch_name = "Morra"
+		dynasty = "Karstark"
+		female = yes
+		birth_date = 1234.1.1
+		death_date = 1266.1.1
+		claim = 6
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1338.1.1 = {
+
+	monarch = {
+		name = "Urek"
+		dynasty = "Karstark"
+		birth_date = 1320.1.1
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Harraq"
+		monarch_name = "Harraq"
+		dynasty = "Karstark"
+		birth_date = 1312.1.1
+		death_date = 1413.1.1
+		claim = 100
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Rupert"
+		dynasty = "Karstark"
+		birth_date = 1297.1.1
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+	heir = {
+		name = "Gilwood"
+		monarch_name = "Gilwood"
+		dynasty = "Karstark"
+		birth_date = 1361.1.1
+		death_date = 1417.1.1
+		claim = 99
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+
+}
+

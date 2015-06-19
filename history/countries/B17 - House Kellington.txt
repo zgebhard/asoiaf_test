@@ -1,0 +1,211 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_stormlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 321
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Vayon"
+		dynasty = "Kellington"
+		birth_date = 972.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Kellington"
+		birth_date = 1000.1.1
+		death_date = 1025.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1002.1.1 = {
+
+	monarch = {
+		name = "Vylarr"
+		dynasty = "Kellington"
+		birth_date = 945.1.1
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Jory"
+		monarch_name = "Jory"
+		dynasty = "Kellington"
+		birth_date = 995.1.1
+		death_date = 1050.1.1
+		claim = 100
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1062.1.1 = {
+	monarch = {
+		name = "Brea"
+		dynasty = "Kellington"
+		female = yes
+		birth_date = 994.1.1
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Gilwood"
+		monarch_name = "Gilwood"
+		dynasty = "Kellington"
+		birth_date = 1061.1.1
+		death_date = 1091.1.1
+		claim = 63
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+}
+
+1144.1.1 = {
+
+	monarch = {
+		name = "Duram"
+		dynasty = "Kellington"
+		birth_date = 1094.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+
+	heir = {
+		name = "Gregor"
+		monarch_name = "Gregor"
+		dynasty = "Kellington"
+		birth_date = 1143.1.1
+		death_date = 1233.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1197.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Kellington"
+		birth_date = 1159.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Puddingfoot"
+		monarch_name = "Puddingfoot"
+		dynasty = "Kellington"
+		birth_date = 1194.1.1
+		death_date = 1219.1.1
+		claim = 58
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1221.1.1 = {
+
+	monarch = {
+		name = "Artos"
+		dynasty = "Kellington"
+		birth_date = 1167.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Murenmure"
+		monarch_name = "Murenmure"
+		dynasty = "Kellington"
+		birth_date = 1201.1.1
+		death_date = 1302.1.1
+		claim = 100
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1286.1.1 = {
+
+	monarch = {
+		name = "Beardless"
+		dynasty = "Kellington"
+		birth_date = 1250.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Hod"
+		monarch_name = "Hod"
+		dynasty = "Kellington"
+		birth_date = 1286.1.1
+		death_date = 1337.1.1
+		claim = 100
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+
+}
+
+1325.1.1 = {
+
+	monarch = {
+		name = "Galtry"
+		dynasty = "Kellington"
+		birth_date = 1241.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon"
+		dynasty = "Kellington"
+		birth_date = 1306.1.1
+		death_date = 1374.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+}
+

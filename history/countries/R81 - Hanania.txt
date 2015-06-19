@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = yiti
+primary_culture = yitish
+religion = asoiaf_lion_of_the_night
+
+capital = 777
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Ilyn"
+		dynasty = "Hanania"
+		birth_date = 956.1.1
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+
+	heir = {
+		name = "Allyria"
+		monarch_name = "Allyria"
+		dynasty = "Hanania"
+		birth_date = 982.1.1
+		death_date = 1015.1.1
+		claim = 100
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+
+}
+
+1072.1.1 = {
+
+	monarch = {
+		name = "Tallad"
+		dynasty = "Hanania"
+		birth_date = 1003.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+
+	heir = {
+		name = "Timoth"
+		monarch_name = "Timoth"
+		dynasty = "Hanania"
+		birth_date = 1062.1.1
+		death_date = 1093.1.1
+		claim = 100
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+
+}
+
+1123.1.1 = {
+
+	monarch = {
+		name = "Manfryd"
+		dynasty = "Hanania"
+		birth_date = 1033.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Aenys"
+		monarch_name = "Aenys"
+		dynasty = "Hanania"
+		birth_date = 1101.1.1
+		death_date = 1176.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1153.1.1 = {
+
+	monarch = {
+		name = "Marei"
+		dynasty = "Hanania"
+		birth_date = 1111.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Tommen"
+		monarch_name = "Tommen"
+		dynasty = "Hanania"
+		birth_date = 1128.1.1
+		death_date = 1193.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+
+}
+
+1213.1.1 = {
+
+	monarch = {
+		name = "Talla"
+		dynasty = "Hanania"
+		birth_date = 1196.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+
+	heir = {
+		name = "Gheal"
+		monarch_name = "Gheal"
+		dynasty = "Hanania"
+		birth_date = 1207.1.1
+		death_date = 1291.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+
+}
+
+1274.1.1 = {
+
+	monarch = {
+		name = "Areo"
+		dynasty = "Hanania"
+		birth_date = 1235.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Hubard"
+		monarch_name = "Hubard"
+		dynasty = "Hanania"
+		birth_date = 1260.1.1
+		death_date = 1346.1.1
+		claim = 98
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1312.1.1 = {
+
+	monarch = {
+		name = "Bandy"
+		dynasty = "Hanania"
+		birth_date = 1248.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+
+	heir = {
+		name = "Jasper"
+		monarch_name = "Jasper"
+		dynasty = "Hanania"
+		birth_date = 1291.1.1
+		death_date = 1328.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Ezzelnyo"
+		dynasty = "Hanania"
+		birth_date = 1247.1.1
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+
+	heir = {
+		name = "Othell"
+		monarch_name = "Othell"
+		dynasty = "Hanania"
+		birth_date = 1303.1.1
+		death_date = 1393.1.1
+		claim = 6
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+
+}
+
+1360.1.1 = {
+
+	monarch = {
+		name = "Martyn"
+		dynasty = "Hanania"
+		birth_date = 1295.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+
+	heir = {
+		name = "Quentin"
+		monarch_name = "Quentin"
+		dynasty = "Hanania"
+		birth_date = 1337.1.1
+		death_date = 1449.1.1
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+
+}
+

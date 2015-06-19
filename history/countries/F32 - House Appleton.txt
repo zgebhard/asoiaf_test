@@ -1,0 +1,186 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_reach
+religion = asoiaf_faith_of_the_seven
+
+capital = 258
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Oswyn"
+		dynasty = "Appleton"
+		birth_date = 910.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+
+	heir = {
+		name = "Gynir"
+		monarch_name = "Gynir"
+		dynasty = "Appleton"
+		birth_date = 972.1.1
+		death_date = 1032.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1071.1.1 = {
+
+	monarch = {
+		name = "Mollander"
+		dynasty = "Appleton"
+		birth_date = 1006.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Aemon"
+		monarch_name = "Aemon"
+		dynasty = "Appleton"
+		birth_date = 1041.1.1
+		death_date = 1092.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+
+}
+
+1156.1.1 = {
+
+	monarch = {
+		name = "Pyke"
+		dynasty = "Appleton"
+		birth_date = 1091.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Galtry"
+		monarch_name = "Galtry"
+		dynasty = "Appleton"
+		birth_date = 1140.1.1
+		death_date = 1243.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1185.1.1 = {
+
+	monarch = {
+		name = "Ebben"
+		dynasty = "Appleton"
+		birth_date = 1106.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Egon"
+		monarch_name = "Egon"
+		dynasty = "Appleton"
+		birth_date = 1179.1.1
+		death_date = 1275.1.1
+		claim = 41
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+
+}
+
+1264.1.1 = {
+
+	monarch = {
+		name = "Monford"
+		dynasty = "Appleton"
+		birth_date = 1177.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Roryn"
+		monarch_name = "Roryn"
+		dynasty = "Appleton"
+		birth_date = 1248.1.1
+		death_date = 1306.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1311.1.1 = {
+
+	monarch = {
+		name = "Tristan"
+		dynasty = "Appleton"
+		birth_date = 1265.1.1
+		adm = 6
+		dip = 1
+		mil = 0
+	}
+
+	heir = {
+		name = "Cedra"
+		monarch_name = "Cedra"
+		dynasty = "Appleton"
+		birth_date = 1282.1.1
+		death_date = 1363.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1315.1.1 = {
+	monarch = {
+		name = "Sharna"
+		dynasty = "Appleton"
+		female = yes
+		birth_date = 1259.1.1
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Bedwyck"
+		monarch_name = "Bedwyck"
+		dynasty = "Appleton"
+		birth_date = 1309.1.1
+		death_date = 1338.1.1
+		claim = 100
+		adm = 5
+		dip = 6
+		mil = 0
+	}
+
+}
+

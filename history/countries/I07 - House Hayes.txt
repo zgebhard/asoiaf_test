@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_north
+religion = asoiaf_the_old_gods
+
+capital = 72
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jate"
+		dynasty = "Hayes"
+		birth_date = 956.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Areo"
+		monarch_name = "Areo"
+		dynasty = "Hayes"
+		birth_date = 977.1.1
+		death_date = 1031.1.1
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+
+}
+
+1018.1.1 = {
+
+	monarch = {
+		name = "Joth"
+		dynasty = "Hayes"
+		birth_date = 985.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Orys"
+		monarch_name = "Orys"
+		dynasty = "Hayes"
+		birth_date = 998.1.1
+		death_date = 1038.1.1
+		claim = 100
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1056.1.1 = {
+
+	monarch = {
+		name = "Portifer"
+		dynasty = "Hayes"
+		birth_date = 1002.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Vyman"
+		monarch_name = "Vyman"
+		dynasty = "Hayes"
+		birth_date = 1041.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1138.1.1 = {
+
+	monarch = {
+		name = "Gormon"
+		dynasty = "Hayes"
+		birth_date = 1064.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+
+	heir = {
+		name = "Hugo"
+		monarch_name = "Hugo"
+		dynasty = "Hayes"
+		birth_date = 1109.1.1
+		death_date = 1183.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1171.1.1 = {
+
+	monarch = {
+		name = "Yoren"
+		dynasty = "Hayes"
+		birth_date = 1120.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Romny"
+		monarch_name = "Romny"
+		dynasty = "Hayes"
+		birth_date = 1153.1.1
+		death_date = 1250.1.1
+		claim = 49
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1254.1.1 = {
+
+	monarch = {
+		name = "Dafyn"
+		dynasty = "Hayes"
+		birth_date = 1188.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+
+	heir = {
+		name = "Tycho"
+		monarch_name = "Tycho"
+		dynasty = "Hayes"
+		birth_date = 1233.1.1
+		death_date = 1289.1.1
+		claim = 100
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1257.1.1 = {
+
+	monarch = {
+		name = "Gerris"
+		dynasty = "Hayes"
+		birth_date = 1197.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Roose"
+		monarch_name = "Roose"
+		dynasty = "Hayes"
+		birth_date = 1242.1.1
+		death_date = 1288.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1324.1.1 = {
+
+	monarch = {
+		name = "Ronnel"
+		dynasty = "Hayes"
+		birth_date = 1241.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Royce"
+		monarch_name = "Royce"
+		dynasty = "Hayes"
+		birth_date = 1314.1.1
+		death_date = 1406.1.1
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1352.1.1 = {
+
+	monarch = {
+		name = "Eyron"
+		dynasty = "Hayes"
+		birth_date = 1265.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+	heir = {
+		name = "Mawney"
+		monarch_name = "Mawney"
+		dynasty = "Hayes"
+		birth_date = 1329.1.1
+		death_date = 1409.1.1
+		claim = 100
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+
+}
+
+1383.1.1 = {
+
+	monarch = {
+		name = "Lythene"
+		dynasty = "Hayes"
+		birth_date = 1341.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+
+	heir = {
+		name = "Narbo"
+		monarch_name = "Narbo"
+		dynasty = "Hayes"
+		birth_date = 1372.1.1
+		death_date = 1459.1.1
+		claim = 18
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+
+}
+

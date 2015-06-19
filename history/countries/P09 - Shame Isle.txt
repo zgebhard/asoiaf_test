@@ -1,0 +1,236 @@
+
+government_rank = 1
+government = pirate_haven
+mercantilism = 0.1
+
+technology_group = stepstones
+primary_culture = stepstones
+religion = asoiaf_lady_of_the_waves
+
+capital = 364
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Harys"
+		dynasty = "Shame"
+		birth_date = 947.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+	heir = {
+		name = "Dale"
+		monarch_name = "Dale"
+		dynasty = "Shame"
+		birth_date = 981.1.1
+		death_date = 1062.1.1
+		claim = 77
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+
+}
+
+1027.1.1 = {
+
+	monarch = {
+		name = "Donal"
+		dynasty = "Shame"
+		birth_date = 1009.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Joseran"
+		monarch_name = "Joseran"
+		dynasty = "Shame"
+		birth_date = 1013.1.1
+		death_date = 1066.1.1
+		claim = 100
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1093.1.1 = {
+
+	monarch = {
+		name = "Canker"
+		dynasty = "Shame"
+		birth_date = 1031.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Sedgekins"
+		monarch_name = "Sedgekins"
+		dynasty = "Shame"
+		birth_date = 1067.1.1
+		death_date = 1116.1.1
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 6
+	}
+
+}
+
+1114.1.1 = {
+
+	monarch = {
+		name = "Chayle"
+		dynasty = "Shame"
+		birth_date = 1088.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+
+	heir = {
+		name = "Lync"
+		monarch_name = "Lync"
+		dynasty = "Shame"
+		birth_date = 1100.1.1
+		death_date = 1155.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+
+}
+
+1182.1.1 = {
+
+	monarch = {
+		name = "Thoros"
+		dynasty = "Shame"
+		birth_date = 1117.1.1
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Satin"
+		monarch_name = "Satin"
+		dynasty = "Shame"
+		birth_date = 1166.1.1
+		death_date = 1200.1.1
+		claim = 23
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1203.1.1 = {
+
+	monarch = {
+		name = "Donal"
+		dynasty = "Shame"
+		birth_date = 1136.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Umfred"
+		monarch_name = "Umfred"
+		dynasty = "Shame"
+		birth_date = 1176.1.1
+		death_date = 1239.1.1
+		claim = 20
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1267.1.1 = {
+
+	monarch = {
+		name = "Jhezene"
+		dynasty = "Shame"
+		birth_date = 1237.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+
+	heir = {
+		name = "Terro"
+		monarch_name = "Terro"
+		dynasty = "Shame"
+		birth_date = 1264.1.1
+		death_date = 1327.1.1
+		claim = 100
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+
+}
+
+1297.1.1 = {
+
+	monarch = {
+		name = "Mullin"
+		dynasty = "Shame"
+		birth_date = 1225.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+
+	heir = {
+		name = "Lamprey"
+		monarch_name = "Lamprey"
+		dynasty = "Shame"
+		birth_date = 1275.1.1
+		death_date = 1350.1.1
+		claim = 100
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1321.1.1 = {
+
+	monarch = {
+		name = "Rolder"
+		dynasty = "Shame"
+		birth_date = 1249.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+
+	heir = {
+		name = "Leo"
+		monarch_name = "Leo"
+		dynasty = "Shame"
+		birth_date = 1310.1.1
+		death_date = 1339.1.1
+		claim = 100
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+
+}
+

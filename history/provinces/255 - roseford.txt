@@ -1,0 +1,55 @@
+# 255 - roseford
+
+owner = F01
+add_core = F01
+controller = F01
+add_core = F35
+is_city = yes
+hre = no
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = ghiscari
+discovered_by = quartheen
+discovered_by = naathi
+discovered_by = farosi
+discovered_by = yiti
+discovered_by = hyrkooni
+discovered_by = nefer
+discovered_by = stepstones
+discovered_by = ibbenese
+discovered_by = summer_islanders
+discovered_by = dothraki
+discovered_by = wildling
+
+
+religion = asoiaf_faith_of_the_seven
+culture = men_of_the_reach
+
+base_tax = 1
+base_production = 1
+base_manpower =  1
+
+trade_goods = wool
+
+capital = "Roseford"
+
+1000.2.1 = {
+	remove_core = F01
+	owner = F35
+	controller = F35
+}
+
+1000.2.2 = {
+	owner = F01
+	add_core = F01
+	controller = F01
+}
+
+1005.1.1 = {
+	hre = yes
+	
+	controller = F20
+	add_core = F20
+	owner = F20
+}

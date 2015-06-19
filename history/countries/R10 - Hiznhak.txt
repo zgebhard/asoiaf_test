@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = kingdom
+mercantilism = 0.1
+
+technology_group = ghiscari
+primary_culture = hazdahn
+religion = asoiaf_graces
+
+capital = 692
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Nute"
+		dynasty = "Hiznhak"
+		birth_date = 983.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Orbert"
+		monarch_name = "Orbert"
+		dynasty = "Hiznhak"
+		birth_date = 977.1.1
+		death_date = 1075.1.1
+		claim = 100
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1009.1.1 = {
+
+	monarch = {
+		name = "Tregar"
+		dynasty = "Hiznhak"
+		birth_date = 959.1.1
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+
+	heir = {
+		name = "Willit"
+		monarch_name = "Willit"
+		dynasty = "Hiznhak"
+		birth_date = 1003.1.1
+		death_date = 1050.1.1
+		claim = 9
+		adm = 0
+		dip = 1
+		mil = 6
+	}
+
+}
+
+1070.1.1 = {
+
+	monarch = {
+		name = "Daena"
+		dynasty = "Hiznhak"
+		birth_date = 1008.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+
+	heir = {
+		name = "Gavin"
+		monarch_name = "Gavin"
+		dynasty = "Hiznhak"
+		birth_date = 1055.1.1
+		death_date = 1132.1.1
+		claim = 100
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+
+}
+
+1151.1.1 = {
+
+	monarch = {
+		name = "Puddingfoot"
+		dynasty = "Hiznhak"
+		birth_date = 1126.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Morgil"
+		monarch_name = "Morgil"
+		dynasty = "Hiznhak"
+		birth_date = 1148.1.1
+		death_date = 1216.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1207.1.1 = {
+
+	monarch = {
+		name = "Gareth"
+		dynasty = "Hiznhak"
+		birth_date = 1140.1.1
+		adm = 0
+		dip = 6
+		mil = 0
+	}
+
+	heir = {
+		name = "Robin"
+		monarch_name = "Robin"
+		dynasty = "Hiznhak"
+		birth_date = 1198.1.1
+		death_date = 1261.1.1
+		claim = 25
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+
+}
+
+1248.1.1 = {
+
+	monarch = {
+		name = "Dake"
+		dynasty = "Hiznhak"
+		birth_date = 1187.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+	heir = {
+		name = "Annara"
+		monarch_name = "Annara"
+		dynasty = "Hiznhak"
+		birth_date = 1234.1.1
+		death_date = 1301.1.1
+		claim = 100
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+
+}
+
+1283.1.1 = {
+
+	monarch = {
+		name = "Elyas"
+		dynasty = "Hiznhak"
+		birth_date = 1249.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+
+	heir = {
+		name = "Rolly"
+		monarch_name = "Rolly"
+		dynasty = "Hiznhak"
+		birth_date = 1274.1.1
+		death_date = 1340.1.1
+		claim = 74
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+
+}
+
+1315.1.1 = {
+
+	monarch = {
+		name = "Barra"
+		dynasty = "Hiznhak"
+		birth_date = 1274.1.1
+		adm = 0
+		dip = 6
+		mil = 2
+	}
+
+	heir = {
+		name = "Addam"
+		monarch_name = "Addam"
+		dynasty = "Hiznhak"
+		birth_date = 1292.1.1
+		death_date = 1399.1.1
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Taena"
+		dynasty = "Hiznhak"
+		female = yes
+		birth_date = 1293.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+
+	heir = {
+		name = "Satin"
+		monarch_name = "Satin"
+		dynasty = "Hiznhak"
+		birth_date = 1369.1.1
+		death_date = 1428.1.1
+		claim = 93
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+
+}
+
+1385.1.1 = {
+
+	monarch = {
+		name = "Polliver"
+		dynasty = "Hiznhak"
+		birth_date = 1304.1.1
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+
+	heir = {
+		name = "Sefton"
+		monarch_name = "Sefton"
+		dynasty = "Hiznhak"
+		birth_date = 1385.1.1
+		death_date = 1459.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+

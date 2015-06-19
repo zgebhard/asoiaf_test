@@ -1,0 +1,261 @@
+
+government_rank = 1
+government = noble_house
+mercantilism = 0.1
+
+technology_group = western
+primary_culture = men_of_the_westerlands
+religion = asoiaf_faith_of_the_seven
+
+capital = 185
+
+1000.1.1 = {
+
+	monarch = {
+		name = "Jhaqo"
+		dynasty = "Hawthorne"
+		birth_date = 958.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+	}
+
+	heir = {
+		name = "Stannis"
+		monarch_name = "Stannis"
+		dynasty = "Hawthorne"
+		birth_date = 976.1.1
+		death_date = 1026.1.1
+		claim = 100
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+
+}
+
+1026.1.1 = {
+
+	monarch = {
+		name = "Quaithe"
+		dynasty = "Hawthorne"
+		birth_date = 1006.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+
+	heir = {
+		name = "Vortimer"
+		monarch_name = "Vortimer"
+		dynasty = "Hawthorne"
+		birth_date = 1008.1.1
+		death_date = 1092.1.1
+		claim = 24
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1061.1.1 = {
+
+	monarch = {
+		name = "Benedar"
+		dynasty = "Hawthorne"
+		birth_date = 1023.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+
+	heir = {
+		name = "Norjen"
+		monarch_name = "Norjen"
+		dynasty = "Hawthorne"
+		birth_date = 1060.1.1
+		death_date = 1143.1.1
+		claim = 66
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Randa"
+		dynasty = "Hawthorne"
+		female = yes
+		birth_date = 1046.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+
+	heir = {
+		name = "Bronn"
+		monarch_name = "Bronn"
+		dynasty = "Hawthorne"
+		birth_date = 1125.1.1
+		death_date = 1202.1.1
+		claim = 43
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+
+}
+
+1136.1.1 = {
+
+	monarch = {
+		name = "Gormon"
+		dynasty = "Hawthorne"
+		birth_date = 1116.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+
+	heir = {
+		name = "Qarl"
+		monarch_name = "Qarl"
+		dynasty = "Hawthorne"
+		birth_date = 1135.1.1
+		death_date = 1158.1.1
+		claim = 100
+		adm = 0
+		dip = 5
+		mil = 6
+	}
+
+}
+
+1201.1.1 = {
+
+	monarch = {
+		name = "Emmond"
+		dynasty = "Hawthorne"
+		birth_date = 1119.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+
+	heir = {
+		name = "Trebor"
+		monarch_name = "Trebor"
+		dynasty = "Hawthorne"
+		birth_date = 1180.1.1
+		death_date = 1219.1.1
+		claim = 100
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+
+}
+
+1208.1.1 = {
+
+	monarch = {
+		name = "Terro"
+		dynasty = "Hawthorne"
+		birth_date = 1145.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+
+	heir = {
+		name = "Ryam"
+		monarch_name = "Ryam"
+		dynasty = "Hawthorne"
+		birth_date = 1208.1.1
+		death_date = 1225.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+
+}
+
+1240.1.1 = {
+
+	monarch = {
+		name = "Donal"
+		dynasty = "Hawthorne"
+		birth_date = 1162.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+
+	heir = {
+		name = "Turquin"
+		monarch_name = "Turquin"
+		dynasty = "Hawthorne"
+		birth_date = 1214.1.1
+		death_date = 1261.1.1
+		claim = 100
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+
+}
+
+1278.1.1 = {
+
+	monarch = {
+		name = "Marillion"
+		dynasty = "Hawthorne"
+		birth_date = 1215.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+
+	heir = {
+		name = "Umfred"
+		monarch_name = "Umfred"
+		dynasty = "Hawthorne"
+		birth_date = 1264.1.1
+		death_date = 1295.1.1
+		claim = 100
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+
+}
+
+1350.1.1 = {
+
+	monarch = {
+		name = "Briar"
+		dynasty = "Hawthorne"
+		birth_date = 1289.1.1
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+
+	heir = {
+		name = "Hother"
+		monarch_name = "Hother"
+		dynasty = "Hawthorne"
+		birth_date = 1327.1.1
+		death_date = 1403.1.1
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+
+}
+
