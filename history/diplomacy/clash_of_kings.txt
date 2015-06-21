@@ -26,62 +26,48 @@
 vassal = {
 	first = S23
 	second = R19
-	start_date = 1300.1.1
+	start_date = 1298.1.1
 	end_date = 9999.1.1
 }
 
 vassal = {
 	first = S23
 	second = R23
-	start_date = 1300.1.1
+	start_date = 1298.1.1
 	end_date = 9999.1.1
 }
 
 vassal = {
 	first = S23
 	second = R27
-	start_date = 1300.1.1
+	start_date = 1298.1.1
 	end_date = 9999.1.1
 }
 
-union = {
-	first = A06
-	second = A07
-	start_date = 1300.1.1
-	end_date = 9999.1.1
-}
-
-union = {
-	first = A06
-	second = E26
-	start_date = 1300.1.1
-	end_date = 9999.1.1
-}
-
-union = {
-	first = A04
-	second = E29
-	start_date = 1300.1.1
-	end_date = 9999.1.1
-}
+#Lannister ally Crown
 
 alliance = {
 	first = A06
-	second = F20
-	start_date = 1300.1.1
+	second = A07
+	start_date = 1298.1.1
 	end_date = 9999.1.1
 }
+
+#Renly ally Tyrell
+
+alliance = {
+	first = B01
+	second = F20
+	start_date = 1298.1.1
+	end_date = 9999.1.1
+}
+
+#Stark Ally Tully
 
 alliance = {
 	first = A01
 	second = A03
-	start_date = 1300.1.1
+	start_date = 1298.1.1
 	end_date = 9999.1.1
 }
 
-alliance = {
-	first = A01
-	second = A04
-	start_date = 1300.1.1
-	end_date = 9999.1.1
-}
