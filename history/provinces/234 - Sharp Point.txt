@@ -60,3 +60,12 @@ capital = "Sharp Point"
 	add_core = A07
 	owner = A07
 }
+
+#Stannis Control
+1298.1.1 = {
+	remove_core = A10
+	controller = A39
+	add_core = A39
+	add_claim = A07
+	owner = A39
+}
